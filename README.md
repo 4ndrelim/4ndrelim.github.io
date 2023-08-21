@@ -1,6 +1,8 @@
 # Portfolio
 This repository contains my portfolio, and a little bit of my personal experience rummaging through life.
 
+You can view it [here](https://4ndrelim.github.io/).
+
 ## Credit
 Naturally, I did not come up with such a sleek design. It was adapted from an open-source [devFolio](https://github.com/RyanFitzgerald/devfolio) made by [Ryan Fitzgerald](https://github.com/RyanFitzgerald).
 
