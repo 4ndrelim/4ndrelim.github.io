@@ -17,7 +17,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/andre-linhk/`,
     // Content of the About Me section
-    about: `Hey! My name is Andre. I'm a third year undergraduate studying Computer Science with a 2nd Major in Mathematics at the National University of Singapore.
+    about: `Hey! My name is Andre. I'm a third year undergraduate studying at the National University of Singapore.
       I like reading about research on AI and advancements in ML, and spend a fair portion of my time doing so. Explainable AI in particular has caught my attention in recent months. ML is also a field where I can put what i've learnt in brutal math courses (at least some of it.. *_*) to use. I believe there's plenty of research done in the ML landscape, yet few are being adopted and deployed to use. Perhaps it is due to a general lack of expertise, or inherent doubts. Regardless, it is unfortunate.
       Deep learning, Natural Language Processing, AI decision making - are some sub-fields that excite me. But i've some exposure in the basics of other fields - Databases, Networks, Operating Systems, Parallel & Distributed systems to name a few. I hope to hone my knowledge in my remaining semesters and become a proficient ML engineer able to bridge the gap between software development and ML deployment.
       Beyond academia, I am an avid climber and belong to the school's Mountaineering club. Together with a couple of wonderful, fun-loving, and free-spirited friends, we scaled a mountain in the Himalayas and it was, well, simply fantastic.`,
@@ -32,13 +32,13 @@ module.exports = {
       {
         name: 'ML Research on Identification of DNA-Binding Proteins',
         description:
-          'Here, I work alongside 3 others to evaluate ML techniques proposed in published papers to identify DNA-Binding proteins. We have made some notable discoveries regarding inflated performance and hope to share our findings in our publication to one of the more renown bioinformatics journal.',
+          'Here, I work alongside 3 others and we have made some notable discoveries contributing to unexpected inflationary performance. We hope to share our findings in our publication to a renown bioinformatics journal.',
           link: '',
       },
       {
         name: 'Data Structures & Algorithms Teaching Resource',
         description:
-          'My stint as a CS2040S (a course offered in NUS on DSA) has convinced several capable and passionate ex-students of mine to join me in developing an open-source teaching material for future cohorts.',
+          'My stint as a CS2040S (a course offered in NUS on DSA) has convinced several capable and passionate ex-students of mine to join me in developing an open-source teaching material for future cohorts. Lovely!',
         link: 'https://github.com/4ndrelim/data-structures-and-algorithms/tree/main/src/dataStructures/heap',
       },
     ],
@@ -78,7 +78,7 @@ module.exports = {
       },
       {
         name: 'Dev/Environment',
-        description: 'Docker, Nodejs',
+        description: 'Docker, Gradle, Nodejs',
       },
       {
         name: 'Databases',
@@ -87,7 +87,7 @@ module.exports = {
       {
         name: 'Notable Libraries',
         description:
-          'TensorFlow, Keras, Scikit-Learn, PyTorch, pandas, NumPy, React',
+          'TensorFlow, Keras, Scikit-Learn, PyTorch, pandas, NumPy, React, React Redux',
       },
     ],
   },

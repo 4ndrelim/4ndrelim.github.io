@@ -1,7 +1,7 @@
 ---
-title: My Second Blog Post
-date: '2020-10-02T12:00:00.00Z'
-description: 'Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat'
+title: The First Commit
+date: '22nd August 2023, 4:50AM'
+description: 'Why a portfolio?'
 ---
 
 ## Lorem ipsum dolor sit amet consectetur adipisicing elit
