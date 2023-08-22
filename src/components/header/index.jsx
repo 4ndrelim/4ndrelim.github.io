@@ -49,7 +49,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
           )}
           {email && (
             <li className={classes.item}>
-              <a className={classes.link} href={email}>Email</a>
+              <a className={classes.link} href={`mailto:${email}`}>Email</a>
             </li>
           )}
            {linkedin && (
