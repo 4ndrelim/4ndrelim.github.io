@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andre Lin | Computer Science & Mathematics Undergraduate]]></title><description><![CDATA[Computer Science & Mathematics undergraduate. If you're seeking to bridge the gap between software development and ML deployment, I could be the person you're looking for.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Aug 2023 21:30:01 GMT</lastBuildDate><item><title><![CDATA[The First Commit]]></title><link>https://4ndrelim.github.io/blog/the-first-commit/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-first-commit/</guid><pubDate>Invalid Date</pubDate><content:encoded></content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andre Lin | My Simple Site]]></title><description><![CDATA[Computer Science & Mathematics undergraduate. If you're looking to bridge the gap between software development and ML deployment, I could be the person you're looking for.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Aug 2023 22:27:14 GMT</lastBuildDate><item><title><![CDATA[The First Commit]]></title><description><![CDATA[Originality..? So, i’ve finally come around to making my own site. Frankly, ‘making’ is giving me too much credit.. I didn’t have to do much…]]></description><link>https://4ndrelim.github.io/blog/the-first-commit/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-first-commit/</guid><pubDate>Wed, 23 Aug 2023 05:23:00 GMT</pubDate><content:encoded>&lt;h2&gt;Originality..?&lt;/h2&gt;
+&lt;p&gt;So, i’ve finally come around to making my own site. Frankly, ‘making’ is giving me too much credit.. I didn’t have to do much aside from customizing certain sections. Even the selection of the theme is inspired by a senior with a similar site. That said, I do like the simplicity of the design and the features it offers. I think it suits me. After all, front-end really isn’t my forte and I doubt i’d make a good UI/UX designer. Anyway, the default site also comes with a blog. I pondered for awhile whether to have it removed but figured it isn’t such a bad idea to leave it as a dumping ground for my thoguhts every now and then. So, here I am :).&lt;/p&gt;
+&lt;h2&gt;And So The Hustle Continues&lt;/h2&gt;
+&lt;p&gt;I haven’t yet mentioned what even spurred this on. But you might’ve guessed it. August is the time when most (big) firms begin their recruitment process. Every computing kid down the block is scrambling to beef up their resumes, color their portfolios and impress with dynamic sites. &lt;em&gt;𝘚𝘤𝘢𝘳𝘺&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;Turns out, i’m no exception. It’s difficult not to feel the pressure when everyone around is spending most of their waking hours in preparation while juggling a full term of coursework. I even bailed from an exciting diving and hiking trip at Dragon Horns in Tioman (Malaysia) with my fellow mountaineering friends :’(. I was the only one (save the exchanger) not to go, so yeah FOMO was strong. Still, I’m glad they are having a blast. It’s unfortunate how much of a rat race this has become but let’s leave that discussion to some other time.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0bc9a4b4436fc5bb3aad9704611f84cf/eea4a/lovely_friends.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAXKn3LokoV//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADERD/2gAIAQEAAQUCcIApraCpMuYngds//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AUoQ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BZ//EABoQAQEAAgMAAAAAAAAAAAAAAAEAECEiMTL/2gAIAQEABj8C8lojgYG7v//EAB0QAQABBQADAAAAAAAAAAAAAAEAESExQVFhocH/2gAIAQEAAT8hRtw9zDPiJbKchDV5AKbrfJuE/9oADAMBAAIAAwAAABAsL//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAwEBPxDMp//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxB6VH//xAAdEAEAAgICAwAAAAAAAAAAAAABACERMUHRUWGh/9oACAEBAAE/EAlwxiukQSwOiWDXyMDICwEZSmvc2sZWF89mYY1KE//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;friends&quot;
+        title=&quot;friends&quot;
+        src=&quot;/static/0bc9a4b4436fc5bb3aad9704611f84cf/1c72d/lovely_friends.jpg&quot;
+        srcset=&quot;/static/0bc9a4b4436fc5bb3aad9704611f84cf/a80bd/lovely_friends.jpg 148w,
+/static/0bc9a4b4436fc5bb3aad9704611f84cf/1c91a/lovely_friends.jpg 295w,
+/static/0bc9a4b4436fc5bb3aad9704611f84cf/1c72d/lovely_friends.jpg 590w,
+/static/0bc9a4b4436fc5bb3aad9704611f84cf/a8a14/lovely_friends.jpg 885w,
+/static/0bc9a4b4436fc5bb3aad9704611f84cf/fbd2c/lovely_friends.jpg 1180w,
+/static/0bc9a4b4436fc5bb3aad9704611f84cf/eea4a/lovely_friends.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, I was going about my own preparation (mostly LeetCode grind. &lt;strong&gt;Disgusting - yes, I know&lt;/strong&gt;) when someone in my Computing cohort announced that he has compiled a list of firms, mostly top and possibly out-of-my-league ones, and has kindly decided to share with everyone else. Naturally, this is a great thing to do! And it saves me time having to look up pesky companies’ careers pages whom tend to avoid LinkedIn or other job searching sites. But I glanced through the profile of interested applicants, a close friend’s as well, and thought to myself &lt;em&gt;damn.. they’ve got some real solid portfolio and pretty sites&lt;/em&gt;. It made me anxious. I thought about making a site from scratch too but felt my time could be better spent elsewhere, like writing now LOL. But seriously, I am quite certain I would be distracted midway and wind up reading some paper or whatnot in the name of learning.&lt;/p&gt;
+&lt;p&gt;So there we have it, 5am deep into the night (or morning wtv), just finished wrapping up with the site and leaving a short read for whoever that chances upon this site. Goodnight -.-&lt;/p&gt;</content:encoded></item></channel></rss>
