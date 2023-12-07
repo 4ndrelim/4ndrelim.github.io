@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Andre Lin | My Simple Site`,
     // Description that goes under your name in main bio
-    description: `Computer Science & Mathematics undergraduate. If you're looking to bridge the gap between software development and ML deployment, I could be the person you're looking for.`,
+    description: `An aspring Machine Learning engineer hoping to integrate ML deployment into software development.`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Email address
@@ -17,10 +17,10 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/andre-linhk/`,
     // Content of the About Me section
-    about: `Hey! My name is Andre. I'm a third year undergraduate studying at the National University of Singapore.
-      I like reading about research on AI and advancements in ML, and spend a fair portion of my time doing so. Explainable AI in particular has caught my attention in recent months. ML is also a field where I can put what i've learnt in brutal math courses (𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘪𝘵.. *_*) to use. I believe there's plenty of research done in the ML landscape, yet few are being adopted and deployed to use. Perhaps it is due to a general lack of expertise, or inherent doubts. Regardless, it is unfortunate.
+    about: `Hey! My name is Andre. I'm a third year undergraduate studying Mathematics & Computer Science at the National University of Singapore.
+      I like reading about research on AI and advancements in ML, and spend a fair portion of my time doing so. ML is a field where I can put what i've learnt in brutal math courses (𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘪𝘵.. *_*) to use. I believe there's plenty of research done in the ML landscape, yet few are being adopted and deployed to use. Perhaps it is due to a general lack of expertise, or inherent doubts. Regardless, it is unfortunate.
       Deep learning, Natural Language Processing, AI decision making - are some sub-fields that excite me. But i've some exposure in the basics of other fields - Databases, Networks, Operating Systems, Parallel & Distributed systems to name a few. I hope to hone my knowledge in my remaining semesters and become a proficient ML engineer able to bridge the gap between software development and ML deployment.
-      Beyond academia, I am an avid climber and belong to the school's Mountaineering club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭, 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘧𝘳𝘦𝘦-𝘴𝘱𝘪𝘳𝘪𝘵𝘦𝘥 friends, we scaled a mountain in the Himalayas and it was, well, simply fantastic.`,
+      Beyond academia, I am an avid climber and belong to the school's Mountaineering club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭, 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘤𝘶𝘤𝘬𝘰𝘰 friends, we scaled a mountain in the Himalayas and it was, well, simply fantastic.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
