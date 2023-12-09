@@ -11,7 +11,7 @@ So, i've finally come around to making my own site. Frankly, 'making' is giving 
 ## And So The Hustle Continues
 I haven't yet mentioned what even spurred this on. But you might've guessed it. August is the time when most (big) firms begin their recruitment process. Every computing kid down the block is scrambling to beef up their resumes, color their portfolios and impress with dynamic sites. *Scary*. 
 
-Turns out, i'm no exception. It's difficult not to feel the pressure when everyone around you is spending most of their waking hours in preparation while juggling a full term of coursework. I even bailed from an exciting diving and hiking trip at Dragon Horns at Tioman Island (Malaysia) with my fellow mountaineering friends :'( . I was the only one (save the exchanger) not to go, so yeah FOMO was strong. Still, I'm glad they are having a blast. It's unfortunate how much of a rat race this has become but let's leave that discussion to some other time.
+Turns out, i'm no exception. It's difficult not to feel the pressure when everyone around you is spending most of their waking hours in preparation while juggling a full term of coursework. I even bailed from an exciting diving and hiking trip at Dragon Horns in Tioman Island (Malaysia) with my fellow mountaineering friends :'( . I was the only one (save the exchanger) not to go, so yeah FOMO was strong. Still, I'm glad they are having a blast. It's unfortunate how much of a rat race this has become but let's leave that discussion to some other time.
 
 ![friends](lovely_friends.jpeg)
 
