@@ -1,17 +1,286 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andre Lin | My Simple Site]]></title><description><![CDATA[An aspring Machine Learning engineer hoping to integrate ML deployment into software development.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Dec 2023 12:24:27 GMT</lastBuildDate><item><title><![CDATA[Embark On A New Chapter With A Ton Of Unearned Confidence]]></title><description><![CDATA[A New Semester Again, it’s 3am into the night. I should really be clearing some backlog, but we don’t always make the best decisions, so…]]></description><link>https://4ndrelim.github.io/blog/another-busy-semester/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/another-busy-semester/</guid><pubDate>Sat, 26 Aug 2023 03:23:00 GMT</pubDate><content:encoded>&lt;h2&gt;A New Semester&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Andre Lin | My Simple Site]]></title><description><![CDATA[An aspring Machine Learning engineer hoping to integrate ML deployment into software development.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 Dec 2023 13:35:19 GMT</lastBuildDate><item><title><![CDATA[Nothing Fancy, Pay Attention]]></title><description><![CDATA[Coming Soon!]]></description><link>https://4ndrelim.github.io/blog/pay-attention/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/pay-attention/</guid><pubDate>Sat, 09 Dec 2023 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Coming Soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Monthly Diaries Didn't Last.. Oops]]></title><description><![CDATA[Editing]]></description><link>https://4ndrelim.github.io/blog/vanished/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/vanished/</guid><pubDate>Fri, 08 Dec 2023 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Editing&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Many More To Come!]]></title><description><![CDATA[Finally, it’s time The past 1.5 months had been a real scramble - juggling between heavy academic workload and a vibrant campus life…]]></description><link>https://4ndrelim.github.io/blog/many-more-to-come/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/many-more-to-come/</guid><pubDate>Sun, 01 Oct 2023 05:23:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d82ab68f9a864a0552d4111d67997457/857b3/the_gang.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGnksdYiP/EABkQAAIDAQAAAAAAAAAAAAAAAAABAhEhEv/aAAgBAQABBQKSMR0yxPFGNf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAAQASFR/9oACAEBAAY/Alrij//EABoQAAMBAQEBAAAAAAAAAAAAAAABEVEhMYH/2gAIAQEAAT8h14N97fhkLYxpl4p4M2ezT//aAAwDAQACAAMAAAAQ2N//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCq/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EJGP/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFRQYHB8f/aAAgBAQABPxCKMEIrwN/cZdNs5RO5ijoDs1lvmDYt9YWKG8RNseGIWT8z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;gang&quot;
+        title=&quot;gang&quot;
+        src=&quot;/static/d82ab68f9a864a0552d4111d67997457/1c72d/the_gang.jpg&quot;
+        srcset=&quot;/static/d82ab68f9a864a0552d4111d67997457/a80bd/the_gang.jpg 148w,
+/static/d82ab68f9a864a0552d4111d67997457/1c91a/the_gang.jpg 295w,
+/static/d82ab68f9a864a0552d4111d67997457/1c72d/the_gang.jpg 590w,
+/static/d82ab68f9a864a0552d4111d67997457/a8a14/the_gang.jpg 885w,
+/static/d82ab68f9a864a0552d4111d67997457/fbd2c/the_gang.jpg 1180w,
+/static/d82ab68f9a864a0552d4111d67997457/857b3/the_gang.jpg 6000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Finally, it’s time&lt;/h2&gt;
+&lt;p&gt;The past 1.5 months had been a real scramble - juggling between heavy academic workload and a vibrant campus life. Actually, life outside school work was mostly kickstarting this pilot outdoor climbing venture. Fortunately, sign-ups were strong, people were excited, and logistics didn’t prove to be too big of an issue - we were essentially dragging our store along. Overall, i’d say its a pretty successful trip - nice rocks, tricky routes, and wonderful companions (most importantly, nobody died.. &lt;em&gt;_&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;![batu]&lt;/p&gt;
+&lt;h2&gt;Lovely rocks&lt;/h2&gt;
+&lt;p&gt;Some routes were challenging. Personally, i’m still stuck at 6B. I can flash and perhaps on-site 6As and 6A+s fine but 6Bs might prove a little problematic and i’d certainly need rest points for 6B+ routes. Not really a climber to be reckoned with but hey, we pick our battles and mine lies elsewhere :). Anyway, here are some sick climbing shots:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7d516e230b6daa297f0333e3ea631c09/80e3c/le_climber2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//aAAwDAQACEAMQAAABTzLD1DjlTeexIFg0EHMQDf/EAB0QAAICAgMBAAAAAAAAAAAAAAECABEhIgMQEjH/2gAIAQEAAQUCXRG+KB5UkR5dQPhxqRmwIeQGGnPf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ARz/AP/EABYRAQEBAAAAAAAAAAAAAAAAABEAIP/aAAgBAgEBPwEjDf/EABsQAAMAAwEBAAAAAAAAAAAAAAABERAhMUEi/9oACAEBAAY/AvmUVOjgr6emi4WxFzxH/8QAHxAAAwADAAEFAAAAAAAAAAAAAAERITFRkUFhcYHx/9oACAEBAAE/IV4kRK7W6SNBF0w8DvFpGxZk9CipJCltqDlx8izX0EVYSdFct59yLi8GvReC/gf/2gAMAwEAAgADAAAAEEMQ8XvP/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EFrL/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQETFR/9oACAECAQE/EFBjLUW6f//EAB8QAQEAAwACAgMAAAAAAAAAAAERACExQVGRsXHh8f/aAAgBAQABPxB9uAN7Z1yInVKedXBRVli9wfQy9DU/WKPkAJpwtnqE9YjERt/L97yJoFV83TigiOnD8ZUFwYdW4V8GLaf3NLRMNphQ+hlhnD0yYeDXGf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;climber&quot;
+        title=&quot;climber&quot;
+        src=&quot;/static/7d516e230b6daa297f0333e3ea631c09/1c72d/le_climber2.jpg&quot;
+        srcset=&quot;/static/7d516e230b6daa297f0333e3ea631c09/a80bd/le_climber2.jpg 148w,
+/static/7d516e230b6daa297f0333e3ea631c09/1c91a/le_climber2.jpg 295w,
+/static/7d516e230b6daa297f0333e3ea631c09/1c72d/le_climber2.jpg 590w,
+/static/7d516e230b6daa297f0333e3ea631c09/80e3c/le_climber2.jpg 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/994a7a4a29e93085e004b9e8fe92babd/ad68d/le_climber.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 142.56756756756758%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAAGC14qo0M5OrGbwKAf/xAAcEAEAAgMAAwAAAAAAAAAAAAABAAIDERITIzH/2gAIAQEAAQUCJ0tNzIVLb9WN5rU8jdd1xifJyTRP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESEP/aAAgBAwEBPwHKRSP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAEBES/9oACAECAQE/AY0t/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAEQEUEhAv/aAAgBAQAGPwId5Hq2qGYNvRpHWcn/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRYYH/2gAIAQEAAT8hG8DUNmUnPL8jIDpcrgN5fSYhsreGGLtV5OIFpDp6gle32UaKl7dSrif/2gAMAwEAAgADAAAAEJDDDv/EABcRAAMBAAAAAAAAAAAAAAAAAAABEWH/2gAIAQMBAT8QkINiMz//xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EI1I62//xAAfEAEBAAMAAgIDAAAAAAAAAAABEQAhMVGhQWFxwfD/2gAIAQEAAT8QdYV3Q1gxq2TUL6wCwQMODH35d4r++3F3ahkeCf33hOFQadDEJwngYIA6R7V1rGq92onjL+DkH4xoK/LjqHs5/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;climber2&quot;
+        title=&quot;climber2&quot;
+        src=&quot;/static/994a7a4a29e93085e004b9e8fe92babd/1c72d/le_climber.jpg&quot;
+        srcset=&quot;/static/994a7a4a29e93085e004b9e8fe92babd/a80bd/le_climber.jpg 148w,
+/static/994a7a4a29e93085e004b9e8fe92babd/1c91a/le_climber.jpg 295w,
+/static/994a7a4a29e93085e004b9e8fe92babd/1c72d/le_climber.jpg 590w,
+/static/994a7a4a29e93085e004b9e8fe92babd/a8a14/le_climber.jpg 885w,
+/static/994a7a4a29e93085e004b9e8fe92babd/ad68d/le_climber.jpg 1170w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Rocks here aren’t as pretty as the ones you’ll find in Krabi but I think there’s a nice variety with varying degrees of difficulty - ample and convenient for your average Singaporean climber and his gang of buddies.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/216793d5f8fca933b55f7184fc2f7653/6a068/climb.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAGNmFp3sHLEc0OUVUuV/8QAGhABAQADAQEAAAAAAAAAAAAAAgEAAxIRMf/aAAgBAQABBQIoO69vNyG22XwtGeLIrz0cWT7r1hH/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BI//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEv/aAAgBAgEBPwEp/wD/xAAdEAACAQQDAAAAAAAAAAAAAAAAARECECFBEjEy/9oACAEBAAY/AoOGrejBCqO0RszZk1KWf//EABsQAAMAAwEBAAAAAAAAAAAAAAABESExUWEQ/9oACAEBAAE/IaPmEpndV58wGMwa1Joi6kuqicuGUUqb6pCVH6zBCIHpWmz/2gAMAwEAAgADAAAAEHTsvv/EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QapeRn//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCXGEa//8QAHxABAAMAAgIDAQAAAAAAAAAAAQARITFRcYFhkcHR/9oACAEBAAE/EGBC/PzDUqbHl3gvURI2AoLBy+YrVgpWsCY9ovo9SuhVtTDr3cUA61ws5PJEAGjSCaDCg9VcuNDo73v8jIQ7Sz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;some climbers&quot;
+        title=&quot;some climbers&quot;
+        src=&quot;/static/216793d5f8fca933b55f7184fc2f7653/1c72d/climb.jpg&quot;
+        srcset=&quot;/static/216793d5f8fca933b55f7184fc2f7653/a80bd/climb.jpg 148w,
+/static/216793d5f8fca933b55f7184fc2f7653/1c91a/climb.jpg 295w,
+/static/216793d5f8fca933b55f7184fc2f7653/1c72d/climb.jpg 590w,
+/static/216793d5f8fca933b55f7184fc2f7653/a8a14/climb.jpg 885w,
+/static/216793d5f8fca933b55f7184fc2f7653/6a068/climb.jpg 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Some fun shots&lt;/h2&gt;
+&lt;p&gt;I must admit, food and transport there is really cheap. We travelled around by grab and a 20-minute ride to Batu Caves from our hotel, split among 4-5 costs us a measly 2-3SGD each. We had 2 full days of climbing and pretty much got our lunch and teabreak with GrabFood as well. Not just affordable, but extremely convenient, helps us focus more on our climbs haha. Food served right after the descent. &lt;/p&gt;
+&lt;p&gt;(p.s. Also, KFC in Malaysia does taste better.. :O)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73438a3018c8673fe8b2f692f7b1806e/d2602/tea.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABVJ4bMxv/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADERIT/9oACAEBAAEFAgpzMQdwE+dQFkxXn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwFcn//EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhESITITMXH/2gAIAQEABj8Ciq9npukcktVglPJW4//EABsQAAIDAAMAAAAAAAAAAAAAAAERACExQVFx/9oACAEBAAE/ITjELFdQE+uESKZtbDMQMRFhRgcOSPoyf//aAAwDAQACAAMAAAAQtC//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QDbG//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/EKCv/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFhQVFx/9oACAEBAAE/EDqA8IB37wOF1VVseDNhZVLGb3EVNS11kcQgoO6ll+YrAOAcems//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;milk_tea&quot;
+        title=&quot;milk_tea&quot;
+        src=&quot;/static/73438a3018c8673fe8b2f692f7b1806e/1c72d/tea.jpg&quot;
+        srcset=&quot;/static/73438a3018c8673fe8b2f692f7b1806e/a80bd/tea.jpg 148w,
+/static/73438a3018c8673fe8b2f692f7b1806e/1c91a/tea.jpg 295w,
+/static/73438a3018c8673fe8b2f692f7b1806e/1c72d/tea.jpg 590w,
+/static/73438a3018c8673fe8b2f692f7b1806e/a8a14/tea.jpg 885w,
+/static/73438a3018c8673fe8b2f692f7b1806e/fbd2c/tea.jpg 1180w,
+/static/73438a3018c8673fe8b2f692f7b1806e/d2602/tea.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I ate alot.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f1a7c27ec74faef31d9aab4fe8f0d307/d2602/food.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/9oADAMBAAIQAxAAAAHUqpO6Boof/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAIBAxESIRP/2gAIAQEAAQUCeyVFs2nxwN0rqlRY5//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEv/aAAgBAwEBPwFQtN//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BjI//xAAbEAACAQUAAAAAAAAAAAAAAAAAEQECECIxMv/aAAgBAQAGPwJEOlwYJEPo1b//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUFRof/aAAgBAQABPyF5wXeEsGNlwD2Lw8gFTXOFXr0s+7//2gAMAwEAAgADAAAAEDs//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMUH/2gAIAQMBAT8QUR6R4f/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QCqlp2//EABwQAQACAwEBAQAAAAAAAAAAAAERIQBRgTFBsf/aAAgBAQABPxBNRqnXh8cEY5IPGzeTQg1JW657xYoK3F+mNMb2/Ma5+4i0GZshn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;satay&quot;
+        title=&quot;satay&quot;
+        src=&quot;/static/f1a7c27ec74faef31d9aab4fe8f0d307/1c72d/food.jpg&quot;
+        srcset=&quot;/static/f1a7c27ec74faef31d9aab4fe8f0d307/a80bd/food.jpg 148w,
+/static/f1a7c27ec74faef31d9aab4fe8f0d307/1c91a/food.jpg 295w,
+/static/f1a7c27ec74faef31d9aab4fe8f0d307/1c72d/food.jpg 590w,
+/static/f1a7c27ec74faef31d9aab4fe8f0d307/a8a14/food.jpg 885w,
+/static/f1a7c27ec74faef31d9aab4fe8f0d307/fbd2c/food.jpg 1180w,
+/static/f1a7c27ec74faef31d9aab4fe8f0d307/d2602/food.jpg 4032w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Fell alot too.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4d158bddfbab464111569289bb363b21/4658e/noob.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.02702702702703%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAjABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHfmz2CEJeqbimlEwzJoE//xAAdEAACAgIDAQAAAAAAAAAAAAABAgADERITIUMi/9oACAEBAAEFArboXzBdrFXkfEK7QJxqPhq0ym3fpSw08yTsoyP/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEg/9oACAEDAQE/AZgr/8QAFhEAAwAAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ART/AP/EAB4QAAIBAwUAAAAAAAAAAAAAAAARAQIQQSAyUWGB/9oACAEBAAY/ArJEzgkaI5yLo2v0qIen/8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFBYYFR/9oACAEBAAE/IdA4lOmAaQVxQm86nBDZ2EH6UDU3do4P0xH2GEvT1C1UxiAPWd7wZCRf2f/aAAwDAQACAAMAAAAQDO6CdA//xAAaEQABBQEAAAAAAAAAAAAAAAAAAREgIUFR/9oACAEDAQE/ELDr0yD/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARMUFR/9oACAECAQE/EMov03QqFH//xAAeEAEAAwACAwEBAAAAAAAAAAABABEhMUFRYaHwcf/aAAgBAQABPxAkgE96y5Cis6uGSlc27cdSSIf38w2bpZ42HEqFvGxPtUjjtOfLlYu0l7dL+wvEWmvzFWpGrwfmI4Hp7PUoRKmtSsiqF9y/eRmOMIcFt+5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fall&quot;
+        title=&quot;fall&quot;
+        src=&quot;/static/4d158bddfbab464111569289bb363b21/1c72d/noob.jpg&quot;
+        srcset=&quot;/static/4d158bddfbab464111569289bb363b21/a80bd/noob.jpg 148w,
+/static/4d158bddfbab464111569289bb363b21/1c91a/noob.jpg 295w,
+/static/4d158bddfbab464111569289bb363b21/1c72d/noob.jpg 590w,
+/static/4d158bddfbab464111569289bb363b21/4658e/noob.jpg 722w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Flirt a little.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cc8f616f738c2e2583c6fa0953c06f12/ad68d/le_flirt.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 183.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAlABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAeEwVWU8nu8vcarK270AVhX/xAAcEAEAAgMAAwAAAAAAAAAAAAABAAIDERIiMTL/2gAIAQEAAQUCLOzIxzJKmzncb1nXie2uNgnJu07Y6vbH9YTdP//EABYRAQEBAAAAAAAAAAAAAAAAABEAIP/aAAgBAwEBPwEjP//EABkRAAMAAwAAAAAAAAAAAAAAAAABERASMf/aAAgBAgEBPwGmzF0osf/EAB8QAAMAAQMFAAAAAAAAAAAAAAABIRECEIEiQVFhcf/aAAgBAQAGPwJbIy+DqhdKkPhlvMJB+SdyITaNXo5P/8QAHBAAAgMBAQEBAAAAAAAAAAAAAREAITFRYaFB/9oACAEBAAE/IVhmzEzfybAWHk1MM4/YmpFUOwgoiAvsvEEtSW8iynkCWflQaAJP1CAmwTlkqiGtYEAR9ZP/2gAMAwEAAgADAAAAEFzJjnwv/8QAGREBAAMBAQAAAAAAAAAAAAAAAQAQESFB/9oACAEDAQE/ENtOhpAfYm1//8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIRD/2gAIAQIBAT8QCbEAepG88t//xAAeEAEAAwACAgMAAAAAAAAAAAABABEhMUFRcWGBsf/aAAgBAQABPxCpK6bvKiUdnFiUJze3mMfAQ4L1AQ7RRvzhR0aJehx3BWSsBflN+qZYuiAfr3EEBCkOtuwQFU2nAdymd4oO9oJbOIoMBvzDA+/MahRkGMApA6GT/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;trap&quot;
+        title=&quot;trap&quot;
+        src=&quot;/static/cc8f616f738c2e2583c6fa0953c06f12/1c72d/le_flirt.jpg&quot;
+        srcset=&quot;/static/cc8f616f738c2e2583c6fa0953c06f12/a80bd/le_flirt.jpg 148w,
+/static/cc8f616f738c2e2583c6fa0953c06f12/1c91a/le_flirt.jpg 295w,
+/static/cc8f616f738c2e2583c6fa0953c06f12/1c72d/le_flirt.jpg 590w,
+/static/cc8f616f738c2e2583c6fa0953c06f12/a8a14/le_flirt.jpg 885w,
+/static/cc8f616f738c2e2583c6fa0953c06f12/ad68d/le_flirt.jpg 1170w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It was a good respite from all the madness during the semester.&lt;/p&gt;
+&lt;h2&gt;At what cost..?&lt;/h2&gt;
+&lt;p&gt;I was desperately scrambling for time before the trip. Had a midterm to mug and loads of assignments to submit the night before the trip. And technically I didn’t complete all of them. There was one remaining (and I will soon discover, extremely tedious) assignment left that was due on the following monday, but I figured i’ll rush it at night after returning to the hotel (once again, no idea where this unearned confidence sprung from). Boy did that soon prove to be a mistake..&lt;/p&gt;
+&lt;p&gt;I thought I would be able to get some progress up on the 6-hour bus ride to KL but days of mugging and submissions left me sleep-deprived and crashed hard as a dead log. I will refrain from sharing my caught-in-4k unglams here LOL. Anyway, I had 3 nights (Saturday, Sunday, and Monday) left to churn my submission out. It was a wild ride and I failed. &lt;/p&gt;
+&lt;p&gt;First night I feasted, no excuse here oops. Second night, I came back all worn-out from the climb but persisted. Made some progress but alas, I was still far from done and it was nearly 3am. I was waging it all on the last night - night it was due. But Hai Di Lao got me first.. xD. The past andre would never have permitted this, and some parts of me did shed a tear at the state I have de-volved into but my belly was truly happy that night. I must say, HDL at Malaysia is ridiculously cheaper, and considering the portion I gulped down, man what a steal.&lt;/p&gt;
+&lt;p&gt;In my defence, I did try to stay at hotel to finish my work. But when my stomach started to growl alongside the realization that I wasn’t truly absorbing anything at that point, I figured it kinda defeated the purpose of an assignment and went on to chase after my friends. Thankfully, there is a 1-week grace period for submission and the penalty is only 2 marks. Though this 2 marks, as I would find out, translated to 1% of my final grade. I sure hope this doesn’t bite me in the ass on results day…&lt;/p&gt;
+&lt;h2&gt;Reflection&lt;/h2&gt;
+&lt;p&gt;The trip was great. And I was glad we managed to pull it off. But that doesn’t mean there wasn’t room for improvement - in managing myself and providing a wholesome experience as a host. The feedback from participants were mostly positive. But perhaps what is equally heartening as regretfully not done is the point raised up that some participants were hoping to interact with us host climbers just as much during the night (leisure) as in during the day. Unfortunately, most of the hosts (especially me..) are my fellow club members who happen to be equally bad in time management as I am. We ended up scrambling work and submissions on our nights there. Probably should’ve used the time as one for gathering and learning more about one another outside of climbing.&lt;/p&gt;
+&lt;p&gt;Well, that’s over. I have a bunch of upcoming midterms and several interviews lined up. 🤞 I land a job. Time to buck up and double down on the academic frontier. I’ll probably vanish for awhile. Hopefully i’ll return soon, and not as a broken mugger..&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Embark On A New Chapter With A Ton Of Unearned Confidence]]></title><description><![CDATA[A New Semester Again, it’s 3am into the night. I should really be clearing some backlog, but we don’t always make the best decisions, so…]]></description><link>https://4ndrelim.github.io/blog/another-busy-semester/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/another-busy-semester/</guid><pubDate>Sat, 26 Aug 2023 03:23:00 GMT</pubDate><content:encoded>&lt;h2&gt;A New Semester&lt;/h2&gt;
 &lt;p&gt;Again, it’s 3am into the night. I should really be clearing some backlog, but we don’t always make the best decisions, so September’s piece came early. Not a bad idea actually, I can foresee September is going to be a really, really busy month. It’s peak period for interviews and technical assessments, school work will start ramping up, and perhaps most problematic of all, my reluctance to give up on playtime.&lt;/p&gt;
 &lt;h2&gt;Academia&lt;/h2&gt;
 &lt;p&gt;It’s no secret among those who know me that I am a bit of a nerd (maybe more than a bit..). I like learning new concepts and exploring different ideas, in Computer Science and Math, even though i’m not a particularly fast learner. But that doesn’t deter me from yet again taking a full coursework of math and cs modules while trying to pull my CAP (GPA equivalent) up. &lt;em&gt;Talk about shooting oneself in the foot lol&lt;/em&gt;. Still, it doesn’t end there. During summer, I embarked on two research projects in Machine Learning to further my understanding. Things have gotten much more interesting in recent weeks and i’ve decided to continue my efforts in these areas throughout the semester, hopeful it culminates into well-received publications.&lt;/p&gt;
 &lt;h2&gt;Wait.. There’s More?&lt;/h2&gt;
-&lt;p&gt;The problem with the schedule lies in the planner. Sure, I like to study but boy do I like my playtime as well. You might be wondering what I meant by playtime, don’t worry it’s nothing philandering, I just meant time spent climbing and hanging out with friends from school clubs and outside of clubs. I’m part of both Climbing and Mountaineering club, so I spend my nights either climbing or running up and down hills. Naturally, I wouldn’t be going for every session, but i’m typically in-charge for wall related matters, and since both clubs are home to climbers, it’s 2-birds-with-1-stone. What i’ve realised is that I really enjoy spending time and interacting with people during these leisure climbs. Some are extremely passionate climbers looking to further challenge themselves, some are beginners with their new-found love for climbing, and others who still climb, but mostly drop by for a chit-chat session. &lt;em&gt;It’s a good vibe&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The problem with the schedule lies in the planner. Sure, I like to study but boy do I like my playtime as well. You might be wondering what I meant by playtime, rest assured it’s nothing philandering - I just meant time spent climbing and hanging out with friends from school clubs and outside of clubs. I’m part of both Climbing and Mountaineering club, so I spend my nights either climbing or running up and down hills. Naturally, I wouldn’t be going for every session, but i’m typically in-charge for wall related matters, and since both clubs are home to climbers, it’s 2-birds-with-1-stone. What i’ve realised is that I really enjoy spending time and interacting with people during these leisure climbs. Some are extremely passionate climbers looking to further challenge themselves, some are beginners with their new-found love for climbing, and others who still climb, but mostly drop by for a chit-chat session. &lt;em&gt;It’s a good vibe&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;It’s Not All Play!&lt;/h2&gt;
-&lt;p&gt;Climbing has garnered much attention in recent years and its evident that there is a strong demand for it in school as well. Climbing Club never has to worry about a lack of registration. But an issue remains - there’s no avenue for outdoor climbs. In Singapore, we mostly climb indoors (Dairy farm.. T_T) but at some point in a climber’s journey, his itchy hands and wandering mind will direct him to the natural world. Most outdoor climbing trips are exclusively hosted for a select group of friends, and rightfully so. The barrier to entry is rather high, and you wouldn’t want to start climbing outdoors by yourself with no experience whatsoever. Even for those who are experienced with indoor climbing, outdoor climbing is an altogether different beast. The risk is high but can be mitigated if assisted by the right hands. That said, no experienced climbers would want to travel out of Singapore just to be a ‘belay slave’ (a term used to describe climbers who end up tending to beginners and having to belay them rather than being able to focus on their own climbs). Hence, the outdoor climbing scene hasn’t grown much even though the demand is high.  &lt;/p&gt;
+&lt;p&gt;Climbing has garnered much attention in recent years and its evident that there is a strong demand for it in school as well. Climbing Club never has to worry about a lack of registration. But an issue remains - there’s no avenue for outdoor climbs. In Singapore, we mostly climb indoors (Dairy farm.. T_T) but at some point in a climber’s journey, his itchy hands and wandering mind will direct him to the natural world. Most trips are exclusively hosted for a select group of friends, and rightfully so. The barrier to entry is rather high, and you wouldn’t want to start climbing outdoors by yourself with no experience whatsoever. Even for those who are experienced with indoor climbing, outdoor climbing is an altogether different beast. The risk is high but can be mitigated if assisted with the right hands. That said, no experienced climbers would want to travel out of Singapore just to be a ‘belay slave’ (a term used to describe climbers who end up tending to beginners and having to belay them rather than being able to focus on their own climbs). Hence, the outdoor climbing scene hasn’t grown much even though the demand is high.  &lt;/p&gt;
 &lt;p&gt;So here’s where I step in! :P&lt;/p&gt;
 &lt;p&gt;A friend from Mountaineering Club is really passionate about climbing. He’s one of the ‘friendlier’ climbers around, who isn’t just solely interested in his own self-progression, but also seeking to spread the love of climbing to the rest of the NUS community. Specifically, he wishes to make outdoor climbing accessible to many more, even beginners who simply seek the thrill of the sport. Truly a commendable objective! And that’s when I realised too, that I am in the perfect position to share and execute his vision! My involvement in both the school’s Climbing and Mountaineering clubs might help to bring any talks of collaboration to fruition. So we sprung into action. Now, we are deep in the midst of planning our very first pilot trial of bringing climbers to Batu Caves in Malaysia, as early as September. &lt;em&gt;Wonderful&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;I Shall Look Back One Day And Smile&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Exciting? &lt;em&gt;Definitely&lt;/em&gt;. Ambitious? &lt;em&gt;Indeed&lt;/em&gt;. Audacious? &lt;em&gt;Perhaps&lt;/em&gt;&lt;/strong&gt;. &lt;br&gt;
-&lt;em&gt;Romanticsm tells us that in order to make the most of our human potential, we must have as many different experiences as we can.&lt;/em&gt; I’m quite the pragmatist, but in this regard, i’m every bit the &lt;strong&gt;romanticist&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;So, these are what will keep me really busy this semester. To cope with my heavy involvement in school work and club activities, i’ve finally (after 2 years of staying off-campus) decided it would be best to make NUS my home for the next 3 months. Hopefully my trusty Mac alongside the life-saving monitor, handy chalkbag, and smelly harness will tide me through the storms to come 🫠.&lt;/p&gt;
+&lt;em&gt;Romanticism tells us that in order to make the most of our human potential, we must have as many different experiences as we can.&lt;/em&gt; I’m quite the pragmatist, but in this regard, i’m every bit the &lt;strong&gt;romanticist&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So, these are what will keep me really busy this semester. To cope with my heavy involvement in school work and club activities, i’ve finally (after 2 years of staying off-campus) decided it would be best to make NUS my home for the next 3 months. Hopefully, my trusty Mac alongside the life-saving monitor, handy chalkbag, and smelly harness will tide me through the storms to come 🫠.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
@@ -44,11 +313,11 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 0.7em;&quot;&gt;P.S. Title was inspired by a quote by Michael from The Good Place. It was enjoyable and was one of the few series I stuck with till the end. &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The First Commit]]></title><description><![CDATA[Originality..? So, i’ve finally come around to making my own site. Frankly, ‘making’ is giving me too much credit.. I didn’t have to do much…]]></description><link>https://4ndrelim.github.io/blog/the-first-commit/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-first-commit/</guid><pubDate>Wed, 23 Aug 2023 05:23:00 GMT</pubDate><content:encoded>&lt;h2&gt;Originality..?&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 0.7em;&quot;&gt;P.S. Title was inspired by a quote by Michael from The Good Place. It was an enjoyable series. &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The First Commit]]></title><description><![CDATA[Originality..? So, i’ve finally come around to making my own site. Frankly, ‘making’ is giving me too much credit.. I didn’t have to do much…]]></description><link>https://4ndrelim.github.io/blog/the-first-commit/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-first-commit/</guid><pubDate>Wed, 23 Aug 2023 05:23:00 GMT</pubDate><content:encoded>&lt;h2&gt;Originality..?&lt;/h2&gt;
 &lt;p&gt;So, i’ve finally come around to making my own site. Frankly, ‘making’ is giving me too much credit.. I didn’t have to do much aside from customizing certain sections. Even the selection of the theme is inspired by a senior with a similar site. That said, I do like the simplicity of the design and the features it offers. I think it suits me. After all, front-end really isn’t my forte and I doubt i’d make a good UI/UX designer. Anyway, the default site also comes with a blog. I pondered for awhile whether to have it removed but figured it isn’t such a bad idea to leave it as a dumping ground for my thoughts every now and then. So, here I am :).&lt;/p&gt;
 &lt;h2&gt;And So The Hustle Continues&lt;/h2&gt;
 &lt;p&gt;I haven’t yet mentioned what even spurred this on. But you might’ve guessed it. August is the time when most (big) firms begin their recruitment process. Every computing kid down the block is scrambling to beef up their resumes, color their portfolios and impress with dynamic sites. &lt;em&gt;Scary&lt;/em&gt;. &lt;/p&gt;
-&lt;p&gt;Turns out, i’m no exception. It’s difficult not to feel the pressure when everyone around you is spending most of their waking hours in preparation while juggling a full term of coursework. I even bailed from an exciting diving and hiking trip at Dragon Horns at Tioman Island (Malaysia) with my fellow mountaineering friends :’( . I was the only one (save the exchanger) not to go, so yeah FOMO was strong. Still, I’m glad they are having a blast. It’s unfortunate how much of a rat race this has become but let’s leave that discussion to some other time.&lt;/p&gt;
+&lt;p&gt;Turns out, i’m no exception. It’s difficult not to feel the pressure when everyone around you is spending most of their waking hours in preparation while juggling a full term of coursework. I even bailed from an exciting diving and hiking trip at Dragon Horns in Tioman Island (Malaysia) with my fellow mountaineering friends :’( . I was the only one (save the exchanger) not to go, so yeah FOMO was strong. Still, I’m glad they are having a blast. It’s unfortunate how much of a rat race this has become but let’s leave that discussion to some other time.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
