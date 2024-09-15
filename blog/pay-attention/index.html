@@ -20,27 +20,150 @@
 </span>
 <p>-insert scary transformer pic-</p>
 <h2>The Last Decade</h2>
+<details>
+    <summary>Vanilla RNN</summary>
+    <span style="font-size:13px;" class="info">
+      RNNs were introduced to address the limitations of traditional ANNs (the standard feed-forward NNs) when it comes to processing sequential data. They do this by introducing a recurrent connection through a hidden state that allows information to flow from one time-step to the next. TThe hidden state maintains some form of internal memory, where the output of each step is fed back as an input to the next step. You can ituitively see how this captures temporal dependency - information from previous steps can be utilized in the prediction of the current step. 
+      <br><br>
+      Below is an illustration of a single RNN unit.
+      <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 66.21621621621621%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHkoaWCMf/EABgQAAMBAQAAAAAAAAAAAAAAAAABERAx/9oACAEBAAEFAh8giZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEAAwAAAAAAAAAAAAAAAAAAIDFB/9oACAEBAAY/AmLh/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFR8f/aAAgBAQABPyHjjcBRtSnidaQD9jjP/9oADAMBAAIAAwAAABAEH//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQADAQEBAQAAAAAAAAAAAAEAETEhUUFh/9oACAEBAAE/EAOGDvRIzBMF5OY7GVkr9lftQOkd9QWHjU//2Q==&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="rnn" title="rnn" src="/static/3a91877968a74444ec023c0f6d224cc7/1c72d/rnn.jpg" srcset="/static/3a91877968a74444ec023c0f6d224cc7/a80bd/rnn.jpg 148w,
+/static/3a91877968a74444ec023c0f6d224cc7/1c91a/rnn.jpg 295w,
+/static/3a91877968a74444ec023c0f6d224cc7/1c72d/rnn.jpg 590w,
+/static/3a91877968a74444ec023c0f6d224cc7/a8a14/rnn.jpg 885w,
+/static/3a91877968a74444ec023c0f6d224cc7/fbd2c/rnn.jpg 1180w,
+/static/3a91877968a74444ec023c0f6d224cc7/eb656/rnn.jpg 1883w" sizes="(max-width: 590px) 100vw, 590px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+      You might notice the recursive nature of RNN. Indeed, this is how information from previous steps are passed down. Here is a RNN unrolled twice. You can think of this as performing prediction (<i>y3</i>) by using data from previous 2 time steps. 
+      <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 71.62162162162163%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByXraxSA//8QAGBAAAgMAAAAAAAAAAAAAAAAAARAAETH/2gAIAQEAAQUChxE2v//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAEEEx/9oACAEBAAY/AoR4v//EABsQAAMAAgMAAAAAAAAAAAAAAAABESExQXGB/9oACAEBAAE/IXsKpx4GtYReYiBKB9H/2gAMAwEAAgADAAAAEHff/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qo//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxChf//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBMVFhsf/aAAgBAQABPxAC7wrkYZS719lXAxpmTgL0QaArrcQpQKNT/9k=&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="unrolled rnn" title="unrolled rnn" src="/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/1c72d/unrolled_rnn.jpg" srcset="/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/a80bd/unrolled_rnn.jpg 148w,
+/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/1c91a/unrolled_rnn.jpg 295w,
+/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/1c72d/unrolled_rnn.jpg 590w,
+/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/a8a14/unrolled_rnn.jpg 885w,
+/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/fbd2c/unrolled_rnn.jpg 1180w,
+/static/fa1ef9bea5ea3f5c0054f36cdfbc8257/c85d4/unrolled_rnn.jpg 1888w" sizes="(max-width: 590px) 100vw, 590px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+      The observant might find it strange that <i>y1</i> and <i>y2</i> isn&apos;t used in the prediction of the output. Indeed it isn&apos;t, but they still contribute to training through computation of loss.
+      <br><br>
+      There are some things worth emphasizing:
+      <ol>
+        <li>The number of unrolling of the RNN is a hyperparameter that typically depends on your data and task</li>
+        <br>
+        <li>Illustration suggests input is 1 dimensional. Naturally, you can have multiple dimensions in the input. But the weights become a matrix, similar to how they do in fully connected layer of an ANN</li>
+        <br>
+        <li class="note">RNNs are inherently limited in their ability to capture long-term dependencies (unable to well-utilize inputs from several timesteps before). And you can kind of see why from the unrolling. <br>
+        Imagine unrolling 49 times to predict <i>y50</i>. Earlier inputs like <i>x1</i> still influence the output, albeit through <b>many repeated multiplication</b> with <i>w2</i>. The magnitude will be carried over to gradient computation, resulting in highly unstable training.</li>
+        <br>
+        <li>I&apos;ve drawn the illustration to only include 1 hidden state. In practice, you will likely have multiple more hidden states connected sequentially, and to other hidden states across time steps.</li>
+        <br>
+        <li>Illustration below shows a multi-layer RNN architecture. Note that each hidden state can be influenced by other hidden states in the previous time step (even though the diagram doesn&apos;t seem to suggest it). So, we will have a weight matrix between hidden states. Which means the number of weights grows quadratically with the number of hidden states.</li>
+      </ol>
+      <div style="width: 30%; height: auto; margin: 0 auto;">
+          <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 552px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 118.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAABYlAAAWJQFJUiTwAAAD8klEQVR42mVVaW8jRRDt/y8+IC0gAR+QkLLiECRhYZcP5MRJfNvj2+Nr7HjGdxzf4yuPepWd4N2MNJrpOl/Vq+42y8Uci9kEy+UCm80Wvr/CYj4V2RTr9VpkGwQ2K7XZqDx4uaZcY4idOUvW8XOoget0HXwKdRdH50W8izroD0fYSIKzZA2/3Di4lO9uy0Cbl2Br0Z8nqvj11sFFqg7zW9TFV5cD/BlvS7g9EnYHX/xVw4/hEdrdAdbLOX5Xmz5Ooy3sNv5BQKlI9CeRFt6cd3Eac2GurQaOzvL4N1VRhHazg6N/MjgJFTEcjRUh0b+9KOIqYQvCzSflEuG1+P50WZIKKjAsoZCzsN9JL1YrDVqrlDEeDfH09CQ9XYtui2I+i83a/9hD//8+ynorqMvFvCY37XYb2VwOzWZTg43HY+RyeZTLthC1xH6/h+d5yOXzaDQaYvGkibbbrb7Uu6IvlctoOA5MtVpFrVZDqVRCr9dDNpuVgDl1DnSZTEYTFgoFdDodtFotzGYzzOdz1cfjcdXTx9A4lUqhWCwqurwgCYVCmsCRjK7rIhqNalDqBoMBut2uBlssFqoPh8MKpFKRHk6nUyQSCTw+Pmopu91OlUTBf5ZEZyYdjUZqQ1lQMtdESx/qDYXsFb++7+uXAfgfDDED04m6w6EO3sMYhgKiDJx18oXtl7EIdos4fL5LDseHIPg1/Emn09qPgDX2j30KSqOORBEl0VJGZ75cMwb1BGbIEptNAbORCCYgCQxKosoyEtRblqXB6Rigo57s04ZxDNklOxyR+/t7JJNJJYn/REp9LBbTkbBtW8miLUlkYOpvbm5Qr9dVZ4I54pcPZzESiWjWyWSiKKhjIiYO2D3sMeWcAh0bCkl5QIbuZ0EyHD5vvYBFlnzI/OdfAqC/bj2W9rytoIG4ZtBgVDi87BGRBrMaEEI920N01BsasicMwG3FxhM+yaER5SyXayYiAP4TDQmhDXcKZXwNmbGEURqzyQxwdxeWdVkz9/t9ZT2bzWlZ3A0PDw8akBVQHxcSecDQ1/Dot1JJOfbnUsJeSyoV5RDw3JfyfHHOWGlJONHZDEoO5nbJOc1mMBHmjdcbIpbOw+sNxHCLyXSGZFZ6WG9iqTvGR6c/QtwqoO315Ox7vVs8OdnpQ705jTj49tLF34mmXgFWtYM3H2y8vfU0yWa1wGm4ju+vPLyPOa+ugPVqiT/uKvhOYrxPtGGOo218fe7hXeT58EzaHr78UMMPV/dwP94px+Emvrno4OSu9vpOkYTHtzWNcRppwvAOIapq05N4ey0vbcspXm1Lz2Zy7K9hOx4yYlNxXOnbp3cK9RXxzdS6avcfH5fwaA9gYIoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="multi-layer RNN architecture" title="multi-layer RNN architecture" src="/static/2ffc53986e50a7c6eaab5e91678821da/08c0b/multirnn.png" srcset="/static/2ffc53986e50a7c6eaab5e91678821da/12f09/multirnn.png 148w,
+/static/2ffc53986e50a7c6eaab5e91678821da/e4a3f/multirnn.png 295w,
+/static/2ffc53986e50a7c6eaab5e91678821da/08c0b/multirnn.png 552w" sizes="(max-width: 552px) 100vw, 552px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+          <p style="text-align: center;"><small>Image credit: d2l.ai</small></p>
+      </div>
+    </span>
+</details>
 <p>Rcurrent Neural Networks (RNNs) were among the first architectures to process sequential data. And until 2017, RNNs remained as the primary neural network architecture, with Long Short-Term Memory (LSTM) units and Gated Recurrent Units (GRUs) - which can be thought of as a simpler version of LSTMs - being the most prominent and effective variants. In the present, LSTMs are becoming increasing obsolete, particularly in many areas of Natural Language Processing (NLP).</p>
 <details>
     <summary>Applications for LSTMs</summary>
     <span style="font-size:13px;" class="info">
         Calling LSTMs 'obsolete' might be slightly too harsh. There remain use cases for LSTMs:
         <ul style=>
-            <li><strong>Resource Constraints:</strong> LSTMs are more suitable for environments with limited computational resources, such as mobile devices.</li>
-            <li><strong>Real-time Processing:</strong> Ideal for applications where data is processed in real-time, such as streaming data.</li>
-            <li><strong>Small Data Scenarios:</strong> Performance degrades with increasing in amount of training data; after all, LSTM mitigates, not eliminate, exploding/vanishing gradient descent problem.</li>
-            <li><strong>Specific Types of Sequential Tasks:</strong> Such as time-series forecasting where long-term historical context is valuable.</li>
+            <li><strong>Resource Constraints:</strong> LSTMs are more suitable for environments with limited computational resources, such as mobile devices, where the heavy resource demands of Transformers may not be feasible.</li>
+            <li><strong>Real-time Processing:</strong> Ideal for applications where data is processed in real-time, such as streaming data. Inference speed of large transformer models may not be up to par.</li>
+            <li><strong>Small Data Scenarios:</strong> LSTMs can perform well in cases where the available training data is relatively small or moderate.</li>
+            <li><strong>Specific Types of Sequential Tasks:</strong> LSTMs are often used in the domain of time-series forecasting. Though recent adoption of transformers prove far more promising.</li>
         </ul>
     </span>
 </details>
 <details>
     <summary>Understanding the LSTM Unit</summary>
-    <span style="font-size:13px;">
-        Understanding LSTM isn't the main focus of this piece. But below outlines my brief intuition behind the LSTM unit
+    <span style="font-size:13px;" class="info">
+        Understanding LSTM isn&apos;t the main focus of this piece. But below outlines my brief intuition behind the LSTM unit. Most of the illustration below are screenshots from <a href="https://www.youtube.com/watch?v=YCzL96nL7j0&amp;t=1116s">StatQuest</a>, because I think the diagrams are clear (<b>totally not because I got lazy!</b>). <br>
+        In fact, what I am about to share might be a re-hash, but hey, at least this isn&apos;t a 20-minute long video :)
+        <br><br>
+        Perhaps the first realization to have is that LSTM is motivated by the issues of exploding/vanishing gradient problem in vanilla RNN. And the key novelty here is the introduction of two separate paths - long-term and short-term memory. 
+        <div style="width: 50%; height: auto; margin: 0 auto;">
+          <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 54.72972972972974%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB90lEQVR42o2SaW/aQBCG/f//R79VatQqSkW4TAiUIz648REMJjYUOxhDpNjs+s14TdpI+dDaerT7zuzMzowtdds9tPr3KCnX6A5/wTJsmIZ5wYJpWh/0v7AgBacdBts+SqsreCcXx/SAKA0RJSGe0x3COED8Utj2yV+i9PkT+zSAxDKGOInwkpyQ8QwJe0XKE2TgAk7+jF5c4Bd7yhJBfl5wLlZJnLs8nBeCMw5n4QjWrgvHcfBo25jP5nhar+GuXHF5lhUxYs+5uFPKrZzEmTEwgpNmnKHX66NcvkW1WkHzroFmQyZdRr1eg6IqIoaJmGLl7EypOCTRSFZU9r4/pylVscJkOoGu66I62zQwnowwHg2x8Td/umIicZE0j5Vy4ytl3/lbBL8DkTThpLcb7DxfzC+fYhSECL0tzuRLqIPtk49nsuVJ2KU7kdDrz+Eaj5iMB/TLGAhcHxvHpUpU0jPSHnZLD9Z0DIMI1z78hYvpYorF2sE+2uN4PCI+HHCMY0ja1wrM3pCG7eFOaUEbarBmBuyZiYbShkraJm1N56g/NIU/983Idj/qwlhY4iMtV0usaExSpyRDaXXQURRc3VTQ7j3Q3DQomgpdGxA6VNrnDD5qlbQ+JAZizu9INVmGLNfx4+ctvny7xvebEhqka7Xaf1D9ZHsDD7cj+5pSQFwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="Long and short term memory" title="Long and short term memory" src="/static/560f7ba29888cfc3f6cb6ccd28e99c2d/fcda8/long_short_mem.png" srcset="/static/560f7ba29888cfc3f6cb6ccd28e99c2d/12f09/long_short_mem.png 148w,
+/static/560f7ba29888cfc3f6cb6ccd28e99c2d/e4a3f/long_short_mem.png 295w,
+/static/560f7ba29888cfc3f6cb6ccd28e99c2d/fcda8/long_short_mem.png 590w,
+/static/560f7ba29888cfc3f6cb6ccd28e99c2d/efc66/long_short_mem.png 885w,
+/static/560f7ba29888cfc3f6cb6ccd28e99c2d/c83ae/long_short_mem.png 1180w,
+/static/560f7ba29888cfc3f6cb6ccd28e99c2d/2c960/long_short_mem.png 2870w" sizes="(max-width: 590px) 100vw, 590px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+        </div>
+        <ul style>
+            <li><strong>Long-term (represented by the green line):</strong> It can be modified by multiplication and summation but notice that there aren&apos;t any weights that can modify it. <strong>This is how LSTM mitigates the issue that plagued vanilla RNN</strong> - the lack of weights allow past inputs to flow through a series of unrolled units <strong>without causing the gradient to explode or vanish</strong>.</li>
+            <li><strong>Short-term (represented by the pink line):</strong> Short-term memories are directly connected to weights and biases. You might wonder why are there multiple entry-points, and this is where the 3 Gates of LSTM come into play.</li>
+        </ul>
+        The 3 gates are introduced separately below, but they should be seen as components of a single LSTM unit. Each gate has its own set of weights and biases. However, similar to an RNN, unrolling the LSTM involves using the <strong>same set of weights and biases</strong> across all time steps.
+        <ol>
+          <li><strong>The Forget Gate: </strong>This module determines the % of long-term memory to retain. It computes a weighted sum (e.g. with weights 2.7 and 1.63 in the diagram) of the short-term memory and input, then passes the result through a sigmoid activation. This is a common approach in ML for regulating information flow - using sigmoid whose output is <strong>constrained to be between 0 and 1</strong> to control the <strong>proportion of information that is kept</strong>.
+            <div style="width: 60%; height: auto; margin: 0 auto;">
+              <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 78.37837837837837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAABYlAAAWJQFJUiTwAAACpUlEQVR42p1Ta3OiQBDk//+N1H26MlV3l5hEo54GFUWT8xWIaABjJAoGNZHnQt+AxvOrt1TDbu/QO/QMXC6Xw3XuGoXKLQp8HtnyBe5qFQiC8F/gXqczmIYFccbjUv0O0ajC8beIWATP8+D7/kngpmsdY1tGcXwFfnqLqaPBtldYWiaSEccR4uMrjnE8kvUxx/mRB5c5mG9f8e5ZkBY2eMXAYj7HZrNJgxljiBm9GAEsYAiCIOVCFiIiMrmCKEDAKMPj03wGXHV1ZFpjhLT+/NhAVVVIkoSHQRsDpQ9FG6J9T/N+H7Ik48nqk0082m81yKveTtAnv4a2j/EmhLSOcdEaYWis00NM04Ku6+i+t1DRcuDVIoRWHe2WiGajjppQRftBxMx43X3yl+B4w/D0AfQUlU6X0XlzE4cOorOpgfFolGYlU8ayNECVr0AUW/A9/+DnkWCI4SZC7eWTCrTGcOmlQSF5lYzVyoZBWZimCcuyyGMDLNwLReGueKkg3fwwwogyVElj4n5CWHQxd4M0w4iCGQsOFXecLcGhBUvBwiCN+SdIIwlXbA/K0xzNnorysw7Ti/eCLM0gEf0S3mWVVJ6qTEj2sW8pbv08g/22gvisgO83cK8s0CIYKxeBTy3lugQHnrul55b82jW757nEufBTziHOI47app/5jVGlg8b9CE1ql2ZPQZEq+Dh8gf2+JM/msFIsaL4g/0xqegtLmiew9kh+hMRbbnBVRSdfR3M8QUOZoCb3ke2U8WekYkLtomnqAUlPapqWtpFO6wTqfk/XtXSPa5znIWRy6LYfIMsSbvIlQhnS4yMGg8HJ4Op3VSQQGw1UagK+/bzBtx9ZlKt1iM0mGsSfAq5YKqJQLKJEz+xNHmfnlzjL/MIlzUvEFwqFk/AXGluPh1+MVNIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="Forget gate style=" title="Forget gate style=" src="/static/c9981682778b370237606e0ef846056d/fcda8/forget_gate.png" srcset="/static/c9981682778b370237606e0ef846056d/12f09/forget_gate.png 148w,
+/static/c9981682778b370237606e0ef846056d/e4a3f/forget_gate.png 295w,
+/static/c9981682778b370237606e0ef846056d/fcda8/forget_gate.png 590w,
+/static/c9981682778b370237606e0ef846056d/efc66/forget_gate.png 885w,
+/static/c9981682778b370237606e0ef846056d/c83ae/forget_gate.png 1180w,
+/static/c9981682778b370237606e0ef846056d/e8950/forget_gate.png 2000w" sizes="(max-width: 590px) 100vw, 590px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+            </div>
+          </li>
+          <br>
+          <li><strong>The Input Gate: </strong>This module computes the candidate for long-term memory and determines the proportion of this candidate to be added to the running long-term memory. <br>
+          The computation for the candidate long-term value is simiarly based on a weighted sum (e.g. with weights 1.41 and 0.94), but the activation function used here is TanH. <br>
+          <strong>How to determine the proportion of the candidate value?</strong> We do the exact same method of taking weighted sums and sigmoid activation as we had done before. 
+            <div style="width: 60%; height: auto; margin: 0 auto;">
+              <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 56.75675675675676%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACPklEQVR42n2S6W7aQBSF/f6P0Efoj1aNlDZpo4bFIQkKAWNjYzA1XjGYhM0sXuDrQEp+VGpH+jR3PEdnztyx1GnrNPVnrvQLGtYj4SjEG7mMRqMTURThez5Wv49l9RkMLAaWhWmaqKqK67onTRiGJ730sh7jLE0qwVe8tYu/cJB7t8zSF5JixTJf4Ic+uzTn75HnOZPJmCzP3r9Js82OZz9Cj2JuOj79SUy8DujNVXoLheHCoO1qbJYe+7jNfmmzPxw4CM6mYRCS7TL2eYG0yQqc1w3efMdQzLNEbHCgGfS5MmUe4w53Wo2Jc0sWyUyVLxRJdDJzHQfTEFc32rTMBrY/QDpHzfZ78iwT5MS7LX07oG5H1CYjpouYhVshsuuMjSdYORQioD38xU/tmlJwjT5tMU6CN8OsKNiIuKtdylYk3hRrmi89lEUPa9uBw16oIrbbLs6oTCb6ex4pO9I85VCIhTjkZHist8Jwk6Wk+4OQbHHnBl23gTFThe7AOnGZhl28iSbSJRxbWBS5OOutn4UIdVxLkWIR2yFjV/wizojXYEociutqFVq9Kpp9z1I8mN1rYRk1AqvGej4mSTYkq5WYkxMrUR+R2p9KmA/iNYcultmj2zHQdZWGUaXSLnP99J2+0WWo11DaFcrNH/hOH88P8DzvhO/770j1y1ueKw9ous7lTQn5oY6qqTSVJi1FESbtP7RQlBaaqqFp/0aqVqvIglK5woePF3z+dsP93R3VqowsHznun2uZo/5//AaEoiKE81QnKQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="Input gate style=" title="Input gate style=" src="/static/02e065e4f1c1d257566df65fcb4297e8/fcda8/input_gate.png" srcset="/static/02e065e4f1c1d257566df65fcb4297e8/12f09/input_gate.png 148w,
+/static/02e065e4f1c1d257566df65fcb4297e8/e4a3f/input_gate.png 295w,
+/static/02e065e4f1c1d257566df65fcb4297e8/fcda8/input_gate.png 590w,
+/static/02e065e4f1c1d257566df65fcb4297e8/efc66/input_gate.png 885w,
+/static/02e065e4f1c1d257566df65fcb4297e8/c83ae/input_gate.png 1180w,
+/static/02e065e4f1c1d257566df65fcb4297e8/e3815/input_gate.png 2730w" sizes="(max-width: 590px) 100vw, 590px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+            </div>
+          </li>
+          <br>
+          <li><strong>The Output Gate: </strong>This module generates the new short-term memory (aka hidden state in LSTM) <br>
+          It first computes a candidate short-term memory (e.g. 0.99 in the diagram) by applying TanH activation to the long-term memory. <br>
+          The proportion (e.g. also 0.99 in the diagram) of the candidate value to be used is computed similarly to the other gates. As a reminder, this process of determining the percentage of memory retention <strong>follows the same computational structure across all gates</strong>.
+          <div style="width: 60%; height: auto; margin: 0 auto;">
+            <span class="gatsby-resp-image-wrapper" style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;">
+      <span class="gatsby-resp-image-background-image" style="padding-bottom: 54.72972972972974%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACkUlEQVR42j2Sa3PaVhRF9dPbyT9o66TTmXaaD+0HpzN1ip3YiTPhEbc2YJAw6AEivDFCRsISCPRAq8fuTKVZo32udPc992or11c3lKtF3tUKVLVrLMvCtExM4wkLwzAoNT9xXi9QaX5G13Uso4upW888acvq0hUs+V55CBxazjWl+SmrZIm9NGlNGuzyLZssIIwCBl6f37XXGL5BmIU8ZitCfAJhFTt4W5f13seLH1C8aIc6n2Asl1S/Lhj5DkO/i/1o8DUw6bs9Rk4fd14jdO9I4jWP/p7FQCxnCePJAP+uh1etsfVXKOsowXY3YrKjM/OIYjiQYXtdJpsh+tTAGrVhOyF1DXIx3K5gZmY0b9cM7QHhvc2i+TfZwxiF5ysnPRxIkpRYSDPR+wP7BGLRWbKTziJiGcjTHXGYM1vGtOwpN22XjlbnXs44D3yUPM+J04woyQj28bNOs5RNvCOSyekhlfUyaTsS05DsIIYBOIuc2nhGu7+mrY9l23UOYfJfh4mY7qSzTRKTSrcHuffpXhaJpBazp5FMjKSWvbAJMqamQ7c3IV5GrPs+86qNTEKZ1y3c0T2L4ZyFPL2ZK4ftsBxPWU6mUjs8Cp7o1Wgk57VgbE1Q7yQ++hzHlmSU63ROKqw6IxT1+BNdVWcwHGF0OpIt+QmSPcPQ6XTakkWDrmCbumhd8ibvmj2a9R5XWoO2ZK/d0LDeX2OWb1Fuzj6j/lOj2lQ5ef+Rm9sGrZaGqqmChiY0VZXTQoHS2wuuTi/5cnZJ6eScL39+pPz2Ax/enVMsXKDVGijFcomy8Nf5Jb+dnFG4uKQidbFY/J9KpcLx8TEvfzjip1c/cvTd97z45lteHR3x68+/8MebNzz5lIR/AZ5iF6Gw2R8RAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;"></span>
+  <img class="gatsby-resp-image-image" alt="Output gate style=" title="Output gate style=" src="/static/c7d920d68d982e942c91f5dc42310231/fcda8/output_gate.png" srcset="/static/c7d920d68d982e942c91f5dc42310231/12f09/output_gate.png 148w,
+/static/c7d920d68d982e942c91f5dc42310231/e4a3f/output_gate.png 295w,
+/static/c7d920d68d982e942c91f5dc42310231/fcda8/output_gate.png 590w,
+/static/c7d920d68d982e942c91f5dc42310231/efc66/output_gate.png 885w,
+/static/c7d920d68d982e942c91f5dc42310231/c83ae/output_gate.png 1180w,
+/static/c7d920d68d982e942c91f5dc42310231/9f75f/output_gate.png 2858w" sizes="(max-width: 590px) 100vw, 590px" style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;" loading="lazy">
+    </span>
+          </div>
+          </li>
+        </ol>
+        What we&apos;ve discussed so far is just one LSTM unit. In practice, multiple LSTM units are chained together across time steps, similar to how multiple hidden states are used in an RNN. 
+        <br>
+        Despite these gated mechanisms, <strong>LSTM can still suffer from vanishing (and exploding) gradient problem when dealing with very long sequences</strong>. Gradients can still diminished when passed through many layers of activation functions which constraints the output.
+        <br><br>
+        <strong>Do you see why LSTM is referred to a variant of RNN?</strong> <br>
+        Essentially, if you replace the hidden state in the vanilla RNN with the LSTM unit (and maintain a running long-term memory), you get an LSTM model!
     </span>
 </details>
 <p><br><br/>
-But there is merit for aspiring machine learners to study (or at least grasp the idea) the evolution of architectures starting from RNNs. Understanding their limitations sheds light on the inspiration behind the subsequent development. RNNs sought to retain past information to influence subsequent outputs, making them suited for sequential tasks such as time series prediction. They were simplistic in their design, which made them popular but also inadequate. RNNs suffer significantly from the exploding and vanishing gradient problems, which severely limit their ability to capture long-term dependencies.</p>
+But there is merit for aspiring machine learners to study (or grasp the idea) the evolution of architectures starting from RNNs. Understanding their limitations sheds light on the inspiration behind the subsequent development. RNNs sought to retain past information to influence subsequent outputs, making them suited for sequential tasks such as time series prediction. They were simplistic in their design, which made them popular but also inadequate. RNNs suffer significantly from the exploding and vanishing gradient problems, which severely limit their ability to capture long-term dependencies (see RNN section).</p>
 <details>
     <summary>Exploding Gradient</summary>
     <span style="font-size:13px;" class='info'>
@@ -49,12 +172,6 @@ But there is merit for aspiring machine learners to study (or at least grasp the
 </details>
 <details>
     <summary>Vanishing Gradient</summary>
-    <span style="font-size:13px;" class='info'>
-      On the other hand, vanishing gradients occur when the gradients shrink exponentially during backpropagation. This leads to very small gradient values, causing the updates to the weights to be insignificant. The result is that the network struggles to learn due to insignificant updates to its weights.
-    </span>
-</details>
-<details>
-    <summary>But why?</summary>
     <span style="font-size:13px;" class='info'>
       On the other hand, vanishing gradients occur when the gradients shrink exponentially during backpropagation. This leads to very small gradient values, causing the updates to the weights to be insignificant. The result is that the network struggles to learn due to insignificant updates to its weights.
     </span>
@@ -84,7 +201,7 @@ The Transformer was introduced in the paper titled <a href="https://arxiv.org/ab
 <details>
   <summary>Anyway, before we continue our exploration of the transformer architecture from bottom-up, i'd like to try to convince (if you aren't already) why it shouldn't be too surprising that an inanimate object can sound so much like a human:</summary>
   <span style="font-size:13px;">
-    <i>The Gentlemen Bastards</i> is one of my favourite medieval-fantasy series. It incorporated humour so well in the midst of chaos and danger. <i>The First Law</i> is also another series I greatly enjoyed. The grim fantasy setting and pragmatic characters were something I found oddly amusing. I chuckled at the heroism that often shattered to pieces, but the book also made me genuinely question whether it would be worth living in such a grim world. The authors have a way with words, they brought the characters to life and got me real hooked. But it's not as if they had actually walked into my study, sat next to me, and read their work aloud with strong passion and intensity to convey every intended nuance. <b>All I did was read a chunk of text</b>.
+    <i>The Gentlemen Bastards</i> is one of my favourite medieval-fantasy series. It incorporated humour well in the midst of chaos and danger. <i>The First Law</i> is also another series I greatly enjoyed. The grim fantasy setting and pragmatic characters were something I found oddly amusing. I chuckled at the heroism that often shattered to pieces, but the book also made me genuinely question whether it would be worth living in such a grim world. The authors have a way with words, they brought the characters to life and got me real hooked. But it's not as if they had actually walked into my study, sat next to me, and read their work aloud with strong passion and intensity to convey every intended nuance. <b>All I did was read a chunk of text</b>.
   </span>
 </details>
 <p><br></br>
