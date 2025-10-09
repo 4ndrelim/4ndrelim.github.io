@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Andre Lin | My Simple Site`,
     // Description that goes under your name in main bio
-    description: `An aspring Machine Learning engineer hoping to integrate ML deployment into software development.`,
+    description: `Aspiring software engineer and machine learning hobbyist, turning paper to pipeline.`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Email address
@@ -17,23 +17,17 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/andre-linhk/`,
     // Content of the About Me section
-    about: `Hey! My name is Andre. I'm a third year undergraduate studying Mathematics & Computer Science at the National University of Singapore (NUS).
-      I like reading about research on AI and advancements in ML, and spend a fair portion of my time doing so. ML is a field where I can put what i've learnt in brutal math courses (𝘢𝘵 𝘭𝘦𝘢𝘴𝘵 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘪𝘵.. *_*) to use. I believe there's plenty of exciting research done in the ML landscape, and more can certainly deployed in practice.
-      Deep learning, Natural Language Processing, AI decision making - are some sub-fields that excite me. But i've some exposure in the basics of other fields - Databases, Networks, Operating Systems, Parallel & Distributed systems to name a few. I hope to hone my knowledge in my remaining semesters and become a proficient ML engineer able to bridge the gap between software development and ML deployment.
-      Beyond academia, I am an avid climber and belong to the school's Mountaineering club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭, 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘤𝘶𝘤𝘬𝘰𝘰 friends, we scaled a mountain in the Himalayas and it was, well, simply fantastic.`,
+    about: `Hey! My name is Andre. I'm a final year studying Mathematics & Computer Science at the National University of Singapore (NUS).
+      Machine learning is an exciting field at the intersection of mathematical theory (brutal math courses finally paying off.. *_*) and software engineering. There's no shortage of groundbreaking research in the ML landscape, and I aspire to be among those who bring these innovations into real-world applications.
+      I am now particularly interested in the intricacies of parallelism in optimizing training code. My goal is to become capable of bridging the gap between software development and ML deployment.
+      Beyond academia, I am a casual climber (an occasional diver, and avid backpacker) and am part of the school's Mountaineering club and Climbing club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭, 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨 𝘤𝘶𝘤𝘬𝘰𝘰𝘴, we scaled the Himalayas and it was simply fantastic!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'ExplainableAI Research',
+        name: 'Machine Learning Research @ NUS',
         description:
-          `Here, I design synthetic datasets and network architectures to evaluate existing feature attribution methods (methods that offer model interpretability). Currently, working towards publication to AAAI Conference.`,
-          link: '',
-      },
-      {
-        name: 'ML Research on Identification of DNA-Binding Proteins',
-        description:
-          'Here, I work alongside 3 others and we have made some notable discoveries contributing to unexpected inflationary performance. We hope to share our findings in our publication to a renown bioinformatics journal.',
-          link: '',
+          'Part of Prof He Bing Sheng\'s research group, focusing on adaptations of the transformer architecture.',
+        link: 'https://dblp.org/pid/393/8428.html',
       },
       {
         name: 'Data Structures & Algorithms Teaching Resource',
@@ -45,54 +39,60 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'AI Lab @ National University of Singapore',
-        description: 'AI/ML Research Intern, June 2023 - Present',
-        link: 'https://ai.nus.edu.sg/',
+        name: 'Software Engineer Intern @ QuantEdge (Singapore), May 2025 - June 2025',
+        description: 'Software Engineering meets Quantitative Trading - Learnt how to support the trading team.',
+        link: 'https://www.quantedge.com.sg/',
       },
       {
-        name: 'School of Computing @ National University of Singapore',
-        description: 'ML Research Intern, June 2023 - Present',
-        link: 'https://www.comp.nus.edu.sg/',
+        name: 'Backend Engineer Intern @ Apple (Singapore), January 2025 - May 2025',
+        description: 'Gained practical knowledge on system design and was taught what simplicity, reliability, and sustainability looks like.',
+        link: 'https://www.apple.com/',
       },
       {
-        name: 'VFlowTech',
-        description: 'Software Engineer, December 2022 - March 2023',
-        link: 'https://vflowtech.com/',
+        name: 'Machine Learning Engineer Intern @ Pints.ai (Singapore), August 2024 - December 2024',
+        description: 'Worked on finetuning LLMs using data and model parallelism techniques to achieve comparable performance to larger models.',
+        link: 'https://www.pints.ai/',
       },
       {
-        name: 'School of Computing @ National University of Singapore',
-        description: 'Teaching Assistant, August 2022 - August 2023',
+        name: 'Machine Learning Engineer Intern @ ASTRI (Hong Kong, SAR), June 2024 - August 2024',
+        description: 'Learnt ML production and deployment lifecycle, and worked on Quant Research projects affiliated with QRT.',
+        link: 'https://www.astri.org/',
+      },
+      {
+        name: 'School of Computing (NUS), August 2022 - August 2024',
+        description: 'Teaching Assistant for CS1010s (Programming Methodology in Python) and CS2040s (Data Structures and Algorithms) - Won an award!',
         link: 'https://www.comp.nus.edu.sg/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages',
+        name: 'Languages (Ordered by proficiency)',
         description:
-          'Python, Java, C, C++, JavaScript, HTML/CSS/SASS, Dart',
+          'Python, Java, C++, TypeScript',
       },
       {
-        name: 'Frameworks',
-        description: 'Spring Boot, Express, Flutter, Bootstrap, JUnit, PyTest',
+        name: 'Libraries',
+        description: 'TensorFlow, PyTorch, Scikit-learn, OpenCV, pandas, NumPy',
       },
       {
-        name: 'Dev/Environment',
-        description: 'Docker, Gradle, Nodejs',
+        name: 'Notable LLM Frameworks',
+        description: 'vLLM, llama.cpp, DeepSpeed, Lightning AI, LitGPT, LangChain',
       },
       {
-        name: 'Databases',
-        description: 'PostreSQL, MySQL',
+        name: 'Data Processing/Databases',
+        description: 'PostgreSQL, Spark, Flink',
       },
       {
-        name: 'Notable Libraries',
+        name: 'Backend',
         description:
-          'TensorFlow, Keras, Scikit-Learn, PyTorch, pandas, NumPy, React, React Redux',
+          'Docker, Django, FastAPI, Spring Boot, Express, Nodejs',
       },
     ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -130,10 +130,71 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          formats: [`auto`, `webp`],
+          placeholder: `dominantColor`,
+          quality: 80,
+        },
+      },
+    },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
-    `gatsby-plugin-feed`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map((edge) => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  custom_elements: [{ 'content:encoded': edge.node.html }],
+                });
+              });
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { frontmatter: { date: DESC } }
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: '/rss.xml',
+            title: "Your Site's RSS Feed",
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
