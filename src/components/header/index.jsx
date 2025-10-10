@@ -20,6 +20,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
   const email = get(metadata, 'email', false);
   const github = get(metadata, 'github', false);
   const linkedin = get(metadata, 'linkedin', false);
+  const research = get(metadata, 'research', false);
 
   return (
     <div className={classes.wrapper}>
@@ -27,7 +28,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
         <Link to="/">
           <StaticImage
             className={classes.image}
-            src="../../images/profile.jpg"
+            src="../../images/andreas.jpg"
             alt={metadata.name}
             placeholder="dominantColor"
             layout="fullWidth"
@@ -67,6 +68,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
             <li className={classes.item}>
               <a className={classes.link} href={github}>
                 GitHub
+              </a>
+            </li>
+          )}
+          {research && (
+            <li className={classes.item}>
+              <a className={classes.link} href={research}>
+                Research
               </a>
             </li>
           )}

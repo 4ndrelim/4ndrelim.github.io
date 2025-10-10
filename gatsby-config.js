@@ -16,6 +16,8 @@ module.exports = {
     github: `https://github.com/4ndrelim`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/andre-linhk/`,
+    // Optional: Research URL
+    research: `https://dblp.org/pid/393/8428.html`,
     // Content of the About Me section
     about: `Hey! My name is Andre. I'm a final year studying Mathematics & Computer Science at the National University of Singapore (NUS).
       Machine learning is an exciting field at the intersection of mathematical theory (brutal math courses finally paying off.. *_*) and software engineering. There's no shortage of groundbreaking research in the ML landscape, and I aspire to be among those who bring these innovations into real-world applications.
@@ -26,7 +28,7 @@ module.exports = {
       {
         name: 'Machine Learning Research @ NUS',
         description:
-          'Part of Prof He Bing Sheng\'s research group, focusing on adaptations of the transformer architecture.',
+          'Part of Prof He Bing Sheng\'s research group, focusing on adaptations of the transformer architecture. Fortunate enough to make some publications along the way!',
         link: 'https://dblp.org/pid/393/8428.html',
       },
       {
@@ -38,6 +40,11 @@ module.exports = {
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
+      {
+        name: 'Software Engineer Intern @ JP MorganChase (Singapore), June 2025 - August 2025',
+        description: 'The bank was in its Agentic AI phase, so I learnt and built MCP server(s) for backend services.',
+        link: 'https://www.jpmorganchase.com/',
+      },
       {
         name: 'Software Engineer Intern @ QuantEdge (Singapore), May 2025 - June 2025',
         description: 'Software Engineering meets Quantitative Trading - Learnt how to support the trading team.',
