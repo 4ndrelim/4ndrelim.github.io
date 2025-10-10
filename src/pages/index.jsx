@@ -48,7 +48,7 @@ export const pageQuery = graphql`
         email
         github
         linkedin
-  research
+        research
         projects {
           name
           description
