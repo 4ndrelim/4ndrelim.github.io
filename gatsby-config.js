@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Andre Lin | My Simple Site`,
     // Description that goes under your name in main bio
-    description: `Aspiring software engineer and machine learning hobbyist, turning paper to pipeline.`,
+    description: `Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Email address
@@ -17,24 +17,30 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/andre-linhk/`,
     // Optional: Research URL
-    research: `https://dblp.org/pid/393/8428.html`,
+    research: `https://scholar.google.com/citations?user=8V3uqYAAAAAJ&hl=en`,
     // Content of the About Me section
     about: `Hey! My name is Andre. I'm a final year studying Mathematics & Computer Science at the National University of Singapore (NUS).
       Machine learning is an exciting field at the intersection of mathematical theory (brutal math courses finally paying off.. *_*) and software engineering. There's no shortage of groundbreaking research in the ML landscape, and I aspire to be among those who bring these innovations into real-world applications.
-      I am now particularly interested in the intricacies of parallelism in optimizing training code. My goal is to become capable of bridging the gap between software development and ML deployment.
-      Beyond academia, I am a casual climber (an occasional diver, and avid backpacker) and am part of the school's Mountaineering club and Climbing club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭, 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨 𝘤𝘶𝘤𝘬𝘰𝘰𝘴, we scaled the Himalayas and it was simply fantastic!`,
+      I am now particularly interested in the intricacies of parallelism in training/inference optimization and distributed systems. I aspire to design the infrastructure of next-generation ML systems and pipelines.
+      Beyond academia, I am a casual climber (an occasional diver, and avid backpacker) and I am part of the university's Mountaineering club and Climbing club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭𝘭𝘺 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨 𝘤𝘶𝘤𝘬𝘰𝘰𝘴, we scaled the Himalayas and it was simply fantastic!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
+        name: 'PaperDebugger: 𝘞𝘳𝘪𝘵𝘦 𝘉𝘦𝘵𝘵𝘦𝘳, 𝘎𝘦𝘵 𝘈𝘤𝘤𝘦𝘱𝘵𝘦𝘥',
+        description:
+          'Delivered as my Final Year Thesis project. A multi-agent system that integrates directly into Overleaf to help authors with LaTeX-aware debuging and revising academic papers. It is both a research contribution and an engineering system that I am now advancing toward a production-grade platform.',
+        link: 'https://www.paperdebugger.com/'
+        },
+      {
         name: 'Machine Learning Research @ NUS',
         description:
-          'Part of Prof He Bing Sheng\'s research group, focusing on adaptations of the transformer architecture. Fortunate enough to make some publications along the way!',
-        link: 'https://dblp.org/pid/393/8428.html',
+          'Part of Prof He Bingsheng\'s research group, focusing on distributed ML systems and adaptations of the transformer architecture. Fortunate enough to make some publications along the way!',
+        link: 'https://scholar.google.com/citations?user=8V3uqYAAAAAJ&hl=en',
       },
       {
         name: 'Data Structures & Algorithms Teaching Resource',
         description:
-          'My stint as a CS2040S (a course offered in NUS on DSA) has convinced several capable and passionate ex-students of mine to join me in developing an open-source teaching material for future cohorts. Lovely!',
+          'My stint as a CS2040S (Discrete Structures \& Algorithms) has convinced several capable and passionate ex-students of mine to join me in developing an open-source teaching material for future cohorts. Lovely!',
         link: 'https://github.com/4ndrelim/data-structures-and-algorithms/tree/main/src/dataStructures/heap',
       },
     ],
@@ -42,12 +48,12 @@ module.exports = {
     experience: [
       {
         name: 'Software Engineer Intern @ JP MorganChase (Singapore), June 2025 - August 2025',
-        description: 'The bank was in its Agentic AI phase, so I learnt and built MCP server(s) for backend services.',
+        description: 'The bank was in its Agentic AI phase, so I learnt, built, and extended custom MCP integration and validation logic for backend services.',
         link: 'https://www.jpmorganchase.com/',
       },
       {
         name: 'Software Engineer Intern @ QuantEdge (Singapore), May 2025 - June 2025',
-        description: 'Software Engineering meets Quantitative Trading - Learnt how to support the trading team.',
+        description: 'Software Engineering meets Quantitative Trading - Learnt how to support the trading team. Taught me zero-tolerance engineering.',
         link: 'https://www.quantedge.com.sg/',
       },
       {
@@ -57,7 +63,7 @@ module.exports = {
       },
       {
         name: 'Machine Learning Engineer Intern @ Pints.ai (Singapore), August 2024 - December 2024',
-        description: 'Worked on finetuning LLMs using data and model parallelism techniques to achieve comparable performance to larger models.',
+        description: 'Worked on finetuning LLMs using data and model parallelism techniques to contend with larger models at lower cost. Also learnt to design, build, and deploy ML pipelines in production.',
         link: 'https://www.pints.ai/',
       },
       {
@@ -67,7 +73,7 @@ module.exports = {
       },
       {
         name: 'School of Computing (NUS), August 2022 - August 2024',
-        description: 'Teaching Assistant for CS1010s (Programming Methodology in Python) and CS2040s (Data Structures and Algorithms) - Won an award!',
+        description: 'Teaching Assistant for CS1010s (Programming Methodology in Python) and CS2040s (Data Structures and Algorithms) - Won a teaching excellence award!',
         link: 'https://www.comp.nus.edu.sg/',
       },
     ],
@@ -88,7 +94,7 @@ module.exports = {
       },
       {
         name: 'Data Processing/Databases',
-        description: 'PostgreSQL, Spark, Flink',
+        description: 'PostgreSQL, Spark, Flink, Kafka',
       },
       {
         name: 'Backend',
