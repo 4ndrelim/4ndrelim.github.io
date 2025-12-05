@@ -10,11 +10,11 @@ description: 'Toska: An Unexpected Yearning'
 }
 </style>
 
-I'm travelling around Norway and currently on board sailing the arctic sea. This journey has been nothing short of marvelous - food, people, sights, all in equal measure. But these experiences deserve their own detailed recounting another time. Today's piece is about a memorable trip that left me yearning for more, the catalyst for many adventures in the Nordic regions and beyond.
+I'm travelling around Norway and currently on board sailing the arctic sea. This journey has been nothing short of marvelous — food, people, sights, all in equal measure. But these experiences deserve their own detailed recounting another time. Today's piece is about a memorable trip that left me yearning for more, the catalyst for many adventures in the Nordic regions and beyond.
 
 # Krabi, Thailand
 ## An Impromptu Dive Trip
-It was around early March when during one of the training sessions, the club's president, Ryan Jansen, asked me if I would like to join him in exploring Krabi's dive sites. He's an intriguing character to say the least. Somewhat of a ladies' man, though opinions vary wildly depending on who you ask. If his charm doesn't work, his lobster risotto will. Our mountaineering club tends to attract these sort of adventurous souls. <br/>And i'm not much different - _young and dumb_, so why not?
+It was around early March when during one of the training sessions, the club's president, Ryan Jansen, asked me if I would like to join him in exploring Krabi's dive sites. He's an intriguing character to say the least. Somewhat of a ladies' man, though opinions vary wildly depending on who you ask. If his charm doesn't work, his lobster risotto will. Our mountaineering club tends to attract these sort of adventurous souls. <br/>And i'm not much different — _young and dumb_, so why not?
 
 The only hitch I anticipated was the tight schedule; I would be heading to Krabi just 2 days after exams and would be back just 2 days before my month-long trip in Nepal. Interestingly, I wasn't alone in this mad rush, a fellow teammate set to join the Himalayan trip was just as spontaneously silly.
 
@@ -38,7 +38,7 @@ The only hitch I anticipated was the tight schedule; I would be heading to Krabi
 
 Food there was amazing and fairly affordable. Dishes like fried rice, Tom Yum were a constant presence at every dinner's table. But my god, it was the Thai-fried omelettes that never fail to impress. That perfect blend of crispiness and tenderness was irresistible, and indeed, I ordered one after another. My love for eggs became a well-known fact among the restuarant staff at every meal.
 
-I also recalled an interesting encounter with the waiters on one of the nights. We had travelled a long way and finally reached [Ruen Mai restaurant](https://www.tripadvisor.com.sg/Restaurant_Review-g297927-d7297906-Reviews-Ruenmai_Krabi-Krabi_Town_Krabi_Province.html) (Strongly recommended if you're nearby!). Famished, we quickly ordered a myriad of dishes and it wasn't long before the table big enough for perhaps 8-9 but sitting the 5 of us, were fully filled. We overheard the staff giggling and one even sheepishly questioned if we could finish.
+I also recalled an interesting encounter with the waiters on one of the nights. We had travelled a long way and finally reached [Ruen Mai restaurant](https://www.tripadvisor.com.sg/Restaurant_Review-g297927-d7297906-Reviews-Ruenmai_Krabi-Krabi_Town_Krabi_Province.html) (Strongly recommended if you're nearby!). Famished, we quickly ordered a myriad of dishes and it wasn't long before the table big enough for perhaps 8-9 but sitting the 5 of us, were fully filled. We overheard the staff giggling and one sheepishly questioned if we could finish.
 
 <div style="width: 50%; height: auto; margin: 0 auto;">
     <img src="amazing_vegetables.jpg" alt="Amazing Vegetables" style="width: 100%; height: auto;">
@@ -88,11 +88,11 @@ And they can be quite stubborn after all.
 <details>
     <summary>China</summary>
     <span style="font-size:13px;" class="info">
-        I should add his parents (at least one of them, can't quite recall) was originally from mainland China. So their family might have some relatives or connections there. Or not. Maybe he was just YOLO-ing.
+        I should add his parents (at least one of them, can't quite recall) was originally from mainland China. So their family might have some relatives or connections there. Or not. Maybe he was just YOLO-ing, and honestly, I wouldn't be surprised in the least.
     </span>
 </details>
 
-In one particular incident, with escape from the army never far from his mind, his series of 'experiments' - as he dubbed them - unexpectedly landed him in Beijing. He brought nothing, except whatever cash he had on him and his phone. But thought to himself that he would never return to Singapore. He wanted to start anew elsewhere. 
+In one particular incident, with escape from the army never far from his mind, his series of 'experiments', as he dubbed them, unexpectedly landed him in Beijing. He brought nothing, except whatever little cash he had on him and his phone. But thought to himself that he would never return to Singapore. He wanted to start anew elsewhere. 
 
 With tears in his eyes, he informed his parents. His concerned father flew over immediately. He hugged his son and told him it's fine if he wishes to leave permanently. That was much needed solace for Rizhao, and he broke into tears. His father intended to return the next day, and left some cash with Rizhao the night before. But when dawn broke, he managed to goad his son onto the flight back to Singapore. <br/>
 It seems he understands how to deal with his troubled son well.
@@ -154,9 +154,9 @@ Having only the equivalent of 80SGD in his pocket, he wandered the heartlands of
 <br/>
 
 ### At Peace, At Last
-Fortunately, things turned for the better after his exchange. He landed himself at a reputable firm, committed further to climbing, eventually found a lovely girl, became a vegan (??), travelling around, and most importantly, he seems at peace now.
+Fortunately, his story ends well. After returning from exchange, he landed himself at a reputable firm, committed further to climbing, eventually met a lovely girl — who has since become his fiancée, became a vegan (??), continued travelling around, and most importantly, he seems at peace now.
 
-Oh, I suppose one thing that didn't fare well was his GPA. exchange abroad gave him a new perspective on life, and he felt school just wasn't worth his time. So, he took on a full-time internship while juggling other commitments on top of school. His GPA plummeted from well within First-Class to the depths of oblivion... but who cares? He landed his [dream job](https://stripe.com/en-sg/billing?gad_campaignid=22254888863&gad_source=1&gbraid=0AAAAADKNRO52MVwVTNPDyG-s6ZqT1eDES&gclid=Cj0KCQjw3aLHBhDTARIsAIRij58Sbx9rb3Sl7Nj0_7JoZvppKWKfVcHSFrvN1BXrWoWAk5Czoj2uGtEaAjtXEALw_wcB&utm_adposition=&utm_campaign=APAC_SG_EN_Search_Brand_Billing_EXA-PHR-22254888863&utm_content=733491423048&utm_device=c&utm_matchtype=e&utm_medium=cpc&utm_source=google&utm_term=stripe+billing+platform) anyway.
+Oh, I suppose one thing that didn't fare well was his GPA. Exchange abroad gave him a new perspective on life, and he felt school just wasn't worth his time. So, he took on a full-time internship while juggling other commitments on top of school. His GPA plummeted from well within First-Class to the depths of oblivion.. but who cares? He landed his [dream job](https://stripe.com/en-sg/billing?gad_campaignid=22254888863&gad_source=1&gbraid=0AAAAADKNRO52MVwVTNPDyG-s6ZqT1eDES&gclid=Cj0KCQjw3aLHBhDTARIsAIRij58Sbx9rb3Sl7Nj0_7JoZvppKWKfVcHSFrvN1BXrWoWAk5Czoj2uGtEaAjtXEALw_wcB&utm_adposition=&utm_campaign=APAC_SG_EN_Search_Brand_Billing_EXA-PHR-22254888863&utm_content=733491423048&utm_device=c&utm_matchtype=e&utm_medium=cpc&utm_source=google&utm_term=stripe+billing+platform) anyway.
 
 <div style="color:plum">
   <b>Andre</b>: <em>"Hey, how come you stopped writing about your encounters?"</em>
