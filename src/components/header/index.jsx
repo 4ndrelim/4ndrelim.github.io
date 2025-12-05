@@ -1,7 +1,8 @@
 import { Link } from 'gatsby';
 import get from 'lodash/get';
-import React from 'react';
+import React, { useState } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
+import { useLocation } from '@reach/router';
 
 const classes = {
   wrapper: 'block mb-6 md:flex',
@@ -13,6 +14,8 @@ const classes = {
   list: 'mt-6 uppercase tracking-wider',
   item: 'inline list-none pr-4',
   link: 'inline-block py-2 font-semibold text-xs text-gray-600 hover:text-black',
+  modal: 'fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50',
+  modalImage: 'max-w-md max-h-screen rounded-full',
 };
 
 const Header = ({ metadata = {}, noBlog = false }) => {
@@ -22,9 +25,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
   const linkedin = get(metadata, 'linkedin', false);
   const research = get(metadata, 'research', false);
 
+  // meta
+  const location = useLocation();
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
   return (
     <div className={classes.wrapper}>
-      <div className={classes.imageWrapper}>
+      <div className={classes.imageWrapper} onClick={() => location.pathname === '/' ? setIsModalOpen(true) : undefined}>
         <Link to="/">
           <StaticImage
             className={classes.image}
@@ -35,6 +42,18 @@ const Header = ({ metadata = {}, noBlog = false }) => {
           />
         </Link>
       </div>
+
+      {isModalOpen && (
+        <div className={classes.modal} onClick={() => setIsModalOpen(false)}>
+          <StaticImage
+            className={classes.modalImage}
+            src="../../images/andreas.jpg"
+            alt={metadata.name}
+            placeholder="dominantColor"
+          />
+        </div>
+      )}
+
       <div className={classes.contentWrapper}>
         <h1 className={classes.name}>
           <Link to="/">{metadata.name}</Link>
