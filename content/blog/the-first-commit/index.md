@@ -19,11 +19,11 @@ I was the only one (save the exchanger) not to go, so yeah FOMO 😔 was strong.
 
 ![friends](lovely_friends.jpeg)
 
-Anyway, I was going about my own preparation (mostly LeetCode grind. **Disgusting - yes, I know**) when someone in my Computing cohort announced that he has compiled a list of firms, mostly top and likely out-of-my-league ones, and has kindly decided to share with everyone else. Naturally, this is a great thing! And it saves me time having to look up some pesky companies' careers pages that tend to avoid LinkedIn or other job searching sites. But I glanced through the profile of interested applicants, a close friend's one as well, and thought to myself,
+Anyway, I was going about my own preparation (mostly LeetCode grind. **Disgusting — yes, I know**) when someone in my Computing cohort announced that he has compiled a list of firms, mostly top and out-of-my-league ones, and has kindly decided to share with everyone else. Naturally, this is a great thing! And it saves me time having to look up some pesky companies' careers pages that tend to avoid LinkedIn or other job searching sites. But I glanced through the profile of interested applicants, a close friend's one as well, and thought to myself,
 
 <p align="center"><em>damn.. <br/>they've got some real solid portfolios and pretty sites</em>..</p>
 
-It made me anxious. I thought about making a site from scratch too, but felt my time could be better spent elsewhere, like writing now LOL 🫣. But realistically, I doubt i'll have the commitment to see it through.
+It made me anxious. I thought about making a site from scratch too, but felt my time could be better spent elsewhere, like writing now LOL 🫣. Realistically, I'm not sure I have the commitment to build an entire website from scratch.
 
 I have some reservations about how consequential having a (very simple) portfolio site would be. But I suppose it does provide some form of self-assurance, if nothing else.
 

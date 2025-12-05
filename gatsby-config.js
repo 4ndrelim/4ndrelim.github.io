@@ -47,7 +47,7 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Software Engineer Intern @ JP MorganChase (Singapore), June 2025 - August 2025',
+        name: 'Software Engineer Intern @ JPMorganChase (Singapore), June 2025 - August 2025',
         description: 'The bank was in its Agentic AI phase, so I learnt, built, and extended custom MCP integration and validation logic for backend services.',
         link: 'https://www.jpmorganchase.com/',
       },
@@ -58,12 +58,12 @@ module.exports = {
       },
       {
         name: 'Backend Engineer Intern @ Apple (Singapore), January 2025 - May 2025',
-        description: 'Gained practical knowledge on system design and was taught what simplicity, reliability, and sustainability looks like.',
+        description: 'Gained practical knowledge on system design and was taught what simple, reliable, sustainable, and fault-tolerant systems look like.',
         link: 'https://www.apple.com/',
       },
       {
         name: 'Machine Learning Engineer Intern @ Pints.ai (Singapore), August 2024 - December 2024',
-        description: 'Worked on finetuning LLMs using data and model parallelism techniques to contend with larger models at lower cost. Also learnt to design, build, and deploy ML pipelines in production.',
+        description: 'Worked on finetuning LLMs using data and model parallelism techniques to contend with larger models at lower cost. Also learnt to design, build, and deploy ML pipelines in production. I trace my origins here.',
         link: 'https://www.pints.ai/',
       },
       {
@@ -73,7 +73,7 @@ module.exports = {
       },
       {
         name: 'School of Computing (NUS), August 2022 - August 2024',
-        description: 'Teaching Assistant for CS1010s (Programming Methodology in Python) and CS2040s (Data Structures and Algorithms) - Won a teaching excellence award!',
+        description: 'Teaching Assistant for CS1010s (Programming Methodology in Python) and CS2040s (Data Structures and Algorithms); Won a teaching excellence award!',
         link: 'https://www.comp.nus.edu.sg/',
       },
     ],

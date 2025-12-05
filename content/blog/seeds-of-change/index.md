@@ -139,7 +139,7 @@ Having only the equivalent of 80SGD in his pocket, he wandered the heartlands of
 <details>
     <summary>An Interesting Encounter</summary>
     <span style="font-size:13px; color: tan;">
-        During his travels, he encountered two other broken souls on a bus (which, surprise surprise, he did not know headed where..). One was a young woman in her 20s who had once worked at a prestigious bank in the States but was now on a healing journey after a dreadful incident with a male superior. The other was an old man, either widowed or abandoned by his wife - I can't quite recall - who had broken bones from years of working as a saturation diver under the sea. Rizhao felt his grief paled in comparison to theirs, but the three of them bonded over their shared sense of loneliness and ended up sharing drinks at a bar. 
+        During his travels, he encountered two other broken souls on a bus (which, surprise surprise, he did not know headed where..). One was a young woman in her 20s who had once worked at a prestigious bank in the States but was now on a healing journey after a dreadful incident with a male superior. The other was an old man, either widowed or abandoned by his wife — I can't quite recall — who had broken bones from years of working as a saturation diver under the sea. Rizhao felt his grief paled in comparison to theirs, but the three of them bonded over their shared sense of loneliness and ended up sharing drinks at a bar. 
         <br/>
         <br/>
         I suppose you'll often find solace among fellow solo travelers. And I do enjoy similar fateful encounters in my own travels.
@@ -172,7 +172,7 @@ Oh, I suppose one thing that didn't fare well was his GPA. exchange abroad gave 
 ## Somewhere, Beyond the Sea
 Rizhao's life stories left me with a heavy heart. Already, the boat rides into the sunset, the breeze brushing face, the contemplative discussions, left me brooding over my own direction in life. As I looked out over the horizon on one of the many rides, a song I haven't played in awhile re-surfaced in my mind. I had a hearty time singing with the boys.
 
-Bobby Darin's _Beyond The Sea_ would go on and live rent-free on loop in my head for the next few months. In joyous times, I'd sing along with it; on most days, just a hum. It tide me through tougher times and brought back fond memories of my experiences in Krabi and Nepal. 
+[Bobby Darin's _Beyond The Sea_](https://www.youtube.com/watch?v=Sq995BHejPU) would go on and live rent-free on loop in my head for the next few months. In joyous times, I'd sing along with it; on most days, just a hum. It tided me through tougher times and brought back fond memories of my experiences in Krabi and Nepal. 
 
 Spotify informed I've replayed it 439 times since May. Proud fan.
 

@@ -111,12 +111,12 @@ Now, I am back at square one. It didn’t help, emotionally, seeing close friend
   Still, can't help but feel <i>Envy creeping in.</i>
 </span>
 
-More concerning, I started having doubts. Perhaps i'm doing it all wrong. Maybe I could have better focused my efforts on certain aspects. Maybe it was the way I carried myself. Maybe I failed to explain my thoughts with sufficient clarity. Maybe I just wasn't a good fit for the company. Maybe I could have choked less. 
+More concerning, I started having doubts. Perhaps i'm doing it all wrong. Maybe I could have better focused my efforts on certain aspects. Maybe it was the way I carried myself. Maybe I failed to explain my thoughts with sufficient clarity. Maybe I just wasn't a good fit for the company. Maybe I could've choked less. 
 
 Bunch of maybes, no idea where to start working on. But something has to change, and I will ponder more over the winter break.
 
 ### Not All Was Bad
-2023 was also a re-defining year. **The seeds of change have been sowed**. I travelled a lot more this year, some with friends, some alone. Two trips really stood out, during which I found myself becoming increasingly introspective. From plunging into the beautiful depths of the sea to scaling the majestic heights of the Himalayas, I've done a fair bit of living. For once, I truly felt that there is so much more to life than academia and work. 
+2023 was also a re-defining year. [**The seeds of change have been sowed**](../seeds-of-change/). I travelled a lot more this year, some with friends, some alone. Two trips really stood out, during which I found myself becoming increasingly introspective. From plunging into the beautiful depths of the sea to scaling the majestic heights of the Himalayas, I've done a fair bit of living.<br>For the first time, I truly felt that there is so much more to life than academia and work. 
 
 I've also had the opportunity to speak with several established mountaineers. And it's high-time to start pondering </br>
 <span class="thoughts">
@@ -131,6 +131,8 @@ I've also had the opportunity to speak with several established mountaineers. An
 So I started the semester all ra-ra and ambitious. Found myself in a slump a couple of times along the way and questioning why the heck am I doing this to myself. Do I really need to pile on such a heavy academic load? Probably not, with the modules I have taken, I can opt for a pretty easy route with minimal load till Y4S2. And this would leave me more room in other ventures. <br/>**Yet, the persistent thought that there's always more to learn lingers.** 
 
 This thirst for more knowledge isn't too surprising. After all, ML is a huge field encompassing various complex sub-disciplines. There's the mathematics and algorithms aspect. Then, there's the whole bulk with OS and parallelism to optimize training time. A good ML engineer would also need to have strong mastery over databases and managing data pipelines. And if we discuss real-time training and scaling resources, it's difficult not to mention cloud computing. All these are deep, deep rabbit-holes. 
+
+<p align="center"><em>The man who chases two rabbits catches neither.</em></p>
 
 But I acknowledge I should not be biting off more than I can chew. I do feel burnt-out at times and I doubt that's any good health-wise nor conducive to learning. Knowledge retention is one other issue I am currently grappling with - somehow i'm forgetting quicker than I would like and concepts get mumbled-jumbled up in my head if I leave them alone for too long. An intentional effort to recap needs to be present and I suppose this calls for a break from another ridiculous semester. <br/>
 <span class="thoughts">
