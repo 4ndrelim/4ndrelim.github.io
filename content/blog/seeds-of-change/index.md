@@ -18,6 +18,8 @@ It was around early March when during one of the training sessions, the club's p
 
 The only hitch I anticipated was the tight schedule; I would be heading to Krabi just 2 days after exams and would be back just 2 days before my month-long trip in Nepal. Interestingly, I wasn't alone in this mad rush, a fellow teammate set to join the Himalayan trip was just as spontaneously silly.
 
+![dive group](diving_group.jpg)
+
 ## Wonderful Food
 
 <div>
@@ -42,6 +44,10 @@ I also recalled an interesting encounter with the waiters on one of the nights. 
 
 <div style="width: 50%; height: auto; margin: 0 auto;">
     <img src="amazing_vegetables.jpg" alt="Amazing Vegetables" style="width: 100%; height: auto;">
+</div>
+
+<div style="width: 62%; height: auto; margin: 0 auto;">
+    <img src="food.jpg" alt="More Food" style="width: 62%; height: auto;">
 </div>
 
 Imagine the shock on their faces the second time they had to return with the menu 🙃
