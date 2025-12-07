@@ -28,7 +28,7 @@ module.exports = {
       {
         name: 'PaperDebugger: 𝘞𝘳𝘪𝘵𝘦 𝘉𝘦𝘵𝘵𝘦𝘳, 𝘎𝘦𝘵 𝘈𝘤𝘤𝘦𝘱𝘵𝘦𝘥',
         description:
-          'Delivered as my Final Year Thesis project. A multi-agent system that integrates directly into Overleaf to help authors with LaTeX-aware debuging and revising academic papers. It is both a research contribution and an engineering system that I am now advancing toward a production-grade platform.',
+          'Delivered as my Final Year Thesis project. A multi-agent system that integrates directly into Overleaf to help authors with LaTeX-aware debuging and revising academic papers. I oversee our custom (currently close-sourced) backend orchestration logic — XtraMCP. It is both a research contribution and an engineering system that I, alongside few others, are now advancing toward a production-grade platform.',
         link: 'https://www.paperdebugger.com/'
         },
       {
