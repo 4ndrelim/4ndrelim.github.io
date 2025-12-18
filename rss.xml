@@ -1,4 +1,597 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Dec 2025 22:22:26 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Sun, 18 Aug 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate Singapore - similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Krabi Yet Again. Old Friends, New Adventures.]]></title><link>https://4ndrelim.github.io/blog/krabi/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/krabi/</guid><pubDate>Tue, 21 May 2024 03:23:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Seeds of Change (2)]]></title><description><![CDATA[“We cannot lower the mountains, therefore, we must elevate ourselves.” Himalayas, Nepal The 5-day extraordinary Krabi trip left me with a…]]></description><link>https://4ndrelim.github.io/blog/seeds-of-change-2/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/seeds-of-change-2/</guid><pubDate>Tue, 09 Jan 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Dec 2025 11:39:04 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Sun, 18 Aug 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate Singapore - similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Krabi Once More: Old Friends, New Connections]]></title><description><![CDATA[Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are kind, the food is cheap, the backpacking…]]></description><link>https://4ndrelim.github.io/blog/krabi/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/krabi/</guid><pubDate>Sat, 01 Jun 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+.info {
+    color: #008080; /* teal */
+}
+&lt;/style&gt;
+&lt;p&gt;Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are kind, the food is cheap, the backpacking vibe is alive and well, and Thai people somehow manage to be warm without trying too hard. It’s a quintessential backpacker’s place for youngsters like us who still think sleep debt is negotiable.&lt;/p&gt;
+&lt;p&gt;Last year, I got close to Rizhao (see this &lt;a href=&quot;../seeds-of-change/&quot;&gt;post&lt;/a&gt;). We shared plenty over that trip, and some of the things he said stuck with me longer than I expected. This year, it’s my turn to leave an impact. I’m bringing 34 fellow climbers, some of whom have never touched outdoor rocks, into the wild and hoping everyone comes back with all their skin.&lt;/p&gt;
+&lt;p&gt;This trip was the culmination of a year’s worth of effort. A product of my brainchild (Well, not exactly, see the dropdown below). Over the past year, I’ve barged through hurdles and regulations with ambitious, uncharted outdoor climbing plans for the school. Those were uncertain times, and I’ll admit there were moments where the entire plan was held together not by backup options but by hustle and the kind of faith you only earn after it works. Not everyone was fully onboard, and coordination was difficult, and sometimes things looked bleak.&lt;/p&gt;
+&lt;p&gt;But here we are :)&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;The OGs&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+      What we pulled off wasn’t a one-man job. If anything, it was me imposing on a number of people. These are the OGs who stuck with me throughout:&lt;br&gt;
+        1. Wen Wu — Early on, we clashed. But once I had gotten his unwavering support, my goodness did we accelerate.&lt;br&gt;&lt;br&gt;
+        2. Chi Ying — The team player you&apos;d want. He may voice apprehension but he follows through. I appreciate the trust he showed in me. Far too many times i&apos;ve relied on him, and for that, I am grateful.&lt;br&gt;&lt;br&gt;
+        3. Na Wei — Getting her to understand what needs to be done is half the battle. Okay that might be harsh lol. But once she locks in, she delivers.&lt;br&gt;&lt;br&gt;
+        4. Joan — She is the only one that isn&apos;t from Mountaineering club but somehow found it in her to tolerate my last-minute demands since Day 1 as marketing lead. Mad. &lt;br&gt;&lt;br&gt;
+        5. Giovanni — This outdoor climbing initiative was technically his vision. But he swayed me into engineering the solution. A trusted advisor.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;h1&gt;First Phase: Main Gang Climbs&lt;/h1&gt;
+&lt;h2&gt;New Friends &amp;#x26; Old Friends&lt;/h2&gt;
+&lt;p&gt;The past year brought new faces into the journey. A few became frequent climbing buddies. But everyone was excited for what was coming. It was surreal that it was finally happening.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2112232c9d906ccf4a7cd5cc0959bf5d/eea4a/lancey.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAUTYxvJwf//EABsQAQEAAQUAAAAAAAAAAAAAAAECAxESISIz/9oACAEBAAEFApggxu9rRb8cfew4/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgIBBQAAAAAAAAAAAAAAASEAEQIQEjFRYf/aAAgBAQAGPwI5ECh7KBfLl7xG0DDfWn//xAAdEAACAgIDAQAAAAAAAAAAAAAAAREhQVExYZHx/9oACAEBAAE/IQUEmFy2Pwu0j2iF+RnsXGRhR9x//9oADAMBAAIAAwAAABDnH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxDWAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QmDZ//8QAHBABAQADAQADAAAAAAAAAAAAAREAITFxUZGx/9oACAEBAAE/EEHOgpC818+ZF6OjhOlfmNYAC/ZqEmBTKMLBBqz25yVVE6ScnMgARDkVz//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Picture of lance at the airport&quot; title=&quot;&quot; src=&quot;/static/2112232c9d906ccf4a7cd5cc0959bf5d/1c72d/lancey.jpg&quot; srcset=&quot;/static/2112232c9d906ccf4a7cd5cc0959bf5d/a80bd/lancey.jpg 148w,
+/static/2112232c9d906ccf4a7cd5cc0959bf5d/1c91a/lancey.jpg 295w,
+/static/2112232c9d906ccf4a7cd5cc0959bf5d/1c72d/lancey.jpg 590w,
+/static/2112232c9d906ccf4a7cd5cc0959bf5d/a8a14/lancey.jpg 885w,
+/static/2112232c9d906ccf4a7cd5cc0959bf5d/fbd2c/lancey.jpg 1180w,
+/static/2112232c9d906ccf4a7cd5cc0959bf5d/eea4a/lancey.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Lance at the airport, picturesque as always&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Day 1 was smooth enough. Plane. Land. Chartered bus. Villas. Food. Some parading and shameless flexing with a Thai diner auntie. The excitement and chatter that night brought little sleep.&lt;/p&gt;
+&lt;p&gt;We were overly specific with our choice of villas and we can thank Na Wei for scouting and camping for the best deals that met our annoyingly strict demands. After all, it matters. A good common area, decent amenities, enough space to breed shenanigans, laughter, and simple fun.&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;Well, there was one slight hiccup..&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+      This trip marked the end of my 1-year term as EXCO (leadership role) in both the Mountaineering and Climbing club. It&apos;s also It&apos;s also where I identified two prospective understudies, one from each club, to take over and continue collaboration.
+      &lt;br&gt;
+      Nyan (Mountaineering club) was also the logistics guy for the mountain of gear we were hauling. He underestimated the time needed to get to the airport and we nearly couldn&apos;t check-in our massive baggage. _What a scare_.
+      &lt;br&gt;
+      Somehow, we managed to convince airport staff to let it through. Partly because of flight delays, but mostly because of Nyan&apos;s shamelessness. He is a total clown, but somehow has this scrappy ability to deliver. Far too many incidents later, he earned the title of “weirdest host.” His humour is.. for the bros. Maybe not so much for the ladies.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/8af2bf476abad2b36d2a054edac64768/6a068/timothy.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd85xlkuBTjYpVZi8l//xAAcEAACAQUBAAAAAAAAAAAAAAABAhIAAxEhMUL/2gAIAQEAAQUCTjCmvNkGJltFEXbQkLgZaZQR5Xn/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/Aahj/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVyP/8QAHxAAAgEEAgMAAAAAAAAAAAAAAAERAhAhMWFxEiJR/9oACAEBAAY/Aho9aFCxq3OzVT6RgTmB+VcPoz8Hxb//xAAfEAACAgIBBQAAAAAAAAAAAAABEQAxIUFRYXGBkdH/2gAIAQEAAT8hCj7RHIsTAnbkMBrUckIKmdz9IYkEdnpBBQaxbhG0ajAlsfUTdZYhHwn/2gAMAwEAAgADAAAAEBA08v/EABcRAQEBAQAAAAAAAAAAAAAAAAARATH/2gAIAQMBAT8QiY4iX//EABgRAAMBAQAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/EHwolwaU/8QAHRABAAMAAwADAAAAAAAAAAAAAQARITFBUWFxof/aAAgBAQABPxDUjQdOC45atindvXzEIwgoUoitnpPsbgUgLOPOOJQgGIgv9XM2nRMHRc5kjawD0Ny4wtDzAnu7ElKtRlpbqAeLop5D7iqLZguf/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;On a multi-pitch with Timothy&quot; title=&quot;&quot; src=&quot;/static/8af2bf476abad2b36d2a054edac64768/1c72d/timothy.jpg&quot; srcset=&quot;/static/8af2bf476abad2b36d2a054edac64768/a80bd/timothy.jpg 148w,
+/static/8af2bf476abad2b36d2a054edac64768/1c91a/timothy.jpg 295w,
+/static/8af2bf476abad2b36d2a054edac64768/1c72d/timothy.jpg 590w,
+/static/8af2bf476abad2b36d2a054edac64768/a8a14/timothy.jpg 885w,
+/static/8af2bf476abad2b36d2a054edac64768/6a068/timothy.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Multi-pitching with Timothy, moments before diaster.. :&apos;)&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;em&gt;but a story for another time.&lt;/em&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Here’s Timothy, the understudy from Climbing Club. I’m grateful we met. And he’s the one who will ensure my efforts continue. He’s always been a good sport about everything. His optimism, genuineness, and willingness to emotionally invest in friendships are traits I value, and I keep such people close.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2c92328c88687f9d89c096e28c06f5bf/6a068/flexing.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAGxJ3luahPIbn0GmAw1/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAERIhQ//aAAgBAQABBQKXqZmkpGAQdF6hZjNGOSW8K5//xAAYEQEAAwEAAAAAAAAAAAAAAAAAARESMf/aAAgBAwEBPwGpW6zL/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8BY//EAB0QAAIBBAMAAAAAAAAAAAAAAAABMQIQESESQaH/2gAIAQEABj8Cknyz3JroycsMTWESbKbf/8QAHxABAAICAgIDAAAAAAAAAAAAAQARITFBgVFhcaGx/9oACAEBAAE/IRo26zAavuPl9RCi7vUQHJmyY/lFXqZ5lQ9i+437RCpY/pKUan//2gAMAwEAAgADAAAAECM3Df/EABkRAAIDAQAAAAAAAAAAAAAAAAABEBEhUf/aAAgBAwEBPxDkWE9KL//EABgRAQEAAwAAAAAAAAAAAAAAABEAASEx/9oACAECAQE/ECctQE4v/8QAHRABAAMBAAIDAAAAAAAAAAAAAQARMSGRsUFxgf/aAAgBAQABPxBWu45VF4I8WhaFA8xuvupfMtUGnsastDUK6d7HjCMuHi2yjwej9bAdghjrWPbp3YqET5Ymq+L7wdVlLX9n/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Wan Loong flexing his biceps with a local&quot; title=&quot;&quot; src=&quot;/static/2c92328c88687f9d89c096e28c06f5bf/1c72d/flexing.jpg&quot; srcset=&quot;/static/2c92328c88687f9d89c096e28c06f5bf/a80bd/flexing.jpg 148w,
+/static/2c92328c88687f9d89c096e28c06f5bf/1c91a/flexing.jpg 295w,
+/static/2c92328c88687f9d89c096e28c06f5bf/1c72d/flexing.jpg 590w,
+/static/2c92328c88687f9d89c096e28c06f5bf/a8a14/flexing.jpg 885w,
+/static/2c92328c88687f9d89c096e28c06f5bf/6a068/flexing.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Day 1 and here&apos;s our first clown flexing with local Thai ladies.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Glad to also have familiar faces and fellow mountaineers join on the trip. Here’s Evie and Huzefa.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/759a4730d0b85c2d82bb18270d5b6c75/eea4a/old_friends_before_disaster.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABcFRmtcA//8QAGBABAAMBAAAAAAAAAAAAAAAAAQACESP/2gAIAQEAAQUCMalyMs8nCas//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AYj/xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIRITFh/9oACAEBAAY/AravBJZZpGPD0u2f/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8hQdq1bLnQ7+Rq8l9qWjMBp3Fbi25uAMFz/9oADAMBAAIAAwAAABBbL//EABcRAAMBAAAAAAAAAAAAAAAAAAARUQH/2gAIAQMBAT8Q1wSH/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAFRcf/aAAgBAgEBPxBJTR//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhQTFRYXGhsf/aAAgBAQABPxAo3PDp3xAmhCBTnvjxUFKEVkz8hVmQpmmn9mQMWNFPqEtoocE//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Evie and Huzefa&quot; title=&quot;&quot; src=&quot;/static/759a4730d0b85c2d82bb18270d5b6c75/1c72d/old_friends_before_disaster.jpg&quot; srcset=&quot;/static/759a4730d0b85c2d82bb18270d5b6c75/a80bd/old_friends_before_disaster.jpg 148w,
+/static/759a4730d0b85c2d82bb18270d5b6c75/1c91a/old_friends_before_disaster.jpg 295w,
+/static/759a4730d0b85c2d82bb18270d5b6c75/1c72d/old_friends_before_disaster.jpg 590w,
+/static/759a4730d0b85c2d82bb18270d5b6c75/a8a14/old_friends_before_disaster.jpg 885w,
+/static/759a4730d0b85c2d82bb18270d5b6c75/fbd2c/old_friends_before_disaster.jpg 1180w,
+/static/759a4730d0b85c2d82bb18270d5b6c75/eea4a/old_friends_before_disaster.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;And then Huzefa sprained his ankle the next day.. while being belayed by Evie..&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Fun memories.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Climbs&lt;/h2&gt;
+&lt;p&gt;We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering would also probably form a breeding ground for conflict. I entrusted Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here’s my gang at Northwall.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/09f5418015e9683d3fab4960ae6cb611/eea4a/climb_party_1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABY+SJQMxh/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECEQMS/9oACAEBAAEFAptGwz1Jjb0XPV//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAIAQIBAT8BsZf/xAAbEAACAgMBAAAAAAAAAAAAAAAAARFRECEiYf/aAAgBAQAGPwLrTPcS2K7Jk//EABwQAAMAAgMBAAAAAAAAAAAAAAABESGBMUFxkf/aAAgBAQABPyFSRsGupNuT0+jyEx2KaatBKKZP/9oADAMBAAIAAwAAABAnD//EABcRAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QxUv/xAAXEQADAQAAAAAAAAAAAAAAAAAAEUFR/9oACAECAQE/EG0fT//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExYfD/2gAIAQEAAT8QtHocJX3YYEIxNUmzy3pWXDsZQyFbFTZ0e2exfAi0n//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Climb party 1 at Northwall&quot; title=&quot;&quot; src=&quot;/static/09f5418015e9683d3fab4960ae6cb611/1c72d/climb_party_1.jpg&quot; srcset=&quot;/static/09f5418015e9683d3fab4960ae6cb611/a80bd/climb_party_1.jpg 148w,
+/static/09f5418015e9683d3fab4960ae6cb611/1c91a/climb_party_1.jpg 295w,
+/static/09f5418015e9683d3fab4960ae6cb611/1c72d/climb_party_1.jpg 590w,
+/static/09f5418015e9683d3fab4960ae6cb611/a8a14/climb_party_1.jpg 885w,
+/static/09f5418015e9683d3fab4960ae6cb611/fbd2c/climb_party_1.jpg 1180w,
+/static/09f5418015e9683d3fab4960ae6cb611/eea4a/climb_party_1.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Northwall was filled with limestones. The morning sun filtering through the mist gave it a sort of raw, elemental beauty.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/c47519ddadceeaf5165402db1ee58827/eea4a/nice_rocks.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABWujnFkAH/8QAGhABAAIDAQAAAAAAAAAAAAAAAgEDEBESIv/aAAgBAQABBQKqzRZjApPFgMS49f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAcEAABAwUAAAAAAAAAAAAAAAABABAREiEiMUH/2gAIAQEABj8CpIsVhppKiON//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFRYf/aAAgBAQABPyEUB1YEWz9QZQcPCLrK1jU26z//2gAMAwEAAgADAAAAENMf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QBGf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EHWkP//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQWHR/9oACAEBAAE/EHUF0WFr9ihB5sMqKRseEowqQcQ3OPFa3ju4oOprGLn/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Limestones at Northwall&quot; title=&quot;&quot; src=&quot;/static/c47519ddadceeaf5165402db1ee58827/1c72d/nice_rocks.jpg&quot; srcset=&quot;/static/c47519ddadceeaf5165402db1ee58827/a80bd/nice_rocks.jpg 148w,
+/static/c47519ddadceeaf5165402db1ee58827/1c91a/nice_rocks.jpg 295w,
+/static/c47519ddadceeaf5165402db1ee58827/1c72d/nice_rocks.jpg 590w,
+/static/c47519ddadceeaf5165402db1ee58827/a8a14/nice_rocks.jpg 885w,
+/static/c47519ddadceeaf5165402db1ee58827/fbd2c/nice_rocks.jpg 1180w,
+/static/c47519ddadceeaf5165402db1ee58827/eea4a/nice_rocks.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;The plan was simple. Climb, order food and drinks, climb more, order more drinks (milkshakes were cheap and honestly lifesaving after an intense climb) before calling it a good day. Everyone was as vigilant as they were excited. I didn’t have to babysit much, and managed to clock 4-5 nice climbs every day. &lt;em&gt;Nice&lt;/em&gt;.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/06f05707c4acc3f7ed1863088c4755cb/eea4a/andre_climb.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 58.10810810810811%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFsq1FhRgH/xAAaEAABBQEAAAAAAAAAAAAAAAARAAECBBAT/9oACAEBAAEFArbc4FsuICS//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACECERQWH/2gAIAQEABj8Czs0qho7P/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBgf/aAAgBAQABPyGl+Z4QZ3F3nZuzjSUECsYz/9oADAMBAAIAAwAAABAX7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAAICAwEAAAAAAAAAAAAAAAERAEEhMWGB/9oACAEBAAE/EGoiXQFf73sJ9CGLAEAxY7TOEC8xxxCwDRcpmp//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Andre climbing&quot; title=&quot;&quot; src=&quot;/static/06f05707c4acc3f7ed1863088c4755cb/1c72d/andre_climb.jpg&quot; srcset=&quot;/static/06f05707c4acc3f7ed1863088c4755cb/a80bd/andre_climb.jpg 148w,
+/static/06f05707c4acc3f7ed1863088c4755cb/1c91a/andre_climb.jpg 295w,
+/static/06f05707c4acc3f7ed1863088c4755cb/1c72d/andre_climb.jpg 590w,
+/static/06f05707c4acc3f7ed1863088c4755cb/a8a14/andre_climb.jpg 885w,
+/static/06f05707c4acc3f7ed1863088c4755cb/fbd2c/andre_climb.jpg 1180w,
+/static/06f05707c4acc3f7ed1863088c4755cb/eea4a/andre_climb.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Setting up routes for those who are top-roping.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/51c0af5771cbf99f9f2e70b8f140dd19/6a068/evie.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCBQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABpc6uMMB9lEiTumr/xAAdEAACAgEFAAAAAAAAAAAAAAABAgMhMQAREhNC/9oACAEBAAEFAo8HCyDa+ansU0UGkppgTI4v0ihk/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASP/xAAfEAACAQMFAQAAAAAAAAAAAAAAASEQETECEiJBUYH/2gAIAQEABj8CnI34SpN3bNaxYzXjCPlFdH//xAAdEAEAAgMAAwEAAAAAAAAAAAABABEhMUFRYXGR/9oACAEBAAE/IRv7KWNzIEbnpmewyHyPrS/YSgpKVHZuZVeMx7SjBAEncp1Gu5qf/9oADAMBAAIAAwAAABB44cH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QVqv/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QWEY//8QAHxABAQACAgIDAQAAAAAAAAAAAREAMSFRQXFhscHR/9oACAEBAAE/EOSjsqG6vrEPjzZvvC5RyE5e8kQC3cg4nr7yFZHL4b11iCHCCZaxJH2Tj+T4wXIBHtG/uWUGBPi/uA5E2POC7XT9YLwpF6uf/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Evie climbing&quot; title=&quot;&quot; src=&quot;/static/51c0af5771cbf99f9f2e70b8f140dd19/1c72d/evie.jpg&quot; srcset=&quot;/static/51c0af5771cbf99f9f2e70b8f140dd19/a80bd/evie.jpg 148w,
+/static/51c0af5771cbf99f9f2e70b8f140dd19/1c91a/evie.jpg 295w,
+/static/51c0af5771cbf99f9f2e70b8f140dd19/1c72d/evie.jpg 590w,
+/static/51c0af5771cbf99f9f2e70b8f140dd19/a8a14/evie.jpg 885w,
+/static/51c0af5771cbf99f9f2e70b8f140dd19/6a068/evie.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Evie setting up too, captured from my angle.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/fac0dcfd656c6968333cfe65c3b9b5bb/eea4a/cool_shot.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeBvXLZI3//EABgQAQEBAQEAAAAAAAAAAAAAAAECABEh/9oACAEBAAEFAuGJ7pfD0gHVaP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAQUBAAAAAAAAAAAAAAAAAAEQESEiUf/aAAgBAQAGPwKzNGkVo43/xAAbEAACAwEBAQAAAAAAAAAAAAAAEQEhMUFhkf/aAAgBAQABPyGU6LtMK9E3M+ENumbvoXIXw//aAAwDAQACAAMAAAAQ2A//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QkY//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhQWHhUXGB/9oACAEBAAE/EBLLW+IAVw0svUqDylNJ8jELHCZ7WxOsyclb7T//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Another shot of Andre climbing&quot; title=&quot;&quot; src=&quot;/static/fac0dcfd656c6968333cfe65c3b9b5bb/1c72d/cool_shot.jpg&quot; srcset=&quot;/static/fac0dcfd656c6968333cfe65c3b9b5bb/a80bd/cool_shot.jpg 148w,
+/static/fac0dcfd656c6968333cfe65c3b9b5bb/1c91a/cool_shot.jpg 295w,
+/static/fac0dcfd656c6968333cfe65c3b9b5bb/1c72d/cool_shot.jpg 590w,
+/static/fac0dcfd656c6968333cfe65c3b9b5bb/a8a14/cool_shot.jpg 885w,
+/static/fac0dcfd656c6968333cfe65c3b9b5bb/fbd2c/cool_shot.jpg 1180w,
+/static/fac0dcfd656c6968333cfe65c3b9b5bb/eea4a/cool_shot.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Another shot. Gotta thank Joan for going around to take pictures.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/b751e711a9bf83ac3563d99624fe3f54/f537d/wenwu_belay.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABVnOIII1N8NOU67L/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADEhEi/9oACAEBAAEFAqEOmGYzoTWzLLy2MmMjZ4Iw6W8IVgCz/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/AS4f/8QAHBAAAgEFAQAAAAAAAAAAAAAAADEhAQIQEUES/9oACAEBAAY/ArqcHo6Xeq8gibcQNYexMR//xAAdEAADAAIDAQEAAAAAAAAAAAAAAREhMUFRkXHR/9oACAEBAAE/IWcC1V9JLg5dPxjY8bA5wg7r9BseWvSrk2yF35dD3vZbbTuCosIipAf/2gAMAwEAAgADAAAAEDjTD//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ECH/xAAYEQACAwAAAAAAAAAAAAAAAAABEBEhMf/aAAgBAgEBPxAYpUX/xAAfEAEBAAICAgMBAAAAAAAAAAABEQAhMaFBYVFxgfD/2gAIAQEAAT8Q52jv8P7rKEgdoAynEQlT+s2EEMK3c+i5FGupDbxfj1ihS9PWAQSRh3mwqsA7ar2ZyVPLk1qXAaJwAu0wMBgznP/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Wen Wu with his classic belay drip&quot; title=&quot;&quot; src=&quot;/static/b751e711a9bf83ac3563d99624fe3f54/1c72d/wenwu_belay.jpg&quot; srcset=&quot;/static/b751e711a9bf83ac3563d99624fe3f54/a80bd/wenwu_belay.jpg 148w,
+/static/b751e711a9bf83ac3563d99624fe3f54/1c91a/wenwu_belay.jpg 295w,
+/static/b751e711a9bf83ac3563d99624fe3f54/1c72d/wenwu_belay.jpg 590w,
+/static/b751e711a9bf83ac3563d99624fe3f54/f537d/wenwu_belay.jpg 854w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Classic climbing drip.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d77e81515c9bb64253dff40b37cd8cf2/eea4a/staring.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABjPRsqRyA/wD/xAAaEAACAgMAAAAAAAAAAAAAAAABAgARAxIi/9oACAEBAAEFApjbR3NmXQQ8/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAEBAQADAAAAAAAAAAAAAAAAAQIRITH/2gAIAQEABj8CTUc4vSK8f//EABoQAAIDAQEAAAAAAAAAAAAAAAABETFBUaH/2gAIAQEAAT8hVXAnFPS3MPR66Jll0VGUZ//aAAwDAQACAAMAAAAQDD//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFh/9oACAEDAQE/EFpEf//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIr/xAAdEAEAAgICAwAAAAAAAAAAAAABESEAMUFRYXHR/9oACAEBAAE/EKS0WDzltxX9ZDLYChwp36wSaIIncORIkgo8dZeGFtnP/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Route reading&quot; title=&quot;&quot; src=&quot;/static/d77e81515c9bb64253dff40b37cd8cf2/1c72d/staring.jpg&quot; srcset=&quot;/static/d77e81515c9bb64253dff40b37cd8cf2/a80bd/staring.jpg 148w,
+/static/d77e81515c9bb64253dff40b37cd8cf2/1c91a/staring.jpg 295w,
+/static/d77e81515c9bb64253dff40b37cd8cf2/1c72d/staring.jpg 590w,
+/static/d77e81515c9bb64253dff40b37cd8cf2/a8a14/staring.jpg 885w,
+/static/d77e81515c9bb64253dff40b37cd8cf2/fbd2c/staring.jpg 1180w,
+/static/d77e81515c9bb64253dff40b37cd8cf2/eea4a/staring.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Lots of route reading too.. and we still got stuck.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Chill Times&lt;/h2&gt;
+&lt;p&gt;We packed up around 16:30 daily to give us ample time for bonding, dinner, and recharge. Every night followed a familiar enough template.&lt;/p&gt;
+&lt;p&gt;Some would account for gear. Some would clown.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/92e833575e32275660955c7982975c58/6a068/three_musketeers.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHUOmODEC1xSNIBYaX/xAAdEAACAgIDAQAAAAAAAAAAAAAAAQIhERMQIjFB/9oACAEBAAEFApWSctm/A3X3qOORlj8jfH//xAAYEQEAAwEAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwHjaZpp/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwFzUY//xAAcEAABBAMBAAAAAAAAAAAAAAAAAQIRISIwMoH/2gAIAQEABj8CUlqVBbTKfDitH//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESExQRBRofD/2gAIAQEAAT8hyB3N4tBsKqa4Brf6i5Lezez8uFyWWOWV1JiOZd8f/9oADAMBAAIAAwAAABDo647/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EG4pA9MKP//EABgRAQEAAwAAAAAAAAAAAAAAAAEAEBEx/9oACAECAQE/EAeYANpf/8QAHBABAQADAAMBAAAAAAAAAAAAAREAITFBUXGR/9oACAEBAAE/EGtbtILiEC6KFDeagT0EceF2wC/BMZREcPyz1i3pnsEcCKE5vEhZnG7/AHKbAPFxtTszYGr5xz//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The Three Musketeers&quot; title=&quot;&quot; src=&quot;/static/92e833575e32275660955c7982975c58/1c72d/three_musketeers.jpg&quot; srcset=&quot;/static/92e833575e32275660955c7982975c58/a80bd/three_musketeers.jpg 148w,
+/static/92e833575e32275660955c7982975c58/1c91a/three_musketeers.jpg 295w,
+/static/92e833575e32275660955c7982975c58/1c72d/three_musketeers.jpg 590w,
+/static/92e833575e32275660955c7982975c58/a8a14/three_musketeers.jpg 885w,
+/static/92e833575e32275660955c7982975c58/6a068/three_musketeers.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Then we would wash-up for a wonderful dinner.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7300925258802e247dea26ee15d8468b/eea4a/dinner.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABULSeGSacb//EABoQAAIDAQEAAAAAAAAAAAAAAAECAxESBBP/2gAIAQEAAQUCMLKPI5aPB6jQRNooWv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BrH//xAAaEAADAQADAAAAAAAAAAAAAAAAAREhAjEy/9oACAEBAAY/Ak72VshxwdZ5WH//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhYTFB/9oACAEBAAE/IW8qvIUdBTg6p37gvvZwXYYR0pYP/9oADAMBAAIAAwAAABDX7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8QNcJw3//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxAYxov/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMVFhcYH/2gAIAQEAAT8QDJw41O95v/zRNnwx3fhTpvLSVtYygxFLskfPPvIewkQdGf/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Dinner&quot; title=&quot;&quot; src=&quot;/static/7300925258802e247dea26ee15d8468b/1c72d/dinner.jpg&quot; srcset=&quot;/static/7300925258802e247dea26ee15d8468b/a80bd/dinner.jpg 148w,
+/static/7300925258802e247dea26ee15d8468b/1c91a/dinner.jpg 295w,
+/static/7300925258802e247dea26ee15d8468b/1c72d/dinner.jpg 590w,
+/static/7300925258802e247dea26ee15d8468b/a8a14/dinner.jpg 885w,
+/static/7300925258802e247dea26ee15d8468b/fbd2c/dinner.jpg 1180w,
+/static/7300925258802e247dea26ee15d8468b/eea4a/dinner.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Chill and chit-chat.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/45a886bfdab32709810002f7afd3fa34/eea4a/late_night_chats.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAYEZyU8nLP/EABkQAAMBAQEAAAAAAAAAAAAAAAECEgADEf/aAAgBAQABBQLpHipnApyaBI1tv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAbEAACAQUAAAAAAAAAAAAAAAAAASECMTJRYf/aAAgBAQAGPwLBUvjNkwMguf/EABwQAQABBAMAAAAAAAAAAAAAAAEAESFRYTFBwf/aAAgBAQABPyFqxrvwlZ4ugVQaxBYtEapHM2Z//9oADAMBAAIAAwAAABC7D//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPxCar//EABYRAQEBAAAAAAAAAAAAAAAAAAARQf/aAAgBAgEBPxDFv//EABsQAQEAAgMBAAAAAAAAAAAAAAERADEhQVGh/9oACAEBAAE/ENaARUCdrjEFfMFtl8wCV3JoxSpH03NXBPJEDExNfu3P/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Night chats&quot; title=&quot;&quot; src=&quot;/static/45a886bfdab32709810002f7afd3fa34/1c72d/late_night_chats.jpg&quot; srcset=&quot;/static/45a886bfdab32709810002f7afd3fa34/a80bd/late_night_chats.jpg 148w,
+/static/45a886bfdab32709810002f7afd3fa34/1c91a/late_night_chats.jpg 295w,
+/static/45a886bfdab32709810002f7afd3fa34/1c72d/late_night_chats.jpg 590w,
+/static/45a886bfdab32709810002f7afd3fa34/a8a14/late_night_chats.jpg 885w,
+/static/45a886bfdab32709810002f7afd3fa34/fbd2c/late_night_chats.jpg 1180w,
+/static/45a886bfdab32709810002f7afd3fa34/eea4a/late_night_chats.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Finally, head back for board games, or drinks, led by our own &lt;strong&gt;in-house alcoholic&lt;/strong&gt;. I have literally not seen a day (or even a few hours) go by without Na Wei hugging some bottle. &lt;em&gt;Truly impressive&lt;/em&gt;.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/8c13f3bf14746adc4cbb9b2d302158da/6a068/alcoholic.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABefQeNKtpOXmJMotaP//EAB0QAAICAgMBAAAAAAAAAAAAAAECAxIAESExMkH/2gAIAQEAAQUCfpXs3OTHSboYnLpI5KH1c4CS31wA3//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAEDAQE/ASH/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIhEBESIjH/2gAIAQEABj8CGs8lHsbktFnrKlNFsWP/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUFxwf/aAAgBAQABPyGIg81UfcK51GsL6gC7eStK8xvePLmIAAwCTKBzN+kcgT//2gAMAwEAAgADAAAAEBvRPv/EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxCYRn//xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QjjP/xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMUFRkbHB/9oACAEBAAE/EEYdv6RXy87Ng0wW15l09ji+ZdSyS8Z5YDxzm8dzN/rWONxoKwUrb2QCsEDAeR+ANqWO3nE+QBAez//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Na Wei, our in-house alcoholic&quot; title=&quot;&quot; src=&quot;/static/8c13f3bf14746adc4cbb9b2d302158da/1c72d/alcoholic.jpg&quot; srcset=&quot;/static/8c13f3bf14746adc4cbb9b2d302158da/a80bd/alcoholic.jpg 148w,
+/static/8c13f3bf14746adc4cbb9b2d302158da/1c91a/alcoholic.jpg 295w,
+/static/8c13f3bf14746adc4cbb9b2d302158da/1c72d/alcoholic.jpg 590w,
+/static/8c13f3bf14746adc4cbb9b2d302158da/a8a14/alcoholic.jpg 885w,
+/static/8c13f3bf14746adc4cbb9b2d302158da/6a068/alcoholic.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e49508c5cc90974b4d2e0e33f59bda70/eea4a/board_games.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAATqxVF4wo//EABkQAQEBAQEBAAAAAAAAAAAAAAIBAwAEEv/aAAgBAQABBQJ6XRjSw30KcVL2fy81IV//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABwQAAIABwAAAAAAAAAAAAAAAAABAjFBUWGB4f/aAAgBAQAGPwJMbcRwwSoX2f/EABgQAQADAQAAAAAAAAAAAAAAAAEAEUEh/9oACAEBAAE/IQJx0g5lq6SKJYw9Vc9a2AnVGoqKdYn/2gAMAwEAAgADAAAAEEMf/8QAFREBAQAAAAAAAAAAAAAAAAAAEQD/2gAIAQMBAT8QAzv/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBY/8QAHhABAAICAgMBAAAAAAAAAAAAARExACFBUXGBkaH/2gAIAQEAAT8QHvUchA3gu23AQnrqsXsNskfjibWDQUzHjWGNCmyR3z7yecWihPHzP//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Playing Avalon&quot; title=&quot;&quot; src=&quot;/static/e49508c5cc90974b4d2e0e33f59bda70/1c72d/board_games.jpg&quot; srcset=&quot;/static/e49508c5cc90974b4d2e0e33f59bda70/a80bd/board_games.jpg 148w,
+/static/e49508c5cc90974b4d2e0e33f59bda70/1c91a/board_games.jpg 295w,
+/static/e49508c5cc90974b4d2e0e33f59bda70/1c72d/board_games.jpg 590w,
+/static/e49508c5cc90974b4d2e0e33f59bda70/a8a14/board_games.jpg 885w,
+/static/e49508c5cc90974b4d2e0e33f59bda70/fbd2c/board_games.jpg 1180w,
+/static/e49508c5cc90974b4d2e0e33f59bda70/eea4a/board_games.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;h2&gt;More Climbs&lt;/h2&gt;
+&lt;p&gt;The next few days were rinse-and-repeat. The formula worked well. But it wouldn’t be Krabi without the beach, so we headed there to climb. Frankly, it was too hot and too crowded with tourists. But Railay is still a nice visit for anyone who hasn’t been before.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/674d7e3b3bc043a3103b2641f8de27a6/80e3c/railay.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAdLjFx1ZmbGO+aLJM71CoP/EAB4QAAIBBAMBAAAAAAAAAAAAAAACAQMREhMhMTMy/9oACAEBAAEFAsDExNhvN8yfMPe4yKkv3C3K/pS8k4T/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBFB/9oACAEDAQE/AYR6v//EABkRAAEFAAAAAAAAAAAAAAAAABAAARESMf/aAAgBAgEBPwGVYvg//8QAHRAAAwABBQEAAAAAAAAAAAAAAAERMQIDECBBgf/aAAgBAQAGPwLrnSNOUpkVdvPw3W14I//EAB4QAQEBAAEEAwAAAAAAAAAAAAERACEQMVFhQYHw/9oACAEBAAE/ITo143tu6AL6uLoEZyOQaMfpu+K/ep76jxFZrEWmkvO4DISC+e7B8m//2gAMAwEAAgADAAAAEBvhQ/8A7//EABkRAQEBAAMAAAAAAAAAAAAAAAEAERAxQf/aAAgBAwEBPxAVuMPJjvx//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEQESExUf/aAAgBAgEBPxBqUM9jTH//xAAfEAEBAAEEAgMAAAAAAAAAAAABEQAhMVGBQWEQkbH/2gAIAQEAAT8QDm4xt8Zb5dMyCMNHUn0TFpFIQuJgcFSq8C6NxqXPg2M4O8iB2DMP+QKGymAQ1iPpxlVa7zOrH65pSciLKppifZDec//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;On a boat to Railay beach&quot; title=&quot;&quot; src=&quot;/static/674d7e3b3bc043a3103b2641f8de27a6/1c72d/railay.jpg&quot; srcset=&quot;/static/674d7e3b3bc043a3103b2641f8de27a6/a80bd/railay.jpg 148w,
+/static/674d7e3b3bc043a3103b2641f8de27a6/1c91a/railay.jpg 295w,
+/static/674d7e3b3bc043a3103b2641f8de27a6/1c72d/railay.jpg 590w,
+/static/674d7e3b3bc043a3103b2641f8de27a6/80e3c/railay.jpg 720w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;I was too occupied with climbs, or rather, securing routes to climb (the local guides took priority), so I didn’t take many pictures. Here’s some rock I thought was cool and Nyan hugging for his dear life.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/5babea999c81878521972cfa165cea68/d4b53/more_rocks.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAECBv/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAFPJrMVeARVs1Vo3ojIp//EAB4QAAIBBAMBAAAAAAAAAAAAAAACAQMRISIEEjNB/9oACAEBAAEFApIwNvPXKejU5v8AONSLEiVmQTZP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRAAAgIDAAMAAAAAAAAAAAAAAAIBERAhUUFxgf/aAAgBAQAGPwKhS5W/pYvs3vCv28xHiCG6f//EABoQAAMBAQEBAAAAAAAAAAAAAAABESExUXH/2gAIAQEAAT8hfUpbMurgr1z3A3YcHwI9G90rqMQ7V0Pgw4SbWUxWRT//2gAMAwEAAgADAAAAEPMCgv/EABcRAQADAAAAAAAAAAAAAAAAABABESH/2gAIAQMBAT8QrCT/xAAZEQABBQAAAAAAAAAAAAAAAAAAARARITH/2gAIAQIBAT8Q1kok/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYVFxgZH/2gAIAQEAAT8QJtMVh8ygzYOGkYlS+FcGIDFo7TiK6KXVRdZCKwe5XnqVXNpRnUzFAdUAj+2fIJ2GLuGJSYRJre4xQggPE//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Cool rocks&quot; title=&quot;&quot; src=&quot;/static/5babea999c81878521972cfa165cea68/1c72d/more_rocks.jpg&quot; srcset=&quot;/static/5babea999c81878521972cfa165cea68/a80bd/more_rocks.jpg 148w,
+/static/5babea999c81878521972cfa165cea68/1c91a/more_rocks.jpg 295w,
+/static/5babea999c81878521972cfa165cea68/1c72d/more_rocks.jpg 590w,
+/static/5babea999c81878521972cfa165cea68/d4b53/more_rocks.jpg 853w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/4792e6e411bd6a7e6c511524ecd9015c/6a068/nyan_hugging.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABR5my1JintnrMTMzP/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQIAAxETISMyM//aAAgBAQABBQI34Bfo5CI6KAyeLgtn0cjIt3VXtMn/xAAWEQADAAAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8BdP/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwF0/8QAHBAAAgICAwAAAAAAAAAAAAAAADEBEBIhIlFx/9oACAEBAAY/AkI1fFemMmuhE3//xAAdEAADAAIDAQEAAAAAAAAAAAAAAREhQTFRYYGx/9oACAEBAAE/IZ1q9idmrJwIaPYCnG0lIhZCLHZfByVG/AnsPylafOiK8bP/2gAMAwEAAgADAAAAECwY8//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAwEBPxDGKkP/xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oACAECAQE/ENusGSi//8QAHxABAQACAgIDAQAAAAAAAAAAAREAMSFBYZFRcbHR/9oACAEBAAE/EEYbrwQ7+nKiBASRcZAgo39xUpyJvGFNHnXkJ43g0LfhIuSyHfyTB8A+BYD/ABcFICMGz3m72UPvFgFtnTsf/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Nyan hugging a rock&quot; title=&quot;&quot; src=&quot;/static/4792e6e411bd6a7e6c511524ecd9015c/1c72d/nyan_hugging.jpg&quot; srcset=&quot;/static/4792e6e411bd6a7e6c511524ecd9015c/a80bd/nyan_hugging.jpg 148w,
+/static/4792e6e411bd6a7e6c511524ecd9015c/1c91a/nyan_hugging.jpg 295w,
+/static/4792e6e411bd6a7e6c511524ecd9015c/1c72d/nyan_hugging.jpg 590w,
+/static/4792e6e411bd6a7e6c511524ecd9015c/a8a14/nyan_hugging.jpg 885w,
+/static/4792e6e411bd6a7e6c511524ecd9015c/6a068/nyan_hugging.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Nyan barely left the ground lol.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;h2&gt;Recovery Day..? Thanks Timothy!&lt;/h2&gt;
+&lt;p&gt;After days of climbing, we wanted to have a relaxed day to let ourselves recover. Except it was anything but chill. It was a fun-filled day of activities, courtesy of Timothy, who anchored much of the planning.&lt;/p&gt;
+&lt;p&gt;We kickstarted the day with whitewater rafting:&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/cd33ab09e647131d5f201d6c2e8b0754/6a068/whitewater_rafting.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAIDAQQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAHroS0lnTSeUh6Br//EABwQAAIDAQADAAAAAAAAAAAAAAABAhESAyEiMf/aAAgBAQABBQKyzRl1Q4olHL9WZR2fmHzmrj//xAAYEQEBAQEBAAAAAAAAAAAAAAABABEDEv/aAAgBAwEBPwHLzK7kdEv/xAAYEQADAQEAAAAAAAAAAAAAAAAAERIBAv/aAAgBAgEBPwFjMU1pHJ//xAAcEAABAwUAAAAAAAAAAAAAAAAAASExEBEgQZH/2gAIAQEABj8CrfRIyj8IIw//xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhMUEQUWFxkf/aAAgBAQABPyF36X1leQKXubiHzLHDETLDG6jnuxFwomV7nJR8gWJzP//aAAwDAQACAAMAAAAQq8b8/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxC3pYnIRSI//8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIXH/2gAIAQIBAT8QgYs6eSjvb//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExQVFhccH/2gAIAQEAAT8QWxxZqXDBdpmKOIyES9Rp8hcQtEpVe/JrR4KhcxeNaS11jEKjxQVPuskRFDff5AkK6K94I62HdJnySm5//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Whitewater rafting&quot; title=&quot;&quot; src=&quot;/static/cd33ab09e647131d5f201d6c2e8b0754/1c72d/whitewater_rafting.jpg&quot; srcset=&quot;/static/cd33ab09e647131d5f201d6c2e8b0754/a80bd/whitewater_rafting.jpg 148w,
+/static/cd33ab09e647131d5f201d6c2e8b0754/1c91a/whitewater_rafting.jpg 295w,
+/static/cd33ab09e647131d5f201d6c2e8b0754/1c72d/whitewater_rafting.jpg 590w,
+/static/cd33ab09e647131d5f201d6c2e8b0754/a8a14/whitewater_rafting.jpg 885w,
+/static/cd33ab09e647131d5f201d6c2e8b0754/6a068/whitewater_rafting.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;Then an ATV tour, where someone somehow flew out of his vehicle..&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/9d1583914ded27b5e5dd963b4e197c84/6a068/atv.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAUL05siCqS6ddnjpOhv/xAAcEAACAgMBAQAAAAAAAAAAAAABAgADERIhMTP/2gAIAQEAAQUCxxWNk+Z0eNxxWCLjiP6gXU+VKHi8H//EABcRAAMBAAAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8Bhl//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BDYT/xAAcEAADAAEFAAAAAAAAAAAAAAAAAREhAhIiQaH/2gAIAQEABj8CpEjazJFFOzKpDOn0UGclSH//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhkRD/2gAIAQEAAT8hQYKD98iSQarY6JT3GnOHvUo3xC4ZRScsVVNqyUC6GvK5tjXv4FmDiuBn/9oADAMBAAIAAwAAABBnycH/xAAYEQADAQEAAAAAAAAAAAAAAAAAASEQEf/aAAgBAwEBPxCK8NHT/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EKFxpH//xAAdEAEBAAIDAAMAAAAAAAAAAAABEQAhMUFRYYHB/9oACAEBAAE/EHXIhHS8e5R1mzi4aCbQ+4MNVgMjiyUYch873fzAGQ2Kuu8fHqgd/WCBYwG3zW8TIxxyzakZZiSSOL1hJIIAmf/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;ATV tour&quot; title=&quot;&quot; src=&quot;/static/9d1583914ded27b5e5dd963b4e197c84/1c72d/atv.jpg&quot; srcset=&quot;/static/9d1583914ded27b5e5dd963b4e197c84/a80bd/atv.jpg 148w,
+/static/9d1583914ded27b5e5dd963b4e197c84/1c91a/atv.jpg 295w,
+/static/9d1583914ded27b5e5dd963b4e197c84/1c72d/atv.jpg 590w,
+/static/9d1583914ded27b5e5dd963b4e197c84/a8a14/atv.jpg 885w,
+/static/9d1583914ded27b5e5dd963b4e197c84/6a068/atv.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;Some shenanigans featuring 5 idiots:&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/eea4a/five_idiots.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAVhrjCHJqf/EABsQAAEFAQEAAAAAAAAAAAAAAAIAAQMRExIj/9oACAEBAAEFApAYWrQc1P6HXLWv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASf/xAAbEAACAQUAAAAAAAAAAAAAAAAAMREQIUFRof/aAAgBAQAGPwJot2jiNDMn/8QAHBABAQEAAgMBAAAAAAAAAAAAAREAIVExQWGR/9oACAEBAAE/Iakp9O8UKgY2vODCj3edSxIx5z9frf/aAAwDAQACAAMAAAAQo/8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EMK//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qg//EABsQAQEAAwEBAQAAAAAAAAAAAAERACFRMUFh/9oACAEBAAE/EGwaQEXvX5iQoG1L813eAifXuWDSUhKzeBmoHpm4XmMJ9C6z/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;5 idiots&quot; title=&quot;&quot; src=&quot;/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/1c72d/five_idiots.jpg&quot; srcset=&quot;/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/a80bd/five_idiots.jpg 148w,
+/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/1c91a/five_idiots.jpg 295w,
+/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/1c72d/five_idiots.jpg 590w,
+/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/a8a14/five_idiots.jpg 885w,
+/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/fbd2c/five_idiots.jpg 1180w,
+/static/1b4d41c1d3c78b3cc85a617cf92e3e3a/eea4a/five_idiots.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;Visited a national park where we ended up swimming in the river:&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e08f872dfdc93a9c1385dc7133229a09/eea4a/river.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHLahozS4j/xAAYEAEBAQEBAAAAAAAAAAAAAAABAAMSIf/aAAgBAQABBQLhnFuWzJfb/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABcQAAMBAAAAAAAAAAAAAAAAAAAQETH/2gAIAQEABj8CNri//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMSFBcf/aAAgBAQABPyEXzYDoPiIOSztxwDINlps//9oADAMBAAIAAwAAABAX/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxAf/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARIUFhMVFxsf/aAAgBAQABPxAEw+ZRd7UNfbj8xQcY1snnuM46MXKepWkWz82f/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Swimmming in the river&quot; title=&quot;&quot; src=&quot;/static/e08f872dfdc93a9c1385dc7133229a09/1c72d/river.jpg&quot; srcset=&quot;/static/e08f872dfdc93a9c1385dc7133229a09/a80bd/river.jpg 148w,
+/static/e08f872dfdc93a9c1385dc7133229a09/1c91a/river.jpg 295w,
+/static/e08f872dfdc93a9c1385dc7133229a09/1c72d/river.jpg 590w,
+/static/e08f872dfdc93a9c1385dc7133229a09/a8a14/river.jpg 885w,
+/static/e08f872dfdc93a9c1385dc7133229a09/fbd2c/river.jpg 1180w,
+/static/e08f872dfdc93a9c1385dc7133229a09/eea4a/river.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;And we ended the day with my favourite restaurant Rizhao brought me the previous year, Ruenmai.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/81b5830655dd836ddc89069606fb9150/eea4a/ruen_mai.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQA/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABjUiRenxX/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAECAxESEzH/2gAIAQEAAQUCVSylPJ7GIaOH/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwHMKf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEhP/2gAIAQIBAT8B0ZTP/8QAGhAAAgIDAAAAAAAAAAAAAAAAASEAEBEyUf/aAAgBAQAGPwITTMSHKRr/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhMUH/2gAIAQEAAT8hnkk9rF2peU6Z8kZh+xlNB1o9P//aAAwDAQACAAMAAAAQfO//xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAIAQMBAT8QxmN//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxDGIZ//xAAdEAEBAAIBBQAAAAAAAAAAAAABEQAhMUFRYXGh/9oACAEBAAE/ECPTdlitdYWsPCs6TBmImQJ9zQmxeeHFiD2ZYCu9M//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Ruenmai Restaurant&quot; title=&quot;&quot; src=&quot;/static/81b5830655dd836ddc89069606fb9150/1c72d/ruen_mai.jpg&quot; srcset=&quot;/static/81b5830655dd836ddc89069606fb9150/a80bd/ruen_mai.jpg 148w,
+/static/81b5830655dd836ddc89069606fb9150/1c91a/ruen_mai.jpg 295w,
+/static/81b5830655dd836ddc89069606fb9150/1c72d/ruen_mai.jpg 590w,
+/static/81b5830655dd836ddc89069606fb9150/a8a14/ruen_mai.jpg 885w,
+/static/81b5830655dd836ddc89069606fb9150/fbd2c/ruen_mai.jpg 1180w,
+/static/81b5830655dd836ddc89069606fb9150/eea4a/ruen_mai.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;Somehow, we pulled off an accounting miracle (aggressive cost-cutting..) and treated the whole club to a free dinner! Nearly &lt;strong&gt;$1,000 SGD worth&lt;/strong&gt;. I’m quite proud of this feat. I still keep the receipt for memory’s sake.&lt;/p&gt;
+&lt;p&gt;But all that still wasn’t enough fun for the boys:&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/35c71f09fecfaca09bfd7ca2bc66449a/eea4a/the_boys.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABl1avAoYT/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAQABBQLWyYcN3hCVRc4Yf//EABcRAAMBAAAAAAAAAAAAAAAAAAABAkH/2gAIAQMBAT8BqXgpP//EABcRAQADAAAAAAAAAAAAAAAAAAARElH/2gAIAQIBAT8BnVn/xAAaEAACAgMAAAAAAAAAAAAAAAAAARAxITJB/9oACAEBAAY/AtUWjgnRiP/EABsQAQEBAAIDAAAAAAAAAAAAAAERACExYXGB/9oACAEBAAE/IaJL2WZCiXxrpVpxfrByAHUMAOt//9oADAMBAAIAAwAAABDM7//EABYRAQEBAAAAAAAAAAAAAAAAAAEhAP/aAAgBAwEBPxBJeQK3f//EABYRAQEBAAAAAAAAAAAAAAAAAAEAYf/aAAgBAgEBPxAJMX//xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMWFB/9oACAEBAAE/ECFPeVlXhhOH0QTzQem+DjQzkAqSnelsTBQMMIfU3//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The boys in the pool&quot; title=&quot;&quot; src=&quot;/static/35c71f09fecfaca09bfd7ca2bc66449a/1c72d/the_boys.jpg&quot; srcset=&quot;/static/35c71f09fecfaca09bfd7ca2bc66449a/a80bd/the_boys.jpg 148w,
+/static/35c71f09fecfaca09bfd7ca2bc66449a/1c91a/the_boys.jpg 295w,
+/static/35c71f09fecfaca09bfd7ca2bc66449a/1c72d/the_boys.jpg 590w,
+/static/35c71f09fecfaca09bfd7ca2bc66449a/a8a14/the_boys.jpg 885w,
+/static/35c71f09fecfaca09bfd7ca2bc66449a/fbd2c/the_boys.jpg 1180w,
+/static/35c71f09fecfaca09bfd7ca2bc66449a/eea4a/the_boys.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Farewells&lt;/h2&gt;
+&lt;p&gt;You might notice the pictures feature mostly the same people. That’s intentional. They are closer friends who I figured wouldn’t mind me writing about them and posting some unglams.&lt;/p&gt;
+&lt;p&gt;But here’s (mostly) everyone who joined the trip. Each has their own unglams taken, stories told, and memorable moments. These stories shall stay in Krabi, and in our memories.&lt;br&gt;Glad to have crossed paths with everyone.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d45949cbbb4af09e4eaeb13b5244b42a/eea4a/club.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFsM0FxXE//xAAaEAEAAgMBAAAAAAAAAAAAAAABAAIDBBFC/9oACAEBAAEFAjYoVcoxudak9cn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGhAAAgIDAAAAAAAAAAAAAAAAEBEAMRIhIv/aAAgBAQAGPwLq4sdlux//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhMUFRYf/aAAgBAQABPyEwBMM1C6egEdU3M7tmEFWPbcQVyf/aAAwDAQACAAMAAAAQqN//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAwEBPxCH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QiH//xAAcEAACAgMBAQAAAAAAAAAAAAABEQAhMUFRgaH/2gAIAQEAAT8QGEO66pl1iOSoUmfPsbgqwIEBFDoPMF6CErjMfIAol2f/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Mostly everyone in the club that went&quot; title=&quot;&quot; src=&quot;/static/d45949cbbb4af09e4eaeb13b5244b42a/1c72d/club.jpg&quot; srcset=&quot;/static/d45949cbbb4af09e4eaeb13b5244b42a/a80bd/club.jpg 148w,
+/static/d45949cbbb4af09e4eaeb13b5244b42a/1c91a/club.jpg 295w,
+/static/d45949cbbb4af09e4eaeb13b5244b42a/1c72d/club.jpg 590w,
+/static/d45949cbbb4af09e4eaeb13b5244b42a/a8a14/club.jpg 885w,
+/static/d45949cbbb4af09e4eaeb13b5244b42a/fbd2c/club.jpg 1180w,
+/static/d45949cbbb4af09e4eaeb13b5244b42a/eea4a/club.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/226f76dcf0cf0ff5179ac95148542eae/eea4a/committee.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAF4uZiVZh//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDEzH/2gAIAQEAAQUC0qYKuWNGmvRelWj/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BZX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8BiY//xAAeEAABAwQDAAAAAAAAAAAAAAABABARAhIhQSJRYf/aAAgBAQAGPwIXbU+tJpGGHHXa/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITFB/9oACAEBAAE/Ia5QeMggDGhnZa8lZ607CwW623UPnsx//9oADAMBAAIAAwAAABDMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPxAch//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxA0j//EABwQAQEAAwADAQAAAAAAAAAAAAERACExQVGR0f/aAAgBAQABPxDw4AHWJ6EU8HZ9MapR7uLeOiqLrpd8wJhSDa/nrBbChjKzus//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The committee that made the trip possible&quot; title=&quot;&quot; src=&quot;/static/226f76dcf0cf0ff5179ac95148542eae/1c72d/committee.jpg&quot; srcset=&quot;/static/226f76dcf0cf0ff5179ac95148542eae/a80bd/committee.jpg 148w,
+/static/226f76dcf0cf0ff5179ac95148542eae/1c91a/committee.jpg 295w,
+/static/226f76dcf0cf0ff5179ac95148542eae/1c72d/committee.jpg 590w,
+/static/226f76dcf0cf0ff5179ac95148542eae/a8a14/committee.jpg 885w,
+/static/226f76dcf0cf0ff5179ac95148542eae/fbd2c/committee.jpg 1180w,
+/static/226f76dcf0cf0ff5179ac95148542eae/eea4a/committee.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;And who can forget the committee that made it happen.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;All good things must come to an end. Temporality is what gives them meaning. For the main group, this was the end of the trip. But for a few lost souls yearning for one more encore, it was the start of a backpacking trip across Thailand, from Krabi to Bangkok.&lt;/p&gt;
+&lt;br&gt;
+&lt;h1&gt;Wen Wu — A Dear Friend That Came To Be&lt;/h1&gt;
+&lt;p&gt;Before I share about our Thailand escapades, I want to dedicate a small section to a friendship that grew over the past year. We were from different mountaineering expeditions. I was in Summer and he was in Winter, right before mine. But our EXCO terms coincided, and we would find ourselves working increasingly more with each other.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2321fac2625a644c92abaab1158beeec/eea4a/dumbass.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAGWRrlOhf/EABoQAAICAwAAAAAAAAAAAAAAAAABAhEDEDH/2gAIAQEAAQUC4OKmPHAuxa//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAFxAAAwEAAAAAAAAAAAAAAAAAACAxYf/aAAgBAQAGPwLCr//EABsQAAIDAQEBAAAAAAAAAAAAAAAhARExQVFh/9oACAEBAAE/IYw4p06uvglfhkssXOkuZZ//2gAMAwEAAgADAAAAENQv/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/EHR//8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAgEBPxDDU//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExUYH/2gAIAQEAAT8QqKMGphwCv4uI42A1ja3GVt8MnoaV08NhdQBqf//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Wen Wu on a flying fox&quot; title=&quot;&quot; src=&quot;/static/2321fac2625a644c92abaab1158beeec/1c72d/dumbass.jpg&quot; srcset=&quot;/static/2321fac2625a644c92abaab1158beeec/a80bd/dumbass.jpg 148w,
+/static/2321fac2625a644c92abaab1158beeec/1c91a/dumbass.jpg 295w,
+/static/2321fac2625a644c92abaab1158beeec/1c72d/dumbass.jpg 590w,
+/static/2321fac2625a644c92abaab1158beeec/a8a14/dumbass.jpg 885w,
+/static/2321fac2625a644c92abaab1158beeec/fbd2c/dumbass.jpg 1180w,
+/static/2321fac2625a644c92abaab1158beeec/eea4a/dumbass.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;This is Wen Wu.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;em&gt;&quot;I wasn&apos;t sure where to put my limbs, so I defaulted to being lowered..&quot;&lt;/em&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;And things were rough at the start. He ran for president and I backed out from core leadership to pursue this project instead, knowing it would distract me from routine work, and also buoyed by his promise of steadfast support.&lt;/p&gt;
+&lt;p&gt;But that support wasn’t always present. &lt;strong&gt;On one hand, he would say his support is unwavering&lt;/strong&gt;, that he would assist as best as he could, &lt;strong&gt;yet on the other, he’d be the one objecting, poking holes, pointing out flaws, and refusing commitment&lt;/strong&gt;. To me, it felt like betrayal. &lt;em&gt;Pure frustration&lt;/em&gt;. The club president, paralysed by indecision and constant worries, very disappointingly displayed a marked lack of trust in me.&lt;/p&gt;
+&lt;p&gt;The tinder and wood were set, just needed some embers to light the flame. &lt;strong&gt;And it came&lt;/strong&gt;.&lt;br&gt;I don’t remember the trigger, but what followed was a heated argument.&lt;/p&gt;
+&lt;p&gt;A much needed heartfelt, heated argument. But it is also why I find this friendship very much worth the effort. We are similar (&lt;em&gt;save, perhaps the indecision part; i’d say i’m a bit more reckless..&lt;/em&gt;) We poke holes. We see flaws. We want to be honest and genuine. And we both have enough maturity to recognise when we’re wrong, even if stubborn souls like us aren’t exactly easy to convince.&lt;/p&gt;
+&lt;p&gt;After that, his support became real. Lots of late night discussion, balancing school, pushing this project forward, ungodly hours (1-2am) at USC boulder wall, and a stronger friendship than before.&lt;/p&gt;
+&lt;p&gt;And i’ll soon find out Krabi had more surpises for us.&lt;br&gt;Six of us were going backpacking, yet somehow under Aphrodite’s spell (&lt;em&gt;on others or me.. it’s debatable&lt;/em&gt;), I ended up forced to be Wen Wu’s date for the next few days &lt;em&gt;:)&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h1&gt;Second Phase: Backpacking Thailand&lt;/h1&gt;
+&lt;p&gt;This was mostly unplanned. Yeah we’re a bunch of improvisers when it comes to ourselves. But it mostly worked out. We’d explore in the day, then take night trains to the next city.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/62f3e3991d57c16a1fe9af7cd76d2ef8/eea4a/backpack.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAeLrAssy/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERAhL/2gAIAQEAAQUCahnUXLGqtKF5P//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYj/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQEABj8CnEa3MP/EABkQAAMBAQEAAAAAAAAAAAAAAAABESFBkf/aAAgBAQABPyFbbb2lNZ4Nm0TLjDcJMMI4f//aAAwDAQACAAMAAAAQoz//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QjEv/xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAgEBPxBZX//EABsQAQEBAAIDAAAAAAAAAAAAAAERACFBMVFx/9oACAEBAAE/EANjoFmWrCgsBPOimNRuZEIq42H2HPOJCUoOT383/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Backpacking on the fly&quot; title=&quot;&quot; src=&quot;/static/62f3e3991d57c16a1fe9af7cd76d2ef8/1c72d/backpack.jpg&quot; srcset=&quot;/static/62f3e3991d57c16a1fe9af7cd76d2ef8/a80bd/backpack.jpg 148w,
+/static/62f3e3991d57c16a1fe9af7cd76d2ef8/1c91a/backpack.jpg 295w,
+/static/62f3e3991d57c16a1fe9af7cd76d2ef8/1c72d/backpack.jpg 590w,
+/static/62f3e3991d57c16a1fe9af7cd76d2ef8/a8a14/backpack.jpg 885w,
+/static/62f3e3991d57c16a1fe9af7cd76d2ef8/fbd2c/backpack.jpg 1180w,
+/static/62f3e3991d57c16a1fe9af7cd76d2ef8/eea4a/backpack.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/9b833752cba563a71d69c096e12ef66a/eea4a/the_gang.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABaR3pNNkCf//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREhP/2gAIAQEAAQUCYYnod6rjPsasYVWf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhABAAIDAQAAAAAAAAAAAAAAABEhAQIyYf/aAAgBAQAGPwJUYXraPUuX/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARMRAhUUH/2gAIAQEAAT8hJ/IshgG1fccrxrHKjopwwrhfr7P/2gAMAwEAAgADAAAAEIDP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EJGP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxCp4Rn/xAAbEAEBAQEAAwEAAAAAAAAAAAABEQBRITFhcf/aAAgBAQABPxDoYCddIOJAD8LqmiJBb5cXaSe/d7Eik/MbGZei7//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Group picture on one of the mornings&quot; title=&quot;&quot; src=&quot;/static/9b833752cba563a71d69c096e12ef66a/1c72d/the_gang.jpg&quot; srcset=&quot;/static/9b833752cba563a71d69c096e12ef66a/a80bd/the_gang.jpg 148w,
+/static/9b833752cba563a71d69c096e12ef66a/1c91a/the_gang.jpg 295w,
+/static/9b833752cba563a71d69c096e12ef66a/1c72d/the_gang.jpg 590w,
+/static/9b833752cba563a71d69c096e12ef66a/a8a14/the_gang.jpg 885w,
+/static/9b833752cba563a71d69c096e12ef66a/fbd2c/the_gang.jpg 1180w,
+/static/9b833752cba563a71d69c096e12ef66a/eea4a/the_gang.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;The Gang: Jing Wei, Na Wei, Evie, Wen Wu, Myself, Chi Ying&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;Most days, we had no idea what we would do. But that didn’t stop us from making the most out of it. And it certainly didn’t stop Na Wei and Jing Wei from drinking their way through Thailand.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/6ec67c1b25148362d40c06d3fef7bb07/d4b53/beach_vibes.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHTrFJoMaYtII1JOB//xAAZEAEAAgMAAAAAAAAAAAAAAAAAERIgMUH/2gAIAQEAAQUCRjddZtyX/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAEDAQE/AciP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwHKVH//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ak//xAAaEAADAQADAAAAAAAAAAAAAAAAAREQITFR/9oACAEBAAE/IZiC2CCfR8Iy9Kyj/9oADAMBAAIAAwAAABCYCXL/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8QMc7/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8QZjl//8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFBof/aAAgBAQABPxA1jOxmZS4OVnzuFOv5mue8fRo9plKIC3jPt3Zr7v/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;At the beach&quot; title=&quot;&quot; src=&quot;/static/6ec67c1b25148362d40c06d3fef7bb07/1c72d/beach_vibes.jpg&quot; srcset=&quot;/static/6ec67c1b25148362d40c06d3fef7bb07/a80bd/beach_vibes.jpg 148w,
+/static/6ec67c1b25148362d40c06d3fef7bb07/1c91a/beach_vibes.jpg 295w,
+/static/6ec67c1b25148362d40c06d3fef7bb07/1c72d/beach_vibes.jpg 590w,
+/static/6ec67c1b25148362d40c06d3fef7bb07/d4b53/beach_vibes.jpg 853w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;One of the Thailand&apos;s many pretty white beaches that we visited&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;We also had no idea how we’d get to the next city, but somehow ended up in a pick-up truck that delivered us exactly where we needed to go.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/34e2d7f139fc60ae61fb9223cc9819db/eea4a/pickup_truck.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAVc9K+VdSoj/AP/EABkQAAMBAQEAAAAAAAAAAAAAAAABAhESA//aAAgBAQABBQLmUYNwhedJdmSf/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAESITH/2gAIAQMBAT8BxWRP/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPwHZW//EABwQAAICAgMAAAAAAAAAAAAAAAABETECIUJxgf/aAAgBAQAGPwJy5c0V4ch55vZ0Wz//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhEDFhgf/aAAgBAQABPyEFUGkBsvxjSNVr4EM0zbNb6PC//9oADAMBAAIAAwAAABDHH//EABkRAAEFAAAAAAAAAAAAAAAAAAABESFRof/aAAgBAwEBPxCEA69P/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBIVH/2gAIAQIBAT8QuRC4f//EAB0QAQACAgIDAAAAAAAAAAAAAAERIQAxQVFhgaH/2gAIAQEAAT8QiEAQrPbezzkGsWQsRweshqktLGJBgyNzPbxozryTsfuAkllssZ//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The gang on a truck&quot; title=&quot;&quot; src=&quot;/static/34e2d7f139fc60ae61fb9223cc9819db/1c72d/pickup_truck.jpg&quot; srcset=&quot;/static/34e2d7f139fc60ae61fb9223cc9819db/a80bd/pickup_truck.jpg 148w,
+/static/34e2d7f139fc60ae61fb9223cc9819db/1c91a/pickup_truck.jpg 295w,
+/static/34e2d7f139fc60ae61fb9223cc9819db/1c72d/pickup_truck.jpg 590w,
+/static/34e2d7f139fc60ae61fb9223cc9819db/a8a14/pickup_truck.jpg 885w,
+/static/34e2d7f139fc60ae61fb9223cc9819db/fbd2c/pickup_truck.jpg 1180w,
+/static/34e2d7f139fc60ae61fb9223cc9819db/eea4a/pickup_truck.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Blasting music, blurry reflections, very Japanese retro — &lt;a href=&quot;https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq&quot;&gt;&lt;em&gt;Plastic Love&lt;/em&gt;&lt;/a&gt; by &lt;strong&gt;&lt;em&gt;Mariya Takeuchi&lt;/em&gt;&lt;/strong&gt; vibes&lt;/strong&gt;.&lt;br&gt;If you’re observant, you might notice the onset of couples forming.&lt;/p&gt;
+&lt;p&gt;Though of course, Wen Wu and I would be none the wiser until much later. &lt;em&gt;Hindsight they said&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We visited several night markets too. Here is Na Wei being ambitious.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/4339172151be85ad4ba809461df8ba36/6a068/ambitious.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgQD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAGjJCwNSUAVMMnSW5jM3//EABwQAAICAwEBAAAAAAAAAAAAAAECAAMREiIyI//aAAgBAQABBQISo4FxU2B5X3Gq6QbM/wAX2zEj+V8//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAgMBAQAAAAAAAAAAAAAAABEBAjEQIf/aAAgBAQAGPwIe9UHosItXBvsH/8QAHRABAAIBBQEAAAAAAAAAAAAAAQARMRAhQWFxUf/aAAgBAQABPyGozYwcHqMUo+ka9mNwmjNxbWb6lFgvMF/vl7KkCBm1ja+6T//aAAwDAQACAAMAAAAQk+9B/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREEH/2gAIAQMBAT8QaITuf//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEEH/2gAIAQIBAT8QWGXmf//EAB0QAQADAAMAAwAAAAAAAAAAAAEAESExUWFBgaH/2gAIAQEAAT8QRKTYYsBSWqd/suE0LMpqKPBF3elVCkr7jVZjRiVEV10jgh3SAHqm34wDQLAqbKyoo1URfsBsXnzP/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Na Wei attempting to eat a silkworm.&quot; title=&quot;&quot; src=&quot;/static/4339172151be85ad4ba809461df8ba36/1c72d/ambitious.jpg&quot; srcset=&quot;/static/4339172151be85ad4ba809461df8ba36/a80bd/ambitious.jpg 148w,
+/static/4339172151be85ad4ba809461df8ba36/1c91a/ambitious.jpg 295w,
+/static/4339172151be85ad4ba809461df8ba36/1c72d/ambitious.jpg 590w,
+/static/4339172151be85ad4ba809461df8ba36/a8a14/ambitious.jpg 885w,
+/static/4339172151be85ad4ba809461df8ba36/6a068/ambitious.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;..before bailing, and Chi Ying had to clean-up.&lt;/p&gt;
+&lt;p&gt;Somewhere, sometime after a few night markets, I found myself increasingly spending time alone with one other person. Somehow, I’d go off to grab food for sharing, return, look left and right, only to find an untaken date.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f77e377dcbc145bf331a0087e74250a4/6a068/my_date.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADAv/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAAP/2gAMAwEAAhADEAAAAd8eBhMs65BEk5tciU//xAAdEAADAAICAwAAAAAAAAAAAAABAgMAERIhIjEy/9oACAEBAAEFArBdIxAp29ieXkSqNQVUHOI2o2L/ABPB6//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ASP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/AU6Xf//EABsQAAICAwEAAAAAAAAAAAAAAAABESESIDFh/9oACAEBAAY/AliyPR2QUZIlneE3p//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExQYGh/9oACAEBAAE/IaRbXlcgwOQ7lCG15ssZZezJH1ijKpI/XItBosH7iQhxP//aAAwDAQACAAMAAAAQx+V9/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIVH/2gAIAQMBAT8QaJwi4KTSn//EABkRAAMAAwAAAAAAAAAAAAAAAAABERAhMf/aAAgBAgEBPxCSijVFerH/xAAbEAEBAQADAQEAAAAAAAAAAAABEQAhMUFhUf/aAAgBAQABPxAKEUch+tJK6iHCYHfMDeshlRTe3vM8oicfd7WsYnOkQB23KdCEgc+GQkO/r9wEF5/WYAsWJj9uvF3/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Wen Wu, my date at night markets&quot; title=&quot;&quot; src=&quot;/static/f77e377dcbc145bf331a0087e74250a4/1c72d/my_date.jpg&quot; srcset=&quot;/static/f77e377dcbc145bf331a0087e74250a4/a80bd/my_date.jpg 148w,
+/static/f77e377dcbc145bf331a0087e74250a4/1c91a/my_date.jpg 295w,
+/static/f77e377dcbc145bf331a0087e74250a4/1c72d/my_date.jpg 590w,
+/static/f77e377dcbc145bf331a0087e74250a4/a8a14/my_date.jpg 885w,
+/static/f77e377dcbc145bf331a0087e74250a4/6a068/my_date.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Oh. He got his ears pierced too. That becomes funny later.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;We visited several temples, and were lucky to witness an important ritual, though I don’t recall what it was.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/784b85a538d26d464e846c3e9d891bbc/eea4a/exploring_thailand.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAGMtCRqpET/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDERL/2gAIAQEAAQUCqJRyTxRtpI6lt60f/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAwEBPwFUaj//xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oACAECAQE/AXLMo//EABoQAAICAwAAAAAAAAAAAAAAAAARASECQXH/2gAIAQEABj8CxexlQdIVFSj/xAAaEAACAwEBAAAAAAAAAAAAAAABMQARIUFR/9oACAEBAAE/IbUZFLI8hMaFcnokGKMpigOZiWSzoA5P/9oADAMBAAIAAwAAABDj7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8QA4zvf//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAIAQIBAT8Qc6Rny//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExUUFhsf/aAAgBAQABPxAWrkDqrfsBJfZnM8+xFRQUyW6IbHC3PQtRzMaAz//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The gang at the emerald temple&quot; title=&quot;&quot; src=&quot;/static/784b85a538d26d464e846c3e9d891bbc/1c72d/exploring_thailand.jpg&quot; srcset=&quot;/static/784b85a538d26d464e846c3e9d891bbc/a80bd/exploring_thailand.jpg 148w,
+/static/784b85a538d26d464e846c3e9d891bbc/1c91a/exploring_thailand.jpg 295w,
+/static/784b85a538d26d464e846c3e9d891bbc/1c72d/exploring_thailand.jpg 590w,
+/static/784b85a538d26d464e846c3e9d891bbc/a8a14/exploring_thailand.jpg 885w,
+/static/784b85a538d26d464e846c3e9d891bbc/fbd2c/exploring_thailand.jpg 1180w,
+/static/784b85a538d26d464e846c3e9d891bbc/eea4a/exploring_thailand.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;The Reclining Buddha, I think.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;And we have our own.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 66%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/595c86264f24bb027dd248f0cfbe431c/6a068/karma_coming.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAVWyF7CxRBNXHy7BnKf/xAAcEAACAwADAQAAAAAAAAAAAAABAgADEQQSISL/2gAIAQEAAQUCLZNBi1grcdB7s6+LYwrm/K71Ps5NjLZUSav/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/AaUTmf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABsQAAIDAAMAAAAAAAAAAAAAAAABAhEhMWFx/9oACAEBAAY/AticCIpXg5ZohdliNKi6RHw//8QAGxABAAMBAQEBAAAAAAAAAAAAAQARIVExYXH/2gAIAQEAAT8hHCSs1eoufJ6mbsI8KyU9lgPoRgBUVUnHsOrk5B/Y/wAoZUc11E//2gAMAwEAAgADAAAAEGc7AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAwEBPxAxhKjjf//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAECAQE/EL2EGm8//8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFBUWFxgf/aAAgBAQABPxBf9GafmstWRqPBix7E1McX3wlxAAFkRARZ1veDg4D9wPexh6mISiqQM6mMcqxvz7wEqJwizIbFoE2b6xB6kvlmf//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Wen Wu posing as Buddha&quot; title=&quot;&quot; src=&quot;/static/595c86264f24bb027dd248f0cfbe431c/1c72d/karma_coming.jpg&quot; srcset=&quot;/static/595c86264f24bb027dd248f0cfbe431c/a80bd/karma_coming.jpg 148w,
+/static/595c86264f24bb027dd248f0cfbe431c/1c91a/karma_coming.jpg 295w,
+/static/595c86264f24bb027dd248f0cfbe431c/1c72d/karma_coming.jpg 590w,
+/static/595c86264f24bb027dd248f0cfbe431c/a8a14/karma_coming.jpg 885w,
+/static/595c86264f24bb027dd248f0cfbe431c/6a068/karma_coming.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;The Wen Wu Buddha.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;em&gt;He would lose his wallet that night and attribute to karma for posing.&lt;/em&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The next few days were Catan, drinks, wandering, music, and laughter. Simple days. Oh but so enjoyable. I still look back from time to time and smile at how carefree we were, as we move on with our lives.&lt;/p&gt;
+&lt;p&gt;Anyway, i’ll be heading Hong Kong for work soon, so I won’t be travelling as much. &lt;br&gt;Hope this has been a fun read. Till next time!&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/484131a7241512dad587ee5cd1e23ec7/eea4a/till_next_time.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeI0iBlkf//EABsQAAICAwEAAAAAAAAAAAAAAAECACEDERIx/9oACAEBAAEFAh7ia+SYBaLoz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAQAGPwIU/wD/xAAYEAADAQEAAAAAAAAAAAAAAAAAASERsf/aAAgBAQABPyEEOA2NXSAsJ0uKn//aAAwDAQACAAMAAAAQQ8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAADAQEBAAAAAAAAAAAAAAAAARExIVH/2gAIAQEAAT8Qk+H1oxQmdgWwpshPWw//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Time to go home&quot; title=&quot;&quot; src=&quot;/static/484131a7241512dad587ee5cd1e23ec7/1c72d/till_next_time.jpg&quot; srcset=&quot;/static/484131a7241512dad587ee5cd1e23ec7/a80bd/till_next_time.jpg 148w,
+/static/484131a7241512dad587ee5cd1e23ec7/1c91a/till_next_time.jpg 295w,
+/static/484131a7241512dad587ee5cd1e23ec7/1c72d/till_next_time.jpg 590w,
+/static/484131a7241512dad587ee5cd1e23ec7/a8a14/till_next_time.jpg 885w,
+/static/484131a7241512dad587ee5cd1e23ec7/fbd2c/till_next_time.jpg 1180w,
+/static/484131a7241512dad587ee5cd1e23ec7/eea4a/till_next_time.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Seeds of Change (2)]]></title><description><![CDATA[“We cannot lower the mountains, therefore, we must elevate ourselves.” Himalayas, Nepal The 5-day extraordinary Krabi trip left me with a…]]></description><link>https://4ndrelim.github.io/blog/seeds-of-change-2/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/seeds-of-change-2/</guid><pubDate>Tue, 09 Jan 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
 .info {
     color: #008080; /* teal */
 }
@@ -57,7 +650,7 @@
       And that is how close we were to losing our lovely haul of meat — hundreds of dollars’ worth.
     &lt;/span&gt;
 &lt;/details&gt;
-&lt;div style=&quot;width: 60%; text-align: left;&quot;&gt;
+&lt;div style=&quot;width: 55%; text-align: left;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/bb46867f963f10effeb75ceca1775a2c/6a068/bak_kwa.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAXAQEAAwAAAAAAAAAAAAAAAAACAAED/9oADAMBAAIQAxAAAAHtUWRVhIG0XfBxxjUf/8QAHBAAAgICAwAAAAAAAAAAAAAAAAIBERIyAxMi/9oACAEBAAEFAnhlHWLHczm+2iPRVzicWria/wD/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIQESH/2gAIAQMBAT8BrqL2FTH/xAAZEQEBAAMBAAAAAAAAAAAAAAABAAIREiH/2gAIAQIBAT8ByGC79tF//8QAGRAAAgMBAAAAAAAAAAAAAAAAICEAARAx/9oACAEBAAY/Au6wcVh//8QAHRABAAICAwEBAAAAAAAAAAAAAQAhETFRYXFBgf/aAAgBAQABPyFIc/IvYOSO6iKC1qP3fiRVXAxX6mrAjg7Ir+Supc5n/9oADAMBAAIAAwAAABC3KIH/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EFxliicSJf/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxDI2oSoKbl//8QAHRABAAMAAQUAAAAAAAAAAAAAAQARIUExYYGx0f/aAAgBAQABPxDZGtic8kuRcCpwajbAUGNmehBpC5S0VqfkGCIaC0bEbB5PeOlxKtcIHQvDSIUtXqoRFKmnp33P/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -106,10 +699,11 @@
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;h2&gt;Cheeky Boy&lt;/h2&gt;
-&lt;p&gt;We spent the next few days steadily gaining altitude. The scenery was pretty, but after a while, the same pine trees and icy paths start to blur into one. Still, the quiet hours spent walking through nature gave plenty of room for solitary reflection.&lt;/p&gt;
-&lt;p&gt;The trail was also littered with poo. A lot of poo. I figured it was impossible to get lost: if you ever did, simply follow the poo. Not everyone breezed through the hike either. At some point, my dear friend Sarah gave up trying to avoid the donkey droppings and began stepping straight into them. Walking behind her made it even funnier.&lt;/p&gt;
+&lt;p&gt;We spent the next few days steadily gaining altitude. The scenery was pretty, but after a while, the same pine trees and winding paths start to blur into one. Still, the quiet hours spent walking through nature gave plenty of room for solitary reflection.&lt;/p&gt;
+&lt;p&gt;The trail was also littered with poo. A lot of poo. I figured it was impossible to get lost: if you ever did, simply follow the poo. Not everyone breezed through the hike. At some point, my dear friend Sarah gave up trying to avoid the donkey droppings and began stepping straight into them. &lt;br&gt;
+Walking behind her made it even funnier.&lt;/p&gt;
 &lt;p&gt;We passed through many villages, and in one of them, I had an odd but memorable encounter with a friendly shop lady selling Nepalese snacks. One thing led to another, and somehow I ended up carrying her on my back and running about at the behest of my teammates.&lt;/p&gt;
-&lt;p&gt;Later, someone mentioned an old Nepalese bride-kidnapping tradition where the groom carries the bride and elopes. Trust your friends, they said.&lt;/p&gt;
+&lt;p&gt;Later, someone mentioned an old Nepalese bride-kidnapping tradition where the groom carries the bride and elopes. &lt;em&gt;Trust your friends&lt;/em&gt;, they said.&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/b4e5d74859d0a0bf450206ae45424da6/13ec2/local.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -205,7 +799,7 @@
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;h2&gt;Harsh Cold&lt;/h2&gt;
-&lt;p&gt;Soon, it was time to head to the Advance Base Camp. And mother nature decided to hurl some blizzards our way. It got cold. And dark.&lt;/p&gt;
+&lt;p&gt;Soon, it was time to head to the Advance Base Camp (ABC). And mother nature decided to hurl some blizzards our way. It got cold. And dark.&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/6b05336189414b3cd620e44f490d3795/eea4a/cold.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -325,7 +919,7 @@ Man, it was really, really cold. But it brought us together. Kenn is a warm bear
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;h2&gt;Lovely Team&lt;/h2&gt;
-&lt;p&gt;This is perhaps one of my favourite pictures of the trip, just us wandering across the vast expanse. &lt;br&gt;
+&lt;p&gt;This is probably one of my favourite pictures of the trip, just us wandering across the vast expanse. &lt;br&gt;
 Bonus if you can guess which one I am!&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
@@ -349,9 +943,9 @@ Bonus if you can guess which one I am!&lt;/p&gt;
 &lt;li&gt;Evie — She is perhaps the one i’m closest with in our Summer team. Not romantically, but we’ve been through a fair bit together. We somehow keep ending up in each other’s company. Probably because we live nearby. Along with Wen Wu (who also lives nearby), the three of us are forming an endearing friendship, despite our many differences, built on honesty and the willingness to call each other’s bullshit in delulu times.&lt;br&gt;&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;Jing Xuan — Quiet and reserved, but always thoughtful and observant. She notices things most people miss, and I value her insights deeply. She has empathy and cares for others in the same gentle way Kenn and Sarah do, but in her own quieter fashion. I’ve learned she hides many things; I hope she’ll one day feel comfortable opening up and leaning on us too.&lt;br&gt;&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;Kenn — My fellow buffet devourer. A glutton at heart but such enjoyable company. He’ll bring you to the best food places and and make sure everyone is taken care of. Despite his cheerful nature, he’s surprisingly reflective and some of our conversations ended up unexpectedly pensive.&lt;br&gt;&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Kimberly — The doe-eyed bubbly girl who reminds me of my younger sister. Cheeky, vibrant, cheerful and never hesitant to use her charms. I like how self-aware she is, and how she goes about rummaging through life with spirited ease. Though you might not want to be the subject of her gossiping!&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Kimberly — The doe-eyed bubbly girl who reminds me of a younger sister. Cheeky, vibrant, cheerful and never hesitant to use her charms. I like how self-aware she is, and how she goes about rummaging through life with spirited ease. Though you might not want to be the subject of her gossiping!&lt;br&gt;&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;Sarah — A kind, genuine, (lovably) nosy, and caring friend. She knows she can be clumsy and often ends up at the laughing end, but she’s always a good sport, often joining in the laughter. She may be shy, but she doesn’t hesitate to voice her thoughts when she feels something amiss. Sometimes she might tell me privately, perhaps hoping I’d say something on her behalf. I appreciate the trust.&lt;br&gt;&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Teng Chung — Someone I consider a good friend, and I truly hope the feeling is mutual. Though i can’t help but sense a barrier between us. We have our differences, and perhaps he doesn’t like my gut. More than once he’s rejected my hand, though maybe I was over-stepping boundaries. Regardless, I sincerely respect his drive, ambition, and discipline in Mountaineering.&lt;/li&gt;
+&lt;li&gt;Teng Chung — Someone I consider a good friend, and I truly hope the feeling is mutual. Though I can’t help but sense a barrier between us. We have our differences, and perhaps he doesn’t like my gut. More than once he’s rejected my hand, though maybe I was over-stepping boundaries. Regardless, I sincerely respect his drive, ambition, and discipline in Mountaineering.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;When the skies cleared, the views were mesmerizing. The sun oozed golden light through the snowy arête, painting everything in a soft glow.&lt;/p&gt;
 &lt;div&gt;
@@ -368,7 +962,7 @@ Bonus if you can guess which one I am!&lt;/p&gt;
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;h2&gt;The Push&lt;/h2&gt;
-&lt;p&gt;The fateful day finally arrived. The culmination of months of training. We started early, around 2 a.m. if memory serves. Snow boots on, wrapped like dumplings, we pushed forward through hail and biting wind.&lt;/p&gt;
+&lt;p&gt;The fateful day finally arrived. The culmination of months of training. We started early, around 2 a.m. Snow boots on, wrapped like dumplings, we pushed forward through hail and biting wind.&lt;/p&gt;
 &lt;p&gt;Soon, the risk of crevices became our biggest threat, and so we roped-up. We were so high up above the clouds the sky was a deep navy blue. Hauntingly clear.&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
@@ -424,7 +1018,7 @@ Bonus if you can guess which one I am!&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;It was strangely underwhelming. It was just.. &lt;strong&gt;a rock&lt;/strong&gt;. But i’m not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene, grant me a special item, or maybe unlock something within.&lt;/p&gt;
+&lt;p&gt;It was strangely underwhelming. It was just.. &lt;strong&gt;a rock&lt;/strong&gt;. But i’m not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene or maybe unlock something within.&lt;/p&gt;
 &lt;p&gt;But this is reality. Just a rock and a view that doesn’t seem too different from what I’d already seen on the way up.&lt;/p&gt;
 &lt;p&gt;Still, no reason to sully the mood. A summit is a summit, and we were definitely going to take photos.&lt;/p&gt;
 &lt;p&gt;Also, the guides were so high-spirited (probably counting their blessings no one died) that it was infectious. I recalled having to video Alina solve a Rubik’s cube so she could flex on her boyfriend (his timing apparently qualifies him for internationals!).&lt;/p&gt;
@@ -510,8 +1104,8 @@ Somehow managed to smuggle back a Yak&apos;s horn, which has since become NUS Mo
 &lt;p&gt;The thought of not letting go of work brought back other memories. I had been a wreck who stubbornly clung onto an old flame. I met the most amazing girl yet I did not hold her tightly enough in my pursuit of studies and work. Soon, I found myself partially obsessed with self-inflicted punishment as atonement and intentionally maintained my distance with any romantic prospects.&lt;/p&gt;
 &lt;p&gt;Maybe I needed to change, maybe mountaineering could shine the path forward.&lt;/p&gt;
 &lt;p&gt;Or was I just running away and refusing to admit my own inadequacies. How is it that I had done so much, prepared so thoroughly, yet still struggled to find an internship? &lt;br&gt;
-&lt;em&gt;Madness&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn’t so much of a discussion as it was me layering arguments over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.&lt;/p&gt;
+&lt;strong&gt;&lt;em&gt;Madness&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn’t so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.&lt;/p&gt;
 &lt;p&gt;Fortunately, she had the heart to look past my moment of folly, and we remain close friends to this day.&lt;/p&gt;
 &lt;h1&gt;New Adventures&lt;/h1&gt;
 &lt;p&gt;The trip was inspiring, but it also left me brooding more deeply about life. Still, it did change one thing with certainty. It awakened a desire to travel far and wide, to explore both the world and the quieter corners within myself.&lt;/p&gt;
