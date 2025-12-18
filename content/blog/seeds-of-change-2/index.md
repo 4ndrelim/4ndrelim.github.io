@@ -25,6 +25,8 @@ Views were stunning. I'll let the pictures speak.
   <img src="mountain.jpg" alt="Mountain"/>
 </div>
 
+<br>
+
 ## The Hike Begins
 We begun the track from Syabrubesi, a small village at an altitude of 2,380m above sea level. It serves as the starting point to Langtang Valley. It was a long, narrow, bumpy, **really bumpy** ride from Kathmandu. Occassionally i'll open my eyes, look out to the window, and see how teasingly close we are to the edge of some spiraling road, down to a nausealy tempting valley.
 
@@ -77,6 +79,7 @@ Even though the journey had barely begun, Syabrubesi felt like a gentle prologue
   <img src="river2.jpg" alt="River"/>
 </div>
 
+<br>
 
 ## Cheeky Boy
 We spent the next few days steadily gaining altitude. The scenery was pretty, but after a while, the same pine trees and winding paths start to blur into one. Still, the quiet hours spent walking through nature gave plenty of room for solitary reflection.
@@ -115,6 +118,8 @@ Though it wouldn’t be long before we learned why Baden Powell Scout Peak is on
   <img src="breakfast.jpg" alt="Breakfast at Base Camp"/>
 </div>
 
+<br>
+
 ## Snowy Fields
 The first snow hit, and it hit hard. Soon the ground was blanketed in a thick layer of white. The Summer team usually enjoys gentle weather and clear visibility during the day, but nights can be brutal with blizzards that sometimes bleed into the morning.
 
@@ -141,6 +146,8 @@ Here's a mini one Jing Xuan made herself.
 <div>
   <img src="snowman.jpg" alt="Snowman"/>
 </div>
+
+<br>
 
 ## Harsh Cold
 Soon, it was time to head to the Advance Base Camp (ABC). And mother nature decided to hurl some blizzards our way. It got cold. And dark.
@@ -186,6 +193,8 @@ Man, it was really, really cold. But it brought us together. Kenn is a warm bear
   <img src="huddle.jpg" alt="Huddling"/>
 </div>
 
+<br>
+
 ## Training
 Some days, we lucked out and the blizzard stopped before sunrise. The skies cleared, and we squeezed in whatever training we could before the next wave hit. The thickened snow and ice gave us opportunities we wouldn’t have had otherwise.
 
@@ -203,6 +212,8 @@ Though some of us were hanging onto dear life.
 <div>
   <img src="hanging.jpg" alt="Hanging on dear life"/>
 </div>
+
+<br>
 
 ## Lovely Team
 This is probably one of my favourite pictures of the trip, just us wandering across the vast expanse. <br>
@@ -227,6 +238,8 @@ When the skies cleared, the views were mesmerizing. The sun oozed golden light t
 <div>
   <img src="sunray.jpg" alt="Mesmerizing view"/>
 </div>
+
+<br>
 
 ## The Push
 The fateful day finally arrived. The culmination of months of training. We started early, around 2 a.m. Snow boots on, wrapped like dumplings, we pushed forward through hail and biting wind.
@@ -262,6 +275,8 @@ Also, the guides were so high-spirited (probably counting their blessings no one
   <img src="guide.jpg" alt="High-spirited guide"/>
 </div>
 
+<br>
+
 # Descent
 We crashed hard after the summit, a well-deserved rest. I never thought “lip-burnt” was a real condition, but apparently it is and every bite was excruciating. Salt hit my lips like betrayal. I also lost a couple of toenails and limped the entire way down the mountain. Otherwise, the descent was relatively uneventful.
 
@@ -289,8 +304,12 @@ Here's my haul for the trip. And a warning.
     <summary>My Toes</summary>
     <img src="nails.jpg" alt="Chipped-off toe nails"/>
 </details>
+
 <br>
+
 Somehow managed to smuggle back a Yak's horn, which has since become NUS Mountaineering Club's treasure.
+
+<br>
 
 # Thoughts
 The trip wasn’t without tense moments. A month in close proximity with anyone, much less a group, is enough to ruffle feathers. 
@@ -313,6 +332,8 @@ Or was I just running away and refusing to admit my own inadequacies. How is it 
 Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn't so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.
 
 Fortunately, she had the heart to look past my moment of folly, and we remain close friends to this day.
+
+<br>
 
 # New Adventures
 The trip was inspiring, but it also left me brooding more deeply about life. Still, it did change one thing with certainty. It awakened a desire to travel far and wide, to explore both the world and the quieter corners within myself.

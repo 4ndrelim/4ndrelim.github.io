@@ -30,6 +30,7 @@ But here we are :)
         5. Giovanni — This outdoor climbing initiative was technically his vision. But he swayed me into engineering the solution. A trusted advisor.
     </span>
 </details>
+
 <br>
 
 # First Phase: Main Gang Climbs
@@ -334,7 +335,7 @@ And we have our own.
 
 <br><br>
 
-The next few days were Catan, drinks, wandering, music, and laughter. Simple days. Oh but so enjoyable. I still look back from time to time and smile at how carefree we were, as we move on with our lives.
+The next few days were Catan, drinks, wandering, music, and laughter. Simple days. Oh but so enjoyable.<br>I still look back from time to time and smile at how carefree we were, as we move on with our lives.
 
 Anyway, i'll be heading Hong Kong for work soon, so I won't be travelling as much. <br>Hope this has been a fun read. Till next time!
 
