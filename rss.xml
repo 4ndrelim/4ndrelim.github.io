@@ -1,4 +1,600 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Dec 2025 11:39:04 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Sun, 18 Aug 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate Singapore - similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Krabi Once More: Old Friends, New Connections]]></title><description><![CDATA[Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are kind, the food is cheap, the backpacking…]]></description><link>https://4ndrelim.github.io/blog/krabi/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/krabi/</guid><pubDate>Sat, 01 Jun 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Dec 2025 18:44:36 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Sun, 18 Aug 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate Singapore - similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Norway ain't no way!]]></title><description><![CDATA[No way ain’t Norway. 
+ The North Norway is the furthest north i’ve ever been. The month-long back packing trip in Norway was split into two…]]></description><link>https://4ndrelim.github.io/blog/norway/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/norway/</guid><pubDate>Mon, 01 Jul 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+.info {
+    color: #008080; /* teal */
+}
+&lt;/style&gt;
+&lt;p&gt;&lt;em&gt;No way ain’t Norway.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4005ab457a63a32c912eb2ea7e15e289/eea4a/norway.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABGYV6OkTw3//EABoQAAMBAAMAAAAAAAAAAAAAAAABAhIDEyL/2gAIAQEAAQUCUGTJ4k63Q45Ef//EABgRAAMBAQAAAAAAAAAAAAAAAAABUQIS/9oACAEDAQE/AU1DrMP/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREi/9oACAECAQE/AZtt/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECESAhof/aAAgBAQAGPwLC0zU+n//EABoQAAMBAAMAAAAAAAAAAAAAAAABETEhQVH/2gAIAQEAAT8hpjTJzsljSq7yWYnlJidJ6P/aAAwDAQACAAMAAAAQ+P8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EDGwP//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QviZB/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIUFhMVH/2gAIAQEAAT8QKn0MIwNtXG57jJyXD3FXfmo0fXu1sIiJGRs5P//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;norway&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4005ab457a63a32c912eb2ea7e15e289/1c72d/norway.jpg&quot;
+        srcset=&quot;/static/4005ab457a63a32c912eb2ea7e15e289/a80bd/norway.jpg 148w,
+/static/4005ab457a63a32c912eb2ea7e15e289/1c91a/norway.jpg 295w,
+/static/4005ab457a63a32c912eb2ea7e15e289/1c72d/norway.jpg 590w,
+/static/4005ab457a63a32c912eb2ea7e15e289/a8a14/norway.jpg 885w,
+/static/4005ab457a63a32c912eb2ea7e15e289/fbd2c/norway.jpg 1180w,
+/static/4005ab457a63a32c912eb2ea7e15e289/eea4a/norway.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;The North&lt;/h1&gt;
+&lt;p&gt;Norway is the furthest north i’ve ever been. The month-long back packing trip in Norway was split into two parts: first two weeks with friends from my ACJC days, and the next two, a solo trip making my way from Tromsø back down to Oslo. I’ll keep this post short. It’s part of a series of trips that grew from the &lt;a href=&quot;../seeds-of-change-2/&quot;&gt;seeds&lt;/a&gt;. But Norway was at least special enough to pause and write about.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 40%;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/ece5e709bd1e844c6369a266547cb9d4/70a80/globe.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 112.83783783783782%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAeOnRcGhLnsM0Af/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIQESES/9oACAEBAAEFAlHNSOO+hipaVFVLx//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPwFUz//EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPwFFz//EABkQAAIDAQAAAAAAAAAAAAAAAAERABAgIf/aAAgBAQAGPwLsRFIa/8QAGhABAQEBAQEBAAAAAAAAAAAAAQARITFBgf/aAAgBAQABPyH3D8kHTswg6QvpaHvtgcsk2Ew2Xb//2gAMAwEAAgADAAAAEF83AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxCtwhbn/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EACNT//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/EH1lePE2ICszemfDkbJXdFvPLAwLbtivABsumEy/n2VkR73HV8HR5P/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Globe&quot; title=&quot;&quot; src=&quot;/static/ece5e709bd1e844c6369a266547cb9d4/1c72d/globe.jpg&quot; srcset=&quot;/static/ece5e709bd1e844c6369a266547cb9d4/a80bd/globe.jpg 148w,
+/static/ece5e709bd1e844c6369a266547cb9d4/1c91a/globe.jpg 295w,
+/static/ece5e709bd1e844c6369a266547cb9d4/1c72d/globe.jpg 590w,
+/static/ece5e709bd1e844c6369a266547cb9d4/a8a14/globe.jpg 885w,
+/static/ece5e709bd1e844c6369a266547cb9d4/70a80/globe.jpg 1133w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Meeting the Boys&lt;/h2&gt;
+&lt;p&gt;First, i had to link up with the others. They flew a few days earlier to spend some time in Germany while I chose to fly direct to Oslo on Christmas Eve. It turned out to be cheaper, probably because far fewer people were travelling. It was a quiet, pleasant ride.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/3c5689fe26bf3511eb4bb40dbf4c83fa/eea4a/the_boys.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdpxSpUT/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECAxQSI//aAAgBAQABBQLLEywRnrLfSL6cukf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAgEBPwFH/8QAHBAAAgICAwAAAAAAAAAAAAAAAAIBESExEkGR/9oACAEBAAY/AsvJl2O/SrFnXGKNn//EABwQAAICAgMAAAAAAAAAAAAAAAABESFhkTFBcf/aAAgBAQABPyFrVPSM/eIi7J2nimaFlQGFo//aAAwDAQACAAMAAAAQHz//xAAWEQEBAQAAAAAAAAAAAAAAAAAAIVH/2gAIAQMBAT8Qq6//xAAXEQEAAwAAAAAAAAAAAAAAAAAAIVFx/9oACAECAQE/EIph/8QAGhABAQEBAQEBAAAAAAAAAAAAAREhAGExcf/aAAgBAQABPxCwJH6kOTVDo2n5nKor2SeNBHL2v32U86kUGbvv/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The boys&quot; title=&quot;&quot; src=&quot;/static/3c5689fe26bf3511eb4bb40dbf4c83fa/1c72d/the_boys.jpg&quot; srcset=&quot;/static/3c5689fe26bf3511eb4bb40dbf4c83fa/a80bd/the_boys.jpg 148w,
+/static/3c5689fe26bf3511eb4bb40dbf4c83fa/1c91a/the_boys.jpg 295w,
+/static/3c5689fe26bf3511eb4bb40dbf4c83fa/1c72d/the_boys.jpg 590w,
+/static/3c5689fe26bf3511eb4bb40dbf4c83fa/a8a14/the_boys.jpg 885w,
+/static/3c5689fe26bf3511eb4bb40dbf4c83fa/fbd2c/the_boys.jpg 1180w,
+/static/3c5689fe26bf3511eb4bb40dbf4c83fa/eea4a/the_boys.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Syed, Myself, Aaron, Andrew, Rama&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;We went about trying different street food.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/882d9a2fa0fd6fe540d78f6defec8a4e/80e3c/street_food_1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAUC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//aAAwDAQACEAMQAAABxTqr57hnbOjVh6dXMwosB8jD/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAxESBCIUITL/2gAIAQEAAQUCC9l7jAQO4gK5fZm5VyqKNHnjxamsscLWMmVelf6n/8QAFxEAAwEAAAAAAAAAAAAAAAAAABAREv/aAAgBAwEBPwHJVH//xAAYEQADAQEAAAAAAAAAAAAAAAAAARAREv/aAAgBAgEBPwHqM0c//8QAIBAAAgEEAQUAAAAAAAAAAAAAAAERAhAhMRIiQVFxgf/aAAgBAQAGPwKauw0twRBPFHTT9ROTikm2Qnk2jePIlRi3u/8A/8QAHxABAAIBBAMBAAAAAAAAAAAAAQARITFBUWFxkaHR/9oACAEBAAE/IQquhPkqSsYQAKMZt3lG1xvNtedyBVvaBNSnUKP4JLc3kjK+RghwOqas7n3DTXlAYxCf/9oADAMBAAIAAwAAABC8AQHwL//EABkRAQEAAwEAAAAAAAAAAAAAAAEAEBFBUf/aAAgBAwEBPxASWxC8tvY5j//EABoRAAICAwAAAAAAAAAAAAAAAAABEUEQMYH/2gAIAQIBAT8QaWJKyEEDTuP/xAAgEAEAAgEEAgMAAAAAAAAAAAABABEhMUFRcWGhgZGx/9oACAEBAAE/EMQVGJeRVr2Qr1OxgFQ/Liy4CbPKEYCbNL5gjVnQK7V9y2uOlEogaWtO3nzHW4NBacme6htdos9y5A15tOvMAvF/ALd4UGvvlA5I9qgkTFB6uWsl4n//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Street food 1&quot; title=&quot;&quot; src=&quot;/static/882d9a2fa0fd6fe540d78f6defec8a4e/1c72d/street_food_1.jpg&quot; srcset=&quot;/static/882d9a2fa0fd6fe540d78f6defec8a4e/a80bd/street_food_1.jpg 148w,
+/static/882d9a2fa0fd6fe540d78f6defec8a4e/1c91a/street_food_1.jpg 295w,
+/static/882d9a2fa0fd6fe540d78f6defec8a4e/1c72d/street_food_1.jpg 590w,
+/static/882d9a2fa0fd6fe540d78f6defec8a4e/80e3c/street_food_1.jpg 720w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/a6bab0a5923292a5c35ef987f275f7d7/80e3c/street_food_2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEEBQMC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGrGtGNV3UlfhU0qsvIxtQJEf/EABwQAQADAQADAQAAAAAAAAAAAAEAAgMREBIiMf/aAAgBAQABBQIdEbW5lrStO8ipOxshR0qy+q2y9gmR9/nj/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEg/9oACAEDAQE/AQ4//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/AUTH/8QAHxAAAQQBBQEAAAAAAAAAAAAAAQACESEgEBIiMnGh/9oACAEBAAY/Ap2UuvxQ8X5hQkq2OI804lW8unH/xAAcEAACAgMBAQAAAAAAAAAAAAAAAREhMUFRcZH/2gAIAQEAAT8hgZ7cGW21A2wbmY2aKZwC/PhHns5wmDBmxCWEWWSVIbywehyxLVvViwgl2f/aAAwDAQACAAMAAAAQBBfMB8//xAAYEQADAQEAAAAAAAAAAAAAAAABEDEAEf/aAAgBAwEBPxCDdLCL/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQETEh/9oACAECAQE/EGreFB8Fj2P/xAAgEAEBAAICAgIDAAAAAAAAAAABEQAhMXFBYVGBkbHR/9oACAEBAAE/EAECaFR6wYWJHTRPr1gaKyKD7yhPQYoJFKx47zYsS8sOXy7cLP6w/rUeQ/GFwk5B0npzQOaHnfOcFAWAfPtwMbuvDgZVMd4tOlv6uCOzpmf/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Street food 2&quot; title=&quot;&quot; src=&quot;/static/a6bab0a5923292a5c35ef987f275f7d7/1c72d/street_food_2.jpg&quot; srcset=&quot;/static/a6bab0a5923292a5c35ef987f275f7d7/a80bd/street_food_2.jpg 148w,
+/static/a6bab0a5923292a5c35ef987f275f7d7/1c91a/street_food_2.jpg 295w,
+/static/a6bab0a5923292a5c35ef987f275f7d7/1c72d/street_food_2.jpg 590w,
+/static/a6bab0a5923292a5c35ef987f275f7d7/80e3c/street_food_2.jpg 720w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;Norway has no shortage of fjords, trains, frozen seas, and pretty skylines.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c727e0ae725e37b904b69786403d158f/eea4a/dark_sky.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGaxP0jQkF//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIBEBETFP/aAAgBAQABBQJXNuDokW//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAAAASAxMv/aAAgBAQAGPwIoyof/xAAbEAEBAAIDAQAAAAAAAAAAAAABABEhMUFxgf/aAAgBAQABPyFR2WPBPuJy6+kldz3Df//aAAwDAQACAAMAAAAQJD//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFRYXGhsf/aAAgBAQABPxAFr6M+5vFcgfJdYHksoKU3mCmnBELpTM//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;dark sky&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c727e0ae725e37b904b69786403d158f/1c72d/dark_sky.jpg&quot;
+        srcset=&quot;/static/c727e0ae725e37b904b69786403d158f/a80bd/dark_sky.jpg 148w,
+/static/c727e0ae725e37b904b69786403d158f/1c91a/dark_sky.jpg 295w,
+/static/c727e0ae725e37b904b69786403d158f/1c72d/dark_sky.jpg 590w,
+/static/c727e0ae725e37b904b69786403d158f/a8a14/dark_sky.jpg 885w,
+/static/c727e0ae725e37b904b69786403d158f/fbd2c/dark_sky.jpg 1180w,
+/static/c727e0ae725e37b904b69786403d158f/eea4a/dark_sky.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4d59a53bd778a3576272af760c80420e/eea4a/fjords.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB0Uzm6CYP/8QAGRABAAIDAAAAAAAAAAAAAAAAABESARAh/9oACAEBAAEFAqod1K2X/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/Aar/xAAXEAADAQAAAAAAAAAAAAAAAAAAATEg/9oACAEBAAY/AsUrP//EABkQAAIDAQAAAAAAAAAAAAAAAAABETFxYf/aAAgBAQABPyFmaMifTQiov//aAAwDAQACAAMAAAAQuO//xAAWEQADAAAAAAAAAAAAAAAAAAABEGH/2gAIAQMBAT8QEJ//xAAVEQEBAAAAAAAAAAAAAAAAAAAQcf/aAAgBAgEBPxCh/8QAGxABAAICAwAAAAAAAAAAAAAAAQARIfBhcaH/2gAIAQEAAT8QayqzzNZHQhubRRj1haAHc//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fjords&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4d59a53bd778a3576272af760c80420e/1c72d/fjords.jpg&quot;
+        srcset=&quot;/static/4d59a53bd778a3576272af760c80420e/a80bd/fjords.jpg 148w,
+/static/4d59a53bd778a3576272af760c80420e/1c91a/fjords.jpg 295w,
+/static/4d59a53bd778a3576272af760c80420e/1c72d/fjords.jpg 590w,
+/static/4d59a53bd778a3576272af760c80420e/a8a14/fjords.jpg 885w,
+/static/4d59a53bd778a3576272af760c80420e/fbd2c/fjords.jpg 1180w,
+/static/4d59a53bd778a3576272af760c80420e/eea4a/fjords.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Here’s one of us chasing the views.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c777db7ba2411990ea75c31dca4073f2/eea4a/chasing_views.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGdZEQgv//EABgQAAMBAQAAAAAAAAAAAAAAAAABAhIQ/9oACAEBAAEFAppGkaQu/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABgQAAIDAAAAAAAAAAAAAAAAAAAgMUHh/9oACAEBAAY/ArMJT//EABsQAQACAgMAAAAAAAAAAAAAAAEAEBFBkaHx/9oACAEBAAE/IcHL0ie3lHzNBr//2gAMAwEAAgADAAAAEED/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAABEXH/2gAIAQMBAT8QThg//8QAFhEBAQEAAAAAAAAAAAAAAAAAABFx/9oACAECAQE/EJWn/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAITFBkfH/2gAIAQEAAT8QYAiy3ie3wfDKasdJnvInK6t7d//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;view chasing&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c777db7ba2411990ea75c31dca4073f2/1c72d/chasing_views.jpg&quot;
+        srcset=&quot;/static/c777db7ba2411990ea75c31dca4073f2/a80bd/chasing_views.jpg 148w,
+/static/c777db7ba2411990ea75c31dca4073f2/1c91a/chasing_views.jpg 295w,
+/static/c777db7ba2411990ea75c31dca4073f2/1c72d/chasing_views.jpg 590w,
+/static/c777db7ba2411990ea75c31dca4073f2/a8a14/chasing_views.jpg 885w,
+/static/c777db7ba2411990ea75c31dca4073f2/fbd2c/chasing_views.jpg 1180w,
+/static/c777db7ba2411990ea75c31dca4073f2/eea4a/chasing_views.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;I like the architectural style in Norway. From afar, everything looks composed and tranquil, lights glowing softly in the snow. Up close, the houses feel more personal, cozier and friendlier.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/4557473d8381f086d1337ae22b44a1cd/6a068/houses.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAe8XhVxkAzrjZkB//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAIRARMSIf/aAAgBAQABBQLNPMGlmHyFxda3Xh0cd2nRz//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EACAQAAIBAgcBAAAAAAAAAAAAAAABIRExAgMSIkGBkTL/2gAIAQEABj8CkhLw4XRbw5SIKIvpKVw9oy91xzY+mf/EAB8QAAICAQQDAAAAAAAAAAAAAAERACExQVFhcaHB8f/aAAgBAQABPyFmT7EQia50hNyfZphJFnUPcVpPYzDVeAhCUDgwgEqB3uMoZbplwMspyEqfen//2gAMAwEAAgADAAAAEPgjMv/EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QyFR//8QAFxEBAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxCLa//EAB8QAQEAAgICAwEAAAAAAAAAAAERACExQXGBUZGhsf/aAAgBAQABPxBnDKVCTAroHZ7d/mFgiKod/OnKoA9EQhzp1iRcGbsXqZD5A7ofa4CizYgXvzgM1gLpnMX+mFLWiqL5IYnaoN7q85d8qKFNHeBaxf/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Houses from afar&quot; title=&quot;&quot; src=&quot;/static/4557473d8381f086d1337ae22b44a1cd/1c72d/houses.jpg&quot; srcset=&quot;/static/4557473d8381f086d1337ae22b44a1cd/a80bd/houses.jpg 148w,
+/static/4557473d8381f086d1337ae22b44a1cd/1c91a/houses.jpg 295w,
+/static/4557473d8381f086d1337ae22b44a1cd/1c72d/houses.jpg 590w,
+/static/4557473d8381f086d1337ae22b44a1cd/a8a14/houses.jpg 885w,
+/static/4557473d8381f086d1337ae22b44a1cd/6a068/houses.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/4c5a51a790756e31e36d955d70ad9cf5/6a068/vibey.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAECBP/aAAwDAQACEAMQAAAByNenQGU1lSDik3SOYDv/xAAaEAADAQADAAAAAAAAAAAAAAAAARECEjFB/9oACAEBAAEFAocSGUoox5hEZ7Pays//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIQERL/2gAIAQMBAT8BaZxKtP/EABgRAQADAQAAAAAAAAAAAAAAAAABAhIT/9oACAECAQE/AdQ6VSw//8QAHRAAAQIHAAAAAAAAAAAAAAAAAAExECAhMkKRkv/aAAgBAQAGPwKLjoZclRixNyf/xAAdEAEAAwABBQAAAAAAAAAAAAABABEhQRBhcYGh/9oACAEBAAE/IZOjpIgyLHi9gKk9EwQoB4hMib5IVz8krMqaHGdyf//aAAwDAQACAAMAAAAQk8y+/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIWH/2gAIAQMBAT8Q1tLDgKos/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERIUFh/9oACAECAQE/EFkrp6EPhB//xAAfEAEAAgEEAwEAAAAAAAAAAAABABEhMVFhoUFxgZH/2gAIAQEAAT8Qy0Im0OMuaIPrHjHVIdJaAdyP3ErBTRNVABhQpyc1Ei7Xp0gE0xcbPFFkC8p//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;House view upclose&quot; title=&quot;&quot; src=&quot;/static/4c5a51a790756e31e36d955d70ad9cf5/1c72d/vibey.jpg&quot; srcset=&quot;/static/4c5a51a790756e31e36d955d70ad9cf5/a80bd/vibey.jpg 148w,
+/static/4c5a51a790756e31e36d955d70ad9cf5/1c91a/vibey.jpg 295w,
+/static/4c5a51a790756e31e36d955d70ad9cf5/1c72d/vibey.jpg 590w,
+/static/4c5a51a790756e31e36d955d70ad9cf5/a8a14/vibey.jpg 885w,
+/static/4c5a51a790756e31e36d955d70ad9cf5/6a068/vibey.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2&gt;What We Did&lt;/h2&gt;
+&lt;p&gt;We mostly wandered around, visited museums, went skiing and sledding, took whale-watching rides and see the fjords, enjoyed bonfires, and chased the lights. Pretty typical tourist things, but no less enjoyable.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/b62c5e9d6ade2bba74cf83b1cb41920c/6a068/cold.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAXYqd1JyJCh801SIE//EABwQAAIDAAMBAAAAAAAAAAAAAAACAQMSEBMiMf/aAAgBAQABBQLJgyNayRTfJ3MNMMtX3UlnmOP/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BI3//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/Aayvf//EABwQAAICAgMAAAAAAAAAAAAAAAABEBECoSExMv/aAAgBAQAGPwKbeWhp7PKOyzhlKf/EAB0QAQEAAQQDAAAAAAAAAAAAAAEAESExQWFRcYH/2gAIAQEAAT8hrHrKSY8F5yXWdjOhzTWApOE2vSQEHBi2fhZv/9oADAMBAAIAAwAAABCHFzD/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARUf/aAAgBAwEBPxBoV0cf/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEQEVFh/9oACAECAQE/EEqMiW//xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhQVFhcTGx/9oACAEBAAE/EKOpVqJcLSjAHLLKL6br7TryNrXkWIQAkAwncUiH4OdyhfAub7gnHzDeNu4ZQwP5y3LP/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Freezing&quot; title=&quot;&quot; src=&quot;/static/b62c5e9d6ade2bba74cf83b1cb41920c/1c72d/cold.jpg&quot; srcset=&quot;/static/b62c5e9d6ade2bba74cf83b1cb41920c/a80bd/cold.jpg 148w,
+/static/b62c5e9d6ade2bba74cf83b1cb41920c/1c91a/cold.jpg 295w,
+/static/b62c5e9d6ade2bba74cf83b1cb41920c/1c72d/cold.jpg 590w,
+/static/b62c5e9d6ade2bba74cf83b1cb41920c/a8a14/cold.jpg 885w,
+/static/b62c5e9d6ade2bba74cf83b1cb41920c/6a068/cold.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption&gt;&lt;em&gt;On board&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/1ef1198ec82adc16da47ce7e3a86e1f6/6a068/skii.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAADBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAFvsmFT1LmSaxLPpDLKD//EABwQAAMAAgMBAAAAAAAAAAAAAAABAgMRBCIxQf/aAAgBAQABBQJQTKZpIvJRFtJ1TNbXEXQ+YfD/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPwEI/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAQIf/aAAgBAgEBPwFZt//EABsQAQACAgMAAAAAAAAAAAAAAAEAEBEhQYGR/9oACAEBAAY/ApqsZ8iDOYxW3qv/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMRBx8P/aAAgBAQABPyGIN6ORyLFnCEBVcp1vkQLlk2RVa2WR69TFXyvH/9oADAMBAAIAAwAAABAb50z/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxDoVCeQh//EABYRAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAgEBPxBIdn//xAAdEAEAAwADAAMAAAAAAAAAAAABABEhMUFRcZGh/9oACAEBAAE/EGepaQBbHpzFqQ+THCWqRBuHoHsY6JOSkLIJAQ0slBwiNFVj+wLAo+I0c5En1CGwVBWf/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Skiing&quot; title=&quot;&quot; src=&quot;/static/1ef1198ec82adc16da47ce7e3a86e1f6/1c72d/skii.jpg&quot; srcset=&quot;/static/1ef1198ec82adc16da47ce7e3a86e1f6/a80bd/skii.jpg 148w,
+/static/1ef1198ec82adc16da47ce7e3a86e1f6/1c91a/skii.jpg 295w,
+/static/1ef1198ec82adc16da47ce7e3a86e1f6/1c72d/skii.jpg 590w,
+/static/1ef1198ec82adc16da47ce7e3a86e1f6/a8a14/skii.jpg 885w,
+/static/1ef1198ec82adc16da47ce7e3a86e1f6/6a068/skii.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption&gt;&lt;em&gt;Readying to skii&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e9925c0b6d219ccd15355f638c76bd8c/eea4a/bon_fire.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAVV0GBWMcmX/xAAcEAACAgIDAAAAAAAAAAAAAAABAgARAxITISL/2gAIAQEAAQUCr0qwpNaGHtuAmf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Bta//xAAaEAACAgMAAAAAAAAAAAAAAAABEAACETFR/9oACAEBAAY/AsOp6tif/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITFB/9oACAEBAAE/IaWDYPkFbLmnIszNEGXLiixJ/9oADAMBAAIAAwAAABCMz//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAw2F//xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQIBAT8QxW//xAAbEAACAwEBAQAAAAAAAAAAAAABEQAhMUFRkf/aAAgBAQABPxB9Yp9eQ7Brg5FmKRLAFQbKW/YARIoWkY7n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;bon fire&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e9925c0b6d219ccd15355f638c76bd8c/1c72d/bon_fire.jpg&quot;
+        srcset=&quot;/static/e9925c0b6d219ccd15355f638c76bd8c/a80bd/bon_fire.jpg 148w,
+/static/e9925c0b6d219ccd15355f638c76bd8c/1c91a/bon_fire.jpg 295w,
+/static/e9925c0b6d219ccd15355f638c76bd8c/1c72d/bon_fire.jpg 590w,
+/static/e9925c0b6d219ccd15355f638c76bd8c/a8a14/bon_fire.jpg 885w,
+/static/e9925c0b6d219ccd15355f638c76bd8c/fbd2c/bon_fire.jpg 1180w,
+/static/e9925c0b6d219ccd15355f638c76bd8c/eea4a/bon_fire.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0bea2fe3f4ebc92351a05f1775ad8218/eea4a/lights.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAE3auWRZGr/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDERIh/9oACAEBAAEFApxeOUNE0Pgbnf8A/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAZEAEAAgMAAAAAAAAAAAAAAAABABEgMTL/2gAIAQEABj8CtMNE5J//xAAbEAACAgMBAAAAAAAAAAAAAAAAASExEUFxkf/aAAgBAQABPyF0hjglSJaITc/IVD//2gAMAwEAAgADAAAAEFzf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARBR/9oACAEDAQE/EF7H/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAFREf/aAAgBAgEBPxBOmIf/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhQXExkf/aAAgBAQABPxBdZ2bwfK9xFvQIaRt7CMte318lQbuM/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lights&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0bea2fe3f4ebc92351a05f1775ad8218/1c72d/lights.jpg&quot;
+        srcset=&quot;/static/0bea2fe3f4ebc92351a05f1775ad8218/a80bd/lights.jpg 148w,
+/static/0bea2fe3f4ebc92351a05f1775ad8218/1c91a/lights.jpg 295w,
+/static/0bea2fe3f4ebc92351a05f1775ad8218/1c72d/lights.jpg 590w,
+/static/0bea2fe3f4ebc92351a05f1775ad8218/a8a14/lights.jpg 885w,
+/static/0bea2fe3f4ebc92351a05f1775ad8218/fbd2c/lights.jpg 1180w,
+/static/0bea2fe3f4ebc92351a05f1775ad8218/eea4a/lights.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Here’s Syed warming himself up.. but caught in a rather incriminating pose.&lt;/p&gt;
+&lt;div style=&quot;width: 50%; height: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2ea5d7fa92bf3e0e7180b34db23ff088/6a068/syed_posing.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//aAAwDAQACEAMQAAABxWvc9FCxo/utobzyRH//xAAcEAEAAgIDAQAAAAAAAAAAAAABAAIDMRESISL/2gAIAQEAAQUCbeHVnWAy/wAwtwYjmZcTWO6asrHf/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BI//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/AWP/xAAbEAACAwADAAAAAAAAAAAAAAAAIQEQESAiMf/aAAgBAQAGPwJwTqGj1HWs4Oa//8QAHBABAAMBAQADAAAAAAAAAAAAAQARIUExEGFx/9oACAEBAAE/IfVdRyaicX+xd9PuWAU9QHhdiIzCuIQ9gpTbW7CKmMQRsfi//9oADAMBAAIAAwAAABCo+g3/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQEQITH/2gAIAQMBAT8QjHTBqv/EABgRAAIDAAAAAAAAAAAAAAAAAAARARAx/9oACAECAQE/ENjkVf/EAB4QAQADAQABBQAAAAAAAAAAAAEAETEhQVFxobHB/9oACAEBAAE/EDWbyNQqw7Ftr7+S0ABxNfEcwPovkSEiJHo+8Yn3ryamYhOPQPpFKq7kSCkTEjaghauzef/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Syed in an incriminating pose&quot; title=&quot;&quot; src=&quot;/static/2ea5d7fa92bf3e0e7180b34db23ff088/1c72d/syed_posing.jpg&quot; srcset=&quot;/static/2ea5d7fa92bf3e0e7180b34db23ff088/a80bd/syed_posing.jpg 148w,
+/static/2ea5d7fa92bf3e0e7180b34db23ff088/1c91a/syed_posing.jpg 295w,
+/static/2ea5d7fa92bf3e0e7180b34db23ff088/1c72d/syed_posing.jpg 590w,
+/static/2ea5d7fa92bf3e0e7180b34db23ff088/a8a14/syed_posing.jpg 885w,
+/static/2ea5d7fa92bf3e0e7180b34db23ff088/6a068/syed_posing.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2&gt;We Feasted&lt;/h2&gt;
+&lt;p&gt;Oh we did not hold back on food. We enjoyed both cheap and fancy options throughout our stay. &lt;br&gt;Below are some of the fancier ones.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/9d07c3b7345e2457ab971e4a1e52693d/6a068/food5.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQAAv/aAAwDAQACEAMQAAABkZlkq6VC2E1Lc7M1Af/EABwQAAICAwEBAAAAAAAAAAAAAAECABEDBBMQEv/aAAgBAQABBQIa4nBYMfyMjN0trjKHh17gSoPf/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAhIh/9oACAEDAQE/AbleQ5Q8pkP/xAAbEQACAQUAAAAAAAAAAAAAAAAAARECEiEiMf/aAAgBAgEBPwHd5kuYqmuEs//EAB4QAAEEAQUAAAAAAAAAAAAAAAEAEBEhAhIgMUGB/9oACAEBAAY/ArtoWnpCM5D3HgXJ2f/EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExEEFhkaGx/9oACAEBAAE/IQGT8S7E3CCGjace4XFDvvCkshheE0nSASxfJCGyJXn/2gAMAwEAAgADAAAAEOsfg//EABgRAQEBAQEAAAAAAAAAAAAAAAEAQREx/9oACAEDAQE/EOqDEvQIBl//xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oACAECAQE/EDhD22x1Lat//8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBUXGBsf/aAAgBAQABPxA4Jb5r6GLBAYARY3mHF4grHlYQSaBnPrCUBH2byFXddFZADNWL8t4zChtWfmTC6yt74x7n/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 1&quot; title=&quot;&quot; src=&quot;/static/9d07c3b7345e2457ab971e4a1e52693d/1c72d/food5.jpg&quot; srcset=&quot;/static/9d07c3b7345e2457ab971e4a1e52693d/a80bd/food5.jpg 148w,
+/static/9d07c3b7345e2457ab971e4a1e52693d/1c91a/food5.jpg 295w,
+/static/9d07c3b7345e2457ab971e4a1e52693d/1c72d/food5.jpg 590w,
+/static/9d07c3b7345e2457ab971e4a1e52693d/a8a14/food5.jpg 885w,
+/static/9d07c3b7345e2457ab971e4a1e52693d/6a068/food5.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7b2abee8f383be49842b06c06c37d402/6a068/food1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQIF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/aAAwDAQACEAMQAAABTRO2WiIQPVi03AuYPDz/xAAcEAACAgIDAAAAAAAAAAAAAAABAgASAyIEERP/2gAIAQEAAQUCVGhQGOr2xdtMuOeriWIh5OtGMGy1Ajsbf//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8BVykP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAMf/aAAgBAgEBPwFljpkHuu//xAAeEAACAgICAwAAAAAAAAAAAAAAAREhAjESIjJhkf/aAAgBAQAGPwJdePuS3LKxxJeZVs39IPGyYFNmh2f/xAAdEAEAAgICAwAAAAAAAAAAAAABACERQTFhUYGh/9oACAEBAAE/IdYW/FFM9huEdD1Hx1XRxBduQW4UPlmZQizSS4ZQDwUvCLsheDCER//aAAwDAQACAAMAAAAQq9hM/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARIRD/2gAIAQMBAT8QxsIttwRg8f/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEx/9oACAECAQE/EGAnYQZPiPLV/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFxQVFhgf/aAAgBAQABPxAAQdihehveFWkc5AeDKCE00n9pzhXGBAX5B47wluRgpTw4cjUdFB8rkBb+1cNALEa6HLoheVmEUgWhloF9zEoAQA6z/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 2&quot; title=&quot;&quot; src=&quot;/static/7b2abee8f383be49842b06c06c37d402/1c72d/food1.jpg&quot; srcset=&quot;/static/7b2abee8f383be49842b06c06c37d402/a80bd/food1.jpg 148w,
+/static/7b2abee8f383be49842b06c06c37d402/1c91a/food1.jpg 295w,
+/static/7b2abee8f383be49842b06c06c37d402/1c72d/food1.jpg 590w,
+/static/7b2abee8f383be49842b06c06c37d402/a8a14/food1.jpg 885w,
+/static/7b2abee8f383be49842b06c06c37d402/6a068/food1.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/6a068/food6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAXAQEAAwAAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAAFNEqsruFCb3Y2MZaD/AP/EABwQAAICAwEBAAAAAAAAAAAAAAECABEDEhMQFP/aAAgBAQABBQJMIrUBii2K16lYVZ5wM+c0uGgPf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB8QAAIBBAIDAAAAAAAAAAAAAAABEQIhIjEgMkGBof/aAAgBAQAGPwLK/sTfjVizqO30huYJpqcGyMTtHD//xAAdEAADAAICAwAAAAAAAAAAAAAAARExQSFRYZHB/9oACAEBAAE/IYi4NtBNFZiLQxBXRWW11MBUeaDGc2qXdkWYhj5+hGYhfT//2gAMAwEAAgADAAAAEAz7fv/EABgRAAMBAQAAAAAAAAAAAAAAAAABERBx/9oACAEDAQE/EI0PmU//xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQgf/aAAgBAgEBPxBOnch//8QAHhAAAgICAgMAAAAAAAAAAAAAAREAITFxQVFhgbH/2gAIAQEAAT8QdoEbCxpeBDuKsSNoATyWOkSJ1NP0crSchegxmDAkWGBgLWTuEkbJkAGACOSlZJVKrggtjBfZ/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 3&quot; title=&quot;&quot; src=&quot;/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/1c72d/food6.jpg&quot; srcset=&quot;/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/a80bd/food6.jpg 148w,
+/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/1c91a/food6.jpg 295w,
+/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/1c72d/food6.jpg 590w,
+/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/a8a14/food6.jpg 885w,
+/static/e25eaaf4bc7fc47f115b5ea6a3e3d1b9/6a068/food6.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/1f16044b5f14d4c81d41c6e2cbd022a0/6a068/food2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/aAAwDAQACEAMQAAABjPDoUQLG3TVeoOEQMv8A/8QAGxAAAwEBAAMAAAAAAAAAAAAAAAECERITISL/2gAIAQEAAQUCcmvfJQ6In5pe+cLeIim4oun1/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AXT/xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BcIv/xAAZEAACAwEAAAAAAAAAAAAAAAABEAARMWH/2gAIAQEABj8CWq+OkCVs/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBUYHx/9oACAEBAAE/IWMu/c6injZ9sfnmUULToZRmVUehEtjMWs1BsMT/2gAMAwEAAgADAAAAEDTsD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EIiof//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QWQ6SN7bv/8QAGxABAQEAAwEBAAAAAAAAAAAAAREAITFRceH/2gAIAQEAAT8QTU1nKCkqov7vFPxc1oUnVmFqGxNOhmnL90iwfOs1F50MY5YGfR509AeADf/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 4&quot; title=&quot;&quot; src=&quot;/static/1f16044b5f14d4c81d41c6e2cbd022a0/1c72d/food2.jpg&quot; srcset=&quot;/static/1f16044b5f14d4c81d41c6e2cbd022a0/a80bd/food2.jpg 148w,
+/static/1f16044b5f14d4c81d41c6e2cbd022a0/1c91a/food2.jpg 295w,
+/static/1f16044b5f14d4c81d41c6e2cbd022a0/1c72d/food2.jpg 590w,
+/static/1f16044b5f14d4c81d41c6e2cbd022a0/a8a14/food2.jpg 885w,
+/static/1f16044b5f14d4c81d41c6e2cbd022a0/6a068/food2.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e5e9be0418a7402a783bd35482e82317/6a068/food3.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBQT/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAL/2gAMAwEAAhADEAAAAcftWhJA0xCy0d8KxIr/xAAdEAACAgIDAQAAAAAAAAAAAAABAgADERIEISIQ/9oACAEBAAEFAs+eOPL2Nt0W7VamrZNGgSwwYSCZJ+f/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBFx/9oACAEDAQE/AdUIf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwFZs//EAB8QAAICAQQDAAAAAAAAAAAAAAABESECEBIxMlGBkf/aAAgBAQAGPwLkm37HGcI24ofWfAqXw3YWjqyHb0t6f//EABwQAQADAQEBAQEAAAAAAAAAAAEAESExcVFBgf/aAAgBAQABPyERh+QbDwwQtz+BfIYlb2+EsC/oXYlHxb1G91tzpFML2MvSTkSaNMO0f7Gf/9oADAMBAAIAAwAAABD49b//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EEkHLg7IP//EABkRAAIDAQAAAAAAAAAAAAAAAAABEBEhQf/aAAgBAgEBPxDgJZCz/8QAHhABAAIDAAIDAAAAAAAAAAAAAQARITFRYXGBkaH/2gAIAQEAAT8QeBDw7uAvBc6I/YZXLLentJf1RVtfLbn1AiUWIYeHTLUwKCo+YQlXhmnEivJbTR9sosWW2g8OzKroNQJAq0qAvU//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 5&quot; title=&quot;&quot; src=&quot;/static/e5e9be0418a7402a783bd35482e82317/1c72d/food3.jpg&quot; srcset=&quot;/static/e5e9be0418a7402a783bd35482e82317/a80bd/food3.jpg 148w,
+/static/e5e9be0418a7402a783bd35482e82317/1c91a/food3.jpg 295w,
+/static/e5e9be0418a7402a783bd35482e82317/1c72d/food3.jpg 590w,
+/static/e5e9be0418a7402a783bd35482e82317/a8a14/food3.jpg 885w,
+/static/e5e9be0418a7402a783bd35482e82317/6a068/food3.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/b43009e94235cffd4e5a21df6cf8eacf/6a068/food4.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAYAQACAwAAAAAAAAAAAAAAAAAAAgEDBP/aAAwDAQACEAMQAAABylJnv6EI60cHSEpsaP/EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMRISIEEhP/2gAIAQEAAQUCWlTWHyu+TxWzs7ZEUlZc9ipujtKOxckP/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAEDAQE/AWZz/8QAGhEAAQUBAAAAAAAAAAAAAAAAAAEQERIhUf/aAAgBAgEBPwGE6VbT/8QAHRAAAQQCAwAAAAAAAAAAAAAAAAECITEQETJBUf/aAAgBAQAGPwL0ohN4VruRZEHeLF2Kf//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExUUFx/9oACAEBAAE/IbLFSsqxOSltWu8m86vspuxfZeApt2UvaaZ1M/Z7MP2dhgNE/9oADAMBAAIAAwAAABA33rH/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhQf/aAAgBAwEBPxDT5Lugywb/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhYf/aAAgBAgEBPxDsitPYmYuxP//EABwQAQADAQADAQAAAAAAAAAAAAEAESExQVGBcf/aAAgBAQABPxAejv6rsHVxl5sBMI2l/kpqgF3n2WsNhDVUX2KUA9DK9y9yFijott0+IdFF6WwahRUPfrjalYYcAJ//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 6&quot; title=&quot;&quot; src=&quot;/static/b43009e94235cffd4e5a21df6cf8eacf/1c72d/food4.jpg&quot; srcset=&quot;/static/b43009e94235cffd4e5a21df6cf8eacf/a80bd/food4.jpg 148w,
+/static/b43009e94235cffd4e5a21df6cf8eacf/1c91a/food4.jpg 295w,
+/static/b43009e94235cffd4e5a21df6cf8eacf/1c72d/food4.jpg 590w,
+/static/b43009e94235cffd4e5a21df6cf8eacf/a8a14/food4.jpg 885w,
+/static/b43009e94235cffd4e5a21df6cf8eacf/6a068/food4.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;This is it, man!&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Games and Chill&lt;/h2&gt;
+&lt;p&gt;Some days we decided to just chill at our Airbnb. Interestingly, the owner was a man named Miguel originally from Africa. He fits, almost too well, the image of a mysterious man with a past. A well-built figure with scars and tattoos. Seeing him don an apron and vacuum the floor somehow better completed the picture.&lt;/p&gt;
+&lt;p&gt;Coincidentally, we spotted him dining at at a Chinese restaurant. The owner mentioned Miguel was a regular that comes weekly with a young Chinese kid. &lt;em&gt;Even more interesting..&lt;/em&gt;&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;Chinese food in Tromso?&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        Yeah, wasn&apos;t the best. 35 SGD for what should be 5 SGD fried rice here. The rice itself wasn&apos;t bad, just wildly  over-priced. But I guess they charged a premium because it is considered exotic in Norway.
+        &lt;br&gt;
+        One tip: you might want to let the staff know you’re Asian, if they can’t already tell. I learned that they actually tune the spice and seasoning levels to better suit European tastebuds.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;p&gt;Anyway, when we aren’t out, we’d be relaxing in our lodge cooking and playing board games. Made ourselves a &lt;em&gt;Charcuterie Board&lt;/em&gt; too, with Norway’s signature cheese, Brunost.&lt;/p&gt;
+&lt;div style=&quot;width: 50%; height: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/c5f692eb007113f6bb8cb03fda748a9a/6a068/charcuterie.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwAEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAcSNStcs+EznFaY5P//EABoQAQADAQEBAAAAAAAAAAAAAAEAAhEhAxD/2gAIAQEAAQUCv4MRvWmVo8dw2bONcqfBVn//xAAXEQADAQAAAAAAAAAAAAAAAAAAEBES/9oACAEDAQE/AYZf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/AWYz/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAFBAhARMDL/2gAIAQEABj8CypKU4Erc6P/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExEFFBYbH/2gAIAQEAAT8hJkvQueGzUoK8GZXcX1uDBWAVZiF9Myevc0HJNE+xWZQ8f//aAAwDAQACAAMAAAAQ5wF9/8QAFxEAAwEAAAAAAAAAAAAAAAAAABARMf/aAAgBAwEBPxDSUp//xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEh/9oACAECAQE/ECXW1H//xAAiEAEBAAIBAgcBAAAAAAAAAAABEQAhMVFhEEFxgZGhwfD/2gAIAQEAAT8QlbdBbXCaJBD2/MgLvE3d4xKrNMVs5A88EhiAHq1wRaHz94gGCn865sRYkHkevfWBggMVG+HJBUvHh//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Charcuterie board&quot; title=&quot;&quot; src=&quot;/static/c5f692eb007113f6bb8cb03fda748a9a/1c72d/charcuterie.jpg&quot; srcset=&quot;/static/c5f692eb007113f6bb8cb03fda748a9a/a80bd/charcuterie.jpg 148w,
+/static/c5f692eb007113f6bb8cb03fda748a9a/1c91a/charcuterie.jpg 295w,
+/static/c5f692eb007113f6bb8cb03fda748a9a/1c72d/charcuterie.jpg 590w,
+/static/c5f692eb007113f6bb8cb03fda748a9a/a8a14/charcuterie.jpg 885w,
+/static/c5f692eb007113f6bb8cb03fda748a9a/6a068/charcuterie.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;A Solo Trip Down South&lt;/h1&gt;
+&lt;p&gt;Two weeks went by quickly. It was time to embark on the next phase.&lt;/p&gt;
+&lt;div style=&quot;width: 50%; height: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/94819ab46b2306feb7f8a646ae404bd9/6a068/backpack.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB0ZExxoCQIq1pqnJL/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAERIhAxMiM//aAAgBAQABBQLtoXvU8hFbNvMcCMa5aWN9CBkZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECETFBEBIh/9oACAEBAAY/AqiXfDntaMpIwxxF18o0MQj/xAAfEAACAgEEAwAAAAAAAAAAAAAAAREhQTFhgZFRcaH/2gAIAQEAAT8hhnLsbNms8k7OxuzID7kGPJD69ox7oNmAc+nI+8ca1kvwP//aAAwDAQACAAMAAAAQNMb+/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQMBAT8QSjSz/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAExEBH/2gAIAQIBAT8QfbkGj//EAB4QAQADAAICAwAAAAAAAAAAAAEAESExYUGBcZHR/9oACAEBAAE/EESpsB1QXkdkpvJfbxGxtt3uG5AE8V4xhR0Urq+YEsT5o/kAThoDpl/AlRCIS2dNi9LIahbb9QaOtZ//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Backpacking&quot; title=&quot;&quot; src=&quot;/static/94819ab46b2306feb7f8a646ae404bd9/1c72d/backpack.jpg&quot; srcset=&quot;/static/94819ab46b2306feb7f8a646ae404bd9/a80bd/backpack.jpg 148w,
+/static/94819ab46b2306feb7f8a646ae404bd9/1c91a/backpack.jpg 295w,
+/static/94819ab46b2306feb7f8a646ae404bd9/1c72d/backpack.jpg 590w,
+/static/94819ab46b2306feb7f8a646ae404bd9/a8a14/backpack.jpg 885w,
+/static/94819ab46b2306feb7f8a646ae404bd9/6a068/backpack.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;I sailed the Arctic Sea to Svolvær, in Lofoten. A quiet, serene town. Rows of fishing houses, dramatic mountains, and the best mushroom risotto I’ve ever had.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9b04a3f30ce33e97c0e18140a10ac67c/eea4a/sailing.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAaVc7dnEgj//xAAZEAADAAMAAAAAAAAAAAAAAAAAAQIDESH/2gAIAQEAAQUC1LKlDSHkJfHJ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASf/xAAZEAACAwEAAAAAAAAAAAAAAAAAARARMTL/2gAIAQEABj8C6RqNUW4//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERITGRweH/2gAIAQEAAT8heFtPWEjoNbow8RNrR//aAAwDAQACAAMAAAAQKy//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8QiMf/xAAXEQEBAQEAAAAAAAAAAAAAAAABABFR/9oACAECAQE/EE9tb//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFxMWGBof/aAAgBAQABPxDkjowo1dpA1+CMAXWWyAoFI49jMsexP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sailing&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9b04a3f30ce33e97c0e18140a10ac67c/1c72d/sailing.jpg&quot;
+        srcset=&quot;/static/9b04a3f30ce33e97c0e18140a10ac67c/a80bd/sailing.jpg 148w,
+/static/9b04a3f30ce33e97c0e18140a10ac67c/1c91a/sailing.jpg 295w,
+/static/9b04a3f30ce33e97c0e18140a10ac67c/1c72d/sailing.jpg 590w,
+/static/9b04a3f30ce33e97c0e18140a10ac67c/a8a14/sailing.jpg 885w,
+/static/9b04a3f30ce33e97c0e18140a10ac67c/fbd2c/sailing.jpg 1180w,
+/static/9b04a3f30ce33e97c0e18140a10ac67c/eea4a/sailing.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9ba510ee8a5e5e00a11c37b04db0c42f/eea4a/fishing_houses.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAWukvdlcRCv/xAAaEAADAAMBAAAAAAAAAAAAAAAAAQMCEhMi/9oACAEBAAEFAlqeRYo5TFKYlI//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwGI/8QAFhEBAQEAAAAAAAAAAAAAAAAAACEi/9oACAECAQE/Aa0//8QAGRAAAwADAAAAAAAAAAAAAAAAAAExEDJC/9oACAEBAAY/AqirFZ0an//EAB4QAAICAAcAAAAAAAAAAAAAAAABETEhQXGBkdHh/9oACAEBAAE/IUbuEvUQbQoseUTdtuQs+p//2gAMAwEAAgADAAAAECwP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EIY//8QAGREAAgMBAAAAAAAAAAAAAAAAAAERUfDx/9oACAECAQE/EG7E50//xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhYTGBkbHR4f/aAAgBAQABPxC0p65wh/XiLDmmOonfV87QktFvNIKtdkr5n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fishing village&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9ba510ee8a5e5e00a11c37b04db0c42f/1c72d/fishing_houses.jpg&quot;
+        srcset=&quot;/static/9ba510ee8a5e5e00a11c37b04db0c42f/a80bd/fishing_houses.jpg 148w,
+/static/9ba510ee8a5e5e00a11c37b04db0c42f/1c91a/fishing_houses.jpg 295w,
+/static/9ba510ee8a5e5e00a11c37b04db0c42f/1c72d/fishing_houses.jpg 590w,
+/static/9ba510ee8a5e5e00a11c37b04db0c42f/a8a14/fishing_houses.jpg 885w,
+/static/9ba510ee8a5e5e00a11c37b04db0c42f/fbd2c/fishing_houses.jpg 1180w,
+/static/9ba510ee8a5e5e00a11c37b04db0c42f/eea4a/fishing_houses.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Some mornings, I’d wake up, and sigh to myself:&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;b&gt;&lt;em&gt;This is it, man.&lt;/em&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/279b5649be254c0779199d9863698ea8/eea4a/the_goat.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHY5yuapND/xAAZEAACAwEAAAAAAAAAAAAAAAAAAgEREhP/2gAIAQEAAQUC2pakZJaDot7U/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Bh//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPwG6r//EABgQAAIDAAAAAAAAAAAAAAAAAAExECAh/9oACAEBAAY/AnkMU//EAB0QAQABAwUAAAAAAAAAAAAAAAEAESExQVFhcZH/2gAIAQEAAT8hwtEbDWJmLtmqb5qE5kEur5P/2gAMAwEAAgADAAAAEPQP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EIzH/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFR/9oACAECAQE/EDWv/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIZExQf/aAAgBAQABPxBShF9NWLJUuRk3xpDEZY3E2CHIvbb5tkObFbwZ0n//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;The GOAT&quot; title=&quot;&quot; src=&quot;/static/279b5649be254c0779199d9863698ea8/1c72d/the_goat.jpg&quot; srcset=&quot;/static/279b5649be254c0779199d9863698ea8/a80bd/the_goat.jpg 148w,
+/static/279b5649be254c0779199d9863698ea8/1c91a/the_goat.jpg 295w,
+/static/279b5649be254c0779199d9863698ea8/1c72d/the_goat.jpg 590w,
+/static/279b5649be254c0779199d9863698ea8/a8a14/the_goat.jpg 885w,
+/static/279b5649be254c0779199d9863698ea8/fbd2c/the_goat.jpg 1180w,
+/static/279b5649be254c0779199d9863698ea8/eea4a/the_goat.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;The view right outside my lodge.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p&gt;I visited an ice bar on my first day at Lofoten. Had a few drinks and chatted with locals. Managed to find my accommodation for the night, recommended by the bartender.&lt;br&gt;
+It was a cozy house with a sweet old lady who had been hosting backpackers for years. Her bathroom walls were filled with messages from travellers all over the world. I left a small note too, a mark from Singapore.&lt;/p&gt;
+&lt;p&gt;Here’s Turbo, her cat.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/def82fbaabaf63b55e24cfd6cabb132b/6a068/ice_bar.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/9oADAMBAAIQAxAAAAHmbTbWTAaEFWU3EKt//8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACEBEiMRIhMv/aAAgBAQABBQIDrKAcTZe7fJXDvSGv/8QAFhEAAwAAAAAAAAAAAAAAAAAAAiBh/9oACAEDAQE/ARqf/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECEBEx/9oACAECAQE/AXKtFw//xAAZEAEAAgMAAAAAAAAAAAAAAAABADEQETD/2gAIAQEABj8ClYAubeH/xAAaEAADAQEBAQAAAAAAAAAAAAAAARExIUFx/9oACAEBAAE/IXdJcxEVyF9Y1GIeY6WOFdNRRhb9JfTQRgf/2gAMAwEAAgADAAAAEHDRPv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QAsexbf/EABcRAQEBAQAAAAAAAAAAAAAAAAERACH/2gAIAQIBAT8QbkxXKszo3//EABsQAQEBAQEAAwAAAAAAAAAAAAERACExEEGB/9oACAEBAAE/EHmqoWVyipmTBweYB24Ce5rRGh90PQciF/uUVS7gMebkTnfg32+t/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;At the ice bar&quot; title=&quot;&quot; src=&quot;/static/def82fbaabaf63b55e24cfd6cabb132b/1c72d/ice_bar.jpg&quot; srcset=&quot;/static/def82fbaabaf63b55e24cfd6cabb132b/a80bd/ice_bar.jpg 148w,
+/static/def82fbaabaf63b55e24cfd6cabb132b/1c91a/ice_bar.jpg 295w,
+/static/def82fbaabaf63b55e24cfd6cabb132b/1c72d/ice_bar.jpg 590w,
+/static/def82fbaabaf63b55e24cfd6cabb132b/a8a14/ice_bar.jpg 885w,
+/static/def82fbaabaf63b55e24cfd6cabb132b/6a068/ice_bar.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/6a068/turbo.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAIEAQMF/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/2gAMAwEAAhADEAAAAVbkXo2CUI12NSmkGJX/AP/EABoQAQEBAQADAAAAAAAAAAAAAAECAAMSMTL/2gAIAQEAAQUCnpmzNYdPFqcS4m0nhNh6PmF8f//EABgRAAIDAAAAAAAAAAAAAAAAAAABAxAR/9oACAEDAQE/AacaRh//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwEp/8QAGhAAAgIDAAAAAAAAAAAAAAAAESAAEBIxQf/aAAgBAQAGPwJMrHIdJ//EABwQAAIDAQADAAAAAAAAAAAAAAABESExQRBRcf/aAAgBAQABPyGemRNLR+yW2o9j2mSsZBUr7EFG+Y3xZi2un//aAAwDAQACAAMAAAAQQ9yx/8QAFxEBAAMAAAAAAAAAAAAAAAAAIQABEP/aAAgBAwEBPxB0LRP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Qxi22v//EAB4QAQACAgIDAQAAAAAAAAAAAAEAESFBMVFhcYGR/9oACAEBAAE/EKduYJY2a3M2sxLbLojGwRUNVE2yHc1B8lxHaaHnEPMHsJv7Dy3cJZXN3+yoDAU//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Turbo, the cat&quot; title=&quot;&quot; src=&quot;/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/1c72d/turbo.jpg&quot; srcset=&quot;/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/a80bd/turbo.jpg 148w,
+/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/1c91a/turbo.jpg 295w,
+/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/1c72d/turbo.jpg 590w,
+/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/a8a14/turbo.jpg 885w,
+/static/2e4d1050ee2416c7fa8cb96f4abe8bb5/6a068/turbo.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;I took the train further south to Bodø, then Trondheim and spent my days wandering aimlessly. I also noticed Norwegians seem to have a fondness for unusual poses and sculptures..&lt;/p&gt;
+&lt;div style=&quot;width: 50%; height: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2ae7e60c6ea46667c3ded71ae547a38a/6a068/weird_sculpture.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAeAoNxIzVXRo1G4V/8QAHBAAAgMBAAMAAAAAAAAAAAAAAQIAAxIRECEx/9oACAEBAAEFAhl2ZSYErWVZh9r2VHLWWrj7OCZHj//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhAR/9oACAEDAQE/AXTiYf/EABgRAAIDAAAAAAAAAAAAAAAAAAABAhAS/9oACAECAQE/AVSmaP/EABwQAAICAgMAAAAAAAAAAAAAAAABAiEQQRIgIv/aAAgBAQAGPwKPGNbHdJnp3hmhNjUd9f/EABsQAQADAQEBAQAAAAAAAAAAAAEAESExUWGR/9oACAEBAAE/IS9SM1CVisC8glG9YxWT2F4NN+Rqt3fWeKXkUFTFGqPyLdIX8gAZP//aAAwDAQACAAMAAAAQtyND/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAEDAQE/EMGxLrG//8QAFxEBAQEBAAAAAAAAAAAAAAAAABEBIf/aAAgBAgEBPxDVxXBT/8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBUXFh4f/aAAgBAQABPxDDY1tb9ZdOCyUunyBUrlFH2zcQUABYNt7GHwLInVCULJZEViuCru1RO+wpxEAne41Kz9CwQCif/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Woman in a weird pose&quot; title=&quot;&quot; src=&quot;/static/2ae7e60c6ea46667c3ded71ae547a38a/1c72d/weird_sculpture.jpg&quot; srcset=&quot;/static/2ae7e60c6ea46667c3ded71ae547a38a/a80bd/weird_sculpture.jpg 148w,
+/static/2ae7e60c6ea46667c3ded71ae547a38a/1c91a/weird_sculpture.jpg 295w,
+/static/2ae7e60c6ea46667c3ded71ae547a38a/1c72d/weird_sculpture.jpg 590w,
+/static/2ae7e60c6ea46667c3ded71ae547a38a/a8a14/weird_sculpture.jpg 885w,
+/static/2ae7e60c6ea46667c3ded71ae547a38a/6a068/weird_sculpture.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2&gt;Brief Reflection&lt;/h2&gt;
+&lt;p&gt;There was plenty of time for solitary reflection. Travelling alone offers a kind of experience I think everyone should try at least once. It creates space for self-exploration, and nudges you to engage more openly with the locals or fellow travellers. You meet like-minded people with stories to tell. Some light, some heavy. You talk and drink, laugh and then bid the goodnight, fully aware you’ll likely never meet again. &lt;em&gt;Slightly melodramatic&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But i’ve also realised humans are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway’s melanchololic vibe, but by 4pm, the sky would be dark and the streets empty. More than once, I found walking alone down a street lit by a single lamp, and I couldn’t help but wonder:&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Is this it..?&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Krabi Once More: Old Friends, New Connections]]></title><description><![CDATA[Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are kind, the food is cheap, the backpacking…]]></description><link>https://4ndrelim.github.io/blog/krabi/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/krabi/</guid><pubDate>Sat, 01 Jun 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
 .info {
     color: #008080; /* teal */
 }
@@ -577,7 +1173,7 @@
   &lt;em&gt;He would lose his wallet that night and attribute to karma for posing.&lt;/em&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;The next few days were Catan, drinks, wandering, music, and laughter. Simple days. Oh but so enjoyable. I still look back from time to time and smile at how carefree we were, as we move on with our lives.&lt;/p&gt;
+&lt;p&gt;The next few days were Catan, drinks, wandering, music, and laughter. Simple days. Oh but so enjoyable.&lt;br&gt;I still look back from time to time and smile at how carefree we were, as we move on with our lives.&lt;/p&gt;
 &lt;p&gt;Anyway, i’ll be heading Hong Kong for work soon, so I won’t be travelling as much. &lt;br&gt;Hope this has been a fun read. Till next time!&lt;/p&gt;
 &lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
@@ -626,6 +1222,7 @@
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;The Hike Begins&lt;/h2&gt;
 &lt;p&gt;We begun the track from Syabrubesi, a small village at an altitude of 2,380m above sea level. It serves as the starting point to Langtang Valley. It was a long, narrow, bumpy, &lt;strong&gt;really bumpy&lt;/strong&gt; ride from Kathmandu. Occassionally i’ll open my eyes, look out to the window, and see how teasingly close we are to the edge of some spiraling road, down to a nausealy tempting valley.&lt;/p&gt;
 &lt;details&gt;
@@ -698,6 +1295,7 @@
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;Cheeky Boy&lt;/h2&gt;
 &lt;p&gt;We spent the next few days steadily gaining altitude. The scenery was pretty, but after a while, the same pine trees and winding paths start to blur into one. Still, the quiet hours spent walking through nature gave plenty of room for solitary reflection.&lt;/p&gt;
 &lt;p&gt;The trail was also littered with poo. A lot of poo. I figured it was impossible to get lost: if you ever did, simply follow the poo. Not everyone breezed through the hike. At some point, my dear friend Sarah gave up trying to avoid the donkey droppings and began stepping straight into them. &lt;br&gt;
@@ -752,6 +1350,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;Snowy Fields&lt;/h2&gt;
 &lt;p&gt;The first snow hit, and it hit hard. Soon the ground was blanketed in a thick layer of white. The Summer team usually enjoys gentle weather and clear visibility during the day, but nights can be brutal with blizzards that sometimes bleed into the morning.&lt;/p&gt;
 &lt;p&gt;But for now, things were still smooth-sailing.&lt;/p&gt;
@@ -798,6 +1397,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;Harsh Cold&lt;/h2&gt;
 &lt;p&gt;Soon, it was time to head to the Advance Base Camp (ABC). And mother nature decided to hurl some blizzards our way. It got cold. And dark.&lt;/p&gt;
 &lt;div&gt;
@@ -877,6 +1477,7 @@ Man, it was really, really cold. But it brought us together. Kenn is a warm bear
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;Training&lt;/h2&gt;
 &lt;p&gt;Some days, we lucked out and the blizzard stopped before sunrise. The skies cleared, and we squeezed in whatever training we could before the next wave hit. The thickened snow and ice gave us opportunities we wouldn’t have had otherwise.&lt;/p&gt;
 &lt;p&gt;Here’s Calvin and Teng Chung building a pretty solid ice anchor.&lt;/p&gt;
@@ -918,6 +1519,7 @@ Man, it was really, really cold. But it brought us together. Kenn is a warm bear
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;Lovely Team&lt;/h2&gt;
 &lt;p&gt;This is probably one of my favourite pictures of the trip, just us wandering across the vast expanse. &lt;br&gt;
 Bonus if you can guess which one I am!&lt;/p&gt;
@@ -961,6 +1563,7 @@ Bonus if you can guess which one I am!&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h2&gt;The Push&lt;/h2&gt;
 &lt;p&gt;The fateful day finally arrived. The culmination of months of training. We started early, around 2 a.m. Snow boots on, wrapped like dumplings, we pushed forward through hail and biting wind.&lt;/p&gt;
 &lt;p&gt;Soon, the risk of crevices became our biggest threat, and so we roped-up. We were so high up above the clouds the sky was a deep navy blue. Hauntingly clear.&lt;/p&gt;
@@ -1034,6 +1637,7 @@ Bonus if you can guess which one I am!&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;h1&gt;Descent&lt;/h1&gt;
 &lt;p&gt;We crashed hard after the summit, a well-deserved rest. I never thought “lip-burnt” was a real condition, but apparently it is and every bite was excruciating. Salt hit my lips like betrayal. I also lost a couple of toenails and limped the entire way down the mountain. Otherwise, the descent was relatively uneventful.&lt;/p&gt;
 &lt;p&gt;One of the nights, we even ended up dancing with the guides, singing local songs, and just basking in the moment. I don’t have many photos from that night, but I do have several videos. &lt;br&gt;
@@ -1094,7 +1698,8 @@ All chaotic, all wholesome.&lt;/p&gt;
     &lt;/span&gt;
 &lt;/details&gt;
 &lt;br&gt;
-Somehow managed to smuggle back a Yak&apos;s horn, which has since become NUS Mountaineering Club&apos;s treasure.
+&lt;p&gt;Somehow managed to smuggle back a Yak’s horn, which has since become NUS Mountaineering Club’s treasure.&lt;/p&gt;
+&lt;br&gt;
 &lt;h1&gt;Thoughts&lt;/h1&gt;
 &lt;p&gt;The trip wasn’t without tense moments. A month in close proximity with anyone, much less a group, is enough to ruffle feathers.&lt;/p&gt;
 &lt;p&gt;There were factors beyond our control too. The day before reaching ABC, our guides warned us that the snow might be too thick to safely summit. They suggested turning back or attempting a different peak. Some of us were showing signs of weariness. Still, we held a vote. The tie-breaker fell to me.&lt;/p&gt;
@@ -1107,6 +1712,7 @@ Somehow managed to smuggle back a Yak&apos;s horn, which has since become NUS Mo
 &lt;strong&gt;&lt;em&gt;Madness&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn’t so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.&lt;/p&gt;
 &lt;p&gt;Fortunately, she had the heart to look past my moment of folly, and we remain close friends to this day.&lt;/p&gt;
+&lt;br&gt;
 &lt;h1&gt;New Adventures&lt;/h1&gt;
 &lt;p&gt;The trip was inspiring, but it also left me brooding more deeply about life. Still, it did change one thing with certainty. It awakened a desire to travel far and wide, to explore both the world and the quieter corners within myself.&lt;/p&gt;
 &lt;p&gt;This jourey became the catalyst for many more backpacking trips and impulsive adventures in the months that followed. Each one sharpened my self-awareness, showing me what I feared, what I valued, what I wanted to run toward, and what I had been running from.&lt;/p&gt;
