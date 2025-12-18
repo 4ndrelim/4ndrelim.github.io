@@ -19,8 +19,8 @@ module.exports = {
     // Optional: Research URL
     research: `https://scholar.google.com/citations?user=8V3uqYAAAAAJ&hl=en`,
     // Content of the About Me section
-    about: `Hey! My name is Andre. I'm a final year studying Mathematics & Computer Science at the National University of Singapore (NUS).
-      Machine learning is an exciting field at the intersection of mathematical theory (brutal math courses finally paying off.. *_*) and software engineering. There's no shortage of groundbreaking research in the ML landscape, and I aspire to be among those who bring these innovations into real-world applications.
+    about: `Hey! My name is Andre. I'm a final year undergraduate studying Mathematics & Computer Science at the National University of Singapore (NUS).
+      Machine learning is an exciting field at the intersection of mathematical theory (brutal math courses finally paying off.. *_*) and software engineering. There's no shortage of groundbreaking research in the ML landscape, and I desire to be among those who bring these innovations into real-world applications.
       I am now particularly interested in the intricacies of parallelism in training/inference optimization and distributed systems. I aspire to design the infrastructure of next-generation ML systems and pipelines.
       Beyond academia, I am a casual climber (an occasional diver, and avid backpacker) and I am part of the university's Mountaineering club and Climbing club. Together with a couple of 𝘸𝘰𝘯𝘥𝘦𝘳𝘧𝘶𝘭𝘭𝘺 𝘧𝘶𝘯-𝘭𝘰𝘷𝘪𝘯𝘨 𝘤𝘶𝘤𝘬𝘰𝘰𝘴, we scaled the Himalayas and it was simply fantastic!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
@@ -28,11 +28,11 @@ module.exports = {
       {
         name: 'PaperDebugger: 𝘞𝘳𝘪𝘵𝘦 𝘉𝘦𝘵𝘵𝘦𝘳, 𝘎𝘦𝘵 𝘈𝘤𝘤𝘦𝘱𝘵𝘦𝘥',
         description:
-          'Delivered as my Final Year Thesis project. A multi-agent system that integrates directly into Overleaf to help authors with LaTeX-aware debuging and revising academic papers. I oversee our custom (currently close-sourced) backend orchestration logic — XtraMCP. It is both a research contribution and an engineering system that I, alongside few others, are now advancing toward a production-grade platform.',
+          'Delivered as my Final Year Thesis. What started off as a research contribution has since evolved into a full engineering system! Together with a small team, we are advancing toward a production-grade platform: a multi-agent system that integrates directly into Overleaf to provide LaTeX-aware debugging and targeted revision. I continue to develop our backend logic and custom XtraMCP orchestration layer.',
         link: 'https://www.paperdebugger.com/'
         },
       {
-        name: 'Machine Learning Research @ NUS',
+        name: 'Machine Learning Research @ Xtra Computing, NUS',
         description:
           'Part of Prof He Bingsheng\'s research group, focusing on distributed ML systems and adaptations of the transformer architecture. Fortunate enough to make some publications along the way!',
         link: 'https://scholar.google.com/citations?user=8V3uqYAAAAAJ&hl=en',
@@ -48,7 +48,7 @@ module.exports = {
     experience: [
       {
         name: 'Software Engineer Intern @ JPMorganChase (Singapore), June 2025 - August 2025',
-        description: 'The bank was in its Agentic AI phase, so I learnt, built, and extended custom MCP integration and validation logic for backend services.',
+        description: 'The bank was in its Agentic AI phase, so I learnt, built, and extended custom MCP integration and validation logic for backend. My primary work was ensuring equity market data was ready for downstream use.',
         link: 'https://www.jpmorganchase.com/',
       },
       {
@@ -82,7 +82,7 @@ module.exports = {
       {
         name: 'Languages (Ordered by proficiency)',
         description:
-          'Python, Java, C++, TypeScript',
+          'Python, Java, C++, Go, TypeScript',
       },
       {
         name: 'Libraries',

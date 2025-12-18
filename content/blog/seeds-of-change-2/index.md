@@ -53,8 +53,8 @@ We celebrated our arrival at Syabrubesi after a long 10-hour bus ride with Bak K
     </span>
 </details>
 
-<div style="width: 60%; text-align: left;">
-    <img src="./bak_kwa.jpg" alt="Bak Kwa" style="width: 60%; height: auto;">
+<div style="width: 55%; text-align: left;">
+    <img src="./bak_kwa.jpg" alt="Bak Kwa" style="width: 55%; height: auto;">
     <em>Davian cooking Bak Kwa in an inn high up the mountains.</em>
 </div>
 
@@ -79,13 +79,14 @@ Even though the journey had barely begun, Syabrubesi felt like a gentle prologue
 
 
 ## Cheeky Boy
-We spent the next few days steadily gaining altitude. The scenery was pretty, but after a while, the same pine trees and icy paths start to blur into one. Still, the quiet hours spent walking through nature gave plenty of room for solitary reflection.
+We spent the next few days steadily gaining altitude. The scenery was pretty, but after a while, the same pine trees and winding paths start to blur into one. Still, the quiet hours spent walking through nature gave plenty of room for solitary reflection.
 
-The trail was also littered with poo. A lot of poo. I figured it was impossible to get lost: if you ever did, simply follow the poo. Not everyone breezed through the hike either. At some point, my dear friend Sarah gave up trying to avoid the donkey droppings and began stepping straight into them. Walking behind her made it even funnier.
+The trail was also littered with poo. A lot of poo. I figured it was impossible to get lost: if you ever did, simply follow the poo. Not everyone breezed through the hike. At some point, my dear friend Sarah gave up trying to avoid the donkey droppings and began stepping straight into them. <br>
+Walking behind her made it even funnier.
 
 We passed through many villages, and in one of them, I had an odd but memorable encounter with a friendly shop lady selling Nepalese snacks. One thing led to another, and somehow I ended up carrying her on my back and running about at the behest of my teammates.
 
-Later, someone mentioned an old Nepalese bride-kidnapping tradition where the groom carries the bride and elopes. Trust your friends, they said.
+Later, someone mentioned an old Nepalese bride-kidnapping tradition where the groom carries the bride and elopes. _Trust your friends_, they said.
 
 <div>
   <img src="local.jpg" alt="Meeting a local"/>
@@ -142,7 +143,7 @@ Here's a mini one Jing Xuan made herself.
 </div>
 
 ## Harsh Cold
-Soon, it was time to head to the Advance Base Camp. And mother nature decided to hurl some blizzards our way. It got cold. And dark.
+Soon, it was time to head to the Advance Base Camp (ABC). And mother nature decided to hurl some blizzards our way. It got cold. And dark.
 
 <div>
   <img src="cold.jpg" alt="Feeling cold"/>
@@ -204,7 +205,7 @@ Though some of us were hanging onto dear life.
 </div>
 
 ## Lovely Team
-This is perhaps one of my favourite pictures of the trip, just us wandering across the vast expanse. <br>
+This is probably one of my favourite pictures of the trip, just us wandering across the vast expanse. <br>
 Bonus if you can guess which one I am!
 <div>
   <img src="walking_on_snow.jpg" alt="Walking on snow"/>
@@ -218,9 +219,9 @@ I should take this opportunity to briefly introduce my fellow mountaineers. Thes
 5. Evie — She is perhaps the one i'm closest with in our Summer team. Not romantically, but we’ve been through a fair bit together. We somehow keep ending up in each other’s company. Probably because we live nearby. Along with Wen Wu (who also lives nearby), the three of us are forming an endearing friendship, despite our many differences, built on honesty and the willingness to call each other's bullshit in delulu times.<br><br>
 6. Jing Xuan — Quiet and reserved, but always thoughtful and observant. She notices things most people miss, and I value her insights deeply. She has empathy and cares for others in the same gentle way Kenn and Sarah do, but in her own quieter fashion. I’ve learned she hides many things; I hope she’ll one day feel comfortable opening up and leaning on us too.<br><br>
 7. Kenn — My fellow buffet devourer. A glutton at heart but such enjoyable company. He'll bring you to the best food places and and make sure everyone is taken care of. Despite his cheerful nature, he’s surprisingly reflective and some of our conversations ended up unexpectedly pensive.<br><br>
-8. Kimberly — The doe-eyed bubbly girl who reminds me of my younger sister. Cheeky, vibrant, cheerful and never hesitant to use her charms. I like how self-aware she is, and how she goes about rummaging through life with spirited ease. Though you might not want to be the subject of her gossiping!<br><br>
+8. Kimberly — The doe-eyed bubbly girl who reminds me of a younger sister. Cheeky, vibrant, cheerful and never hesitant to use her charms. I like how self-aware she is, and how she goes about rummaging through life with spirited ease. Though you might not want to be the subject of her gossiping!<br><br>
 9. Sarah — A kind, genuine, (lovably) nosy, and caring friend. She knows she can be clumsy and often ends up at the laughing end, but she’s always a good sport, often joining in the laughter. She may be shy, but she doesn’t hesitate to voice her thoughts when she feels something amiss. Sometimes she might tell me privately, perhaps hoping I'd say something on her behalf. I appreciate the trust.<br><br>
-10. Teng Chung — Someone I consider a good friend, and I truly hope the feeling is mutual. Though i can't help but sense a barrier between us. We have our differences, and perhaps he doesn't like my gut. More than once he's rejected my hand, though maybe I was over-stepping boundaries. Regardless, I sincerely respect his drive, ambition, and discipline in Mountaineering.
+10. Teng Chung — Someone I consider a good friend, and I truly hope the feeling is mutual. Though I can't help but sense a barrier between us. We have our differences, and perhaps he doesn't like my gut. More than once he's rejected my hand, though maybe I was over-stepping boundaries. Regardless, I sincerely respect his drive, ambition, and discipline in Mountaineering.
 
 When the skies cleared, the views were mesmerizing. The sun oozed golden light through the snowy arête, painting everything in a soft glow.
 <div>
@@ -228,7 +229,7 @@ When the skies cleared, the views were mesmerizing. The sun oozed golden light t
 </div>
 
 ## The Push
-The fateful day finally arrived. The culmination of months of training. We started early, around 2 a.m. if memory serves. Snow boots on, wrapped like dumplings, we pushed forward through hail and biting wind.
+The fateful day finally arrived. The culmination of months of training. We started early, around 2 a.m. Snow boots on, wrapped like dumplings, we pushed forward through hail and biting wind.
 
 Soon, the risk of crevices became our biggest threat, and so we roped-up. We were so high up above the clouds the sky was a deep navy blue. Hauntingly clear.
 <div>
@@ -250,7 +251,7 @@ The summit.
   <img src="summit.jpg" alt="Finally, the summit"/>
 </div>
 
-It was strangely underwhelming. It was just.. **a rock**. But i'm not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene, grant me a special item, or maybe unlock something within.
+It was strangely underwhelming. It was just.. **a rock**. But i'm not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene or maybe unlock something within.
 
 But this is reality. Just a rock and a view that doesn't seem too different from what I’d already seen on the way up.
 
@@ -307,9 +308,9 @@ The thought of not letting go of work brought back other memories. I had been a 
 Maybe I needed to change, maybe mountaineering could shine the path forward.
 
 Or was I just running away and refusing to admit my own inadequacies. How is it that I had done so much, prepared so thoroughly, yet still struggled to find an internship? <br>
-_Madness_.
+**_Madness_**.
 
-Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn't so much of a discussion as it was me layering arguments over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.
+Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn't so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.
 
 Fortunately, she had the heart to look past my moment of folly, and we remain close friends to this day.
 
