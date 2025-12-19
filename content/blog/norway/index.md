@@ -127,6 +127,8 @@ Oh we did not hold back on food. We enjoyed both cheap and fancy options through
   </figure>
 </div>
 
+_Pricey.. but_
+
 _This is it, man!_
 
 <br>
@@ -139,8 +141,8 @@ Coincidentally, we spotted him dining at at a Chinese restaurant. The owner ment
 <details>
     <summary>Chinese food in Tromso?</summary>
     <span style="font-size:13px;" class="info">
-        Yeah, wasn't the best. 35 SGD for what should be 5 SGD fried rice here. The rice itself wasn't bad, just wildly  over-priced. But I guess they charged a premium because it is considered exotic in Norway.
-        <br>
+        Yeah, wasn't the best. 30 SGD for what should be 5 SGD fried rice back in Singapore. The rice itself wasn't bad, just wildly  over-priced. But I guess they charged a premium because it is considered exotic in Norway.
+        <br><br>
         One tip: you might want to let the staff know you’re Asian, if they can’t already tell. I learned that they actually tune the spice and seasoning levels to better suit European tastebuds.
     </span>
 </details>
@@ -207,7 +209,7 @@ I took the train further south to Bodø, then Trondheim and spent my days wander
 ## Brief Reflection
 There was plenty of time for solitary reflection. Travelling alone offers a kind of experience I think everyone should try at least once. It creates space for self-exploration, and nudges you to engage more openly with the locals or fellow travellers. You meet like-minded people with stories to tell. Some light, some heavy. You talk and drink, laugh and then bid the goodnight, fully aware you'll likely never meet again. _Slightly melodramatic_.
 
-But i've also realised humans are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway's quiet melancholy, but by 4pm, the sky would be dark and the streets empty. More than once, I found myself walking alone down a street lit by a single lamp, and I couldn’t help but wonder:
+But i've also realised we are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway's quiet melancholy, but by 4pm, the sky would be dark and the streets empty. More than once, I found myself walking alone down a street lit by a single lamp, and I couldn’t help but wonder:
 
 <br>
 

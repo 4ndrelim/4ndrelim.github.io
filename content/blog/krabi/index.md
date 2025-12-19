@@ -12,7 +12,7 @@ description: "Krabi '24"
 
 Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are calm, the food is cheap, the backpacking vibe is alive and well, and Thai people somehow manage to be warm without trying too hard. It’s a quintessential backpacker's place for youngsters like us who still think sleep debt is negotiable.
 
-Last year, I got close to Rizhao (see this [post](../seeds-of-change/)). We shared plenty over that trip, and some of the things he said stuck with me longer than I expected. This year, it’s my turn to leave an impact. I'm bringing 34 fellow climbers, some of whom have never touched outdoor rocks, into the wild and hoping everyone comes back with all their skin.
+Last year, I got close to Rizhao (see this [post](../seeds-of-change/)). We shared plenty over that trip, and some of the things he said stuck with me longer than I expected. This year, it’s my turn to leave an impact. I'm bringing 34 fellow climbers, some of whom have never touched outdoor rocks, into the wild and hoping everyone comes back with all their skin intact.
 
 This trip was the culmination of a year's worth of effort. A product of my brainchild (Well, not exactly, see the dropdown below). Over the past year, I've barged through hurdles and regulations with ambitious, uncharted outdoor climbing plans for the school. Those were uncertain times, and I’ll admit there were moments where the entire plan was held together not by backup options but by hustle and the kind of faith you only earn after it works. Not everyone was fully onboard, and coordination was difficult, and sometimes things looked bleak. 
 
@@ -45,9 +45,9 @@ The past year brought new faces into the journey. A few became frequent climbing
 
 <br>
 
-Day 1 was smooth enough. Plane. Land. Chartered bus. Villas. Food. Some parading and shameless flexing with a Thai diner auntie. The excitement and chatter that night brought little sleep.
+Day 1 was smooth enough. Plane. Land. Chartered bus. Villas. Food. Oh and already some parading and shameless flexing with a Thai diner auntie. The excitement and chatter that night brought little sleep.
 
-We were overly specific with our choice of villas and we can thank Na Wei for scouting and camping for the best deals that met our annoyingly strict demands. After all, it matters. A good common area, decent amenities, enough space to breed shenanigans, laughter, and simple fun.
+We were overly specific with our choice of villas and we can thank Na Wei for scouting and camping for the best deals that met our annoyingly strict demands. After all, it matters. A good common area and decent amenities go a long way to ensure ample space to breed shenanigans, laughter, and simple fun.
 
 <details>
     <summary>Well, there was one slight hiccup..</summary>
@@ -91,7 +91,7 @@ Glad to also have familiar faces and fellow mountaineers join on the trip. Here'
 _Fun memories._
 
 ## Climbs
-We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering would also probably form a breeding ground for conflict. I entrusted Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here's my gang at Northwall.
+We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering creates fertile ground for conflict. Tahnkfully, I had Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here's my gang at Northwall.
 
 <figure style="margin: 0 auto; text-align: center; max-width: 80%;">
   <img src="climb_party_1.jpg" alt="Climb party 1 at Northwall" style="width: 100%;"/>
@@ -239,7 +239,7 @@ But here's (mostly) everyone who joined the trip. Each has their own unglams tak
 </figure>
 <br>
 
-All good things must come to an end. Temporality is what gives them meaning.<br>For the main group, this was the end of the trip. But for a few lost souls yearning for one more encore, it was the start of a backpacking trip across Thailand, from Krabi to Bangkok.
+All good things must come to an end. Temporality is what gives them meaning.<br>For the main group, this was the end of the trip. But for **a few lost souls yearning for one more encore**, it was the start of a backpacking trip across Thailand, from Krabi to Bangkok.
 
 <br>
 
@@ -334,7 +334,20 @@ And we have our own.
   <em>He would lose his wallet that night and attribute to karma for posing.</em>
 </figure>
 
-<br><br>
+<br>
+
+<details>
+    <summary>The Missing Wallet</summary>
+    <span style="font-size:13px;" class="info">
+      Turns out that cuckoo left his wallet in a Grab ride on the way to one of the night markets. While the others wandered off on dates through colorful stores, I spent a romantic evening with Wen Wu at the police station.
+      <br><br>
+      And witnessed his stages of grief: from the initial shock and panic of losing his wallet, to frustration and despair, finally culminating in a peculiar kind of resignation — that this happened because he had invoked karma by mimicking Buddha's pose from earlier on, even though he is the furthest thing from a theist that i know.
+      <br><br>
+      The silver lining, as I've come to noticed, was the Thai people. I’ve mentioned how kind they are. We've encountered countless small acts of generosity. Locals giving us directions, offering extra snacks, and just striking up friendly conversations as we wandered from place to place. This time round, when the Grab driver later realised the wallet was still in his car, he drove all the way back, an hour-long trip, just to return it. We tried to compensate him, but he refused.
+    </span>
+</details>
+
+<br>
 
 The next few days were Catan, drinks, wandering, music, and laughter. Simple days. Oh but so enjoyable.<br>I still look back from time to time and smile at how carefree we were, as we move on with our lives.
 
