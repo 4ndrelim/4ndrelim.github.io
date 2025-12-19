@@ -14,8 +14,14 @@ The past 1.5 months had been a real scramble - juggling between heavy academic w
 ## Lovely rocks
 Some routes were challenging. Personally, i'm still stuck at 6B. I can flash and perhaps on-site 6As and 6A+s fine but 6Bs might prove a little problematic and i'd certainly need rest points for 6B+ routes. Not really a climber to be reckoned with but hey, we pick our battles and mine lies elsewhere.. <br>Anyway, here are some sick climbing shots:
 
-![climber](./le_climber2.jpeg)
-![climber2](./le_climber.jpg)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="./le_climber2.jpeg" alt="Climber" style="width: 100%;"/>
+  </figure>
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="./le_climber.jpg" alt="Climber 2" style="width: 100%;"/>
+  </figure>
+</div>
 
 Rocks here aren't as pretty as the ones you'll find in Krabi but I think there's a nice variety with varying degrees of difficulty — ample and convenient for your average Singaporean climber and his gang of buddies.
 
@@ -40,13 +46,17 @@ I ate alot.
 
 Fell alot too. 
 
-![fall](./noob.jpeg)
+<div style="width: 50%; height: auto;">
+    <img src="./noob.jpeg" alt="Noob andre">
+</div>
 
 <br/>
 
 Flirted a little. 
 
-![trap](./le_flirt.jpg)
+<div style="width: 50%; height: auto;">
+    <img src="./le_flirt.jpg" alt="Flirt">
+</div>
 
 <br/>
 

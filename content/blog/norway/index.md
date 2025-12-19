@@ -98,7 +98,7 @@ Here's Syed warming himself up.. but caught in a rather incriminating pose.
 <br>
 
 ## We Feasted
-Oh we did not hold back on food. We enjoyed both cheap and fancy options throughout our stay. <br>Below are some of the fancier ones.
+Oh we did not hold back on food. We enjoyed both cheap and fancy options throughout our stay. <br>Below were some of the fancier ones.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <figure style="margin: 0; text-align: center; flex: 1;">
@@ -207,7 +207,7 @@ I took the train further south to Bodø, then Trondheim and spent my days wander
 ## Brief Reflection
 There was plenty of time for solitary reflection. Travelling alone offers a kind of experience I think everyone should try at least once. It creates space for self-exploration, and nudges you to engage more openly with the locals or fellow travellers. You meet like-minded people with stories to tell. Some light, some heavy. You talk and drink, laugh and then bid the goodnight, fully aware you'll likely never meet again. _Slightly melodramatic_.
 
-But i've also realised humans are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway's melanchololic vibe, but by 4pm, the sky would be dark and the streets empty. More than once, I found walking alone down a street lit by a single lamp, and I couldn’t help but wonder:
+But i've also realised humans are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway's quiet melancholy, but by 4pm, the sky would be dark and the streets empty. More than once, I found myself walking alone down a street lit by a single lamp, and I couldn’t help but wonder:
 
 <br>
 

@@ -10,7 +10,7 @@ description: "Krabi '24"
 }
 </style>
 
-Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are kind, the food is cheap, the backpacking vibe is alive and well, and Thai people somehow manage to be warm without trying too hard. It’s a quintessential backpacker's place for youngsters like us who still think sleep debt is negotiable.
+Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are calm, the food is cheap, the backpacking vibe is alive and well, and Thai people somehow manage to be warm without trying too hard. It’s a quintessential backpacker's place for youngsters like us who still think sleep debt is negotiable.
 
 Last year, I got close to Rizhao (see this [post](../seeds-of-change/)). We shared plenty over that trip, and some of the things he said stuck with me longer than I expected. This year, it’s my turn to leave an impact. I'm bringing 34 fellow climbers, some of whom have never touched outdoor rocks, into the wild and hoping everyone comes back with all their skin.
 
@@ -53,9 +53,9 @@ We were overly specific with our choice of villas and we can thank Na Wei for sc
     <summary>Well, there was one slight hiccup..</summary>
     <span style="font-size:13px;" class="info">
       This trip marked the end of my 1-year term as EXCO (leadership role) in both the Mountaineering and Climbing club. It's also It's also where I identified two prospective understudies, one from each club, to take over and continue collaboration.
-      <br>
-      Nyan (Mountaineering club) was also the logistics guy for the mountain of gear we were hauling. He underestimated the time needed to get to the airport and we nearly couldn't check-in our massive baggage. _What a scare_.
-      <br>
+      <br><br>
+      Nyan (Mountaineering club) was also the logistics guy for the mountain of gear we were hauling. He underestimated the time needed to get to the airport and we nearly couldn't check-in our massive baggage. <em>What a scare</em>.
+      <br><br>
       Somehow, we managed to convince airport staff to let it through. Partly because of flight delays, but mostly because of Nyan's shamelessness. He is a total clown, but somehow has this scrappy ability to deliver. Far too many incidents later, he earned the title of “weirdest host.” His humour is.. for the bros. Maybe not so much for the ladies.
     </span>
 </details>
@@ -177,14 +177,15 @@ The next few days were rinse-and-repeat. The formula worked well. But it wouldn'
 
 I was too occupied with climbs, or rather, securing routes to climb (the local guides took priority), so I didn't take many pictures. Here's some rock I thought was cool and Nyan hugging for his dear life.
 
-<figure style="margin: 0 auto; text-align: center; max-width: 66%;">
-  <img src="more_rocks.jpg" alt="Cool rocks" style="width: 100%;"/>
-</figure>
-
-<figure style="margin: 0 auto; text-align: center; max-width: 66%;">
-  <img src="nyan_hugging.jpg" alt="Nyan hugging a rock" style="width: 100%;"/>
-  <figcaption><em>Nyan barely left the ground lol.</em></figcaption>
-</figure>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="more_rocks.jpg" alt="Cool rocks" style="width: 100%;"/>
+  </figure>
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="nyan_hugging.jpg" alt="Nyan hugging a rock" style="width: 100%;"/>
+    <figcaption><em>Nyan barely left the ground lol.</em></figcaption>
+  </figure>
+</div>
 
 <br>
 
@@ -238,7 +239,7 @@ But here's (mostly) everyone who joined the trip. Each has their own unglams tak
 </figure>
 <br>
 
-All good things must come to an end. Temporality is what gives them meaning. For the main group, this was the end of the trip. But for a few lost souls yearning for one more encore, it was the start of a backpacking trip across Thailand, from Krabi to Bangkok.
+All good things must come to an end. Temporality is what gives them meaning.<br>For the main group, this was the end of the trip. But for a few lost souls yearning for one more encore, it was the start of a backpacking trip across Thailand, from Krabi to Bangkok.
 
 <br>
 
