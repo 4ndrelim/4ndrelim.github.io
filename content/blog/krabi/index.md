@@ -1,7 +1,7 @@
 ---
 title: 'Krabi Once More: Old Friends, New Connections'
 date: "2024-06-01T03:23:00.00Z"
-description: "Krabi '24"
+description: "Krabi '24 — My Efforts Paid Off"
 ---
 
 <style>
@@ -91,7 +91,7 @@ Glad to also have familiar faces and fellow mountaineers join on the trip. Here'
 _Fun memories._
 
 ## Climbs
-We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering creates fertile ground for conflict. Tahnkfully, I had Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here's my gang at Northwall.
+We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering creates fertile ground for conflict. Thankfully, I had Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here's my gang at Northwall.
 
 <figure style="margin: 0 auto; text-align: center; max-width: 80%;">
   <img src="climb_party_1.jpg" alt="Climb party 1 at Northwall" style="width: 100%;"/>

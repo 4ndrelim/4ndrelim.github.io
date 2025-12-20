@@ -228,7 +228,7 @@ There was plenty of time for solitary reflection. Travelling alone offers a kind
 
 <br>
 
-But i've also realised we are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway's quiet melancholy, but by 4pm, the sky would be dark and the streets empty. More than once, I found myself walking alone down a street lit by a single lamp, and I couldn’t help but wonder:
+But i've also realised we are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. By 4pm, the sky would be dark and the streets empty. Perhaps it was the short daylight hours or Norway's quiet melancholy, but more than once, I found myself walking down a lonely winding street lit by a single lamp, and I couldn’t help but wonder:
 
 <br>
 
