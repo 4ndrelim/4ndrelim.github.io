@@ -25,6 +25,10 @@ Views were stunning. I'll let the pictures speak.
   <img src="mountain.jpg" alt="Mountain"/>
 </div>
 
+<div>
+  <img src="trudge.jpg" alt="Trudging up"/>
+</div>
+
 <br>
 
 ## The Hike Begins
@@ -133,18 +137,17 @@ For now.
 
 We woke each morning to a stunning view. Brushing your teeth while staring into a vast expanse of peaks was oddly calming. It makes you pensive, yet small. It's like you’re staring at a world that is far older and wiser than you. It has endured long before we arrived, and will continue long after.
 
-<div>
-  <img src="kim_snow.jpg" alt="Playing in the Snow"/>
-  <div style="text-align: center"><em>Kimberly in her snowy habitat.</em></div>
-</div>
-
-<br>
-
 There wasn’t much entertainment besides the snow, so we made full use of it. Rolling in it, throwing snowballs at the guides and helpers, building the largest snowman we could manage, and occasionally rolling giant ice boulders just because we could. Simple fun.
 
-Here's a mini one Jing Xuan made herself.
-<div>
-  <img src="snowman.jpg" alt="Snowman"/>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="kim_snow.jpg" alt="Kimberly playing in the snow" style="width: 100%;"/>
+    <figcaption><em>Kimberly in her snowy habitat.</em></figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="snowman.jpg" alt="Jing xuan's snowman" style="width: 100%;"/>
+    <figcaption><em>Here's a mini one Jing Xuan made herself.</em></figcaption>
+  </figure>
 </div>
 
 <br>
@@ -157,7 +160,7 @@ Soon, it was time to head to the Advance Base Camp (ABC). And mother nature deci
 </div>
 
 Then colder, and darker.
-<div>
+<div style="width: 66%; height: auto;">
   <img src="colder.jpg" alt="Feeling cold"/>
 </div>
 
@@ -165,13 +168,13 @@ We had no time to rest upon reaching ABC. We were racing against the storm. The 
 
 Below is a perfect depiction of most of us after setting up just the first tent.
 
-<div>
+<div style="width: 66%; height: auto;">
   <img src="davian.jpg" alt="Davian shivering"/>
 </div>
 
 Even Kimberly, the doe-eyed bubbly girl, had lost most of her shine.
 
-<div>
+<div style="width: 66%; height: auto;">
   <img src="kim_cold.jpg" alt="Kim shivering"/>
 </div>
 
@@ -259,18 +262,24 @@ Still, we were so close to the summit. And found it within ourselves to smile th
   <img src="smile.jpg" alt="Almost there"/>
 </div>
 
-The summit.
+<br>
+
+## The Summit
 <div>
-  <img src="summit.jpg" alt="Finally, the summit"/>
+  <img src="summit2.jpg" alt="Finally, the summit"/>
 </div>
 
 It was strangely underwhelming. It was just.. **a rock**. But i'm not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene or maybe unlock something within.
 
-But this is reality. Just a rock and a view that doesn't seem too different from what I’d already seen on the way up.
+But this is reality. Just a rock and a view that doesn't seem too different from what I’d already seen on the way up. Still, no reason to sully the mood. A summit is a summit, and we were definitely going to take photos.
 
-Still, no reason to sully the mood. A summit is a summit, and we were definitely going to take photos.
+I recalled having to video Alina solve a Rubik's cube so she could flex on her boyfriend (his timing apparently qualifies him for internationals!).
 
-Also, the guides were so high-spirited (probably counting their blessings no one died) that it was infectious. I recalled having to video Alina solve a Rubik's cube so she could flex on her boyfriend (his timing apparently qualifies him for internationals!).
+<div>
+  <img src="summit.jpg" alt="summit reached, flags out!"/>
+</div>
+
+Also, the guides were so high-spirited (probably counting their blessings no one died) that it was infectious.
 <div>
   <img src="guide.jpg" alt="High-spirited guide"/>
 </div>
@@ -283,7 +292,13 @@ We crashed hard after the summit, a well-deserved rest. I never thought “lip-b
 One of the nights, we even ended up dancing with the guides, singing local songs, and just basking in the moment. I don’t have many photos from that night, but I do have several videos. <br>
 All chaotic, all wholesome.
 
-I also made friends with a Nepali gem collector and had a great time bantering with him. _I think_ I avoided being overcharged, but Aidan who paid $25SGD for a rock definitely did not.
+<div>
+  <img src="guides_dancing.jpg" alt="Guides and helpers dancing."/>
+</div>
+
+<br>
+
+I also made friends with a Nepali gem collector and had a great time bantering with him. <br> _I think_ I avoided being overcharged, but Aidan who paid $25SGD for a rock definitely did not.
 
 <div>
   <img src="gem_trader.jpg" alt="Gem trader who tried to overcharge us for rocks."/>
