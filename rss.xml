@@ -1,4 +1,295 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Dec 2025 22:13:16 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Sun, 18 Aug 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all is shit of course. But Hong Kong does remind me of an alternate Singapore - similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Norway ain't no way!]]></title><description><![CDATA[No way ain’t Norway. 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Dec 2025 15:15:55 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad, of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Mon, 18 Nov 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad, of course. But Hong Kong does remind me of an alternate Singapore — similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island, and by extension, its twin.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/bbe3a3c1346482c6c12cfaaa518586e6/eea4a/skyline.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFN6PuGsShP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECERMh/9oACAEBAAEFAoeCpDuT06PbtW//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQEABj8CnYtZp//EABsQAAMBAAMBAAAAAAAAAAAAAAABESFBUXGR/9oACAEBAAE/IaNOyJvS+mWuPGNNBxGB2n//2gAMAwEAAgADAAAAELMf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QI//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFRMUFhkf/aAAgBAQABPxANPdNfYYFGYeANeJRhefGBlJgBWyHLUM9V5P/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Skyline from Victoria Peak&quot; title=&quot;&quot; src=&quot;/static/bbe3a3c1346482c6c12cfaaa518586e6/1c72d/skyline.jpg&quot; srcset=&quot;/static/bbe3a3c1346482c6c12cfaaa518586e6/a80bd/skyline.jpg 148w,
+/static/bbe3a3c1346482c6c12cfaaa518586e6/1c91a/skyline.jpg 295w,
+/static/bbe3a3c1346482c6c12cfaaa518586e6/1c72d/skyline.jpg 590w,
+/static/bbe3a3c1346482c6c12cfaaa518586e6/a8a14/skyline.jpg 885w,
+/static/bbe3a3c1346482c6c12cfaaa518586e6/fbd2c/skyline.jpg 1180w,
+/static/bbe3a3c1346482c6c12cfaaa518586e6/eea4a/skyline.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;&lt;em&gt;Skyline from Victoria Peak.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;h2&gt;The Parallels, and the Cracks&lt;/h2&gt;
+&lt;p&gt;You see many similarities between Hong Kong and Singapore. Both tiny city-states (debatable for HK..). Both densely packed. Both financial hubs. People are always rushing — eating, driving, honking (i’d say just as angsty as Singaporean drivers), and generally moving with urgency.&lt;/p&gt;
+&lt;p&gt;Even the metro systems feel familiar, right down to the colour schemes. And yet, every now and then, you’re reminded things aren’t quite the same. In Singapore, we have the MRT; here, it’s the MTR. Here, people speak Cantonese, and maybe it’s the dialect, but it often comes across more abrasive than Mandarin (or maybe Singlish softens our tone and makes us feel warmer).&lt;/p&gt;
+&lt;p&gt;Food prices are roughly similar, though portions here tend to be more generous. I’ve never received a full-moon slice of luncheon meat in Singapore, but that seems to be the norm here. In Singapore, we keep left when walking. Here, the default is the right.&lt;/p&gt;
+&lt;p&gt;I also noticed that Hong Kong feels like a more extreme version of Singapore’s inequality gap. Older areas like Kowloon, Sham Shui Po, Mong Kok  have fuzzy streets littered with trash, cockroaches running amok, stalls and picnic mats propped up wherever space permits. Tight, messy, compact. Just really chaotic overall.&lt;/p&gt;
+&lt;p&gt;This stands in stark contrast to Hong Kong Island. Clean, immaculate, and almost surgical. Walking through Causeway Bay and Wan Chai, I couldn’t believe how pristine everything looked. It felt as though the city had quietly given up on its older parts and poured all its resources into the new.&lt;/p&gt;
+&lt;p&gt;And i’m not sure why but I sensed a certain dread in people’s eyes. At least in Singapore, you still hear people complain, for example the loud minority on Reddit. Here, people seem quieter. Less inclined to talk, less inclined to complain (except when rushing you out during lunch hour). Just trudging along.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Life at Hong Kong&lt;/h2&gt;
+&lt;h3&gt;Work&lt;/h3&gt;
+&lt;p&gt;I was glad to have landed an internship, an ML one, no less. A good learning opportunity. My accommodation was about an hour away from the office, which wasn’t ideal, but it did help me develop a reading habit.&lt;/p&gt;
+&lt;p&gt;Work itself was engaging. I gained experience with foundational ML tools like PyTorch and TensorFlow, got exposure to production environments, and worked on quantitative statistical modelling projects affiliated with HFT firms (though sadly, not paid HFT money). Still, compensation was decent for a research institute.&lt;/p&gt;
+&lt;p&gt;My direct supervisor was a lauded mathematics PhD. His projects, and by extension, mine, focused on statistical modelling for time series analysis, as well as hologram-building via neural networks (the latter being his side project).&lt;/p&gt;
+&lt;p&gt;It was probably through him that I first noticed the jadedness of Hong Kong life. He was reserved. And a clear workaholic. He’d finish lunch in 15 minutes, spend 30 minutes playing Genshin Impact, then take a strict 45 minutes nap with his sleep headgear on. During which I was reminded under no circumstances should I disturb him. When did he leave the office? I have no idea. I never saw him leave before 7pm.&lt;/p&gt;
+&lt;h2&gt;Play&lt;/h2&gt;
+&lt;p&gt;In my free time, I either went bouldering, hiking, or visited landmarks around Hong Kong. Here are some shots from a hike to see the Big Buddha. You could take a bus and cable car up, but I opted for a six-hour hike to give the journey meaning, turning it into some sort of pilgrimage. The heat nearly killed me though.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e92a6735dccd7b11b0a44a38e4a00b38/6a068/hiking.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//aAAwDAQACEAMQAAAB1I19JTFQdVOyPGlygx//xAAcEAACAQUBAAAAAAAAAAAAAAABAgMAERIhIjH/2gAIAQEAAQUCh2HZA2qhbGMtyRsnFBMxY9H1LVc1/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BpD//xAAZEQABBQAAAAAAAAAAAAAAAAAAARARMUH/2gAIAQIBAT8BwkSm/8QAHBAAAQQDAQAAAAAAAAAAAAAAAAECESEQEmEx/9oACAEBAAY/AvDpbZE6LSYk1c2JJLEx/8QAHBAAAgMBAQEBAAAAAAAAAAAAAREAITFBUWFx/9oACAEBAAE/IbeB6JzR5PkewN1z8IeTLE/kY0GU7WCADPAdGCcAmukYl1YuAWGf/9oADAMBAAIAAwAAABBkA/z/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EMKlSH//xAAXEQADAQAAAAAAAAAAAAAAAAAAESEB/9oACAECAQE/ELQhqmYz/8QAHhABAAIDAAIDAAAAAAAAAAAAAQARITFBUbFx4fD/2gAIAQEAAT8QzCARE3jWJhJS2r87/ali2YogWR7QNGVG+lQS1UqnEdg+iWm1YNrwjWsIMgPcepbxf1DEwAl8QWFusAfDe4C9FXE//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Big buddha&quot; title=&quot;&quot; src=&quot;/static/e92a6735dccd7b11b0a44a38e4a00b38/1c72d/hiking.jpg&quot; srcset=&quot;/static/e92a6735dccd7b11b0a44a38e4a00b38/a80bd/hiking.jpg 148w,
+/static/e92a6735dccd7b11b0a44a38e4a00b38/1c91a/hiking.jpg 295w,
+/static/e92a6735dccd7b11b0a44a38e4a00b38/1c72d/hiking.jpg 590w,
+/static/e92a6735dccd7b11b0a44a38e4a00b38/a8a14/hiking.jpg 885w,
+/static/e92a6735dccd7b11b0a44a38e4a00b38/6a068/hiking.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e687d51397176e198b984a56b8d95be6/6a068/writings.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAHYvPSk6GIddTTM13Kij//EAB0QAAICAQUAAAAAAAAAAAAAAAABAgMRISIxMkH/2gAIAQEAAQUCjtLZpJsjYmOccu15SODUkeVdP//EABgRAAIDAAAAAAAAAAAAAAAAAAACEBIh/9oACAEDAQE/AdKtP//EABgRAAIDAAAAAAAAAAAAAAAAAAACEBIh/9oACAECAQE/AcLrP//EABwQAAEEAwEAAAAAAAAAAAAAABEAARAhIDIzgf/aAAgBAQAGPwJ7QaNgqMWPGjnh/8QAHxAAAgICAQUAAAAAAAAAAAAAAAERITFBgRBRYXGx/9oACAEBAAE/IUVEkbLP4NbNvpt5MRhgVhCXArCp2oPC/YkymD46JLN2P//aAAwDAQACAAMAAAAQhBS+/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIRD/2gAIAQMBAT8QeMXCEP/EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QEtXnMrd//8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBYXGBwf/aAAgBAQABPxC8oqodOU+Q6CNbTqEar1XEGya5s8e6iKObRXlcMUClis4QSxsDvvMEbezhDQkMq3m1fk3PLlhIt4gi10pP/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;big buddha from a different angle&quot; title=&quot;&quot; src=&quot;/static/e687d51397176e198b984a56b8d95be6/1c72d/writings.jpg&quot; srcset=&quot;/static/e687d51397176e198b984a56b8d95be6/a80bd/writings.jpg 148w,
+/static/e687d51397176e198b984a56b8d95be6/1c91a/writings.jpg 295w,
+/static/e687d51397176e198b984a56b8d95be6/1c72d/writings.jpg 590w,
+/static/e687d51397176e198b984a56b8d95be6/a8a14/writings.jpg 885w,
+/static/e687d51397176e198b984a56b8d95be6/6a068/writings.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/411e4dd54557080e4f426f67c6a0d7bf/6a068/buddha.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAHpQvjqnQHGEOaXzaI0B//EABsQAAIDAQEBAAAAAAAAAAAAAAECAAMREiEy/9oACAEBAAEFAt5m6QpIvt5VXGrmMhhSwQaIvrn5n//EABcRAQADAAAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8BSZf/xAAYEQACAwAAAAAAAAAAAAAAAAAAARAREv/aAAgBAgEBPwFOjU//xAAdEAACAgEFAAAAAAAAAAAAAAAAIQEREAISIjFB/9oACAEBAAY/AmXionkP0XRa3SONIhk4/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8hAS0LFuwYiQB3A1CKuFbUwcXiBK2TpOHfkR08RUbTOzyan//aAAwDAQACAAMAAAAQ08HB/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERITH/2gAIAQMBAT8Qknii2P/EABgRAAMBAQAAAAAAAAAAAAAAAAABEVEx/9oACAECAQE/EF9FE0j0/8QAHhABAQEBAAICAwAAAAAAAAAAAREAITFRQWGBkcH/2gAIAQEAAT8QHkh4+851KlyBAnubhDhr4uSOps6X+ZN6BUF5p1sJ5Pu4oWXHy02Bt5zM1V1/RzEIBKfyb0N//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Big buddha&quot; title=&quot;&quot; src=&quot;/static/411e4dd54557080e4f426f67c6a0d7bf/1c72d/buddha.jpg&quot; srcset=&quot;/static/411e4dd54557080e4f426f67c6a0d7bf/a80bd/buddha.jpg 148w,
+/static/411e4dd54557080e4f426f67c6a0d7bf/1c91a/buddha.jpg 295w,
+/static/411e4dd54557080e4f426f67c6a0d7bf/1c72d/buddha.jpg 590w,
+/static/411e4dd54557080e4f426f67c6a0d7bf/a8a14/buddha.jpg 885w,
+/static/411e4dd54557080e4f426f67c6a0d7bf/6a068/buddha.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/cfcdb15aefb3d20112b326e0a051d8fe/6a068/buddha2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/aAAwDAQACEAMQAAABdnCbSaJF3k11urOCYH//xAAcEAACAQUBAAAAAAAAAAAAAAABAgADEBESMSH/2gAIAQEAAQUC4qHNmOZT9stYIUq6urZHIJqs/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPwHEoQ//xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIREBIh/9oACAECAQE/Aa5hytmx/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERIQIQMRJR/9oACAEBAAY/Ap3GBVnBeZf0ycU7ZKe+H//EABsQAAMBAQEBAQAAAAAAAAAAAAABETEhQZFR/9oACAEBAAE/IbbUI8KPVOv6P0sHHPC4FrBW4W84P5hoQ6Ey1yfBrs+Dd4P/2gAMAwEAAgADAAAAEE/5fP/EABcRAAMBAAAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8QuoARP//EABcRAQADAAAAAAAAAAAAAAAAABABEVH/2gAIAQIBAT8Q0JLB/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBUWFxgbH/2gAIAQEAAT8QcUaNE5eZhhqA0u5nXUdA2B7HcsmQQrEZIAJVwL95eprw0M0vXjPEpCyh1+y9BB4EW9F8Ry1n1P/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;big buddha from a different angle&quot; title=&quot;&quot; src=&quot;/static/cfcdb15aefb3d20112b326e0a051d8fe/1c72d/buddha2.jpg&quot; srcset=&quot;/static/cfcdb15aefb3d20112b326e0a051d8fe/a80bd/buddha2.jpg 148w,
+/static/cfcdb15aefb3d20112b326e0a051d8fe/1c91a/buddha2.jpg 295w,
+/static/cfcdb15aefb3d20112b326e0a051d8fe/1c72d/buddha2.jpg 590w,
+/static/cfcdb15aefb3d20112b326e0a051d8fe/a8a14/buddha2.jpg 885w,
+/static/cfcdb15aefb3d20112b326e0a051d8fe/6a068/buddha2.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;I also visited Ocean Park’s Water World. The rides were fun. I even witnessed a lonely male walrus doing.. well.. what any lonely male does to gratify himself. (I wouldn’t believe what im insinuating either, had I not capture it on video.)&lt;/p&gt;
+&lt;div style=&quot;width: 66%; text-align: left;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7bfcca3f3a40afab897734ccf4f764fa/6a068/walrus.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/2gAMAwEAAhADEAAAAVEWw9Bix+ZVLWV+4wrP/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECEQMQITEy/9oACAEBAAEFArRwyiMk0vRGyIujE9f/xAAaEQABBQEAAAAAAAAAAAAAAAACAAEDECER/9oACAEDAQE/AThYdZdUmDX/xAAYEQADAQEAAAAAAAAAAAAAAAABAhAxA//aAAgBAgEBPwFehOxdn//EABgQAAIDAAAAAAAAAAAAAAAAACAhAAEx/9oACAEBAAY/AsJR0P8A/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARECExYXH/2gAIAQEAAT8h9lRA1UpBO532VgfCblWGAU5EVx//2gAMAwEAAgADAAAAEPjEMP/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxAimrOqZa3f/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQESH/2gAIAQIBAT8QQynZ2BP/xAAbEAEBAQEBAAMAAAAAAAAAAAABEQAhQTFRYf/aAAgBAQABPxAhUvDMZShybwMaI6aJvRQvul6Nw+xR8XdaQOP7mADp5hIpPrAS0hjf/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;A walrus satisfying itself&quot; title=&quot;&quot; src=&quot;/static/7bfcca3f3a40afab897734ccf4f764fa/1c72d/walrus.jpg&quot; srcset=&quot;/static/7bfcca3f3a40afab897734ccf4f764fa/a80bd/walrus.jpg 148w,
+/static/7bfcca3f3a40afab897734ccf4f764fa/1c91a/walrus.jpg 295w,
+/static/7bfcca3f3a40afab897734ccf4f764fa/1c72d/walrus.jpg 590w,
+/static/7bfcca3f3a40afab897734ccf4f764fa/a8a14/walrus.jpg 885w,
+/static/7bfcca3f3a40afab897734ccf4f764fa/6a068/walrus.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;I wandered night streets too. Hong Kong’s nightlife is undeniably alive.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b136fd6baf43973ffe6a3543b875d402/eea4a/streets.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB5M21gaE//8QAGRAAAwADAAAAAAAAAAAAAAAAAAECEBEh/9oACAEBAAEFAkOcbHXD/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGxABAAICAwAAAAAAAAAAAAAAAQAxIVEQEXH/2gAIAQEAAT8h1uOZK48Z3E7lESf/2gAMAwEAAgADAAAAEFMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPxBX0OnsIRKcDnsqpVKVQ0cxJMuw61uUO5//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;night street&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b136fd6baf43973ffe6a3543b875d402/1c72d/streets.jpg&quot;
+        srcset=&quot;/static/b136fd6baf43973ffe6a3543b875d402/a80bd/streets.jpg 148w,
+/static/b136fd6baf43973ffe6a3543b875d402/1c91a/streets.jpg 295w,
+/static/b136fd6baf43973ffe6a3543b875d402/1c72d/streets.jpg 590w,
+/static/b136fd6baf43973ffe6a3543b875d402/a8a14/streets.jpg 885w,
+/static/b136fd6baf43973ffe6a3543b875d402/fbd2c/streets.jpg 1180w,
+/static/b136fd6baf43973ffe6a3543b875d402/eea4a/streets.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;The Two Kinds of People You’ll Meet Here&lt;/h2&gt;
+&lt;p&gt;My earlier depiction of Hong Kongers isn’t entirely fair, at least not to a certain group of young, ambitious people. As a financial hub, the city attracts aspiring financiers, lawyers, and twenty-year-olds brimming with bravado.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;They speak with gusto&lt;/strong&gt;. Big plans. Six-figure salaries. Seven-figure bonuses. The prototype of a stereotypical romantic hustler. You hear endless yappery about optimisation, wanting furious pace, intense growth, and the same “work hard, play hard” narrative, often used to justify wild nights and heavy drinking sessions across Hong Kong night clubs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The thrill of life has to match the intensity of their work or passion&lt;/strong&gt;, they’d say. &lt;br&gt;
+&lt;em&gt;tsk&lt;/em&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Give it a few years. Then speak to these survivors.&lt;/p&gt;
+&lt;p&gt;They are successful, but jaded. Sunken eyes in their early thirties. Vast wealth accumulated, so much that trivialities no longer matter. They eat without looking at prices, spend without batting an eyelid. &lt;strong&gt;After all, they can well afford it, so why stress over balancing desires and costs?&lt;/strong&gt; &lt;br&gt; And yet, when you speak to them, something clearly went awry.&lt;/p&gt;
+&lt;p&gt;I met a lawyer in her late 30s/early 40s. She’s partner now but it came at a cost. She told me she came to Hong Kong originally for exposure, intending to stay only for a year before returning to Singapore, settling down and starting a family. Years passed and some plans dissolved. Before she realised it, a decade had gone by. Now, she remains single and doesn’t know what else to do but continue. And soon, she’ll have spent more time in Hong Kong than she lived in Singapore. How does she feel about all these? She doesn’t know either.&lt;/p&gt;
+&lt;p&gt;I met a jaded quant at the bouldering gym. Early 30s and currently working at one of the big names HFT. Strangely, i’d always see him at the gym, no matter what erratic timing I chose to visit. One would think he’d be busy tracking the market or have better things to do on rest days. When I asked why he visits so often,  he said that sometimes he doesn’t know where else to go. So he heads to the gym, not always to climb, but also to meet people and chat. That helps to kill time.&lt;/p&gt;
+&lt;p&gt;And then a fellow SWE working remotely. He told me he has a girlfriend back in Canada whom he had met during University days. They’ve been long-distance for awhile and he hasn’t seen her in a year. &lt;em&gt;“Why not visit?”&lt;/em&gt; I asked. His response was peculiar.. &lt;em&gt;“Yeah I would if I were happier I guess. I don’t know.”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;“I don’t know”&lt;/em&gt;&lt;/strong&gt; seems to be a common appendix to many conversations here. A quiet sign of being lost.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Friends That Made Life Less Jaded&lt;/h2&gt;
+&lt;p&gt;Most of the interns fell into the first group. We are a young bunch of ambitious 20s. Many were from from fancy western ivy league schools too with high aspirations. There was some bragging, some one-upping. Still, not unwelcomed, they balanced out the pessimism.&lt;/p&gt;
+&lt;p&gt;Anyway, being young in Hong Kong, with stressful days, bustling night life and a chance to don fancy apparels, someone was sure to propose drinks and bars. I figured I should get the full expeirence and tagged along for some.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/780fa630132d7da53678f17f2f5ed625/6a068/shots.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAXAQEBAQEAAAAAAAAAAAAAAAACAAED/9oADAMBAAIQAxAAAAGuKhchRmeJXKR2lz//xAAdEAABBAIDAAAAAAAAAAAAAAABAAIDERASIjJC/9oACAEBAAEFAgo6cpOwkFHVPoHanOda5L1j/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQEv/aAAgBAwEBPwHFu2//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQIBAT8BI3//xAAbEAACAgMBAAAAAAAAAAAAAAAAIRExARAgIv/aAAgBAQAGPwI95gWpsQixcf/EABwQAAMBAQADAQAAAAAAAAAAAAABIRExEEFRcf/aAAgBAQABPyHhwZWJb6YdNPcV2oZ6p2QeU8aF0Hp9Ab/LwxbwXD//2gAMAwEAAgADAAAAEGPb/f/EABcRAQEBAQAAAAAAAAAAAAAAAAEAERD/2gAIAQMBAT8QcDmE1//EABgRAAMBAQAAAAAAAAAAAAAAAAARIQEx/9oACAECAQE/EKbMjo4M/8QAHRAAAgIDAAMAAAAAAAAAAAAAAREAITFRYUGR0f/aAAgBAQABPxCiWsomg+bhlkgIfWoBJSVkbgm1yFDBWWCvGA0Gg0fMDwSxmHI3FpYgCRpo/I1IVKQKT//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Shots style=&quot; title=&quot;&quot; src=&quot;/static/780fa630132d7da53678f17f2f5ed625/1c72d/shots.jpg&quot; srcset=&quot;/static/780fa630132d7da53678f17f2f5ed625/a80bd/shots.jpg 148w,
+/static/780fa630132d7da53678f17f2f5ed625/1c91a/shots.jpg 295w,
+/static/780fa630132d7da53678f17f2f5ed625/1c72d/shots.jpg 590w,
+/static/780fa630132d7da53678f17f2f5ed625/a8a14/shots.jpg 885w,
+/static/780fa630132d7da53678f17f2f5ed625/6a068/shots.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/25fa1919d20890f63aa69224a81fbfaa/6a068/drunk.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIQAxAAAAGThOFoKLOj4d4pQCf/xAAeEAACAQQDAQAAAAAAAAAAAAAAAQIDERIiBCExMv/aAAgBAQABBQLjdE9av2TqbTytkykmlJjuS8ZFJr//xAAYEQACAwAAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPwF4XP8A/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAESEQ/9oACAECAQE/AVF7xlAyUJ//xAAdEAACAwACAwAAAAAAAAAAAAAAAQIRIRAxQVGB/9oACAEBAAY/Aqll6iRcnQorIvyadX9LZb1ejHz0f//EABwQAQEBAAMAAwAAAAAAAAAAAAERACFBcTFhgf/aAAgBAQABPyEtcRQdP3CGj4AL1kcQIWH3QAPTKI/NZ7DtgpyATPjvlqxG/9oADAMBAAIAAwAAABB71v3/xAAYEQADAQEAAAAAAAAAAAAAAAAAAVEQEf/aAAgBAwEBPxCBxBvP/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAERIUFhsf/aAAgBAgEBPxBi1j9J2OY4Laf/xAAgEAEBAAIABwEBAAAAAAAAAAABEQAhMUFRcYGRsWHB/9oACAEBAAE/ENggBI04+z5mtivga/yZZBHNNPPfAhHGm1OtwPLWfro+sJRgLorloZxrYY+64CgJ2xmAASanLGDGCxxut1vFS7U0T5n/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Drunk Rishi&quot; title=&quot;&quot; src=&quot;/static/25fa1919d20890f63aa69224a81fbfaa/1c72d/drunk.jpg&quot; srcset=&quot;/static/25fa1919d20890f63aa69224a81fbfaa/a80bd/drunk.jpg 148w,
+/static/25fa1919d20890f63aa69224a81fbfaa/1c91a/drunk.jpg 295w,
+/static/25fa1919d20890f63aa69224a81fbfaa/1c72d/drunk.jpg 590w,
+/static/25fa1919d20890f63aa69224a81fbfaa/a8a14/drunk.jpg 885w,
+/static/25fa1919d20890f63aa69224a81fbfaa/6a068/drunk.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/236659a4365f2679f6da70fd15295a9b/eea4a/friends.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGVWnnyvIQP/8QAGhABAAIDAQAAAAAAAAAAAAAAAgABAxESMf/aAAgBAQABBQJYeYavoZNVdiJML2f/xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPwGH/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/AYmP/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERAkESITH/2gAIAQEABj8C7bKvSGSybc0c3sp//8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAITFR/9oACAEBAAE/IRFSfRBgYSpKbLK2NEHhAEYKsXMx/9oADAMBAAIAAwAAABDv/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQMBAT8QXE//xAAWEQADAAAAAAAAAAAAAAAAAAAQITH/2gAIAQIBAT8Qhi//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMUFRgf/aAAgBAQABPxDCJrIqICYjBt9miSv4S2lNwBKO/pOBsrg8zkGpWPMn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;friends&quot;
+        title=&quot;&quot;
+        src=&quot;/static/236659a4365f2679f6da70fd15295a9b/1c72d/friends.jpg&quot;
+        srcset=&quot;/static/236659a4365f2679f6da70fd15295a9b/a80bd/friends.jpg 148w,
+/static/236659a4365f2679f6da70fd15295a9b/1c91a/friends.jpg 295w,
+/static/236659a4365f2679f6da70fd15295a9b/1c72d/friends.jpg 590w,
+/static/236659a4365f2679f6da70fd15295a9b/a8a14/friends.jpg 885w,
+/static/236659a4365f2679f6da70fd15295a9b/fbd2c/friends.jpg 1180w,
+/static/236659a4365f2679f6da70fd15295a9b/eea4a/friends.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Yeah I realized clubs are best entered slightly tipsy. The loud music, flashing lights, weird dance-offs, and pukings, make the sober really out of place.&lt;/p&gt;
+&lt;h3&gt;Dumb and Dumber&lt;/h3&gt;
+&lt;p&gt;One of my biggest takeaways was a fateful encounter with Ed and Kevin.&lt;/p&gt;
+&lt;p&gt;I first met Kevin at Mizu bouldering gym, and he later intorudced me to Ed. Kevin had just returned from an outdoor crag and was cooling down on the MoonBoard. Having never tried moonboard before, i asked for advice. He was friendly, and we became quick friends. He even invited me to join him outdoors, which I really appreciated.&lt;/p&gt;
+&lt;div style=&quot;width: 66%; text-align: left;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/ac23bf94362366a88f8acfd5c75f0c6d/6a068/crag.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQEAAwAAAAAAAAAAAAAAAAADAAEC/9oADAMBAAIQAxAAAAEmtkNDYJjh641BbilT/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAESESMv/aAAgBAQABBQK7BECEwvE5roCJ6GBHxsVYAK//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIQERL/2gAIAQMBAT8BmtRxWn//xAAaEQACAgMAAAAAAAAAAAAAAAAAAQMREBMh/9oACAECAQE/AY3T6bcUf//EABoQAAICAwAAAAAAAAAAAAAAAAAxECEBAhH/2gAIAQEABj8ChHCxCKHiNY//xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhURAxQWH/2gAIAQEAAT8hVD4E1TMUoGbNm7FjKBm8ruxOtdmbv9Q8ZiHb6R5B/9oADAMBAAIAAwAAABCTw/8A/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAwEBPxBgmFrTj//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQIBAT8QW4NMhsIP/8QAHRABAAMAAwEBAQAAAAAAAAAAAQARITFBUWGxwf/aAAgBAQABPxAdUOASkjNZ1Kmz2Vyl8v8AIeMdKQLflwHIOmmGBPVfPZRBgttyeVKwbr5ue6c7EscMrqNTWxV+spM8v7P/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Crag&quot; title=&quot;&quot; src=&quot;/static/ac23bf94362366a88f8acfd5c75f0c6d/1c72d/crag.jpg&quot; srcset=&quot;/static/ac23bf94362366a88f8acfd5c75f0c6d/a80bd/crag.jpg 148w,
+/static/ac23bf94362366a88f8acfd5c75f0c6d/1c91a/crag.jpg 295w,
+/static/ac23bf94362366a88f8acfd5c75f0c6d/1c72d/crag.jpg 590w,
+/static/ac23bf94362366a88f8acfd5c75f0c6d/a8a14/crag.jpg 885w,
+/static/ac23bf94362366a88f8acfd5c75f0c6d/6a068/crag.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;Then there’s Ed. This man is an absolute clown, and his unnecessary commentary about everything always gets us. Fun fact: he is a teacher too.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/6a068/ed_dumb.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAVTZvLLOhNHp74zCqV//xAAcEAACAgIDAAAAAAAAAAAAAAACEQABAzIQIjH/2gAIAQEAAQUCUXFJYqVX6JdsehkiGYtbn//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ASP/xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQIBAT8B0p//xAAcEAACAgIDAAAAAAAAAAAAAAABEQAQAhIgQVH/2gAIAQEABj8Ctwmjr4ol2Ysgjw//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUEQUWFx/9oACAEBAAE/IYutBvi5dDZZJvE54jWOq5t2P2jOmGBr3HQ/Wbdpn//aAAwDAQACAAMAAAAQ5PhM/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EKQhX//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPxDYVm4r/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBURBhwXH/2gAIAQEAAT8QLQvk9DxYDisnUpUHQU0bfkrhKFWuoD0qkTYiqc7irCW5rRmiAgHH2Z9IryP5EEcNqUtCewZ//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Ed and his twin&quot; title=&quot;&quot; src=&quot;/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/1c72d/ed_dumb.jpg&quot; srcset=&quot;/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/a80bd/ed_dumb.jpg 148w,
+/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/1c91a/ed_dumb.jpg 295w,
+/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/1c72d/ed_dumb.jpg 590w,
+/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/a8a14/ed_dumb.jpg 885w,
+/static/f7ed1ea4ec83296730b88ddbb8aaf4e1/6a068/ed_dumb.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/95bb8f2cbf690ee7e7928a8f38433263/6a068/ed.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMCBAX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAG7npUEmem80qHG801//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECAxIiEf/aAAgBAQABBQLA1I6FLvWWpWCjWz2pGkUpOdtcFSf/xAAXEQADAQAAAAAAAAAAAAAAAAABAhEg/9oACAEDAQE/AQ9x/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQADERD/2gAIAQIBAT8Ba0N7k//EABwQAAEFAAMAAAAAAAAAAAAAABEAARAhMQIicf/aAAgBAQAGPwLVsex2EUtZAUE44tH/xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhQVExYYEQ/9oACAEBAAE/IRoYmkPkN8QyA8doTACW9y6juqjGwxz1MhiKoE9gSYWVFqEH8//aAAwDAQACAAMAAAAQvAuB/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxAny2TG2//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPxCwIzbiH//EACAQAQACAgIBBQAAAAAAAAAAAAEAESExQVFhgZGh0eH/2gAIAQEAAT8Qcz6xcN0O4Y/WXwTyMfMrtnRwMcxRRWYJxxqJtHOVPdBF3rtXeI4rjlMa9dqN6+4E3qEKbutyq0T/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Ed&quot; title=&quot;&quot; src=&quot;/static/95bb8f2cbf690ee7e7928a8f38433263/1c72d/ed.jpg&quot; srcset=&quot;/static/95bb8f2cbf690ee7e7928a8f38433263/a80bd/ed.jpg 148w,
+/static/95bb8f2cbf690ee7e7928a8f38433263/1c91a/ed.jpg 295w,
+/static/95bb8f2cbf690ee7e7928a8f38433263/1c72d/ed.jpg 590w,
+/static/95bb8f2cbf690ee7e7928a8f38433263/a8a14/ed.jpg 885w,
+/static/95bb8f2cbf690ee7e7928a8f38433263/6a068/ed.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;It was always enjoyable to hang out with them. We would climb hard, ate heavy meals, solve interesting puzzles, or just chill at the gym watching the Olympics. Kevin even made ice cream for those who stayed to watch the games!&lt;/p&gt;
+&lt;div style=&quot;width: 66%; text-align: left;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/564951766b2fde9c9d895abbee8001da/6a068/kevin.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/9oADAMBAAIQAxAAAAG9aWhXkgipNmObakySv//EABwQAQEAAgIDAAAAAAAAAAAAAAIBABEDEhAhI//aAAgBAQABBQLp7Xzya06u01FIJiJh4lU/BMlz/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAEh/9oACAEDAQE/AS6f/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/Acqv/8QAHBAAAgICAwAAAAAAAAAAAAAAAAEhMRASIjJh/9oACAEBAAY/AoNmWcWTKR2GxWkr9zWP/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUEx/9oACAEBAAE/IVX4ixoHCWBjeobzsegdDyFZ732Vm0IqnGXZFwBNmEgn/9oADAMBAAIAAwAAABCY/MP/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAwEBPxBJ9NEqsh//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EHlpDDLV/8QAHhABAQEAAgEFAAAAAAAAAAAAAREAITFhQXGRwfH/2gAIAQEAAT8QNVG2ecCKu9Gvy4AACWIDosg6PpmhyA8zfvkFIuww4CxFbiLEi+A4etw/MiDRIjnAQDuhv//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Kevin&apos;s ice cream&quot; title=&quot;&quot; src=&quot;/static/564951766b2fde9c9d895abbee8001da/1c72d/kevin.jpg&quot; srcset=&quot;/static/564951766b2fde9c9d895abbee8001da/a80bd/kevin.jpg 148w,
+/static/564951766b2fde9c9d895abbee8001da/1c91a/kevin.jpg 295w,
+/static/564951766b2fde9c9d895abbee8001da/1c72d/kevin.jpg 590w,
+/static/564951766b2fde9c9d895abbee8001da/a8a14/kevin.jpg 885w,
+/static/564951766b2fde9c9d895abbee8001da/6a068/kevin.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Home-made matcha ice cream. Excellent.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Getting Out.&lt;/h2&gt;
+&lt;p&gt;Ok but the jadedness was starting to creep in. Maybe it was listening too much of &lt;a href=&quot;https://www.youtube.com/watch?v=qu_FSptjRic&quot;&gt;Beyond’s 海闊天空&lt;/a&gt; or &lt;a href=&quot;https://www.youtube.com/watch?v=xpSh3OgTNdY&quot;&gt;Lowell Lo’s 一生所愛&lt;/a&gt; but the existential thoughts came.&lt;/p&gt;
+&lt;p&gt;All the stories, the contrast between youthful hustle and quiet cynicism, and jaded vibes reminded me of Will Emerson from &lt;em&gt;Margin Call&lt;/em&gt; (an excellent movie by the way). Will Emerson was the Head of Trading, the intense trader bagging home a million dollar in bonuses and would spend it all on cocaine and hookers. He is clearly highly intelligent, highly aware, and highly critical.&lt;/p&gt;
+&lt;p&gt;But these people reject beliefs and tear meaning down, and for awhile it works. They become critics of everything — religion, morality, love, family — until they are alone in a desert of their own making, proud of the emptiness, labelling it clarity. Their logic is airtight, probably, but it leaves them no reason to hope. Then they wonder why they feel like ghosts in their own skin.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“A slow erosion masked by eloquence, intelligence, insight. One day they are dissecting morality, the next, they are rationalizing cruelty. And by the end, they are nothing but clever corpses playing with words.. The smarter they are, the more intricate the justification.”&lt;/em&gt;
+— &lt;strong&gt;Extracted from Dostoevsky&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;Anyway, I had the option to extend my stay till the end of the year or go back home and take a pay cut. I chose the latter. That decision would later become the origin of my ML full-stack journey.&lt;/p&gt;
+&lt;p&gt;I’ll return to Hong Kong some day to visit the boys. But before leaving, one last climb.&lt;/p&gt;
+&lt;div style=&quot;width: 66%; text-align: left;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f253b380a87b82ead3d19784e3aa0c57/6a068/ed_kevin_me.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIEAQMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGZq3xZRjTTII9A6h//xAAeEAACAQMFAAAAAAAAAAAAAAABAgADERIEEyExMv/aAAgBAQABBQLDKKiljTtFvAxjB2Z325QrAsRlNV2vATx//8QAFREBAQAAAAAAAAAAAAAAAAAAEDH/2gAIAQMBAT8BKf/EABkRAAEFAAAAAAAAAAAAAAAAAAABEBExUf/aAAgBAgEBPwEhNKb/xAAgEAACAgAGAwAAAAAAAAAAAAAAAREhAhIxMlFxgaHB/9oACAEBAAY/Aj4bPRMWaKRuRZqHZNmHyKOBdH//xAAeEAACAgICAwAAAAAAAAAAAAAAAREhMUFRcYHR8P/aAAgBAQABPyHdXLcD1CtZYkRaNofYwYGaQILyX8pYoXMko32SOQxdeheUFmsf/9oADAMBAAIAAwAAABBP4r3/xAAYEQADAQEAAAAAAAAAAAAAAAAAESEBQf/aAAgBAwEBPxAT4bVGf//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QTlFHQoIf/8QAHhABAAMAAgMBAQAAAAAAAAAAAQARITFBYZGxUYH/2gAIAQEAAT8QLk0rQnO5Wn1qq/E5sr7GX1hYG40rOnyD5HUhaFro5lISuB0/k7D9aPW3URIOFckbu7qxSbdTrXm8BoDqvcXLFCs//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;3 idiots at the bouldering gym&quot; title=&quot;&quot; src=&quot;/static/f253b380a87b82ead3d19784e3aa0c57/1c72d/ed_kevin_me.jpg&quot; srcset=&quot;/static/f253b380a87b82ead3d19784e3aa0c57/a80bd/ed_kevin_me.jpg 148w,
+/static/f253b380a87b82ead3d19784e3aa0c57/1c91a/ed_kevin_me.jpg 295w,
+/static/f253b380a87b82ead3d19784e3aa0c57/1c72d/ed_kevin_me.jpg 590w,
+/static/f253b380a87b82ead3d19784e3aa0c57/a8a14/ed_kevin_me.jpg 885w,
+/static/f253b380a87b82ead3d19784e3aa0c57/6a068/ed_kevin_me.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Norway ain't no way!]]></title><description><![CDATA[No way ain’t Norway. 
  The North Norway is the furthest north i’ve ever been. The month-long back packing trip in Norway was split into two…]]></description><link>https://4ndrelim.github.io/blog/norway/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/norway/</guid><pubDate>Mon, 01 Jul 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
 .info {
     color: #008080; /* teal */
@@ -123,6 +414,39 @@
 /static/c727e0ae725e37b904b69786403d158f/a8a14/dark_sky.jpg 885w,
 /static/c727e0ae725e37b904b69786403d158f/fbd2c/dark_sky.jpg 1180w,
 /static/c727e0ae725e37b904b69786403d158f/eea4a/dark_sky.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/386099b689b4a572c01443769bce134b/eea4a/port.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHDTM1iiQ//xAAYEAADAQEAAAAAAAAAAAAAAAAAARIQE//aAAgBAQABBQJb0ZZZ/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABYRAAMAAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwGmUz//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAEBAQEBAQAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8hZ9kJzfS6c5blt//aAAwDAQACAAMAAAAQzB//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAEDAQE/EGhGn//EABgRAAIDAAAAAAAAAAAAAAAAAAABETFh/9oACAECAQE/EFFRkf/EAB0QAQADAAEFAAAAAAAAAAAAAAEAESGBMUFxsdH/2gAIAQEAAT8QXjTzkIanLH9qZFtOfcAMzgbilvXu0bP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;port&quot;
+        title=&quot;&quot;
+        src=&quot;/static/386099b689b4a572c01443769bce134b/1c72d/port.jpg&quot;
+        srcset=&quot;/static/386099b689b4a572c01443769bce134b/a80bd/port.jpg 148w,
+/static/386099b689b4a572c01443769bce134b/1c91a/port.jpg 295w,
+/static/386099b689b4a572c01443769bce134b/1c72d/port.jpg 590w,
+/static/386099b689b4a572c01443769bce134b/a8a14/port.jpg 885w,
+/static/386099b689b4a572c01443769bce134b/fbd2c/port.jpg 1180w,
+/static/386099b689b4a572c01443769bce134b/eea4a/port.jpg 1280w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -418,8 +742,35 @@
     &lt;/span&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;Pricey.. but&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This is it, man!&lt;/em&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/3507cfe2445f766f4dd994417b9bcec4/6a068/food7.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/aAAwDAQACEAMQAAABSMdkqhUbmrqiJOiD/8QAHRABAAIBBQEAAAAAAAAAAAAAAQACEwMEERIhIv/aAAgBAQABBQLNSkdyImld+cWOwIQZ285lglfXpUn/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/AZihD//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8Bq2n/xAAgEAACAQEJAAAAAAAAAAAAAAAAARECEBMgITJBUWGR/9oACAEBAAY/Asl4RVSybyOhwxbrm2MGlH//xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhUTFhkf/aAAgBAQABPyHwgUzEwgysV7pdinq95UWqFOiWphMUOcjuC0KhxYGo+E//2gAMAwEAAgADAAAAEHAdwP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEUH/2gAIAQMBAT8Q7LbKLd//xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAECAQE/EC0dMI8f/8QAHhABAAICAgMBAAAAAAAAAAAAAQARIVFBkTFhgXH/2gAIAQEAAT8QVBlRQgclseMp84s6ZTqIFlJ3DhCoBlH6fYz7ARYfPe5e0FQTAKdcwV6NTjqb0UyDpSAVqXtIDoKvNntn/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 7&quot; title=&quot;&quot; src=&quot;/static/3507cfe2445f766f4dd994417b9bcec4/1c72d/food7.jpg&quot; srcset=&quot;/static/3507cfe2445f766f4dd994417b9bcec4/a80bd/food7.jpg 148w,
+/static/3507cfe2445f766f4dd994417b9bcec4/1c91a/food7.jpg 295w,
+/static/3507cfe2445f766f4dd994417b9bcec4/1c72d/food7.jpg 590w,
+/static/3507cfe2445f766f4dd994417b9bcec4/a8a14/food7.jpg 885w,
+/static/3507cfe2445f766f4dd994417b9bcec4/6a068/food7.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/090d004fa387451a36c92087e3796f19/6a068/food8.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAcp05sNthctbpFpC/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAxESIRMg/9oACAEBAAEFAusMkTMs6ika17FUFiTzDH4//8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRIP/aAAgBAwEBPwELcf/EABURAQEAAAAAAAAAAAAAAAAAABIg/9oACAECAQE/AVH/xAAeEAACAQMFAAAAAAAAAAAAAAAAASECEBEgMTJBkf/aAAgBAQAGPwI5e2Sp2Gn0QjClGakRo//EAB4QAQACAgEFAAAAAAAAAAAAAAEAIRExQRBRYcHw/9oACAEBAAE/IQYXjxGnp83BPGYEK0zUYnYyTNNGamqOxPfOUAAA4jV9f//aAAwDAQACAAMAAAAQ6AA//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxAEK0pn/8QAGBEBAAMBAAAAAAAAAAAAAAAAEQABECH/2gAIAQIBAT8QsRhSnc//xAAfEAEAAgICAgMAAAAAAAAAAAABACERQTFRcdGRoeH/2gAIAQEAAT8QLGfFafcJLOOLfHtLEOmXMeERHarjIaCujUAlW/A6JUic4Tx3iAIMmvxKyFgBRNCk9wW7mWf/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Fancy food 8&quot; title=&quot;&quot; src=&quot;/static/090d004fa387451a36c92087e3796f19/1c72d/food8.jpg&quot; srcset=&quot;/static/090d004fa387451a36c92087e3796f19/a80bd/food8.jpg 148w,
+/static/090d004fa387451a36c92087e3796f19/1c91a/food8.jpg 295w,
+/static/090d004fa387451a36c92087e3796f19/1c72d/food8.jpg 590w,
+/static/090d004fa387451a36c92087e3796f19/a8a14/food8.jpg 885w,
+/static/090d004fa387451a36c92087e3796f19/6a068/food8.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Pricey.. oh but,&lt;/em&gt;
+&lt;strong&gt;&lt;em&gt;this is it, man!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;Games and Chill&lt;/h2&gt;
 &lt;p&gt;Some days we decided to just chill at our Airbnb. Interestingly, the owner was a man named Miguel originally from Africa. He fits, almost too well, the image of a mysterious man with a past. A well-built figure with scars and tattoos. Seeing him don an apron and vacuum the floor somehow better completed the picture.&lt;/p&gt;
@@ -593,6 +944,21 @@ It was a cozy house with a sweet old lady who had been hosting backpackers for y
 &lt;br&gt;
 &lt;h2&gt;Brief Reflection&lt;/h2&gt;
 &lt;p&gt;There was plenty of time for solitary reflection. Travelling alone offers a kind of experience I think everyone should try at least once. It creates space for self-exploration, and nudges you to engage more openly with the locals or fellow travellers. You meet like-minded people with stories to tell. Some light, some heavy. You talk and drink, laugh and then bid the goodnight, fully aware you’ll likely never meet again. &lt;em&gt;Slightly melodramatic&lt;/em&gt;.&lt;/p&gt;
+&lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
+  &lt;figcaption&gt;&lt;em&gt;Another backpacking stranger I met&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d67e199d7eb3ad13a576465e6a92e768/eea4a/friend.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAYZQv0NGYF//xAAaEAADAQADAAAAAAAAAAAAAAAAAQIDBBET/9oACAEBAAEFAlmLI8idOydSuW1X/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AYiI/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEv/aAAgBAgEBPwFW61f/xAAYEAACAwAAAAAAAAAAAAAAAAAAAREgMf/aAAgBAQAGPwKmDhH/xAAbEAACAgMBAAAAAAAAAAAAAAAAARExIUFxUf/aAAgBAQABPyGbRho5KkFssl0SCIXrZ//aAAwDAQACAAMAAAAQU8//xAAWEQADAAAAAAAAAAAAAAAAAAABEEH/2gAIAQMBAT8QFFf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPxCEP//EABwQAAICAgMAAAAAAAAAAAAAAAERADEhUWGh8P/aAAgBAQABPxA6OBlrcTwpWGd5MWgTRbO46OkGCe5//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;A stranger&quot; title=&quot;&quot; src=&quot;/static/d67e199d7eb3ad13a576465e6a92e768/1c72d/friend.jpg&quot; srcset=&quot;/static/d67e199d7eb3ad13a576465e6a92e768/a80bd/friend.jpg 148w,
+/static/d67e199d7eb3ad13a576465e6a92e768/1c91a/friend.jpg 295w,
+/static/d67e199d7eb3ad13a576465e6a92e768/1c72d/friend.jpg 590w,
+/static/d67e199d7eb3ad13a576465e6a92e768/a8a14/friend.jpg 885w,
+/static/d67e199d7eb3ad13a576465e6a92e768/fbd2c/friend.jpg 1180w,
+/static/d67e199d7eb3ad13a576465e6a92e768/eea4a/friend.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;br&gt;
 &lt;p&gt;But i’ve also realised we are social creatures. The trip was fun, adventurous, and had a kind of unencumbered poetic energy. Perhaps it was the short daylight hours, or Norway’s quiet melancholy, but by 4pm, the sky would be dark and the streets empty. More than once, I found myself walking alone down a street lit by a single lamp, and I couldn’t help but wonder:&lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&quot;center&quot;&gt;&lt;em&gt;Is this it..?&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Krabi Once More: Old Friends, New Connections]]></title><description><![CDATA[Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are calm, the food is cheap, the backpacking…]]></description><link>https://4ndrelim.github.io/blog/krabi/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/krabi/</guid><pubDate>Sat, 01 Jun 2024 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
@@ -695,7 +1061,7 @@ It was a cozy house with a sweet old lady who had been hosting backpackers for y
 &lt;br&gt;
 &lt;p&gt;&lt;em&gt;Fun memories.&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Climbs&lt;/h2&gt;
-&lt;p&gt;We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering creates fertile ground for conflict. Tahnkfully, I had Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here’s my gang at Northwall.&lt;/p&gt;
+&lt;p&gt;We are a huge gang, so we had no choice but to split ourselves. Overcrowding one crag is disrespectful to the locals and clustering creates fertile ground for conflict. Thankfully, I had Wen Wu and Timothy to bring the other half elsewhere. We rotated sites by the day. Here’s my gang at Northwall.&lt;/p&gt;
 &lt;figure style=&quot;margin: 0 auto; text-align: center; max-width: 80%;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/09f5418015e9683d3fab4960ae6cb611/eea4a/climb_party_1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -1236,6 +1602,19 @@ It was a cozy house with a sweet old lady who had been hosting backpackers for y
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;div&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7f76c93d9213c3e7f514e9fdc9ab0118/eea4a/trudge.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAG9T20GGXCH/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIDIQAEIv/aAAgBAQABBQJU5KCRn1yGjNYxv//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGNf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwGsf//EABgQAAIDAAAAAAAAAAAAAAAAABEhAAIQ/9oACAEBAAY/AlLVaiAw5//EABsQAQACAgMAAAAAAAAAAAAAAAEAERAhMWFx/9oACAEBAAE/ISpQGJdOt9ymP2xECwbecf8A/9oADAMBAAIAAwAAABAX/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAEDAQE/EEWQdn//xAAWEQEBAQAAAAAAAAAAAAAAAAABEQD/2gAIAQIBAT8QTW4s3//EABoQAQEBAQEBAQAAAAAAAAAAAAERADEhQbH/2gAIAQEAAT8QVyD7OZXrI2FHTLIznpfzKkmfJJ19ZzNe/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Trudging up&quot; title=&quot;&quot; src=&quot;/static/7f76c93d9213c3e7f514e9fdc9ab0118/1c72d/trudge.jpg&quot; srcset=&quot;/static/7f76c93d9213c3e7f514e9fdc9ab0118/a80bd/trudge.jpg 148w,
+/static/7f76c93d9213c3e7f514e9fdc9ab0118/1c91a/trudge.jpg 295w,
+/static/7f76c93d9213c3e7f514e9fdc9ab0118/1c72d/trudge.jpg 590w,
+/static/7f76c93d9213c3e7f514e9fdc9ab0118/a8a14/trudge.jpg 885w,
+/static/7f76c93d9213c3e7f514e9fdc9ab0118/fbd2c/trudge.jpg 1180w,
+/static/7f76c93d9213c3e7f514e9fdc9ab0118/eea4a/trudge.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
 &lt;br&gt;
 &lt;h2&gt;The Hike Begins&lt;/h2&gt;
 &lt;p&gt;We begun the track from Syabrubesi, a small village at an altitude of 2,380m above sea level. It serves as the starting point to Langtang Valley. It was a long, narrow, bumpy, &lt;strong&gt;really bumpy&lt;/strong&gt; ride from Kathmandu. Occassionally i’ll open my eyes, look out to the window, and see how teasingly close we are to the edge of some spiraling road, down to a nausealy tempting valley.&lt;/p&gt;
@@ -1383,33 +1762,34 @@ Walking behind her made it even funnier.&lt;/p&gt;
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;p&gt;We woke each morning to a stunning view. Brushing your teeth while staring into a vast expanse of peaks was oddly calming. It makes you pensive, yet small. It’s like you’re staring at a world that is far older and wiser than you. It has endured long before we arrived, and will continue long after.&lt;/p&gt;
-&lt;div&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+&lt;p&gt;There wasn’t much entertainment besides the snow, so we made full use of it. Rolling in it, throwing snowballs at the guides and helpers, building the largest snowman we could manage, and occasionally rolling giant ice boulders just because we could. Simple fun.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/50c08fc4e86bb2c6bab0586fa2dd7cb3/6a068/kim_snow.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdGe2izGdcFiQcUP/8QAGxABAAICAwAAAAAAAAAAAAAAAQIRAAMQEyD/2gAIAQEAAQUCocdMblokybM7oBwxHz//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhECAiUWH/2gAIAQEABj8CglIqilJzp9Z91//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExcSBBUWGh/9oACAEBAAE/IUdjHuGpV5qIEAe0afGzELz0lTe4ldcodH//2gAMAwEAAgADAAAAENAljv/EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/EGP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPxAj/8QAHRABAAICAwEBAAAAAAAAAAAAAQARIWExQYFRcf/aAAgBAQABPxCsg3XGnKNDTq+/Y21F71K+5DNIjoeT2GLa0SY/qN0yw3zCTAMBC6+bJSsGJbOoLU//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Playing in the Snow&quot; title=&quot;&quot; src=&quot;/static/50c08fc4e86bb2c6bab0586fa2dd7cb3/1c72d/kim_snow.jpg&quot; srcset=&quot;/static/50c08fc4e86bb2c6bab0586fa2dd7cb3/a80bd/kim_snow.jpg 148w,
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Kimberly playing in the snow&quot; title=&quot;&quot; src=&quot;/static/50c08fc4e86bb2c6bab0586fa2dd7cb3/1c72d/kim_snow.jpg&quot; srcset=&quot;/static/50c08fc4e86bb2c6bab0586fa2dd7cb3/a80bd/kim_snow.jpg 148w,
 /static/50c08fc4e86bb2c6bab0586fa2dd7cb3/1c91a/kim_snow.jpg 295w,
 /static/50c08fc4e86bb2c6bab0586fa2dd7cb3/1c72d/kim_snow.jpg 590w,
 /static/50c08fc4e86bb2c6bab0586fa2dd7cb3/a8a14/kim_snow.jpg 885w,
 /static/50c08fc4e86bb2c6bab0586fa2dd7cb3/6a068/kim_snow.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-  &lt;div style=&quot;text-align: center&quot;&gt;&lt;em&gt;Kimberly in her snowy habitat.&lt;/em&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;There wasn’t much entertainment besides the snow, so we made full use of it. Rolling in it, throwing snowballs at the guides and helpers, building the largest snowman we could manage, and occasionally rolling giant ice boulders just because we could. Simple fun.&lt;/p&gt;
-&lt;p&gt;Here’s a mini one Jing Xuan made herself.&lt;/p&gt;
-&lt;div&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+    &lt;figcaption&gt;&lt;em&gt;Kimberly in her snowy habitat.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/952df72eaafb9bdc2d1575fb25d45c75/6a068/snowman.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABzJuexoInS53nU1//xAAcEAACAwEAAwAAAAAAAAAAAAABAgADEhMRMTL/2gAIAQEAAQUC6GV+bH5CW1aRRhzdUD8xqtzkyxfSQk6//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQERL/2gAIAQMBAT8Byip//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESEP/aAAgBAgEBPwGmU9//xAAfEAACAQMFAQAAAAAAAAAAAAAAARECITEDECJBYXH/2gAIAQEABj8C8GpR2yaco03i3Ih1GCZghKl/dkO5/8QAHRABAAIDAAMBAAAAAAAAAAAAAQBBESExUWGBwf/aAAgBAQABPyEVypTLF7GGKIfuEymfp2YQQvC52x+sK3s3NhJFdhrI8wne1mmlmYbCuz//2gAMAwEAAgADAAAAEDzJjP/EABgRAAIDAAAAAAAAAAAAAAAAAAERABAx/9oACAEDAQE/EAlnYt//xAAZEQACAwEAAAAAAAAAAAAAAAAAARARIWH/2gAIAQIBAT8QreM6Rp//xAAfEAEAAgMAAQUAAAAAAAAAAAABABEhMUFhUYGRocH/2gAIAQEAAT8QMq7loWKBTZro95S0/cBAAV8G1hsD1hmKXRTG7wrZjxKkkBz7DEdC5VsR8szCiqVZ/IW2XfSKvel72AIsFjO2HwDkfE//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Snowman&quot; title=&quot;&quot; src=&quot;/static/952df72eaafb9bdc2d1575fb25d45c75/1c72d/snowman.jpg&quot; srcset=&quot;/static/952df72eaafb9bdc2d1575fb25d45c75/a80bd/snowman.jpg 148w,
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Jing xuan&apos;s snowman&quot; title=&quot;&quot; src=&quot;/static/952df72eaafb9bdc2d1575fb25d45c75/1c72d/snowman.jpg&quot; srcset=&quot;/static/952df72eaafb9bdc2d1575fb25d45c75/a80bd/snowman.jpg 148w,
 /static/952df72eaafb9bdc2d1575fb25d45c75/1c91a/snowman.jpg 295w,
 /static/952df72eaafb9bdc2d1575fb25d45c75/1c72d/snowman.jpg 590w,
 /static/952df72eaafb9bdc2d1575fb25d45c75/a8a14/snowman.jpg 885w,
 /static/952df72eaafb9bdc2d1575fb25d45c75/6a068/snowman.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
+    &lt;figcaption&gt;&lt;em&gt;Here&apos;s a mini one Jing Xuan made herself.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
 &lt;/div&gt;
 &lt;br&gt;
 &lt;h2&gt;Harsh Cold&lt;/h2&gt;
@@ -1428,7 +1808,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;p&gt;Then colder, and darker.&lt;/p&gt;
-&lt;div&gt;
+&lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/370f324a2be1860c4ea4e268a21e2888/6a068/colder.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAdSpb5yMHl0UoSJ//8QAGBAAAgMAAAAAAAAAAAAAAAAAASACAxH/2gAIAQEAAQUCeqR1P//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABUQAQEAAAAAAAAAAAAAAAAAAAEg/9oACAEBAAY/ArRJ/8QAHBAAAQQDAQAAAAAAAAAAAAAAEQABECEgMUFh/9oACAEBAAE/IcN9Q9RDEIwDG7jrz//aAAwDAQACAAMAAAAQVBYN/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8QKf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQEBAAICAwAAAAAAAAAAAAERACExEEFRYZH/2gAIAQEAAT8QDJk5waFQMY/Tl3p+ZsozmGRdVLXz1rhUPRMr4//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -1442,7 +1822,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;We had no time to rest upon reaching ABC. We were racing against the storm. The snow was far too thick to pitch tents, so we took out our pickaxes and began mining away the rocks and ice at 5,000m above sea level.&lt;/p&gt;
 &lt;p&gt;Below is a perfect depiction of most of us after setting up just the first tent.&lt;/p&gt;
-&lt;div&gt;
+&lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/93b817efe3417f743a23daf633da7fc0/6a068/davian.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAF3Uqo32ycExaotZaJKRd//xAAeEAACAgAHAAAAAAAAAAAAAAABAgADBBESEyEiMf/aAAgBAQABBQJ2C14Zi0PthFgrrOvclXYkOkJzg4apiYVE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAIAQMBAT8BcnLFWo0//8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERJR/9oACAECAQE/AYvppEnRTZ//xAAdEAABBAMBAQAAAAAAAAAAAAAAARAhQQIRMRIi/9oACAEBAAY/AvW5o+stsmuFwyYwKi3aEtJw/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERITFRQWGR/9oACAEBAAE/IZHCv6Fjq76I6Fi02LUab0npurdb0MUnNAwuFMMekx5EUalvsf/aAAwDAQACAAMAAAAQoD3C/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARMWH/2gAIAQMBAT8QUz2QcmEZG8v/xAAYEQEBAQEBAAAAAAAAAAAAAAABABExQf/aAAgBAgEBPxAUdZPpIroW/8QAHhABAAICAwADAAAAAAAAAAAAAQARITFBUWGBscH/2gAIAQEAAT8QvJSHsw5+GBOcgrvePKmF1V9eQzNBXWU/ISyBQa7nOJHlhQQGlY89lUtBcpTTAwAQ0PqMl2TTvuAkhAR5grgNmp//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -1455,7 +1835,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
     &lt;/span&gt;
 &lt;/div&gt;
 &lt;p&gt;Even Kimberly, the doe-eyed bubbly girl, had lost most of her shine.&lt;/p&gt;
-&lt;div&gt;
+&lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0171a6bbc3dda2b3a57524586ee84365/6a068/kim_cold.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/aAAwDAQACEAMQAAABpqXPKrmEk8gujXOs2il//8QAHRAAAgIBBQAAAAAAAAAAAAAAAQIAAxIQERMhI//aAAgBAQABBQJZXatkYdu/mhKObWEuYrMcwKn2LHmTT//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAxEj/9oACAEDAQE/AUjlrol6N//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAIAQIBAT8BljVaQsNP/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECIRAREjFh/9oACAEBAAY/Ah8d4oouIrpicTsS9z//xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhUTFB/9oACAEBAAE/IcG8jfZtwXUpf05DhejytItV70hPsF1LI3cSEJmaZjSpuz5Awn//2gAMAwEAAgADAAAAEHDPwP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAIREx/9oACAEDAQE/EOXthO4Qh0Tb/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAk5a0JySX/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhMUFRkf/aAAgBAQABPxCRYApxoYdgOdSmUyVmEBERvg85K5UaIut+9ZfwejTg3C3qRm3swBakRZ9yEsHHPeKVbGgSYmnfjAJXj3P/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -1621,12 +2001,29 @@ Bonus if you can guess which one I am!&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;The summit.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;The Summit&lt;/h2&gt;
+&lt;div&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2be156613bb667fe2c5737ed6478f5eb/eea4a/summit2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAB2A3IpOOef//EABgQAAMBAQAAAAAAAAAAAAAAAAECEQAD/9oACAEBAAEFAhzC5isJNcV+1VgLv//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFB/9oACAEDAQE/AVM9MR//xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oACAECAQE/AXTdb//EABsQAAEEAwAAAAAAAAAAAAAAAAEAAhAREiEx/9oACAEBAAY/Aha1DjaxBPY//8QAGxABAQEAAgMAAAAAAAAAAAAAAREAITFBYaH/2gAIAQEAAT8hhEC9ayhdU4H5vPgges0wqNF3v//aAAwDAQACAAMAAAAQG/8A/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhEf/aAAgBAwEBPxARiemF/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAExEf/aAAgBAgEBPxBmMWFP/8QAGxABAQADAQEBAAAAAAAAAAAAAREAITFRQfD/2gAIAQEAAT8Q2rDHsK4+T+ag/u5IErFmEpAVeFmASdl+ExK6zXM//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Finally, the summit&quot; title=&quot;&quot; src=&quot;/static/2be156613bb667fe2c5737ed6478f5eb/1c72d/summit2.jpg&quot; srcset=&quot;/static/2be156613bb667fe2c5737ed6478f5eb/a80bd/summit2.jpg 148w,
+/static/2be156613bb667fe2c5737ed6478f5eb/1c91a/summit2.jpg 295w,
+/static/2be156613bb667fe2c5737ed6478f5eb/1c72d/summit2.jpg 590w,
+/static/2be156613bb667fe2c5737ed6478f5eb/a8a14/summit2.jpg 885w,
+/static/2be156613bb667fe2c5737ed6478f5eb/fbd2c/summit2.jpg 1180w,
+/static/2be156613bb667fe2c5737ed6478f5eb/eea4a/summit2.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;It was strangely underwhelming. It was just.. &lt;strong&gt;a rock&lt;/strong&gt;. But i’m not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene or maybe unlock something within.&lt;/p&gt;
+&lt;p&gt;But this is reality. Just a rock and a view that doesn’t seem too different from what I’d already seen on the way up. Still, no reason to sully the mood. A summit is a summit, and we were definitely going to take photos.&lt;/p&gt;
+&lt;p&gt;I recalled having to video Alina solve a Rubik’s cube so she could flex on her boyfriend (his timing apparently qualifies him for internationals!).&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/80fdd029c9778b60cfa977603253e6d6/eea4a/summit.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAGGibUXb1P/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADERMS/9oACAEBAAEFAioBWjRwio9kr9cwDn//xAAYEQACAwAAAAAAAAAAAAAAAAAAAQISE//aAAgBAwEBPwHOJRH/xAAWEQADAAAAAAAAAAAAAAAAAAAAARP/2gAIAQIBAT8BqyjP/8QAGxAAAgMAAwAAAAAAAAAAAAAAABEBAkEQEnH/2gAIAQEABj8CUjccWXpfrmkaf//EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVFhgf/aAAgBAQABPyGWEMonQS3BKFVPwIvEPKDSKZZ//9oADAMBAAIAAwAAABCbH//EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxBhRuH/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QqU//xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUFRcdH/2gAIAQEAAT8QkyKCJw4YpCaDb8wAiL4uBtmRZst7d95M1gihOYYhuUtouvWf/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Finally, the summit&quot; title=&quot;&quot; src=&quot;/static/80fdd029c9778b60cfa977603253e6d6/1c72d/summit.jpg&quot; srcset=&quot;/static/80fdd029c9778b60cfa977603253e6d6/a80bd/summit.jpg 148w,
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;summit reached, flags out!&quot; title=&quot;&quot; src=&quot;/static/80fdd029c9778b60cfa977603253e6d6/1c72d/summit.jpg&quot; srcset=&quot;/static/80fdd029c9778b60cfa977603253e6d6/a80bd/summit.jpg 148w,
 /static/80fdd029c9778b60cfa977603253e6d6/1c91a/summit.jpg 295w,
 /static/80fdd029c9778b60cfa977603253e6d6/1c72d/summit.jpg 590w,
 /static/80fdd029c9778b60cfa977603253e6d6/a8a14/summit.jpg 885w,
@@ -1635,10 +2032,7 @@ Bonus if you can guess which one I am!&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
-&lt;p&gt;It was strangely underwhelming. It was just.. &lt;strong&gt;a rock&lt;/strong&gt;. But i’m not sure what I was expecting either. I guess some part of me, the part raised on Pokémon games, secretly hoped that reaching the summit would trigger a cutscene or maybe unlock something within.&lt;/p&gt;
-&lt;p&gt;But this is reality. Just a rock and a view that doesn’t seem too different from what I’d already seen on the way up.&lt;/p&gt;
-&lt;p&gt;Still, no reason to sully the mood. A summit is a summit, and we were definitely going to take photos.&lt;/p&gt;
-&lt;p&gt;Also, the guides were so high-spirited (probably counting their blessings no one died) that it was infectious. I recalled having to video Alina solve a Rubik’s cube so she could flex on her boyfriend (his timing apparently qualifies him for internationals!).&lt;/p&gt;
+&lt;p&gt;Also, the guides were so high-spirited (probably counting their blessings no one died) that it was infectious.&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/80bdd8a3e1c3eab1772cf9a888312366/6a068/guide.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -1656,7 +2050,21 @@ Bonus if you can guess which one I am!&lt;/p&gt;
 &lt;p&gt;We crashed hard after the summit, a well-deserved rest. I never thought “lip-burnt” was a real condition, but apparently it is and every bite was excruciating. Salt hit my lips like betrayal. I also lost a couple of toenails and limped the entire way down the mountain. Otherwise, the descent was relatively uneventful.&lt;/p&gt;
 &lt;p&gt;One of the nights, we even ended up dancing with the guides, singing local songs, and just basking in the moment. I don’t have many photos from that night, but I do have several videos. &lt;br&gt;
 All chaotic, all wholesome.&lt;/p&gt;
-&lt;p&gt;I also made friends with a Nepali gem collector and had a great time bantering with him. &lt;em&gt;I think&lt;/em&gt; I avoided being overcharged, but Aidan who paid $25SGD for a rock definitely did not.&lt;/p&gt;
+&lt;div&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f91d2e620b9c17b06e612377e204d22d/eea4a/guides_dancing.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 45.94594594594595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGe8pQhgGCz/8QAGhAAAgMBAQAAAAAAAAAAAAAAAgMAAREhM//aAAgBAQABBQJJYLHcO9JHk6XP/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAaEAACAgMAAAAAAAAAAAAAAAAAAQJxEDGB/9oACAEBAAY/AqNDZKjmP//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExEGH/2gAIAQEAAT8hjoDEtlR75ztHR//aAAwDAQACAAMAAAAQfM//xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAwEBPxAr/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EHLkX//EABwQAAICAgMAAAAAAAAAAAAAAAABESExUUGh8P/aAAgBAQABPxBjDO1qNi25SGnQx7EtLjZ3xl9yZz//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Guides and helpers dancing.&quot; title=&quot;&quot; src=&quot;/static/f91d2e620b9c17b06e612377e204d22d/1c72d/guides_dancing.jpg&quot; srcset=&quot;/static/f91d2e620b9c17b06e612377e204d22d/a80bd/guides_dancing.jpg 148w,
+/static/f91d2e620b9c17b06e612377e204d22d/1c91a/guides_dancing.jpg 295w,
+/static/f91d2e620b9c17b06e612377e204d22d/1c72d/guides_dancing.jpg 590w,
+/static/f91d2e620b9c17b06e612377e204d22d/a8a14/guides_dancing.jpg 885w,
+/static/f91d2e620b9c17b06e612377e204d22d/fbd2c/guides_dancing.jpg 1180w,
+/static/f91d2e620b9c17b06e612377e204d22d/eea4a/guides_dancing.jpg 1280w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;I also made friends with a Nepali gem collector and had a great time bantering with him. &lt;br&gt; &lt;em&gt;I think&lt;/em&gt; I avoided being overcharged, but Aidan who paid $25SGD for a rock definitely did not.&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/9901b75ed14cdbcceb3fb1ddbe9b4f97/eea4a/gem_trader.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
