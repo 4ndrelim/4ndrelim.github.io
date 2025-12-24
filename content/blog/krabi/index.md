@@ -1,7 +1,7 @@
 ---
 title: 'Krabi Once More: Old Friends, New Connections'
 date: "2024-06-01T03:23:00.00Z"
-description: "Krabi '24 — My Efforts Paid Off"
+description: "Krabi '24 — When a Year of Effort Finally Paid Off"
 ---
 
 <style>
@@ -14,7 +14,7 @@ Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. 
 
 Last year, I got close to Rizhao (see this [post](../seeds-of-change/)). We shared plenty over that trip, and some of the things he said stuck with me longer than I expected. This year, it’s my turn to leave an impact. I'm bringing 34 fellow climbers, some of whom have never touched outdoor rocks, into the wild and hoping everyone comes back with all their skin intact.
 
-This trip was the culmination of a year's worth of effort. A product of my brainchild (Well, not exactly, see the dropdown below). Over the past year, I've barged through hurdles and regulations with ambitious, uncharted outdoor climbing plans for the school. Those were uncertain times, and I’ll admit there were moments where the entire plan was held together not by backup options but by hustle and the kind of faith you only earn after it works. Not everyone was fully onboard, and coordination was difficult, and sometimes things looked bleak. 
+This trip was the culmination of a year's worth of effort. A product of my brainchild (Well, not exactly, see the dropdown below). Over the past year, I've barged through hurdles and regulations with ambitious, uncharted outdoor climbing plans for the school. We have run multiple successful trips to Batu Caves in Malaysia (see our pilot trip [post](../many-more-to-come/)) but Krabi was on a completely different scale. Those were uncertain times, and I’ll admit there were moments where the entire plan was held together not by backup options but by hustle and the kind of faith you only earn after it works. Not everyone was fully onboard, and coordination was difficult, and sometimes things looked bleak. 
 
 But here we are :)
 

@@ -49,7 +49,7 @@ We celebrated our arrival at Syabrubesi after a long 10-hour bus ride with Bak K
     <span style="font-size:13px;" class="info">
       We brought a total of 4 kg of Bak Kwa to share, and man did it prove to be a lifesaver later on at high altitude. Heated Bak Kwa in the damning cold was simply bliss. Our Nepalese friends enjoyed it just as much. And for that, we have Davian — arguably the most resourceful of our bunch — to thank. But he went through great peril to acquire it.
       <br><br>
-      The stash was split into 1.5 kg of packaged Bak Kwa and another 2.5 kg of fresh slices from a famous Malaysian chain. Davian is well known for two things: his bike and his willingness to cross the border into JB for side-hustles and food adventures. Right before the trip, he embarked on a covert mission to bring back as much Bak Kwa as humanly possible. The only issue, of course, was that pork imports into Malaysia are technically illegal. But that didn’t deter him from attempting to smuggle 3 kg of fresh meat across the causeway.
+      The stash was split into 0.5 kg of packaged Bak Kwa and another 2.5 kg of fresh slices from a famous Malaysian chain. Davian is well known for two things: his bike and his willingness to cross the border into JB for side-hustles and food adventures. Right before the trip, he embarked on a covert mission to bring back as much Bak Kwa as humanly possible. The only issue, of course, was that pork imports into Malaysia are technically illegal. But that didn’t deter him from attempting to smuggle 3 kg of fresh meat across the causeway.
       <br><br>
       <b>That fateful day, he got caught.</b>
       <br><br>
@@ -98,6 +98,8 @@ Later, someone mentioned an old Nepalese bride-kidnapping tradition where the gr
 <div>
   <img src="local.jpg" alt="Meeting a local"/>
 </div>
+
+<br>
 
 Took some cool shots along the way too. This is Alina, our exchanger from Germany. She looks and is every bit the mountaineer.
 
@@ -333,18 +335,18 @@ There were factors beyond our control too. The day before reaching ABC, our guid
 
 We forged ahead, which explains why we ended up mining snow at 5,300m, but it was the first time I saw the disparity and fractures in our mountaineering spirit.
 
-At night, in the quiet, I found myself wrestling with things i had shoved aside for months. What did I want in life? What was I optimizing for? Some mornings, staring at the peaks beyond — Xixangbangma, Everest, Lhotse — I wondered if a nomadic life of adventure was what I wanted. But by evening, I was anxious about losing all I had built in the virtual world: skills, routine, momentum.
+At night, in the quiet, I found myself wrestling with things i had shoved aside for months. **What did I want in life? What was I optimizing for?** Some mornings, staring at the peaks beyond — Shishapangma, Everest, Lhotse — I wondered if a nomadic life of adventure was what I wanted. But by evening, I was anxious about losing all I had built in the virtual world: skills, routine, momentum.
 
-I worried about trivialities. I worried about not solving LeetCode problems. Not passing interviews. Not learning fast enough. Falling behind my nerdy friends. I wanted too many things, and we know those who chase 2 rabbits often end up with neither.
+**I worried about trivialities.** I worried about not solving LeetCode problems. Not passing interviews. Not learning fast enough. Falling behind my nerdy friends. I wanted too many things, and we know those who chase 2 rabbits often end up with neither.
 
-The thought of not letting go of work brought back other memories. I had been a wreck who stubbornly clung onto an old flame. I met the most amazing girl yet I did not hold her tightly enough in my pursuit of studies and work. Soon, I found myself partially obsessed with self-inflicted punishment as atonement and intentionally maintained my distance with any romantic prospects.
+The thought of not letting go of work brought back other memories. I had been a wreck who stubbornly clung onto an old flame. **I met the most amazing girl yet I did not hold her tightly enough** in my pursuit of studies and work. Soon, I found myself partially obsessed with self-inflicted punishment as atonement and intentionally maintained my distance with any romantic prospects.
 
 Maybe I needed to change, maybe mountaineering could shine the path forward.
 
 Or was I just running away and refusing to admit my own inadequacies. How is it that I had done so much, prepared so thoroughly, yet still struggled to find an internship? <br>
 **_Madness_**.
 
-Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn't so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.
+Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn't so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. **Looking back, I did her wrong.**
 
 Fortunately, she had the heart to look past my moment of folly, and we remain close friends to this day.
 

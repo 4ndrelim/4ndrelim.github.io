@@ -14,13 +14,13 @@ Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad
 <br>
 
 ## The Parallels, and the Cracks
-You see many similarities between Hong Kong and Singapore. Both tiny city-states (debatable for HK..). Both densely packed. Both financial hubs. People are always rushing — eating, driving, honking (i'd say just as angsty as Singaporean drivers), and generally moving with urgency.
+You see many similarities between Hong Kong and Singapore. Both tiny city-states (debatable for HK..). Both densely packed. Both financial hubs. Late-night diners are a common sight for those on OT. People are always rushing — eating, driving, honking (i'd say as angsty as Singaporean drivers), and generally moving with urgency.
 
-Even the metro systems feel familiar, right down to the colour schemes. And yet, every now and then, you’re reminded things aren’t quite the same. In Singapore, we have the MRT; here, it’s the MTR. Here, people speak Cantonese, and maybe it’s the dialect, but it often comes across more abrasive than Mandarin (or maybe Singlish softens our tone and makes us feel warmer).
+Even the metro system feels familiar, right down to the colour schemes. And yet, every now and then, you’re reminded things aren’t quite the same. In Singapore, we have the MRT; here, it’s the MTR. Here, people speak Cantonese, and maybe it’s the dialect, but it often comes across more abrasive than Mandarin (or maybe Singlish softens our tone and makes us feel warmer).
  
 Food prices are roughly similar, though portions here tend to be more generous. I’ve never received a full-moon slice of luncheon meat in Singapore, but that seems to be the norm here. In Singapore, we keep left when walking. Here, the default is the right.
 
-I also noticed that Hong Kong feels like a more extreme version of Singapore’s inequality gap. Older areas like Kowloon, Sham Shui Po, Mong Kok  have fuzzy streets littered with trash, cockroaches running amok, stalls and picnic mats propped up wherever space permits. Tight, messy, compact. Just really chaotic overall.
+I also noticed that Hong Kong feels like a more extreme version of Singapore’s inequality gap. Older areas like Kowloon, Sham Shui Po, Mong Kok  have fuzzy streets littered with trash, cockroaches running amok, stalls and picnic mats propped up wherever space permits. Tight, messy, compact. Just really chaotic.
 
 This stands in stark contrast to Hong Kong Island. Clean, immaculate, and almost surgical. Walking through Causeway Bay and Wan Chai, I couldn’t believe how pristine everything looked. It felt as though the city had quietly given up on its older parts and poured all its resources into the new.
 
@@ -33,9 +33,9 @@ And i'm not sure why but I sensed a certain dread in people’s eyes. At least i
 ### Work
 I was glad to have landed an internship, an ML one, no less. A good learning opportunity. My accommodation was about an hour away from the office, which wasn’t ideal, but it did help me develop a reading habit.
 
-Work itself was engaging. I gained experience with foundational ML tools like PyTorch and TensorFlow, got exposure to production environments, and worked on quantitative statistical modelling projects affiliated with HFT firms (though sadly, not paid HFT money). Still, compensation was decent for a research institute.
+Work itself was engaging. I gained experience with foundational ML tools like PyTorch and TensorFlow, got exposure to production environments, and worked on quantitative statistical modelling projects affiliated with HFT firms (though sadly, not paid HFT money). Still, compensation was  very decent, despite being a research institute.
 
-My direct supervisor was a lauded mathematics PhD. His projects, and by extension, mine, focused on statistical modelling for time series analysis, as well as hologram-building via neural networks (the latter being his side project).
+My direct supervisor was a lauded mathematics PhD. His projects, and by extension, mine, focused on statistical modelling for time series analysis (and hence, the quant), as well as hologram-building via neural networks (the latter being his side project).
 
 It was probably through him that I first noticed the jadedness of Hong Kong life. He was reserved. And a clear workaholic. He’d finish lunch in 15 minutes, spend 30 minutes playing Genshin Impact, then take a strict 45 minutes nap with his sleep headgear on. During which I was reminded under no circumstances should I disturb him. When did he leave the office? I have no idea. I never saw him leave before 7pm.
 
@@ -86,7 +86,7 @@ _tsk_.
 
 <br>
 
-Give it a few years. Then speak to these survivors.
+Give it a few years. Then speak to the survivors.
 
 They are successful, but jaded. Sunken eyes in their early thirties. Vast wealth accumulated, so much that trivialities no longer matter. They eat without looking at prices, spend without batting an eyelid. **After all, they can well afford it, so why stress over balancing desires and costs?** <br> And yet, when you speak to them, something clearly went awry.
 
@@ -118,12 +118,12 @@ Anyway, being young in Hong Kong, with stressful days, bustling night life and a
 
 <br>
 
-Yeah I realized clubs are best entered slightly tipsy. The loud music, flashing lights, weird dance-offs, and pukings, make the sober really out of place.
+Yeah I was reminded that clubs are best entered slightly tipsy. The loud music, flashing lights, weird dance-offs, and sudden pukings, make the sober feel really out of place.
 
 ### Dumb and Dumber
 One of my biggest takeaways was a fateful encounter with Ed and Kevin.
 
-I first met Kevin at Mizu bouldering gym, and he later intorudced me to Ed. Kevin had just returned from an outdoor crag and was cooling down on the MoonBoard. Having never tried moonboard before, i asked for advice. He was friendly, and we became quick friends. He even invited me to join him outdoors, which I really appreciated.
+I first met Kevin at a bouldering gym called Mizu, and he later intorudced me to Ed. Kevin had just returned from an outdoor crag and was cooling down on the MoonBoard. Having never tried moonboard before, i asked for advice. He was friendly, and we became quick friends. He even invited me to join him outdoors, which I really appreciated.
 
 <div style="width: 66%; text-align: left;">
     <img src="./crag.jpg" alt="Crag" style="width: 100%; height: auto;">
@@ -155,12 +155,12 @@ Home-made matcha ice cream. Excellent.
 ## Getting Out.
 Ok but the jadedness was starting to creep in. Maybe it was listening too much of [Beyond's 海闊天空](https://www.youtube.com/watch?v=qu_FSptjRic) or [Lowell Lo's 一生所愛](https://www.youtube.com/watch?v=xpSh3OgTNdY) but the existential thoughts came.
 
-All the stories, the contrast between youthful hustle and quiet cynicism, and jaded vibes reminded me of Will Emerson from _Margin Call_ (an excellent movie by the way). Will Emerson was the Head of Trading, the intense trader bagging home a million dollar in bonuses and would spend it all on cocaine and hookers. He is clearly highly intelligent, highly aware, and highly critical.
+All the stories, the contrast between youthful hustle and quiet cynicism, and jaded vibes reminded me of Will Emerson from [_Margin Call_](https://en.wikipedia.org/wiki/Margin_Call) (an excellent movie by the way). Will Emerson was the Head of Trading at the bank, an intense trader bagging home a million dollar in bonuses and would spend it all on cocaine and hookers. He is clearly highly intelligent, highly aware, and highly critical.
 
-But these people reject beliefs and tear meaning down, and for awhile it works. They become critics of everything — religion, morality, love, family — until they are alone in a desert of their own making, proud of the emptiness, labelling it clarity. Their logic is airtight, probably, but it leaves them no reason to hope. Then they wonder why they feel like ghosts in their own skin.
+But these people reject beliefs and tear meaning down, and for awhile it works. They become critics of everything — religion, morality, love, family — until they are alone in a desert of their own making, proud of the emptiness, calling it clarity. Their logic is airtight, convincing, but it leaves them no reason to hope. Then they wonder why they feel like ghosts in their own skin.
 
 > _"A slow erosion masked by eloquence, intelligence, insight. One day they are dissecting morality, the next, they are rationalizing cruelty. And by the end, they are nothing but clever corpses playing with words.. The smarter they are, the more intricate the justification."_
-> — **Extracted from Dostoevsky**
+> — **Excerpt from Dostoevsky**
 
 <br>
 

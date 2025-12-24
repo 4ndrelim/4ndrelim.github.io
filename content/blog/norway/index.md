@@ -140,7 +140,8 @@ Oh we did not hold back on food. We enjoyed both cheap and fancy options through
 <br>
 
 _Pricey.. oh but,_ 
-**_this is it, man!_**
+
+<p align="center"><b><em>this is it, man!</em></b></p>
 
 <br>
 
@@ -179,6 +180,7 @@ Two weeks went by quickly. It was time to embark on the next phase.
 I sailed the Arctic Sea to Svolvær, in Lofoten. A quiet, serene town. Rows of fishing houses, dramatic mountains, and the best mushroom risotto I’ve ever had.
 
 ![sailing](./sailing.jpg)
+![more fjords](./fjords2.jpg)
 ![fishing village](./fishing_houses.jpg)
 
 <br>
