@@ -186,7 +186,7 @@ We even had to pull out an emergency blanket for one of our teammates who shiver
 <details>
     <summary>We might however.. have done more harm than good.</summary>
     <span style="font-size:13px;" class="info">
-      It was only long after the trip that we realized we wrapped the emergency blanket the wrong way. The insulating layer outside instead of inside. lol.
+      It was only long after the trip that we realized we wrapped the emergency blanket the wrong way. The insulating layer was on the outside instead of inside. lol.
       <br><br>
       But hey, she's well and alive now so all's good!
     </span>
