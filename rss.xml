@@ -1,4 +1,253 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Dec 2025 21:05:11 GMT</lastBuildDate><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad, of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Mon, 18 Nov 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad, of course. But Hong Kong does remind me of an alternate Singapore — similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island, and by extension, its twin.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Dec 2025 23:32:32 GMT</lastBuildDate><item><title><![CDATA[Hospitalised]]></title><description><![CDATA[Life works in mysterious ways. It seems to know how to tailor its challenges, delivered at precisely the wrong time, to precisely the right…]]></description><link>https://4ndrelim.github.io/blog/hospital/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hospital/</guid><pubDate>Mon, 01 Dec 2025 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+.info {
+    color: #008080; /* teal */
+}
+.steve {
+    color: #4B6EAF;
+    font-family: &quot;Helvetica Neue&quot;;
+}
+.steve blockquote {
+    border-left: 4px solid #4B6EAF;
+    padding-left: 1em;
+    margin-left: 0;
+    color: #4B6EAF;
+    background: none;
+}
+&lt;/style&gt;
+&lt;p&gt;Life works in mysterious ways. It seems to know how to tailor its challenges, delivered at precisely the wrong time, to precisely the right people. &lt;strong&gt;Enough to shake us. Rarely enough to break us.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lately, many of my friends have been dealing with their own quiet crises. One is navigating the jilted loss of a love. Another is locked in a bitter standoff with his father, who has threatened to withdraw all support. One lost a month-long, painstakingly prepared bundle of gifts – for his beloved studying abroad – to a thief. Another was hurt, wrongly and unjustifiably, by a careless friend of mine, who somehow still found it in him to forge ahead and fervently pursue yet another girl, who also happened to be a close friend.&lt;/p&gt;
+&lt;p&gt;Tricky times. And yet, none of it seemed like it would ever reach me. &lt;strong&gt;I had stability&lt;/strong&gt;: did well academically, offers lined up, relationships intact. And i’d say I had a fairly strong grip on my own emotions and convictions too. &lt;strong&gt;I felt insulated. Unfazed.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Until life (or God, if you prefer) &lt;strong&gt;decided to take my health away.&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;So, What Happened?&lt;/h2&gt;
+&lt;p&gt;Kidney complications. Developed suddenly. The diagnosis the doctors gave was vague. They called it idiopathic, a fancy term that short for &lt;em&gt;“we don’t know what’s up either.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;From what I gathered, my immune system is simply over-overactive, deciding to attack both my kidneys.&lt;/p&gt;
+&lt;p&gt;Talk about being blessed. &lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Too blessed.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;The Possible Trigger..?&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        On 1st November, I re-visited &lt;b&gt;&lt;em&gt;&lt;a href=&quot;https://www.surreyhillsgrocer.sg/?srsltid=AfmBOopcQa0hE1VOYXv46lMXCfVHRLzzR7mp3O1B6dviVRVWKygqJnxw&quot;&gt;Surrey Hills Grocer&lt;/a&gt;&lt;/em&gt; (ION)&lt;/b&gt;. The best thing on the menu, in my opinion, was a ridiculously overpriced ($19) truffle fries, which says a lot if fries are your strongest selling point. There were some interesting dishes, but &lt;b&gt;nothing tasty enough to overpower the taste of financial regret&lt;/b&gt;.
+        &lt;br&gt;&lt;br&gt;
+        The ambience though, was good – very suitable for dates — if not for the tables being so tightly packed that I could hear every awkward attempt at flirting from the couple next to us on what is clearly their first date. The choice of topics the guy chose was certainly unconventional but entertaining. My partner agreed, though that didn’t stop her from kicking me under the table every time I accidentally giggled.
+        &lt;br&gt;&lt;br&gt;
+        The only thing I ordered differently was a prawn risotto. We ordered quite a bit, typical of my gluttonous self, and I devoured most of it. What followed were hours of bloating, but nothing particularly alarming for someone who is a slave to his own tongue. Aside from some fatigue, the night passed peacefully.
+        &lt;br&gt;&lt;br&gt;
+        The next day, the bloating didn’t subside. I chalked it to a combination of stress, lack of exercise, and disgusting amount of food in one sitting. So, I decided to run a half marathon. Best timing yet: 5:10 pace for 21km on a damned treadmill (yes, a treadmill so I could watch a lecture, ironically titled &lt;b&gt;&lt;em&gt;Death, Suffering, and Illness&lt;/em&gt;&lt;/b&gt;).
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;h2&gt;The Symptoms&lt;/h2&gt;
+&lt;p&gt;The symptoms unfolded quietly over the week. It began with my legs looking slightly swollen. I thought little of it, figuring it was just due to running hard the previous day (see above dropdown).
+&lt;em&gt;Dead wrong.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strangely, I lost my appetite. Food poisoning, maybe, except there wasn’t the diarrhoea I was expecting, just one minor episode. Still, I found myself surviving on soup and porridge.&lt;/p&gt;
+&lt;p&gt;By Tuesday, the swelling had worsened. Walking became much harder. Still I thought I could tough it out.&lt;/p&gt;
+&lt;p&gt;By Wednesday, I figured I should probably exercise. I felt heavy. Bloated and fat even. I blamed excess calories from the past few days. Climbing helped a little, but in hindsight it’s probably due to adrenaline. A friend commented that my feet looked ridiculous, and indeed, I couldn’t fit into my climbing shoes without forcing them on. The signs should have been obvious. I was struggling on climbs that had previously come easily. Little did I know I was &lt;a href=&quot;https://5.life/blog/2024/05/01/crimp-climbing-101-the-essential-techniques-and-training-tips/&quot;&gt;crimping&lt;/a&gt; far above my actual body weight.&lt;/p&gt;
+&lt;p&gt;What finally made me reconsider was puking up even the water i drank after the climb that same night.&lt;/p&gt;
+&lt;p&gt;The doctor at USC (campus healthcare centre) thought it was likely food poisoning with some water retention and prescribed medication. ChatGPT also gave a similar diagnosis before this. Reassured, I went home expecting to feel better the next day. I did not. It worsened.&lt;/p&gt;
+&lt;p&gt;Friday, I was plagued with headaches, more bloating, and increasing immobility. Still, I dragged myself to school to catch up on work. NUH was nearby and if anything, I could always drop by for a second opinion.&lt;/p&gt;
+&lt;p&gt;After some persuasion from the same friend, I finally went to A&amp;#x26;E. Initial assessments were dismissive. Food poisoning, perhaps. As I waited, I began to feel increasingly unwell, gagging uncontrollably until only gastric acid came up.&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;A Very Interesting Man..&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        This friend of mine is what you might call paranoid. Overly so. He’s the kind of person who dreads flying after intentionally sourcing and reading everything that could possibly go wrong. Same with boats. 
+        &lt;br&gt;&lt;br&gt;
+        He once checked himself into the hospital for a prostate exam based on what appeared to be the most remote of symptoms, and spent half a day, during peak exam period, analysing his own stool. He took multiple photos, studied their shapes across a distribution, extracted RGB values, and compared them against references on the Bristol stool chart. &lt;em&gt;Some effort.&lt;/em&gt;
+        &lt;br&gt;&lt;br&gt;
+        He had also spent enough time reading in different medical rabbit holes to offer me a partial diagnosis, and seemed to understand what the doctors were discussing about my kidneys better than I did.
+        &lt;br&gt;&lt;br&gt;
+        But then again, he is a student of Mathematics, and I don’t know many great mathematicians, or logicians (see Gödel), who aren’t at least a little paranoid.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;p&gt;The doctor finally came around to see me. It was interesting to watch a calm expression slowly give way to confusion and urgency. She shook her head and murmured that the symptoms didn’t add up. What followed was a rectal exam, an impromptu blood test, a urine test, and thirty minutes later, I was effectively under hospital arrest. They refused to let me leave and warded me immediately. &lt;br&gt;&lt;em&gt;Seems serious.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The junior doctor had no idea what was going on but the blood results showed severe abnormalities. That’s when the senior doctors stepped in. But they were equally unsure. So began the race against time.&lt;/p&gt;
+&lt;p&gt;It was around then that I was escorted by the nurse to check my weight. &lt;strong&gt;A whopping 84kg&lt;/strong&gt;. It was a confusing number. My first thought was that the scale was wrong. It had to be. &lt;strong&gt;I was 65kg&lt;/strong&gt;.&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 10px; justify-content: center;&quot;&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIQAxAAAAGfbpw7hZHH0ZkLm4yaf//EAB0QAAIBBAMAAAAAAAAAAAAAAAECEQADEiETMkH/2gAIAQEAAQUCEwKCam2qckjMio1bRLau2Rbv7X//xAAXEQADAQAAAAAAAAAAAAAAAAAAARAi/9oACAEDAQE/AUZv/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAi/9oACAECAQE/ASn/AP/EABsQAAEEAwAAAAAAAAAAAAAAAAEAAhARITFR/9oACAEBAAY/As7nrkABNuKtGf/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQVFhcdH/2gAIAQEAAT8hs18iodeZgUwYw+iGEINygYim16jkl9/IuNRwQAZq2IQan//aAAwDAQACAAMAAAAQqM0D/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAIf/aAAgBAwEBPxCJHJeGZb3f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxBVdIcSbHL/xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMVFxQYH/2gAIAQEAAT8Qx3Q4KPIdq6Hk8S32KX37+OzcnFDS21ZUF6XHitwqJhEteidQjFIroIDlcD9hEBROCf/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Swelling feet&quot; title=&quot;&quot; src=&quot;/static/ade4d0121d3742b7f1067109ef5ce1a6/1c72d/curls.jpg&quot; srcset=&quot;/static/ade4d0121d3742b7f1067109ef5ce1a6/a80bd/curls.jpg 148w,
+/static/ade4d0121d3742b7f1067109ef5ce1a6/1c91a/curls.jpg 295w,
+/static/ade4d0121d3742b7f1067109ef5ce1a6/1c72d/curls.jpg 590w,
+/static/ade4d0121d3742b7f1067109ef5ce1a6/a8a14/curls.jpg 885w,
+/static/ade4d0121d3742b7f1067109ef5ce1a6/6a068/curls.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+    &lt;/span&gt;
+    &lt;figcaption&gt;&lt;em&gt;Before hospitalised when symptoms developed&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&quot;margin: 0; text-align: center; flex: 1;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBBAUC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABt9qrztpCxmNDIhrFBH//xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIREEH/2gAIAQEAAQUCXEyaTJt1aw2idTu8r3n/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEh/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAgMBAAAAAAAAAAAAAAAAACEBIDER/9oACAEBAAY/AqajYEjlf//EABoQAQEBAQEBAQAAAAAAAAAAAAEAIRExQcH/2gAIAQEAAT8hgwcvKYu468kj9JaOUtLML4nJ163/2gAMAwEAAgADAAAAEBcvA//EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EFGEWf/EABcRAQEBAQAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QrUuuv//EABwQAQADAQADAQAAAAAAAAAAAAEAESExQVFxgf/aAAgBAQABPxArKHdnbmbQ+nGKTWKcolkG/EQ0DxlsbDY59jVRgXcA4dJkp00iu1Xqz//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Swelling feet 2&quot; title=&quot;&quot; src=&quot;/static/60bc33f078985454d70aba7bac724e41/1c72d/chonky.jpg&quot; srcset=&quot;/static/60bc33f078985454d70aba7bac724e41/a80bd/chonky.jpg 148w,
+/static/60bc33f078985454d70aba7bac724e41/1c91a/chonky.jpg 295w,
+/static/60bc33f078985454d70aba7bac724e41/1c72d/chonky.jpg 590w,
+/static/60bc33f078985454d70aba7bac724e41/a8a14/chonky.jpg 885w,
+/static/60bc33f078985454d70aba7bac724e41/6a068/chonky.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+    &lt;/span&gt;
+    &lt;figcaption&gt;&lt;em&gt;After hospitalised when it persisted&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;details&gt;
+    &lt;summary&gt;Horrible Swelling&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        The swelling worsened over the next few days. It became a running joke, though perhaps one that stopped being funny rather quickly, that I had a swollen groin enough to make OnlyFans actors and claims in porn ads seem modest. Amusing for a moment, but concerning shortly after.
+        &lt;br&gt;&lt;br&gt;
+        At one point, I couldn’t walk for more than ten minutes without feeling exhaustion and my feet feeling like they were about to burst. I had to walk like a crab simply because walking normally wasn’t physically possible. Prolonged walking or standing made things worse as gravity dragged the fluid downward.
+        &lt;br&gt;&lt;br&gt;Peeing was difficult too. I could not pee normally, nor even shit normally since I could not sit on the bowl properly, and i&apos;d make a mess of myself every time I urinated. It was slightly sad to see how i&apos;ve been reduced from the man I was just a week ago.
+        &lt;br&gt;&lt;br&gt;
+        You would think lying down would help. In a way, it did, by redistributing the fluid. But it causes some of the internals in my body region to swell and hurt, and ill be forced to sit upright again. I don’t think I slept more than three uninterrupted hours the past month. Can&apos;t be good for the brain..
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;h2&gt;Enter: The Kidney Specialists&lt;/h2&gt;
+&lt;p&gt;The full blood results came back. And the numbers were approaching dangerous territory across the board. What was thought to be food poisoning turned out to be kidney damage. Now, things were serious.&lt;/p&gt;
+&lt;p&gt;More doctors came and went. it was originally frustrating to watch the uncertainty persist, and I briefly considered transferring to Mount Elizabeth. Then Prof Hoey (Head of the NUH Nephrology Department and Adjunct Professor at Yong Loo Lin School of Medicine) dropped by and for the first time, concrete instructions were given to the nurses and I heard some semblance of a plan.&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;The Silverlining&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        Not long after, I realised my own &lt;a href=&quot;https://www.nuhs.edu.sg/patient-care/find-a-doctor/doctor-details/Chua_Yan_Ting&quot;&gt;cousin&lt;/a&gt; is a kidney specialist at NUH, though she was on maternity leave at the time. I had always thought she worked in bone marrow.
+        &lt;br&gt;&lt;br&gt;
+        Despite being away, she showed immediate concern and a sense of urgency I deeply appreciated. From home, she reviewed my results, offered a preliminary diagnosis, and stayed in close contact with her colleagues. She often knew much more about my own condition than I did.  
+        &lt;br&gt;&lt;br&gt;
+        She helped expedite several procedures and escalated my case to her seniors. Soon, I found myself under the care of senior nephrologists, some of whom were her own mentors, and I was assured they are the best kidney doctors in Singapore.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;h2&gt;The Scare&lt;/h2&gt;
+&lt;p&gt;They had no idea what was wrong. But they knew something was amiss. So, they drew so much blood I could’ve started a bank. And they brute forced all sorts of tests. I was on a strict diet restriction and all input-output had to be tracked. Doctors rotated in and out, many, I realised on Saturday duty, came to check on this medical oddity. It was only when Prof Hoey entered when I first heard some conclusive instructions handed down to the team of doctors and some medication prescribed.&lt;/p&gt;
+&lt;p&gt;Early on the possbility of terminal illness was raised. &lt;strong&gt;That was scary.&lt;/strong&gt; They couldn’t rule it out and told me to prepare for the worst. I didn’t tell anyone, it was too surreal and I wasn’t sure I understood its gravity.&lt;/p&gt;
+&lt;p&gt;Costs ceased to matter. Everything was expedited. Tests, scans, biopsies, and whatever they could schedule on the coming Monday. Sometimes, I could be signing a consent form hurriedly brought over and find myself in an operating room thirty minutes later.&lt;/p&gt;
+&lt;p&gt;The three long nights that followed left me pensive. Stripped of distraction, &lt;strong&gt;a lot suddenly felt inconsequential&lt;/strong&gt;. I had time, maybe too much of it, to revisit the smaller things I’d neglected, postponed, or quietly assumed would always be there.&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;What Bed Arrest Means..&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        An interesting experience of what they meant by bed arrest. After a minor procedure, I woke up and shifted slightly. The bed alarm went off. Within seconds, three nurses appeared and pinned me down. lol.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;p&gt;What followed were weeks of hospitalisation, and likely months of recovery. The doctors eventually concluded its nephrotic syndrome, another umbrella diagnosis, but suspected that my immune system had turned on my kidneys. &lt;em&gt;Strange.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The proposed fix was simple, but damaging&lt;/strong&gt;. Suppress the immune system with high doses of steroids (not the muscle-building kind..) enough to break the body, but if prolonged, erodes the mind. &lt;strong&gt;Unfortunate. &lt;em&gt;I’ve always valued the sanctity of the mind.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwECBP/aAAwDAQACEAMQAAABhsqiVekrAzVj9COTOCf/xAAcEAEBAQABBQAAAAAAAAAAAAABAgMRAAQhMkH/2gAIAQEAAQUCk4o8knBIWaZsPbo45adVNXc2QUBfyvb/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oACAEDAQE/AWr1Y2v/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oACAECAQE/ASGcqER//8QAHhAAAgICAgMAAAAAAAAAAAAAAAECERAxEiFBcYH/2gAIAQEABj8C942daONojdWOpIuMvrON9rY14wz/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFRgbH/2gAIAQEAAT8hQ1ENWZJ5mCynUFipmCXpH44KcRi1jqav3GlgSB9N4DsIgAQCK0jdjt+z/9oADAMBAAIAAwAAABBszfL/xAAYEQEBAAMAAAAAAAAAAAAAAAABABAhUf/aAAgBAwEBPxA3g4hHa//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QwoLPO//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESFBUTFhgcH/2gAIAQEAAT8QPHWhjLiqOBOJqEltYzx5IZfj5EpRUXCd5+ynw2U6nMNUowtuSdqlGzBwtra9TDqisO1QR40MCAoauo74E1yn/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Me in the hospital bed&quot; title=&quot;&quot; src=&quot;/static/5ad82508c98762d97a56c0efd61cc8c0/1c72d/night_pic.jpg&quot; srcset=&quot;/static/5ad82508c98762d97a56c0efd61cc8c0/a80bd/night_pic.jpg 148w,
+/static/5ad82508c98762d97a56c0efd61cc8c0/1c91a/night_pic.jpg 295w,
+/static/5ad82508c98762d97a56c0efd61cc8c0/1c72d/night_pic.jpg 590w,
+/static/5ad82508c98762d97a56c0efd61cc8c0/a8a14/night_pic.jpg 885w,
+/static/5ad82508c98762d97a56c0efd61cc8c0/6a068/night_pic.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+    &lt;/span&gt;
+    &lt;figcaption style=&quot;text-align: center; font-size: 0.95em; margin-top: 6px;&quot;&gt;&lt;em&gt;A picture a nurse took of me, but i don&apos;t recall when and why&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2&gt;It’s Not Too Bad&lt;/h2&gt;
+&lt;p&gt;I like to think it’s my straightforward nature, and maybe a genuine effort to connect with people, whether that means speaking my mind or owning up to mistakes, that helps me keep good friends around. It was during this period that I realised &lt;strong&gt;how strong my support system really is, stitched together from different phases of life&lt;/strong&gt;: decade-long friends from secondary school, my JC clique, a few from army, and several steadfast, weathered friendships from my current phase in university.&lt;/p&gt;
+&lt;p&gt;I enjoy their company. They brought me food, sat around for chats, and played games with me. My paranoid friend even tutored me on Mathematical Logic. Small things, but they mattered.&lt;/p&gt;
+&lt;p&gt;But I could feel it. &lt;strong&gt;The fatigue, the weariness, the moments of daze, and the the flesh weakening&lt;/strong&gt;. Still, days passed better with people coming by and I felt more optimistic for a quick recovery. Maybe I could still make it for my month-long Japan backpacking trip. Maybe even the Standard Chartered Marathon in early December.&lt;br&gt;&lt;em&gt;Stupidly optimistic.&lt;/em&gt;&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;An Attempt at Getting Mala..&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        This close friend of mine from secondary school is, at times, a bit of a klutz. But he visited me often. On one occassion, after days of strict dietary restrictions, i figured a nice mild bowl of mala wouldn&apos;t hurt and would inject some happiness. So when he asked I wanted, 
+        &lt;br&gt;&lt;br&gt; I said: &lt;b&gt;&quot;Mala, dry, xiao la (small spice), with some meat.&quot;&lt;/b&gt;
+        &lt;br&gt;&lt;br&gt;
+        Well, what he came with was: &lt;b&gt;Tomato soup-base with no meat.&lt;/b&gt;
+        &lt;br&gt;&lt;br&gt;
+        Frankly, I think his blur nature is sometimes just a front. He cares in his own way, but is shy and not one to be upfront about it.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;h2&gt;Or Maybe Not..&lt;/h2&gt;
+&lt;p&gt;Perhaps I spoke too soon.&lt;/p&gt;
+&lt;p&gt;At the start, I thought this whole phase would last a week at best. Then it became &lt;em&gt;maybe&lt;/em&gt; several weeks. Soon, the doctors started mentioning months. Some numbers began to take shape, something along the lines of a &lt;strong&gt;full recovery in six to eight months&lt;/strong&gt;. But the most recent one I heard, also the most unsettling one, is the possibility of a long-term dependence on steroid or equivalent drugs. I’m not entirely sure what that entails, but it suggests immune supression for a lifetime and surely that can’t be healthy.&lt;/p&gt;
+&lt;p&gt;Maybe they knew this from the start and were withholding information to pace me. &lt;em&gt;&lt;strong&gt;Man.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;Side Effects of Steroids&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        The normal dose is 5mg. I take 12 pills day, which translates to 60mg. At that dosage, I’m vulnerable to a host of secondary issues, which is why I had to receive several vaccinations and preventive medications beforehand. The steroids also wreak havoc elsewhere — liver function, cholesterol levels, blood pressure, etc. So I take several other medications alongside it. There might also be a possible impact in cognitive abilities in the short-term.
+        &lt;br&gt;&lt;br&gt;
+         How I wish these steroids were the kind used for muscle building instead.
+    &lt;/span&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;p&gt;The likely scenarios going forward as I continue the treatment:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Steroids work, kidneys heal, and the immune system behaves&lt;/strong&gt; — Full remission (Ideal)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steroids work, kidneys heal, but the immune system attacks again&lt;/strong&gt; — Steroid dependency (uh..)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steroids fail or stop working&lt;/strong&gt; — in some cases, the body develops a resistance (Docs are keen to avoid this and we don’t discuss this yet)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Historically, option (1) is rather rare. But it’s still too early to conclude anything, and the data isn’t especially representative. Apparently, my condition doesn’t usually present itself in young adults.&lt;/p&gt;
+&lt;p&gt;Anyway, &lt;strong&gt;I’d heard enough too&lt;/strong&gt;. After a day of moping or so I figured it’s about time I restore some semblance of normalcy, or adapt to the new normal. So I requested to be warded from home.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Then I fainted&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ok.. slightly dramatic in wording. More accurately, during one of the routine medical visits (every 3-4 days), I started feeling nauseous and dizzy in the lift. Puked as soon as I got out, and my body started spasming. Likely the result of severe electrolyte and nutrient loss — I was urinating close to seven litres a day at its peak from the diuretics. I dropped to my knees and could not move. Fortunately, I was within hospital grounds and the nurses quickly came forward.&lt;/p&gt;
+&lt;p&gt;So here I am, had enough blood drawn to start a small bank and a vault of medication large enough to start my own pharmacy. Hoping for a quiet, uneventful recovery over December.&lt;/p&gt;
+&lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAAFjlmZKRPGubS1KdUh8F//EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMREhMQFCH/2gAIAQEAAQUCU409S5KAFMLWm8KLxRkOvKY9HH//xAAWEQEBAQAAAAAAAAAAAAAAAAARABD/2gAIAQMBAT8BIwv/xAAXEQADAQAAAAAAAAAAAAAAAAAAARAS/9oACAECAQE/Abpn/8QAHhAAAQQBBQAAAAAAAAAAAAAAAQACESExEBIgMoH/2gAIAQEABj8CDotOl5G5ANwu+UJtAWjHmmeH/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBEFGR/9oACAEBAAE/IdYdKYawbSUoUMgDVLFSjPdQHRZNK+0Hjr3EPME6IAM8f//aAAwDAQACAAMAAAAQj9BA/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERITH/2gAIAQMBAT8Q5xWUqP/EABgRAAMBAQAAAAAAAAAAAAAAAAABESEQ/9oACAECAQE/ELtZWPOH/8QAHhABAAMAAgIDAAAAAAAAAAAAAQARITFREGFBcYH/2gAIAQEAAT8QW9aWs7q5Y+c2BT+QIRUBwEIQxYm37giv4Hv7h4AGuTMzoYuFKfLXfqOnw4ZOSmwACjx//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Medication&quot; title=&quot;&quot; src=&quot;/static/3957892f2ed3b8c7343f0288af557b2e/1c72d/medicine.jpg&quot; srcset=&quot;/static/3957892f2ed3b8c7343f0288af557b2e/a80bd/medicine.jpg 148w,
+/static/3957892f2ed3b8c7343f0288af557b2e/1c91a/medicine.jpg 295w,
+/static/3957892f2ed3b8c7343f0288af557b2e/1c72d/medicine.jpg 590w,
+/static/3957892f2ed3b8c7343f0288af557b2e/a8a14/medicine.jpg 885w,
+/static/3957892f2ed3b8c7343f0288af557b2e/6a068/medicine.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+    &lt;/span&gt;
+    &lt;figcaption style=&quot;text-align: center; font-size: 0.95em; margin-top: 6px;&quot;&gt;&lt;em&gt;Daily medicine, just the morning one. Excuse the fatty hands..&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2&gt;Seeds of Change (III)?&lt;/h2&gt;
+&lt;br&gt;
+&lt;div class=&quot;steve&quot;&gt;
+&lt;blockquote&gt;
+I grow little of the food I eat, and of the little I do grow&lt;br&gt;
+I did not breed or perfect the seeds.&lt;br&gt;
+&lt;br&gt;
+I do not make any of my own clothing.&lt;br&gt;
+&lt;br&gt;
+I speak a language I did not invent or refine.&lt;br&gt;
+&lt;br&gt;
+I did not discover the Mathematics I use.&lt;br&gt;
+&lt;br&gt;
+I am protected by freedoms and laws I did not conceive&lt;br&gt;
+of or legislate, and do not enforce or adjudicate.&lt;br&gt;
+&lt;br&gt;
+I am moved by music I did not create myself.&lt;br&gt;
+&lt;br&gt;
+When I needed medical attention, I was helpless&lt;br&gt;
+to help myself survive.&lt;br&gt;
+&lt;br&gt;
+I did not invent the transistor, the microprocessor,&lt;br&gt;
+object oriented programming, or most of the technoglogy&lt;br&gt;
+I work with.&lt;br&gt;
+&lt;br&gt;
+I love and admire my species, living and the dead, and am&lt;br&gt;
+totally dependent on them for my life and well-being.&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+Sent from my Ipad
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;- a dying Steve Jobs, writing to himself&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Awhile back I wrote about a post on my trip to the &lt;a href=&quot;../seeds-of-change-2/&quot;&gt;Himalayas&lt;/a&gt;. There, I talked about how it became a catalyst for many journeys that followed. And while I’d like to believe I’ve learned to enjoy life as it is, I can’t deny feeling haunted by the quiet pressure to chase credentials, careers, and high-paying jobs.&lt;/p&gt;
+&lt;p&gt;Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in Machine Learning and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. &lt;strong&gt;We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.&lt;/strong&gt; Or so I thought.&lt;/p&gt;
+&lt;p&gt;Now, it all feels strangely hollow and even trivial. While hospitalised, I came across an email Steve Jobs sent to himself as he was nearing death. My condition is far from as severe as his was, but I could sense the man’s anguish, and resonated with it. That &lt;strong&gt;despite all my effort and achievements in this world, I remained helpless when my body needed help the most.&lt;/strong&gt; My past worries seemed almost pointless.&lt;/p&gt;
+&lt;p&gt;The past year’s hustle is almost laughable in hindsight, only to end up, quite literally, hospitalised and unable to do anything at all or honor my commitments. Plans deferred to December. Promises made to loved ones. Mental notes of payback time. &lt;strong&gt;And once again, life intervened.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;But perhaps the inner voice is clearer now.&lt;/p&gt;
+&lt;p&gt;I’ve also decided to revisit some old companions: &lt;em&gt;Camus&lt;/em&gt;, &lt;em&gt;Dostoevsky&lt;/em&gt;. Seasonal reading, if nothing else. Not that I can do much besides stay home for now. Who knows, maybe I’ll start writing about them too.&lt;/p&gt;
+&lt;p&gt;Clarity has been a sharpened knife lately. I’ve traded some boisterous energy for something quieter, more pensive. And maybe that isn’t so bad. What comes next will likely involve more reading, more intention, and a &lt;strong&gt;more deliberate way of living&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;details&gt;
+    &lt;summary&gt;The doctors may say its idiopathic..&lt;/summary&gt;
+    &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
+        But I know in my hearts of hearts.. this is the cause:&lt;br&gt;
+        &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/2gAMAwEAAhADEAAAAVaM812dErLE+foKuREf/8QAHBAAAgMAAwEAAAAAAAAAAAAAAQIAAxESEyEi/9oACAEBAAEFAqKxWpSmwZ1Rz7uwD5cRVWNcQWY7WY4HL//EABcRAQEBAQAAAAAAAAAAAAAAAAARAQL/2gAIAQMBAT8BzjIqq//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIQ/9oACAECAQE/AXp3kIf/xAAdEAEAAQMFAAAAAAAAAAAAAAABAAIQERIgITFh/9oACAEBAAY/As19s5pSaUW5meQdv//EAB0QAAMAAwEAAwAAAAAAAAAAAAABESExQVFhcbH/2gAIAQEAAT8hcPoCD+Z0O+Jad4Q60NNKhT2ml0zNW/gWqsr0Y1Z4Ws9GRZHMkf/aAAwDAQACAAMAAAAQW9qO/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAQf/aAAgBAwEBPxCBXKGYUmg5v//EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEx/9oACAECAQE/ENRIBNk+wnu3/8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBUWFx8P/aAAgBAQABPxBShjB4PX3kGJYbQ4TnVT6XMcJruJw/OaBux777MIjBLs4KQU0WOCUJSr59ecncB0l1jLNwk3TFSCzP/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Damned risotto&quot; title=&quot;&quot; src=&quot;/static/1de5ac41bf9306ef39a144c5dc277410/1c72d/damned_risotto.jpg&quot; srcset=&quot;/static/1de5ac41bf9306ef39a144c5dc277410/a80bd/damned_risotto.jpg 148w,
+/static/1de5ac41bf9306ef39a144c5dc277410/1c91a/damned_risotto.jpg 295w,
+/static/1de5ac41bf9306ef39a144c5dc277410/1c72d/damned_risotto.jpg 590w,
+/static/1de5ac41bf9306ef39a144c5dc277410/a8a14/damned_risotto.jpg 885w,
+/static/1de5ac41bf9306ef39a144c5dc277410/6a068/damned_risotto.jpg 960w&quot; sizes=&quot;(max-width: 590px) 100vw, 590px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+    &lt;/span&gt;
+    &lt;/span&gt;
+&lt;/details&gt;</content:encoded></item><item><title><![CDATA[Hong Kong: The City That Never Sleeps]]></title><description><![CDATA[Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad, of course. But Hong Kong does remind me of an alternate…]]></description><link>https://4ndrelim.github.io/blog/hong-kong/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hong-kong/</guid><pubDate>Mon, 18 Nov 2024 03:23:00 GMT</pubDate><content:encoded>&lt;p&gt;Okay.. the description was admittedly dramatic. Just click-bait. Not all was bad, of course. But Hong Kong does remind me of an alternate Singapore — similar in so many ways but I am often reminded this isn’t home. And as a true blue Singaporean, naturally I would diss a little on my lovable sunny island, and by extension, its twin.&lt;/p&gt;
 &lt;figure style=&quot;margin: 0 auto;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/bbe3a3c1346482c6c12cfaaa518586e6/eea4a/skyline.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -15,18 +264,18 @@
 &lt;/figure&gt;
 &lt;br&gt;
 &lt;h2&gt;The Parallels, and the Cracks&lt;/h2&gt;
-&lt;p&gt;You see many similarities between Hong Kong and Singapore. Both tiny city-states (debatable for HK..). Both densely packed. Both financial hubs. People are always rushing — eating, driving, honking (i’d say just as angsty as Singaporean drivers), and generally moving with urgency.&lt;/p&gt;
-&lt;p&gt;Even the metro systems feel familiar, right down to the colour schemes. And yet, every now and then, you’re reminded things aren’t quite the same. In Singapore, we have the MRT; here, it’s the MTR. Here, people speak Cantonese, and maybe it’s the dialect, but it often comes across more abrasive than Mandarin (or maybe Singlish softens our tone and makes us feel warmer).&lt;/p&gt;
+&lt;p&gt;You see many similarities between Hong Kong and Singapore. Both tiny city-states (debatable for HK..). Both densely packed. Both financial hubs. Late-night diners are a common sight for those on OT. People are always rushing — eating, driving, honking (i’d say as angsty as Singaporean drivers), and generally moving with urgency.&lt;/p&gt;
+&lt;p&gt;Even the metro system feels familiar, right down to the colour schemes. And yet, every now and then, you’re reminded things aren’t quite the same. In Singapore, we have the MRT; here, it’s the MTR. Here, people speak Cantonese, and maybe it’s the dialect, but it often comes across more abrasive than Mandarin (or maybe Singlish softens our tone and makes us feel warmer).&lt;/p&gt;
 &lt;p&gt;Food prices are roughly similar, though portions here tend to be more generous. I’ve never received a full-moon slice of luncheon meat in Singapore, but that seems to be the norm here. In Singapore, we keep left when walking. Here, the default is the right.&lt;/p&gt;
-&lt;p&gt;I also noticed that Hong Kong feels like a more extreme version of Singapore’s inequality gap. Older areas like Kowloon, Sham Shui Po, Mong Kok  have fuzzy streets littered with trash, cockroaches running amok, stalls and picnic mats propped up wherever space permits. Tight, messy, compact. Just really chaotic overall.&lt;/p&gt;
+&lt;p&gt;I also noticed that Hong Kong feels like a more extreme version of Singapore’s inequality gap. Older areas like Kowloon, Sham Shui Po, Mong Kok  have fuzzy streets littered with trash, cockroaches running amok, stalls and picnic mats propped up wherever space permits. Tight, messy, compact. Just really chaotic.&lt;/p&gt;
 &lt;p&gt;This stands in stark contrast to Hong Kong Island. Clean, immaculate, and almost surgical. Walking through Causeway Bay and Wan Chai, I couldn’t believe how pristine everything looked. It felt as though the city had quietly given up on its older parts and poured all its resources into the new.&lt;/p&gt;
 &lt;p&gt;And i’m not sure why but I sensed a certain dread in people’s eyes. At least in Singapore, you still hear people complain, for example the loud minority on Reddit. Here, people seem quieter. Less inclined to talk, less inclined to complain (except when rushing you out during lunch hour). Just trudging along.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;Life at Hong Kong&lt;/h2&gt;
 &lt;h3&gt;Work&lt;/h3&gt;
 &lt;p&gt;I was glad to have landed an internship, an ML one, no less. A good learning opportunity. My accommodation was about an hour away from the office, which wasn’t ideal, but it did help me develop a reading habit.&lt;/p&gt;
-&lt;p&gt;Work itself was engaging. I gained experience with foundational ML tools like PyTorch and TensorFlow, got exposure to production environments, and worked on quantitative statistical modelling projects affiliated with HFT firms (though sadly, not paid HFT money). Still, compensation was decent for a research institute.&lt;/p&gt;
-&lt;p&gt;My direct supervisor was a lauded mathematics PhD. His projects, and by extension, mine, focused on statistical modelling for time series analysis, as well as hologram-building via neural networks (the latter being his side project).&lt;/p&gt;
+&lt;p&gt;Work itself was engaging. I gained experience with foundational ML tools like PyTorch and TensorFlow, got exposure to production environments, and worked on quantitative statistical modelling projects affiliated with HFT firms (though sadly, not paid HFT money). Still, compensation was  very decent, despite being a research institute.&lt;/p&gt;
+&lt;p&gt;My direct supervisor was a lauded mathematics PhD. His projects, and by extension, mine, focused on statistical modelling for time series analysis (and hence, the quant), as well as hologram-building via neural networks (the latter being his side project).&lt;/p&gt;
 &lt;p&gt;It was probably through him that I first noticed the jadedness of Hong Kong life. He was reserved. And a clear workaholic. He’d finish lunch in 15 minutes, spend 30 minutes playing Genshin Impact, then take a strict 45 minutes nap with his sleep headgear on. During which I was reminded under no circumstances should I disturb him. When did he leave the office? I have no idea. I never saw him leave before 7pm.&lt;/p&gt;
 &lt;h2&gt;Play&lt;/h2&gt;
 &lt;p&gt;In my free time, I either went bouldering, hiking, or visited landmarks around Hong Kong. Here are some shots from a hike to see the Big Buddha. You could take a bus and cable car up, but I opted for a six-hour hike to give the journey meaning, turning it into some sort of pilgrimage. The heat nearly killed me though.&lt;/p&gt;
@@ -138,7 +387,7 @@
 &lt;p&gt;&lt;strong&gt;The thrill of life has to match the intensity of their work or passion&lt;/strong&gt;, they’d say. &lt;br&gt;
 &lt;em&gt;tsk&lt;/em&gt;.&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Give it a few years. Then speak to these survivors.&lt;/p&gt;
+&lt;p&gt;Give it a few years. Then speak to the survivors.&lt;/p&gt;
 &lt;p&gt;They are successful, but jaded. Sunken eyes in their early thirties. Vast wealth accumulated, so much that trivialities no longer matter. They eat without looking at prices, spend without batting an eyelid. &lt;strong&gt;After all, they can well afford it, so why stress over balancing desires and costs?&lt;/strong&gt; &lt;br&gt; And yet, when you speak to them, something clearly went awry.&lt;/p&gt;
 &lt;p&gt;I met a lawyer in her late 30s/early 40s. She’s partner now but it came at a cost. She told me she came to Hong Kong originally for exposure, intending to stay only for a year before returning to Singapore, settling down and starting a family. Years passed and some plans dissolved. Before she realised it, a decade had gone by. Now, she remains single and doesn’t know what else to do but continue. And soon, she’ll have spent more time in Hong Kong than she lived in Singapore. How does she feel about all these? She doesn’t know either.&lt;/p&gt;
 &lt;p&gt;I met a jaded quant at the bouldering gym. Early 30s and currently working at one of the big names HFT. Strangely, i’d always see him at the gym, no matter what erratic timing I chose to visit. One would think he’d be busy tracking the market or have better things to do on rest days. When I asked why he visits so often,  he said that sometimes he doesn’t know where else to go. So he heads to the gym, not always to climb, but also to meet people and chat. That helps to kill time.&lt;/p&gt;
@@ -208,10 +457,10 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Yeah I realized clubs are best entered slightly tipsy. The loud music, flashing lights, weird dance-offs, and pukings, make the sober really out of place.&lt;/p&gt;
+&lt;p&gt;Yeah I was reminded that clubs are best entered slightly tipsy. The loud music, flashing lights, weird dance-offs, and sudden pukings, make the sober feel really out of place.&lt;/p&gt;
 &lt;h3&gt;Dumb and Dumber&lt;/h3&gt;
 &lt;p&gt;One of my biggest takeaways was a fateful encounter with Ed and Kevin.&lt;/p&gt;
-&lt;p&gt;I first met Kevin at Mizu bouldering gym, and he later intorudced me to Ed. Kevin had just returned from an outdoor crag and was cooling down on the MoonBoard. Having never tried moonboard before, i asked for advice. He was friendly, and we became quick friends. He even invited me to join him outdoors, which I really appreciated.&lt;/p&gt;
+&lt;p&gt;I first met Kevin at a bouldering gym called Mizu, and he later intorudced me to Ed. Kevin had just returned from an outdoor crag and was cooling down on the MoonBoard. Having never tried moonboard before, i asked for advice. He was friendly, and we became quick friends. He even invited me to join him outdoors, which I really appreciated.&lt;/p&gt;
 &lt;div style=&quot;width: 66%; text-align: left;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/ac23bf94362366a88f8acfd5c75f0c6d/6a068/crag.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -269,11 +518,11 @@
 &lt;br&gt;
 &lt;h2&gt;Getting Out.&lt;/h2&gt;
 &lt;p&gt;Ok but the jadedness was starting to creep in. Maybe it was listening too much of &lt;a href=&quot;https://www.youtube.com/watch?v=qu_FSptjRic&quot;&gt;Beyond’s 海闊天空&lt;/a&gt; or &lt;a href=&quot;https://www.youtube.com/watch?v=xpSh3OgTNdY&quot;&gt;Lowell Lo’s 一生所愛&lt;/a&gt; but the existential thoughts came.&lt;/p&gt;
-&lt;p&gt;All the stories, the contrast between youthful hustle and quiet cynicism, and jaded vibes reminded me of Will Emerson from &lt;em&gt;Margin Call&lt;/em&gt; (an excellent movie by the way). Will Emerson was the Head of Trading, the intense trader bagging home a million dollar in bonuses and would spend it all on cocaine and hookers. He is clearly highly intelligent, highly aware, and highly critical.&lt;/p&gt;
-&lt;p&gt;But these people reject beliefs and tear meaning down, and for awhile it works. They become critics of everything — religion, morality, love, family — until they are alone in a desert of their own making, proud of the emptiness, labelling it clarity. Their logic is airtight, probably, but it leaves them no reason to hope. Then they wonder why they feel like ghosts in their own skin.&lt;/p&gt;
+&lt;p&gt;All the stories, the contrast between youthful hustle and quiet cynicism, and jaded vibes reminded me of Will Emerson from &lt;a href=&quot;https://en.wikipedia.org/wiki/Margin_Call&quot;&gt;&lt;em&gt;Margin Call&lt;/em&gt;&lt;/a&gt; (an excellent movie by the way). Will Emerson was the Head of Trading at the bank, an intense trader bagging home a million dollar in bonuses and would spend it all on cocaine and hookers. He is clearly highly intelligent, highly aware, and highly critical.&lt;/p&gt;
+&lt;p&gt;But these people reject beliefs and tear meaning down, and for awhile it works. They become critics of everything — religion, morality, love, family — until they are alone in a desert of their own making, proud of the emptiness, calling it clarity. Their logic is airtight, convincing, but it leaves them no reason to hope. Then they wonder why they feel like ghosts in their own skin.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“A slow erosion masked by eloquence, intelligence, insight. One day they are dissecting morality, the next, they are rationalizing cruelty. And by the end, they are nothing but clever corpses playing with words.. The smarter they are, the more intricate the justification.”&lt;/em&gt;
-— &lt;strong&gt;Extracted from Dostoevsky&lt;/strong&gt;&lt;/p&gt;
+— &lt;strong&gt;Excerpt from Dostoevsky&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;br&gt;
 &lt;p&gt;Anyway, I had the option to extend my stay till the end of the year or go back home and take a pay cut. I chose the latter. That decision would later become the origin of my ML full-stack journey.&lt;/p&gt;
@@ -769,8 +1018,8 @@
   &lt;/figure&gt;
 &lt;/div&gt;
 &lt;br&gt;
-&lt;p&gt;&lt;em&gt;Pricey.. oh but,&lt;/em&gt;
-&lt;strong&gt;&lt;em&gt;this is it, man!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pricey.. oh but,&lt;/em&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;b&gt;&lt;em&gt;this is it, man!&lt;/em&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;Games and Chill&lt;/h2&gt;
 &lt;p&gt;Some days we decided to just chill at our Airbnb. Interestingly, the owner was a man named Miguel originally from Africa. He fits, almost too well, the image of a mysterious man with a past. A well-built figure with scars and tattoos. Seeing him don an apron and vacuum the floor somehow better completed the picture.&lt;/p&gt;
@@ -840,6 +1089,39 @@
 /static/9b04a3f30ce33e97c0e18140a10ac67c/a8a14/sailing.jpg 885w,
 /static/9b04a3f30ce33e97c0e18140a10ac67c/fbd2c/sailing.jpg 1180w,
 /static/9b04a3f30ce33e97c0e18140a10ac67c/eea4a/sailing.jpg 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dc1865b741e8c938a096cdd0d5e0c57b/eea4a/fjords2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABoue3NW0Ef//EABgQAAMBAQAAAAAAAAAAAAAAAAACERIB/9oACAEBAAEFAtKXhpSFYrH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAwEBPwGlP//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAECAQE/AZS//8QAFxABAQEBAAAAAAAAAAAAAAAAMQAQAf/aAAgBAQAGPwJ5jM5//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERQSExYaH/2gAIAQEAAT8hzx7DXZyElpkV0GH/2gAMAwEAAgADAAAAEOfv/8QAFREBAQAAAAAAAAAAAAAAAAAAAHH/2gAIAQMBAT8QlL//xAAVEQEBAAAAAAAAAAAAAAAAAAAAcf/aAAgBAgEBPxC1v//EABsQAQADAQADAAAAAAAAAAAAAAEAESFRMUGR/9oACAEBAAE/EOpcpCrQHWW+JlLCwpqKGqYL2pa9fCf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;more fjords&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dc1865b741e8c938a096cdd0d5e0c57b/1c72d/fjords2.jpg&quot;
+        srcset=&quot;/static/dc1865b741e8c938a096cdd0d5e0c57b/a80bd/fjords2.jpg 148w,
+/static/dc1865b741e8c938a096cdd0d5e0c57b/1c91a/fjords2.jpg 295w,
+/static/dc1865b741e8c938a096cdd0d5e0c57b/1c72d/fjords2.jpg 590w,
+/static/dc1865b741e8c938a096cdd0d5e0c57b/a8a14/fjords2.jpg 885w,
+/static/dc1865b741e8c938a096cdd0d5e0c57b/fbd2c/fjords2.jpg 1180w,
+/static/dc1865b741e8c938a096cdd0d5e0c57b/eea4a/fjords2.jpg 1280w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -968,7 +1250,7 @@ It was a cozy house with a sweet old lady who had been hosting backpackers for y
 &lt;/style&gt;
 &lt;p&gt;Krabi has this annoying habit of leaving me nostalgic and a little bittersweet. The beaches are calm, the food is cheap, the backpacking vibe is alive and well, and Thai people somehow manage to be warm without trying too hard. It’s a quintessential backpacker’s place for youngsters like us who still think sleep debt is negotiable.&lt;/p&gt;
 &lt;p&gt;Last year, I got close to Rizhao (see this &lt;a href=&quot;../seeds-of-change/&quot;&gt;post&lt;/a&gt;). We shared plenty over that trip, and some of the things he said stuck with me longer than I expected. This year, it’s my turn to leave an impact. I’m bringing 34 fellow climbers, some of whom have never touched outdoor rocks, into the wild and hoping everyone comes back with all their skin intact.&lt;/p&gt;
-&lt;p&gt;This trip was the culmination of a year’s worth of effort. A product of my brainchild (Well, not exactly, see the dropdown below). Over the past year, I’ve barged through hurdles and regulations with ambitious, uncharted outdoor climbing plans for the school. Those were uncertain times, and I’ll admit there were moments where the entire plan was held together not by backup options but by hustle and the kind of faith you only earn after it works. Not everyone was fully onboard, and coordination was difficult, and sometimes things looked bleak.&lt;/p&gt;
+&lt;p&gt;This trip was the culmination of a year’s worth of effort. A product of my brainchild (Well, not exactly, see the dropdown below). Over the past year, I’ve barged through hurdles and regulations with ambitious, uncharted outdoor climbing plans for the school. We have run multiple successful trips to Batu Caves in Malaysia (see our pilot trip &lt;a href=&quot;../many-more-to-come/&quot;&gt;post&lt;/a&gt;) but Krabi was on a completely different scale. Those were uncertain times, and I’ll admit there were moments where the entire plan was held together not by backup options but by hustle and the kind of faith you only earn after it works. Not everyone was fully onboard, and coordination was difficult, and sometimes things looked bleak.&lt;/p&gt;
 &lt;p&gt;But here we are :)&lt;/p&gt;
 &lt;details&gt;
     &lt;summary&gt;The OGs&lt;/summary&gt;
@@ -1631,7 +1913,7 @@ It was a cozy house with a sweet old lady who had been hosting backpackers for y
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
       We brought a total of 4 kg of Bak Kwa to share, and man did it prove to be a lifesaver later on at high altitude. Heated Bak Kwa in the damning cold was simply bliss. Our Nepalese friends enjoyed it just as much. And for that, we have Davian — arguably the most resourceful of our bunch — to thank. But he went through great peril to acquire it.
       &lt;br&gt;&lt;br&gt;
-      The stash was split into 1.5 kg of packaged Bak Kwa and another 2.5 kg of fresh slices from a famous Malaysian chain. Davian is well known for two things: his bike and his willingness to cross the border into JB for side-hustles and food adventures. Right before the trip, he embarked on a covert mission to bring back as much Bak Kwa as humanly possible. The only issue, of course, was that pork imports into Malaysia are technically illegal. But that didn’t deter him from attempting to smuggle 3 kg of fresh meat across the causeway.
+      The stash was split into 0.5 kg of packaged Bak Kwa and another 2.5 kg of fresh slices from a famous Malaysian chain. Davian is well known for two things: his bike and his willingness to cross the border into JB for side-hustles and food adventures. Right before the trip, he embarked on a covert mission to bring back as much Bak Kwa as humanly possible. The only issue, of course, was that pork imports into Malaysia are technically illegal. But that didn’t deter him from attempting to smuggle 3 kg of fresh meat across the causeway.
       &lt;br&gt;&lt;br&gt;
       &lt;b&gt;That fateful day, he got caught.&lt;/b&gt;
       &lt;br&gt;&lt;br&gt;
@@ -1707,6 +1989,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;br&gt;
 &lt;p&gt;Took some cool shots along the way too. This is Alina, our exchanger from Germany. She looks and is every bit the mountaineer.&lt;/p&gt;
 &lt;div&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
@@ -1851,7 +2134,7 @@ Walking behind her made it even funnier.&lt;/p&gt;
 &lt;details&gt;
     &lt;summary&gt;We might however.. have done more harm than good.&lt;/summary&gt;
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
-      It was only long after the trip that we realized we wrapped the emergency blanket the wrong way. The insulating layer outside instead of inside. lol.
+      It was only long after the trip that we realized we wrapped the emergency blanket the wrong way. The insulating layer was on the outside instead of inside. lol.
       &lt;br&gt;&lt;br&gt;
       But hey, she&apos;s well and alive now so all&apos;s good!
     &lt;/span&gt;
@@ -2126,13 +2409,13 @@ All chaotic, all wholesome.&lt;/p&gt;
 &lt;p&gt;The trip wasn’t without tense moments. A month in close proximity with anyone, much less a group, is enough to ruffle feathers.&lt;/p&gt;
 &lt;p&gt;There were factors beyond our control too. The day before reaching ABC, our guides warned us that the snow might be too thick to safely summit. They suggested turning back or attempting a different peak. Some of us were showing signs of weariness. Still, we held a vote. The tie-breaker fell to me.&lt;/p&gt;
 &lt;p&gt;We forged ahead, which explains why we ended up mining snow at 5,300m, but it was the first time I saw the disparity and fractures in our mountaineering spirit.&lt;/p&gt;
-&lt;p&gt;At night, in the quiet, I found myself wrestling with things i had shoved aside for months. What did I want in life? What was I optimizing for? Some mornings, staring at the peaks beyond — Xixangbangma, Everest, Lhotse — I wondered if a nomadic life of adventure was what I wanted. But by evening, I was anxious about losing all I had built in the virtual world: skills, routine, momentum.&lt;/p&gt;
-&lt;p&gt;I worried about trivialities. I worried about not solving LeetCode problems. Not passing interviews. Not learning fast enough. Falling behind my nerdy friends. I wanted too many things, and we know those who chase 2 rabbits often end up with neither.&lt;/p&gt;
-&lt;p&gt;The thought of not letting go of work brought back other memories. I had been a wreck who stubbornly clung onto an old flame. I met the most amazing girl yet I did not hold her tightly enough in my pursuit of studies and work. Soon, I found myself partially obsessed with self-inflicted punishment as atonement and intentionally maintained my distance with any romantic prospects.&lt;/p&gt;
+&lt;p&gt;At night, in the quiet, I found myself wrestling with things i had shoved aside for months. &lt;strong&gt;What did I want in life? What was I optimizing for?&lt;/strong&gt; Some mornings, staring at the peaks beyond — Shishapangma, Everest, Lhotse — I wondered if a nomadic life of adventure was what I wanted. But by evening, I was anxious about losing all I had built in the virtual world: skills, routine, momentum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I worried about trivialities.&lt;/strong&gt; I worried about not solving LeetCode problems. Not passing interviews. Not learning fast enough. Falling behind my nerdy friends. I wanted too many things, and we know those who chase 2 rabbits often end up with neither.&lt;/p&gt;
+&lt;p&gt;The thought of not letting go of work brought back other memories. I had been a wreck who stubbornly clung onto an old flame. &lt;strong&gt;I met the most amazing girl yet I did not hold her tightly enough&lt;/strong&gt; in my pursuit of studies and work. Soon, I found myself partially obsessed with self-inflicted punishment as atonement and intentionally maintained my distance with any romantic prospects.&lt;/p&gt;
 &lt;p&gt;Maybe I needed to change, maybe mountaineering could shine the path forward.&lt;/p&gt;
 &lt;p&gt;Or was I just running away and refusing to admit my own inadequacies. How is it that I had done so much, prepared so thoroughly, yet still struggled to find an internship? &lt;br&gt;
 &lt;strong&gt;&lt;em&gt;Madness&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn’t so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. Looking back, I did her wrong.&lt;/p&gt;
+&lt;p&gt;Perhaps my deepest regret of the trip is taking it out on a close friend. I recall in the final inn before the push to the summit, we were gathered around the fire, and somehow the conversation drifted to Christianity. As someone who struggles with faith but has read more than the average, I was eager to share my stance. Perhaps a little too eager, pouncing like a predator that finally spotted prey. It wasn’t so much of a discussion as it was me layering argument over argument, cornering her. In hindsight, it was not in good faith. I did not enter that discussion with an open mind. I went in to inflate my ego, to feel victorious, and re-assure myself that I still had authority over something. &lt;strong&gt;Looking back, I did her wrong.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fortunately, she had the heart to look past my moment of folly, and we remain close friends to this day.&lt;/p&gt;
 &lt;br&gt;
 &lt;h1&gt;New Adventures&lt;/h1&gt;
