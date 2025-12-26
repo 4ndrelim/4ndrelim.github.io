@@ -54,11 +54,35 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
+    const filePath = createFilePath({ node, getNode });
+    // filePath format: /personal/hospital/ or /tech/post-name/
+
+    // Extract category from first path segment
+    const pathSegments = filePath.split('/').filter(Boolean);
+    const category = pathSegments[0] || 'personal';
+
+    // Validate category
+    const validCategories = ['personal', 'tech', 'readings'];
+    const validatedCategory = validCategories.includes(category)
+      ? category
+      : 'personal';
+
+    // Create slug WITHOUT category (preserve existing URLs)
+    const postSlug = pathSegments.slice(1).join('/');
+    const slug = `/blog/${postSlug}/`;
+
+    // Add slug field
     createNodeField({
       name: `slug`,
       node,
-      value: `/blog${value}`,
+      value: slug,
+    });
+
+    // Add category field
+    createNodeField({
+      name: `category`,
+      node,
+      value: validatedCategory,
     });
   }
 };
@@ -100,6 +124,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     
     type Fields {
       slug: String
+      category: String
     }
   `;
   createTypes(typeDefs);
