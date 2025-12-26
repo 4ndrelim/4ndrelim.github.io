@@ -34,7 +34,7 @@ Until life (or God, if you prefer) **decided to take my health away.**
 ## So, What Happened?
 Kidney complications. Developed suddenly. The diagnosis the doctors gave was vague. They called it idiopathic, a fancy term that short for _“we don’t know what’s up either.”_
 
-From what I gathered, my immune system is simply over-overactive, deciding to attack both my kidneys.
+From what I gathered, my immune system is simply over-active, deciding to attack both my kidneys.
 
 Talk about being blessed. <br>
 **_Too blessed._**
@@ -47,7 +47,7 @@ Talk about being blessed. <br>
         <br><br>
         The ambience though, was good – very suitable for dates — if not for the tables being so tightly packed that I could hear every awkward attempt at flirting from the couple next to us on what is clearly their first date. The choice of topics the guy chose was certainly unconventional but entertaining. My partner agreed, though that didn’t stop her from kicking me under the table every time I accidentally giggled.
         <br><br>
-        The only thing I ordered differently was a prawn risotto. We ordered quite a bit, typical of my gluttonous self, and I devoured most of it. What followed were hours of bloating, but nothing particularly alarming for someone who is a slave to his own tongue. Aside from some fatigue, the night passed peacefully.
+        The only thing I ordered differently was a <b>prawn risotto</b>. We ordered quite a bit, typical of my gluttonous self, and I devoured most of it. What followed were hours of bloating, but nothing particularly alarming for someone who is a slave to his own tongue. Aside from some fatigue, the night passed peacefully.
         <br><br>
         The next day, the bloating didn’t subside. I chalked it to a combination of stress, lack of exercise, and disgusting amount of food in one sitting. So, I decided to run a half marathon. Best timing yet: 5:10 pace for 21km on a damned treadmill (yes, a treadmill so I could watch a lecture, ironically titled <b><em>Death, Suffering, and Illness</em></b>).
     </span>
@@ -192,7 +192,7 @@ But I could feel it. **The fatigue, the weariness, the moments of daze, and the 
 ## Or Maybe Not..
 Perhaps I spoke too soon.
 
-At the start, I thought this whole phase would last a week at best. Then it became _maybe_ several weeks. Soon, the doctors started mentioning months. Some numbers began to take shape, something along the lines of a **full recovery in six to eight months**. But the most recent one I heard, also the most unsettling one, is the possibility of a long-term dependence on steroid or equivalent drugs. I’m not entirely sure what that entails, but it suggests immune supression for a lifetime and surely that can't be healthy.
+At the start, I thought this whole phase would last a week at best. Then it became _maybe_ several weeks. Soon, the doctors started mentioning months. Some numbers began to take shape, something along the lines of a **full recovery in six to eight months**. But the most recent one I heard, also the most unsettling one, is the possibility of a **long-term dependence on steroids** or equivalent drugs. I’m not entirely sure what that entails, but it suggests immune supression for a lifetime and surely that can't be healthy.
 
 Maybe they knew this from the start and were withholding information to pace me. _**Man.**_
 
@@ -216,7 +216,9 @@ Historically, option (1) is rather rare. But it’s still too early to conclude 
 
 Anyway, **I’d heard enough too**. After a day of moping or so I figured it’s about time I restore some semblance of normalcy, or adapt to the new normal. So I requested to be warded from home.
 
-**Then I fainted**
+<br>
+
+**Then I fainted**.
 
 Ok.. slightly dramatic in wording. More accurately, during one of the routine medical visits (every 3-4 days), I started feeling nauseous and dizzy in the lift. Puked as soon as I got out, and my body started spasming. Likely the result of severe electrolyte and nutrient loss — I was urinating close to seven litres a day at its peak from the diuretics. I dropped to my knees and could not move. Fortunately, I was within hospital grounds and the nurses quickly came forward.
 
@@ -271,7 +273,7 @@ _- a dying Steve Jobs, writing to himself_
 
 Awhile back I wrote about a post on my trip to the [Himalayas](../seeds-of-change-2/). There, I talked about how it became a catalyst for many journeys that followed. And while I’d like to believe I’ve learned to enjoy life as it is, I can’t deny feeling haunted by the quiet pressure to chase credentials, careers, and high-paying jobs.
 
-Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in Machine Learning and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. **We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.** Or so I thought.
+Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in ML and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. **We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.** Or so I thought.
 
 Now, it all feels strangely hollow and even trivial. While hospitalised, I came across an email Steve Jobs sent to himself as he was nearing death. My condition is far from as severe as his was, but I could sense the man’s anguish, and resonated with it. That **despite all my effort and achievements in this world, I remained helpless when my body needed help the most.** My past worries seemed almost pointless.
 
