@@ -65,7 +65,7 @@ And when we’re older, many of us return. This time with sharper eyes, heavier 
 
 **Except Camus refuses meaning.**
 
-Not just shallow meaning—but all deeper, ultimate meaning. He places it in the realm of the unknowable and refuses to let life’s task be the pursuit of it. Why? Because despite all our efforts, the universe offers nothing in return. It remains silent. Indifferent. Vast.
+Not just shallow meaning, but all deeper, ultimate meaning. He places it in the realm of the unknowable and refuses to let life’s task be the pursuit of it. Why? Because despite all our efforts, the universe offers nothing in return. It remains silent. Indifferent. Vast.
 
 But Camus did not despair. And we shouldn't either. Absurdism isn't about hopelessness nor resignation. For Camus, the clash between our longing for clarity and the universe’s indifference is not an ending. It is a beginning.
 

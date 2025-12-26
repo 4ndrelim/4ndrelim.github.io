@@ -124,7 +124,7 @@ It was around then that I was escorted by the nurse to check my weight. **A whop
 ## Enter: The Kidney Specialists
 The full blood results came back. And the numbers were approaching dangerous territory across the board. What was thought to be food poisoning turned out to be kidney damage. Now, things were serious. 
 
-More doctors came and went. it was originally frustrating to watch the uncertainty persist, and I briefly considered transferring to Mount Elizabeth. Then Prof Hoey (Head of the NUH Nephrology Department and Adjunct Professor at Yong Loo Lin School of Medicine) dropped by and for the first time, concrete instructions were given to the nurses and I heard some semblance of a plan.
+Doctors rotated in and out, many, I realised on Saturday duty, came to check on this medical oddity. It was originally frustrating to watch the uncertainty persist, and I briefly considered transferring to Mount Elizabeth. Then Prof Hoey (Head of the NUH Nephrology Department and Adjunct Professor at Yong Loo Lin School of Medicine) dropped by and for the first time, concrete instructions were given to the nurses and I heard some semblance of a plan.
 
 <details>
     <summary>The Silverlining</summary>
@@ -140,7 +140,7 @@ More doctors came and went. it was originally frustrating to watch the uncertain
 <br>
 
 ## The Scare
-They had no idea what was wrong. But they knew something was amiss. So, they drew so much blood I could’ve started a bank. And they brute forced all sorts of tests. I was on a strict diet restriction and all input-output had to be tracked. Doctors rotated in and out, many, I realised on Saturday duty, came to check on this medical oddity. It was only when Prof Hoey entered when I first heard some conclusive instructions handed down to the team of doctors and some medication prescribed. 
+They had no idea what was wrong. But they knew something was amiss. So, they drew so much blood I could’ve started a bank. And they brute forced all sorts of tests. I was on a strict diet restriction and all input-output had to be tracked. 
 
 Early on the possbility of terminal illness was raised. **That was scary.** They couldn’t rule it out and told me to prepare for the worst. I didn’t tell anyone, it was too surreal and I wasn’t sure I understood its gravity. 
 
