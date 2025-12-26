@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Dec 2025 23:32:32 GMT</lastBuildDate><item><title><![CDATA[Hospitalised]]></title><description><![CDATA[Life works in mysterious ways. It seems to know how to tailor its challenges, delivered at precisely the wrong time, to precisely the right…]]></description><link>https://4ndrelim.github.io/blog/hospital/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hospital/</guid><pubDate>Mon, 01 Dec 2025 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Dec 2025 02:48:10 GMT</lastBuildDate><item><title><![CDATA[Sisyphus' Revolt]]></title><description><![CDATA[Anyone with an ombré of seemingly respectable IQ eventually runs into Camus. Some of us meet him early, maybe in our teenage years, in that…]]></description><link>https://4ndrelim.github.io/blog/the-absurd/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-absurd/</guid><pubDate>Wed, 17 Dec 2025 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+.philo {
+  color: #00897B; /* deep teal */
+  font-family: &quot;Georgia&quot;, &quot;Times New Roman&quot;, serif;
+  background: #e0f7fa;
+  border-radius: 6px;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  box-shadow: 0 2px 8px rgba(0,137,123,0.07);
+}
+.philo blockquote {
+  border-left: 4px solid #00897B;
+  padding-left: 1em;
+  margin-left: 0;
+  background: none;
+  font-size: 1.13em;
+  font-style: italic;
+  line-height: 1.6;
+}
+.note-block {
+  color: #616161;
+  font-family: &quot;Helvetica Neue&quot;, Arial, sans-serif;
+  background: #f5f5f5;
+  border-left: 4px solid #90caf9;
+  padding: 1em;
+  margin: 1.5em 0;
+  font-size: 0.98em;
+  font-style: normal;
+}
+.existential {
+  color: #C62828; /* deep red for urgency */
+  font-family: &quot;Georgia&quot;, &quot;Times New Roman&quot;, serif;
+  font-size: 1.15em;
+  background: #fff8f6;
+  border-left: 4px solid #C62828;
+  padding-left: 1em;
+  margin: 1.5em 0;
+  font-style: italic;
+}
+&lt;/style&gt;
+&lt;div class=&quot;philo&quot;&gt;
+&lt;blockquote&gt;
+&quot;To live with the absurd is to accept that life has no ultimate meaning — &lt;br&gt;
+and still live fully, love fiercely, act ethically, and create passionately..&quot;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class=&quot;note-block&quot;&gt;
+  &lt;blockquote&gt;
+    Note: This piece is provisional. It reflects raw thoughts from ym reading awhile back, and fragments from a podcast I listened to while recovering in a hospital bed. There are some ideas I intend to revisit after re-reading The Myth of Sisyphus and discussing it with a friend I refer to as Matthias Simone Canenella.
+  &lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;p&gt;Anyone with an ombré of seemingly respectable IQ eventually runs into Camus. Some of us meet him early, maybe in our teenage years, in that awkward, edgy phase where big dreams collide with pragmatic reality. We become a confusing blend of idealist and realist, hoping to reconcile ambition with limits. Reading Camus then feels respectable. It signals depth (or misinterpretation). A desire for something more. Or perhaps something hidden. Meaning, destiny, coherence.&lt;/p&gt;
+&lt;p&gt;And when we’re older, many of us return. This time with sharper eyes, heavier experiences, maybe detouring through existentialism, nihilism, or adjacent philosophies along the way.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Except Camus refuses meaning.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not just shallow meaning—but all deeper, ultimate meaning. He places it in the realm of the unknowable and refuses to let life’s task be the pursuit of it. Why? Because despite all our efforts, the universe offers nothing in return. It remains silent. Indifferent. Vast.&lt;/p&gt;
+&lt;p&gt;But Camus did not despair. And we shouldn’t either. Absurdism isn’t about hopelessness nor resignation. For Camus, the clash between our longing for clarity and the universe’s indifference is not an ending. It is a beginning.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;What is the Absurd?&lt;/h2&gt;
+&lt;p&gt;You may not have read about it, but i’m certain you have felt it. The absurd does not announce it arrival. It strikes without warning. Not as theory, but as sensation. When suffering arrives without reason. When death intrudes without permission. &lt;strong&gt;When life simply fails to answer.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I once took a philosophy module where the prof joked that history is full of sad thinkers. He said, perhaps, the most depressed of them all was the French journalist Albert Camus.&lt;br&gt;&lt;em&gt;Strange&lt;/em&gt;. &lt;em&gt;Why?&lt;/em&gt; He had everything. Looks, fame, talent, lovers. What went wrong? Did he get bored?&lt;/p&gt;
+&lt;p&gt;But the absurd is not boredom. It is the moment when &lt;strong&gt;routines of life suddenly feel hollow&lt;/strong&gt; and seemingly going to collapse. You wake up, ride the same train, exchange the same pleasantries, but suddenly wonder wonder what is the point of all this?&lt;/p&gt;
+&lt;p&gt;Camus calls it a &lt;strong&gt;&lt;em&gt;“weariness tinged with amazement.”&lt;/em&gt;&lt;/strong&gt; The machinery of habit grinds to a halt.&lt;/p&gt;
+&lt;p&gt;But we humans we need purpose, coherence and meaning. The universe does not. It simply offers the brute facts of existence, mountain, streams, time, stars, hunger.&lt;/p&gt;
+&lt;p&gt;And it is in this disparity, &lt;strong&gt;between our hunger for meaning and the world’s indifference&lt;/strong&gt;, that the absurd is born.&lt;/p&gt;
+&lt;div class=&quot;existential&quot;&gt;
+  &lt;blockquote&gt;So then, what&apos;s the point of it all?&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;p&gt;Camus did not set out to answer this question with metaphysics or illusion. He confronted it directly, without flinching, without appeal to higher power or convenient covers. What matters is not what the world refuses to give us, but what we choose to do in the face of that refusal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is not defeat. But a rebellion.&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Revolt Without Illusion&lt;/h2&gt;
+&lt;p&gt;Camus avoids the two familiar consolations. He does not retreat into religion with its promise of eternal design, nor embrace nihilism which strips the world of all value.&lt;/p&gt;
+&lt;p&gt;To Camus, living with the absurd is to face reality as it is, and &lt;strong&gt;&lt;em&gt;still say yes.&lt;/em&gt;&lt;/strong&gt; But do not confuse this with optimism. It is simply honesty.&lt;/p&gt;
+&lt;p&gt;At the centre of this philosophy, stands Sisyphus, the mythical king condemned by the Gods to push a boulder up a mountain, only for it to roll back down, for enternity. Meaningless, cruel, unbearable.&lt;/p&gt;
+&lt;p&gt;But then, Camus asks us to imagine the descent. What if, in those moments walking back down the slope, Sisyphus becomes conscious? What if he sees the absurdity of his own fate yet chooses it anyway?&lt;br&gt;
+&lt;strong&gt;Then, he is stronger than the Gods&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;His rebeliion lies not in changing his condition, but in refusing to let it break his spirit. He becomes free, not by escaping the rock, but by seeing clearly, and willingly continue. This is Camus’ &lt;em&gt;Prototype of the Absurd Hero&lt;/em&gt;. One who doesn’t conquer death or unconvers hidden meaningbut walks straight into the void and keeps walking.&lt;/p&gt;
+&lt;p&gt;Joy here, is not born out of illusion but out of defiance. A meaningless effort yielding the same wasted result every day but he still finds it in him to say yes.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Not Existentialism&lt;/h2&gt;
+&lt;p&gt;Existentialism seeks to create meaning. Some say it is more elegant, more refined, but to Camus, it is still an illusionary escape. Very briefly, below are what I gathered from Camus critique of the major schools of thought:&lt;/p&gt;
+&lt;p&gt;“Existence precedes essence,” Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings replaces one illusion with another, and are just as fragile and dissolve with us.&lt;/p&gt;
+&lt;p&gt;Søren Kierkegaard, the father of Christian Existentialism, a man so tormented by the unknown he saw clearly the despair that reason alone cannot explain. But his solution was the leap of faith, a surrender to the unknowable. Camus respects the honestly of his anguish, but refuses the leap. To abandon reason the very moment it reaches its limit is philosophical betrayal. Suicide of the mind.&lt;/p&gt;
+&lt;p&gt;Nietzsche burns brighter. He demands value-creation in a godless world. But it risks turning revolt into domination, and freedom into force. Nietzsche did not advocate of course, but it didn’t change the fact the Nazis twisted and distorted the original concept of Übermensch from its original meaning of self-overcoming to justify Aryan supremacy and extermination.&lt;/p&gt;
+&lt;p&gt;Camus wants none of this. He wants &lt;strong&gt;honesty&lt;/strong&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;What Camus Wants of Us&lt;/h2&gt;
+&lt;p&gt;Not belief, but revolt.&lt;br&gt;
+Not certainty, but clarity.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Accept life without redemption or justification. And still say yes. Not because it is noble, but because it is honest. To lie, even for comfort, is to lose the absurd.&lt;/p&gt;
+&lt;p&gt;Camus does not ask us to leap into meaning. Others do.
+Some leap into faith, surrendering reason at the moment it becomes unbearable. Others invent meaning through action or self-definition, hoping creation will soften indifference. Even nihilism is a kind of leap, an escape into negation.&lt;/p&gt;
+&lt;p&gt;Camus refuses all of them. He stands still, watches the horizon, stares into the waves, and does not blink. Not because he expects an answer to rise, but because looking away and avoiding it would be a form of betrayal. And in that refusal, he finds freedom.&lt;/p&gt;
+&lt;p&gt;His absurd portraits in the &lt;em&gt;The Myth of Sisyphus&lt;/em&gt; — Don Juan, the Actor, the Conqueror — are not ideals to imitate, but attitudes toward existence.&lt;/p&gt;
+&lt;p&gt;Don Juan says yes to love as something to be lived rather than promised. He loves intensely and repeatedly, without pretending it leads to anything lasting, even though it often leaves others hurt.&lt;/p&gt;
+&lt;p&gt;The Actor says yes to creation. He lives many lives on stage, fully aware that each one disappears the moment the performance ends, and creates anyway.&lt;/p&gt;
+&lt;p&gt;The Conqueror says yes to action in a world that offers no guarantees. He chooses to act rather than wait for meaning, even when that decisiveness turns harsh or ruthless.&lt;/p&gt;
+&lt;p&gt;None of them hope for salvation. None seek consolation. They are not deceived by the dream of Heaven nor the abyss of Nihilism. But they do not surrender either. &lt;strong&gt;They say yes to experience, not because it is pure or eternal, but because it is there.&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;A Note on &lt;em&gt;The Stranger&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;This is a different book, but it completes Camus’s exploration of the absurd and what it means to live honestly within it. I like &lt;em&gt;The Stranger&lt;/em&gt; because it is, at its core, a book about honesty. &lt;strong&gt;&lt;em&gt;One musn’t delulu oneself&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meursault, the main character, is an ordinary man who reacts to life without the emotions society expects of him. When his mother dies, he feels no visible grief. He does not cry. He does not perform mourning. Later, he kills a man, not out of hatred or malice, but in a moment shaped by heat, sun, exhaustion, and circumstance rather than intent.&lt;/p&gt;
+&lt;p&gt;He is eventually put on trial for murder, but it becomes clear that he is condemned not so much for the act itself. What then is Meursault’s true crime? &lt;br&gt; &lt;strong&gt;&lt;em&gt;Honesty.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Camus makes this uncomfortable on purpose.&lt;/p&gt;
+&lt;p&gt;Meursault does not lie about what he feels. He does not pretend to experience emotions he does not have. And this, more than the killing itself, becomes his true crime.&lt;/p&gt;
+&lt;p&gt;At trial, he is judged less for taking a life than for failing to grieve properly, for not fitting the emotional script society demands. His honesty is read as coldness. His clarity, as monstrosity.&lt;/p&gt;
+&lt;p&gt;Eventually, Meursault accepts his condition. He realises the world has never promised him meaning, but it has offered him the sun, the sea, the physical immediacy of existence. And perhaps that is enough.&lt;/p&gt;
+&lt;p&gt;This is an extreme case, of course. Most of us are spared such tests since we feel empathy, guilt, sorrow. But Camus forces the question anyway:&lt;br&gt;
+If you do not feel what is expected of you, &lt;strong&gt;should you fake it? Conform? Perform grief or remorse simply because it is required?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And &lt;strong&gt;if you refuse, what is your real crime?&lt;/strong&gt; Failing to act the way others want you to?&lt;/p&gt;
+&lt;br&gt;
+&lt;h2&gt;Closing&lt;/h2&gt;
+&lt;p&gt;Camus’s figures are easy to dismiss. &lt;em&gt;The seducer&lt;/em&gt;. &lt;em&gt;The tyrant&lt;/em&gt;. &lt;em&gt;The murderer&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But beneath them lies lucidity. A refusal to flinch. Can we condemn them? Maybe. Dostoevsky certainly would. He warned us about the dangers of stripping belief bare, of over-rationalization, of how intricate justification can be used to justify descent.&lt;/p&gt;
+&lt;p&gt;But Camus is asking something simpler, and arguably harder.&lt;/p&gt;
+&lt;p&gt;See the world as it is. &lt;br&gt;
+Refuse illusion. &lt;br&gt;
+And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hospitalised]]></title><description><![CDATA[Life works in mysterious ways. It seems to know how to tailor its challenges, delivered at precisely the wrong time, to precisely the right…]]></description><link>https://4ndrelim.github.io/blog/hospital/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/hospital/</guid><pubDate>Mon, 01 Dec 2025 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
 .info {
     color: #008080; /* teal */
 }
@@ -21,7 +138,7 @@
 &lt;br&gt;
 &lt;h2&gt;So, What Happened?&lt;/h2&gt;
 &lt;p&gt;Kidney complications. Developed suddenly. The diagnosis the doctors gave was vague. They called it idiopathic, a fancy term that short for &lt;em&gt;“we don’t know what’s up either.”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;From what I gathered, my immune system is simply over-overactive, deciding to attack both my kidneys.&lt;/p&gt;
+&lt;p&gt;From what I gathered, my immune system is simply over-active, deciding to attack both my kidneys.&lt;/p&gt;
 &lt;p&gt;Talk about being blessed. &lt;br&gt;
 &lt;strong&gt;&lt;em&gt;Too blessed.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;details&gt;
@@ -31,7 +148,7 @@
         &lt;br&gt;&lt;br&gt;
         The ambience though, was good – very suitable for dates — if not for the tables being so tightly packed that I could hear every awkward attempt at flirting from the couple next to us on what is clearly their first date. The choice of topics the guy chose was certainly unconventional but entertaining. My partner agreed, though that didn’t stop her from kicking me under the table every time I accidentally giggled.
         &lt;br&gt;&lt;br&gt;
-        The only thing I ordered differently was a prawn risotto. We ordered quite a bit, typical of my gluttonous self, and I devoured most of it. What followed were hours of bloating, but nothing particularly alarming for someone who is a slave to his own tongue. Aside from some fatigue, the night passed peacefully.
+        The only thing I ordered differently was a &lt;b&gt;prawn risotto&lt;/b&gt;. We ordered quite a bit, typical of my gluttonous self, and I devoured most of it. What followed were hours of bloating, but nothing particularly alarming for someone who is a slave to his own tongue. Aside from some fatigue, the night passed peacefully.
         &lt;br&gt;&lt;br&gt;
         The next day, the bloating didn’t subside. I chalked it to a combination of stress, lack of exercise, and disgusting amount of food in one sitting. So, I decided to run a half marathon. Best timing yet: 5:10 pace for 21km on a damned treadmill (yes, a treadmill so I could watch a lecture, ironically titled &lt;b&gt;&lt;em&gt;Death, Suffering, and Illness&lt;/em&gt;&lt;/b&gt;).
     &lt;/span&gt;
@@ -158,7 +275,7 @@
 &lt;br&gt;
 &lt;h2&gt;Or Maybe Not..&lt;/h2&gt;
 &lt;p&gt;Perhaps I spoke too soon.&lt;/p&gt;
-&lt;p&gt;At the start, I thought this whole phase would last a week at best. Then it became &lt;em&gt;maybe&lt;/em&gt; several weeks. Soon, the doctors started mentioning months. Some numbers began to take shape, something along the lines of a &lt;strong&gt;full recovery in six to eight months&lt;/strong&gt;. But the most recent one I heard, also the most unsettling one, is the possibility of a long-term dependence on steroid or equivalent drugs. I’m not entirely sure what that entails, but it suggests immune supression for a lifetime and surely that can’t be healthy.&lt;/p&gt;
+&lt;p&gt;At the start, I thought this whole phase would last a week at best. Then it became &lt;em&gt;maybe&lt;/em&gt; several weeks. Soon, the doctors started mentioning months. Some numbers began to take shape, something along the lines of a &lt;strong&gt;full recovery in six to eight months&lt;/strong&gt;. But the most recent one I heard, also the most unsettling one, is the possibility of a &lt;strong&gt;long-term dependence on steroids&lt;/strong&gt; or equivalent drugs. I’m not entirely sure what that entails, but it suggests immune supression for a lifetime and surely that can’t be healthy.&lt;/p&gt;
 &lt;p&gt;Maybe they knew this from the start and were withholding information to pace me. &lt;em&gt;&lt;strong&gt;Man.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;details&gt;
     &lt;summary&gt;Side Effects of Steroids&lt;/summary&gt;
@@ -177,7 +294,8 @@
 &lt;/ol&gt;
 &lt;p&gt;Historically, option (1) is rather rare. But it’s still too early to conclude anything, and the data isn’t especially representative. Apparently, my condition doesn’t usually present itself in young adults.&lt;/p&gt;
 &lt;p&gt;Anyway, &lt;strong&gt;I’d heard enough too&lt;/strong&gt;. After a day of moping or so I figured it’s about time I restore some semblance of normalcy, or adapt to the new normal. So I requested to be warded from home.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Then I fainted&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Then I fainted&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Ok.. slightly dramatic in wording. More accurately, during one of the routine medical visits (every 3-4 days), I started feeling nauseous and dizzy in the lift. Puked as soon as I got out, and my body started spasming. Likely the result of severe electrolyte and nutrient loss — I was urinating close to seven litres a day at its peak from the diuretics. I dropped to my knees and could not move. Fortunately, I was within hospital grounds and the nurses quickly came forward.&lt;/p&gt;
 &lt;p&gt;So here I am, had enough blood drawn to start a small bank and a vault of medication large enough to start my own pharmacy. Hoping for a quiet, uneventful recovery over December.&lt;/p&gt;
 &lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
@@ -227,7 +345,7 @@ Sent from my Ipad
 &lt;p&gt;&lt;em&gt;- a dying Steve Jobs, writing to himself&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;p&gt;Awhile back I wrote about a post on my trip to the &lt;a href=&quot;../seeds-of-change-2/&quot;&gt;Himalayas&lt;/a&gt;. There, I talked about how it became a catalyst for many journeys that followed. And while I’d like to believe I’ve learned to enjoy life as it is, I can’t deny feeling haunted by the quiet pressure to chase credentials, careers, and high-paying jobs.&lt;/p&gt;
-&lt;p&gt;Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in Machine Learning and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. &lt;strong&gt;We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.&lt;/strong&gt; Or so I thought.&lt;/p&gt;
+&lt;p&gt;Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in ML and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. &lt;strong&gt;We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.&lt;/strong&gt; Or so I thought.&lt;/p&gt;
 &lt;p&gt;Now, it all feels strangely hollow and even trivial. While hospitalised, I came across an email Steve Jobs sent to himself as he was nearing death. My condition is far from as severe as his was, but I could sense the man’s anguish, and resonated with it. That &lt;strong&gt;despite all my effort and achievements in this world, I remained helpless when my body needed help the most.&lt;/strong&gt; My past worries seemed almost pointless.&lt;/p&gt;
 &lt;p&gt;The past year’s hustle is almost laughable in hindsight, only to end up, quite literally, hospitalised and unable to do anything at all or honor my commitments. Plans deferred to December. Promises made to loved ones. Mental notes of payback time. &lt;strong&gt;And once again, life intervened.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;But perhaps the inner voice is clearer now.&lt;/p&gt;
