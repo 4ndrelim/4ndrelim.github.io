@@ -225,14 +225,20 @@ Ok.. slightly dramatic in wording. More accurately, during one of the routine me
 
 So here I am, had enough blood drawn to start a small bank and a vault of medication large enough to start my own pharmacy. Hoping for a quiet, uneventful recovery over December.
 
-<div style="width: 66%; height: auto;">
-    <img src="medicine.jpg" alt="Medication">
-    <figcaption style="text-align: center; font-size: 0.95em; margin-top: 6px;"><em>Daily medicine, just the morning one. Excuse the fatty hands..</em></figcaption>
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="medicine.jpg" alt="morning medicine" style="width: 100%;"/>
+    <figcaption><em>Daily (morning) medicine. Excuse the fatty hands..</em></figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center; flex: 1;">
+    <img src="more_meds.jpg" alt="Medicine" style="width: 100%"/>
+    <figcaption><em>And more..</em></figcaption>
+  </figure>
 </div>
 
 <br>
 
-## Seeds of Change (III)?
+## Seeds of Change (III) ?
 
 <br>
 
@@ -276,7 +282,7 @@ Awhile back I wrote about a post on my trip to the [Himalayas](../seeds-of-chang
 
 Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in ML and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. **We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.** Or so I thought.
 
-Now, it all feels strangely hollow and even trivial. While hospitalised, I came across an email Steve Jobs sent to himself as he was nearing death. My condition is far from as severe as his was, but I could sense the man’s anguish, and resonated with it. That **despite all my effort and achievements in this world, I remained helpless when my body needed help the most.** My past worries seemed almost pointless.
+Now, it all feels strangely hollow. While hospitalised, I came across an email Steve Jobs sent to himself as he was nearing death. My current condition is far from as severe as his was, but I could sense the man’s anguish, and resonated with it. That **despite all my effort and achievements in this world, I remained helpless when my body needed help the most.** My past worries seemed almost trivial.
 
 The past year’s hustle is almost laughable in hindsight, only to end up, quite literally, hospitalised and unable to do anything at all or honor my commitments. Plans deferred to December. Promises made to loved ones. Mental notes of payback time. **And once again, life intervened.**
 

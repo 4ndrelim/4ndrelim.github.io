@@ -115,11 +115,11 @@ Joy here, is not born out of illusion but out of defiance. Each day he faces the
 ## Not Existentialism
 Existentialism seeks to create meaning. It seems more elegant, more refined, but to Camus, it is still an illusionary escape. Briefly, below are what I gathered from Camus critique of the major schools of thought:
 
-**"Existence precedes essence,"** Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings replaces one illusion with another, and are just as fragile and dissolve with us.
+**"Existence precedes essence,"** Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings replace one illusion with another, and are just as fragile and dissolve with us.
 
-Søren Kierkegaard, the father of Christian Existentialism, a man so tormented by the unknown he saw clearly the despair that reason alone cannot explain. But his solution was the leap of faith, a surrender to the unknowable. Camus respects the honestly of his anguish, but refuses the leap. To abandon reason the very moment it reaches its limit is philosophical betrayal. Suicide of the mind. 
+Søren Kierkegaard, the father of Christian Existentialism, a man so tormented by the unknown he saw clearly the despair that reason alone cannot explain. But his solution was **the leap of faith, a surrender to the unknowable**. Camus respects the honestly of his anguish, but refuses the leap. To abandon reason the very moment it reaches its limit is philosophical betrayal. Suicide of the mind. 
 
-Nietzsche burns brighter. He demands value-creation in a godless world. But it risks turning revolt into domination, and freedom into force. Nietzsche did not advocate of course, but it didn't change the fact the Nazis twisted and distorted the original concept of Übermensch from its original meaning of self-overcoming to justify Aryan supremacy and extermination.
+Nietzsche burns brighter. But even that prophet of fire and will offers no respite. He demands **value-creation in a godless world**. But this risks turning revolt into domination, and freedom into force. Indeed, while he did not advocate cruelty, it didn't change the fact the Nazis twisted and distorted his concept of Übermensch from its original intent of self-overcoming to justify Aryan supremacy and extermination.
 
 Camus wants none of this. He wants **honesty**.
 
