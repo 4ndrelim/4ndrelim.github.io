@@ -48,14 +48,14 @@ description: "What's The Point of It All?"
 <div class="philo">
 <blockquote>
 "To live with the absurd is to accept that life has no ultimate meaning — <br>
-and still live fully, love fiercely, act ethically, and create passionately.."
+and still live <b>fully</b>, love <b>fiercely</b>, act <b>ethically</b>, and create <b>passionately</b>."
 </blockquote>
 </div>
 
 
 <div class="note-block">
   <blockquote>
-    Note: This piece is provisional. It reflects raw thoughts from ym reading awhile back, and fragments from a podcast I listened to while recovering in a hospital bed. There are some ideas I intend to revisit after re-reading The Myth of Sisyphus and discussing it with a friend I refer to as Matthias Simone Canenella.
+    Note: This piece is provisional. It reflects raw thoughts from ym reading awhile back, and fragments from a podcast I listened to while recovering in a hospital bed. There are some ideas I intend to revisit after re-reading <em>The Myth of Sisyphus</em> and discussing it with a friend I refer to as Matthias Simone Canenella.
   </blockquote>
 </div>
 
@@ -72,17 +72,19 @@ But Camus did not despair. And we shouldn't either. Absurdism isn't about hopele
 <br>
 
 ## What is the Absurd?
-You may not have read about it, but i'm certain you have felt it. The absurd does not announce it arrival. It strikes without warning. Not as theory, but as sensation. When suffering arrives without reason. When death intrudes without permission. **When life simply fails to answer.**
+You may not have read about it, but i'm certain you have felt it. The absurd does not announce its arrival. It strikes without warning, not something you study, but as something you feel. When suffering arrives without reason. When death intrudes without permission. **When life simply fails to answer.**
 
 I once took a philosophy module where the prof joked that history is full of sad thinkers. He said, perhaps, the most depressed of them all was the French journalist Albert Camus.<br>_Strange_. _Why?_ He had everything. Looks, fame, talent, lovers. What went wrong? Did he get bored?
 
-But the absurd is not boredom. It is the moment when **routines of life suddenly feel hollow** and seemingly going to collapse. You wake up, ride the same train, exchange the same pleasantries, but suddenly wonder wonder what is the point of all this?
+But the absurd is not boredom. It is the moment when **routines of life suddenly feel hollow** as if it might collapse at any time. It could be any day, really, you wake up as usual, ride the same train, exchange the same pleasantries, but suddenly wonder why you're doing all this.
 
-Camus calls it a **_“weariness tinged with amazement.”_** The machinery of habit grinds to a halt.
+Camus calls this moment a **_“weariness tinged with amazement.”_** The machinery of habit grinds to a halt.
 
-But we humans we need purpose, coherence and meaning. The universe does not. It simply offers the brute facts of existence, mountain, streams, time, stars, hunger.
+We humans need purpose, coherence and meaning. But the universe does not. It simply offers the brute facts of existence, mountain, streams, time, stars, heat, silence.
 
 And it is in this disparity, **between our hunger for meaning and the world’s indifference**, that the absurd is born.
+
+<br>
 
 <div class="existential">
   <blockquote>So then, what's the point of it all?</blockquote>
@@ -90,30 +92,30 @@ And it is in this disparity, **between our hunger for meaning and the world’s 
 
 Camus did not set out to answer this question with metaphysics or illusion. He confronted it directly, without flinching, without appeal to higher power or convenient covers. What matters is not what the world refuses to give us, but what we choose to do in the face of that refusal. 
 
-**This is not defeat. But a rebellion.**
+**This is not defeat. This is a rebellion.**
 
 <br>
 
 ## Revolt Without Illusion
 Camus avoids the two familiar consolations. He does not retreat into religion with its promise of eternal design, nor embrace nihilism which strips the world of all value.
 
-To Camus, living with the absurd is to face reality as it is, and **_still say yes._** But do not confuse this with optimism. It is simply honesty.
+To Camus, living with the absurd is **to face reality as it is, and _still say yes._** But do not confuse this with optimism. It is simply honesty.
 
 At the centre of this philosophy, stands Sisyphus, the mythical king condemned by the Gods to push a boulder up a mountain, only for it to roll back down, for enternity. Meaningless, cruel, unbearable.
 
 But then, Camus asks us to imagine the descent. What if, in those moments walking back down the slope, Sisyphus becomes conscious? What if he sees the absurdity of his own fate yet chooses it anyway?<br>
-**Then, he is stronger than the Gods**.
+Then, Camus says, **he is stronger than the Gods**.
 
-His rebeliion lies not in changing his condition, but in refusing to let it break his spirit. He becomes free, not by escaping the rock, but by seeing clearly, and willingly continue. This is Camus' _Prototype of the Absurd Hero_. One who doesn't conquer death or unconvers hidden meaningbut walks straight into the void and keeps walking.
+**His rebeliion lies not in changing his condition, but in refusing to let it break his spirit**. He becomes free, not by escaping the rock, but by seeing clearly, and willingly continue. This is Camus' _Prototype of the Absurd Hero_. One who doesn't conquer death or uncovers hidden meaning but walks straight into the void and keeps walking.
 
-Joy here, is not born out of illusion but out of defiance. A meaningless effort yielding the same wasted result every day but he still finds it in him to say yes.
+Joy here, is not born out of illusion but out of defiance. Each day he faces the same futile task, and still finds it within himself to say yes.
 
 <br>
 
 ## Not Existentialism
-Existentialism seeks to create meaning. Some say it is more elegant, more refined, but to Camus, it is still an illusionary escape. Very briefly, below are what I gathered from Camus critique of the major schools of thought:
+Existentialism seeks to create meaning. It seems more elegant, more refined, but to Camus, it is still an illusionary escape. Briefly, below are what I gathered from Camus critique of the major schools of thought:
 
-"Existence precedes essence," Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings replaces one illusion with another, and are just as fragile and dissolve with us.
+**"Existence precedes essence,"** Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings replaces one illusion with another, and are just as fragile and dissolve with us.
 
 Søren Kierkegaard, the father of Christian Existentialism, a man so tormented by the unknown he saw clearly the despair that reason alone cannot explain. But his solution was the leap of faith, a surrender to the unknowable. Camus respects the honestly of his anguish, but refuses the leap. To abandon reason the very moment it reaches its limit is philosophical betrayal. Suicide of the mind. 
 
@@ -136,13 +138,13 @@ Camus refuses all of them. He stands still, watches the horizon, stares into the
 
 His absurd portraits in the _The Myth of Sisyphus_ — Don Juan, the Actor, the Conqueror — are not ideals to imitate, but attitudes toward existence.
 
-Don Juan says yes to love as something to be lived rather than promised. He loves intensely and repeatedly, without pretending it leads to anything lasting, even though it often leaves others hurt.
+Don Juan says yes to Love as something to be lived rather than promised. He loves intensely and repeatedly, without pretending it leads to anything lasting, even though it often leaves others hurt.
 
 The Actor says yes to creation. He lives many lives on stage, fully aware that each one disappears the moment the performance ends, and creates anyway.
 
 The Conqueror says yes to action in a world that offers no guarantees. He chooses to act rather than wait for meaning, even when that decisiveness turns harsh or ruthless.
 
-None of them hope for salvation. None seek consolation. They are not deceived by the dream of Heaven nor the abyss of Nihilism. But they do not surrender either. **They say yes to experience, not because it is pure or eternal, but because it is there.**
+None of them hope for salvation. None seek consolation. They are not deceived by the dream of Heaven nor the abyss of Nihilism. But they do not surrender either. **They say yes to experience, not because it is pure or eternal, but because it is there**, and possibly all that there is.
 
 <br>
 
@@ -169,9 +171,9 @@ And **if you refuse, what is your real crime?** Failing to act the way others wa
 <br>
 
 ## Closing
-Camus’s figures are easy to dismiss. _The seducer_. _The tyrant_. _The murderer_.
+Camus’ figures are easy to dismiss. _The seducer_. _The tyrant_. _The murderer_.
 
-But beneath them lies lucidity. A refusal to flinch. Can we condemn them? Maybe. Dostoevsky certainly would. He warned us about the dangers of stripping belief bare, of over-rationalization, of how intricate justification can be used to justify descent.
+But beneath them lies lucidity. A refusal to flinch. Can we condemn them? Maybe. Dostoevsky certainly would. He warned us about the dangers of stripping belief bare, of over-rationalization, of how intricate reasoning can easily be used to justify moral descent.
 
 But Camus is asking something simpler, and arguably harder.
 

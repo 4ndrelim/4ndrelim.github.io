@@ -59,7 +59,7 @@ Talk about being blessed. <br>
 The symptoms unfolded quietly over the week. It began with my legs looking slightly swollen. I thought little of it, figuring it was just due to running hard the previous day (see above dropdown).
 _Dead wrong._
 
-Strangely, I lost my appetite. Food poisoning, maybe, except there wasn't the diarrhoea I was expecting, just one minor episode. Still, I found myself surviving on soup and porridge.
+Strangely, I lost my appetite on Monday. Food poisoning, maybe, except there wasn't the diarrhoea I was expecting, just one minor episode. Still, I found myself surviving on soup and porridge.
 
 By Tuesday, the swelling had worsened. Walking became much harder. Still I thought I could tough it out.
 
@@ -88,11 +88,6 @@ After some persuasion from the same friend, I finally went to A&E. Initial asses
 
 <br>
 
-The doctor finally came around to see me. It was interesting to watch a calm expression slowly give way to confusion and urgency. She shook her head and murmured that the symptoms didn’t add up. What followed was a rectal exam, an impromptu blood test, a urine test, and thirty minutes later, I was effectively under hospital arrest. They refused to let me leave and warded me immediately. <br>_Seems serious._
-
-The junior doctor had no idea what was going on but the blood results showed severe abnormalities. That’s when the senior doctors stepped in. But they were equally unsure. So began the race against time. 
-
-It was around then that I was escorted by the nurse to check my weight. **A whopping 84kg**. It was a confusing number. My first thought was that the scale was wrong. It had to be. **I was 65kg**. 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <figure style="margin: 0; text-align: center; flex: 1;">
@@ -107,15 +102,21 @@ It was around then that I was escorted by the nurse to check my weight. **A whop
 
 <br>
 
+The doctor finally came around to see me. It was interesting to watch a calm expression slowly give way to confusion and urgency. She shook her head and murmured that the symptoms didn’t add up. What followed was a rectal exam, an impromptu blood test, a urine test, and thirty minutes later, I was effectively under hospital arrest. They refused to let me leave and warded me immediately. <br>_Seems serious._
+
+The junior doctor had no idea what was going on but the blood results showed severe abnormalities. That’s when the senior doctors stepped in. But they were equally unsure. So began the race against time. 
+
+It was around then that I was escorted by the nurse to check my weight. **A whopping 84kg**. It was a confusing number. My first thought was that the scale was wrong. It had to be. **I was 65kg**. 
+
 <details>
-    <summary>Horrible Swelling</summary>
+    <summary><b>Horrible Swelling</b></summary>
     <span style="font-size:13px;" class="info">
         The swelling worsened over the next few days. It became a running joke, though perhaps one that stopped being funny rather quickly, that I had a swollen groin enough to make OnlyFans actors and claims in porn ads seem modest. Amusing for a moment, but concerning shortly after.
         <br><br>
         At one point, I couldn’t walk for more than ten minutes without feeling exhaustion and my feet feeling like they were about to burst. I had to walk like a crab simply because walking normally wasn’t physically possible. Prolonged walking or standing made things worse as gravity dragged the fluid downward.
         <br><br>Peeing was difficult too. I could not pee normally, nor even shit normally since I could not sit on the bowl properly, and i'd make a mess of myself every time I urinated. It was slightly sad to see how i've been reduced from the man I was just a week ago.
         <br><br>
-        You would think lying down would help. In a way, it did, by redistributing the fluid. But it causes some of the internals in my body region to swell and hurt, and ill be forced to sit upright again. I don’t think I slept more than three uninterrupted hours the past month. Can't be good for the brain..
+        You would think lying down would help. In a way, it did, by redistributing the fluid. But it causes some of the internals in my body region to swell and hurt, and ill be forced to sit upright again. <b>I don’t think I slept more than three uninterrupted hours the past month</b>. Can't be good for the brain..
     </span>
 </details>
 
