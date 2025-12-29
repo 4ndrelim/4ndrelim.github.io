@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 26 Dec 2025 18:48:36 GMT</lastBuildDate><item><title><![CDATA[Sisyphus' Revolt]]></title><description><![CDATA[Anyone with an ombré of seemingly respectable IQ eventually runs into Camus. Some of us meet him early, maybe in our teenage years, in that…]]></description><link>https://4ndrelim.github.io/blog/the-absurd/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-absurd/</guid><pubDate>Wed, 17 Dec 2025 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Aspiring software engineer and machine learning hobbyist — turning paper to pipeline.]]></description><link>https://4ndrelim.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 29 Dec 2025 00:41:07 GMT</lastBuildDate><item><title><![CDATA[Sisyphus' Revolt]]></title><description><![CDATA[Anyone with an ombré of seemingly self-regarding IQ eventually runs into Camus. Some of us meet him early, maybe in our teenage years, in…]]></description><link>https://4ndrelim.github.io/blog/the-absurd/</link><guid isPermaLink="false">https://4ndrelim.github.io/blog/the-absurd/</guid><pubDate>Wed, 17 Dec 2025 03:23:00 GMT</pubDate><content:encoded>&lt;style&gt;
 .philo {
   color: #00897B; /* deep teal */
   font-family: &quot;Georgia&quot;, &quot;Times New Roman&quot;, serif;
@@ -49,18 +49,19 @@ and still live &lt;b&gt;fully&lt;/b&gt;, love &lt;b&gt;fiercely&lt;/b&gt;, act &
     Note: This piece is provisional. It reflects raw thoughts from ym reading awhile back, and fragments from a podcast I listened to while recovering in a hospital bed. There are some ideas I intend to revisit after re-reading &lt;em&gt;The Myth of Sisyphus&lt;/em&gt; and discussing it with a friend I refer to as Matthias Simone Canenella.
   &lt;/blockquote&gt;
 &lt;/div&gt;
-&lt;p&gt;Anyone with an ombré of seemingly respectable IQ eventually runs into Camus. Some of us meet him early, maybe in our teenage years, in that awkward, edgy phase where big dreams collide with pragmatic reality. We become a confusing blend of idealist and realist, hoping to reconcile ambition with limits. Reading Camus then feels respectable. It signals depth (or misinterpretation). A desire for something more. Or perhaps something hidden. Meaning, destiny, coherence.&lt;/p&gt;
+&lt;p&gt;Anyone with an ombré of seemingly self-regarding IQ eventually runs into Camus. Some of us meet him early, maybe in our teenage years, in that awkward, edgy phase where big dreams collide with pragmatic reality. We become a confusing blend of idealist and realist, hoping to reconcile ambition with limits. Reading Camus then feels respectable. It signals depth (or misinterpretation). A desire for something more. Or perhaps something hidden. Meaning, destiny, coherence.&lt;/p&gt;
 &lt;p&gt;And when we’re older, many of us return. This time with sharper eyes, heavier experiences, maybe detouring through existentialism, nihilism, or adjacent philosophies along the way.&lt;/p&gt;
+&lt;br&gt;
 &lt;p&gt;&lt;strong&gt;Except Camus refuses meaning.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Not just shallow meaning, but all deeper, ultimate meaning. He places it in the realm of the unknowable and refuses to let life’s task be the pursuit of it. Why? Because despite all our efforts, the universe offers nothing in return. It remains silent. Indifferent. Vast.&lt;/p&gt;
-&lt;p&gt;But Camus did not despair. And we shouldn’t either. Absurdism isn’t about hopelessness nor resignation. For Camus, the clash between our longing for clarity and the universe’s indifference is not an ending. It is a beginning.&lt;/p&gt;
+&lt;p&gt;But Camus did not despair. And we shouldn’t either. Absurdism isn’t about hopelessness or resignation. For Camus, the clash between our longing for clarity and the universe’s indifference is not an ending. It is a beginning.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;What is the Absurd?&lt;/h2&gt;
 &lt;p&gt;You may not have read about it, but i’m certain you have felt it. The absurd does not announce its arrival. It strikes without warning, not something you study, but as something you feel. When suffering arrives without reason. When death intrudes without permission. &lt;strong&gt;When life simply fails to answer.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I once took a philosophy module where the prof joked that history is full of sad thinkers. He said, perhaps, the most depressed of them all was the French journalist Albert Camus.&lt;br&gt;&lt;em&gt;Strange&lt;/em&gt;. &lt;em&gt;Why?&lt;/em&gt; He had everything. Looks, fame, talent, lovers. What went wrong? Did he get bored?&lt;/p&gt;
-&lt;p&gt;But the absurd is not boredom. It is the moment when &lt;strong&gt;routines of life suddenly feel hollow&lt;/strong&gt; as if it might collapse at any time. It could be any day, really, you wake up as usual, ride the same train, exchange the same pleasantries, but suddenly wonder why you’re doing all this.&lt;/p&gt;
-&lt;p&gt;Camus calls this moment a &lt;strong&gt;&lt;em&gt;“weariness tinged with amazement.”&lt;/em&gt;&lt;/strong&gt; The machinery of habit grinds to a halt.&lt;/p&gt;
-&lt;p&gt;We humans need purpose, coherence and meaning. But the universe does not. It simply offers the brute facts of existence, mountain, streams, time, stars, heat, silence.&lt;/p&gt;
+&lt;p&gt;I once took a philosophy module where the prof joked that history is full of sad thinkers. He said the most depressed of them all, perhaps, was the French journalist Albert Camus.&lt;br&gt;&lt;em&gt;Strange&lt;/em&gt;. &lt;em&gt;Why?&lt;/em&gt; He had everything. Looks, fame, talent, lovers. What went wrong? Did he get bored?&lt;/p&gt;
+&lt;p&gt;But the absurd is not simply boredom. It is the moment when &lt;strong&gt;routines of life suddenly feel hollow&lt;/strong&gt; as if it might collapse at any time. It could be any day, really, you wake up as usual, ride the same train, exchange the same pleasantries, but suddenly wonder why you’re doing all this.&lt;/p&gt;
+&lt;p&gt;Camus calls this moment a &lt;strong&gt;&lt;em&gt;“weariness tinged with amazement”&lt;/em&gt;&lt;/strong&gt;. The machinery of habit grinds to a halt.&lt;/p&gt;
+&lt;p&gt;We humans need purpose, coherence and meaning. But the universe does not. It simply offers the brute facts of existence, mountains, streams, time, stars, heat, silence.&lt;/p&gt;
 &lt;p&gt;And it is in this disparity, &lt;strong&gt;between our hunger for meaning and the world’s indifference&lt;/strong&gt;, that the absurd is born.&lt;/p&gt;
 &lt;br&gt;
 &lt;div class=&quot;existential&quot;&gt;
@@ -75,31 +76,31 @@ and still live &lt;b&gt;fully&lt;/b&gt;, love &lt;b&gt;fiercely&lt;/b&gt;, act &
 &lt;p&gt;At the centre of this philosophy, stands Sisyphus, the mythical king condemned by the Gods to push a boulder up a mountain, only for it to roll back down, for enternity. Meaningless, cruel, unbearable.&lt;/p&gt;
 &lt;p&gt;But then, Camus asks us to imagine the descent. What if, in those moments walking back down the slope, Sisyphus becomes conscious? What if he sees the absurdity of his own fate yet chooses it anyway?&lt;br&gt;
 Then, Camus says, &lt;strong&gt;he is stronger than the Gods&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;His rebeliion lies not in changing his condition, but in refusing to let it break his spirit&lt;/strong&gt;. He becomes free, not by escaping the rock, but by seeing clearly, and willingly continue. This is Camus’ &lt;em&gt;Prototype of the Absurd Hero&lt;/em&gt;. One who doesn’t conquer death or uncovers hidden meaning but walks straight into the void and keeps walking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;His rebellion lies not in changing his condition, but in refusing to let it break his spirit&lt;/strong&gt;. He becomes free, not by escaping the rock, but by seeing clearly, and willingly continue. This is Camus’ &lt;em&gt;Prototype of the Absurd Hero&lt;/em&gt;. One who doesn’t conquer death or uncovers hidden meaning but walks straight into the void and keeps walking.&lt;/p&gt;
 &lt;p&gt;Joy here, is not born out of illusion but out of defiance. Each day he faces the same futile task, and still finds it within himself to say yes.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;Not Existentialism&lt;/h2&gt;
-&lt;p&gt;Existentialism seeks to create meaning. It seems more elegant, more refined, but to Camus, it is still an illusionary escape. Briefly, below are what I gathered from Camus critique of the major schools of thought:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“Existence precedes essence,”&lt;/strong&gt; Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings replace one illusion with another, and are just as fragile and dissolve with us.&lt;/p&gt;
-&lt;p&gt;Søren Kierkegaard, the father of Christian Existentialism, a man so tormented by the unknown he saw clearly the despair that reason alone cannot explain. But his solution was &lt;strong&gt;the leap of faith, a surrender to the unknowable&lt;/strong&gt;. Camus respects the honestly of his anguish, but refuses the leap. To abandon reason the very moment it reaches its limit is philosophical betrayal. Suicide of the mind.&lt;/p&gt;
-&lt;p&gt;Nietzsche burns brighter. But even that prophet of fire and will offers no respite. He demands &lt;strong&gt;value-creation in a godless world&lt;/strong&gt;. But this risks turning revolt into domination, and freedom into force. Indeed, while he did not advocate cruelty, it didn’t change the fact the Nazis twisted and distorted his concept of Übermensch from its original intent of self-overcoming to justify Aryan supremacy and extermination.&lt;/p&gt;
+&lt;p&gt;Existentialism seeks to create meaning. It presents itself as elegant, refined, self-empowering even, but to Camus, it remains an illusory escape. Briefly, below is what I’ve gathered from Camus’ critique of the major schools of thought:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Existence precedes essence,”&lt;/strong&gt; Sartre writes. We invent ourselves through action. But the universe remains indifferent. Our invented meanings simply replace one illusion with another, and are just as fragile and will dissolve with us.&lt;/p&gt;
+&lt;p&gt;Søren Kierkegaard, the father of Christian Existentialism, a man so tormented by the unknown he saw clearly the despair that reason alone cannot explain. But his solution was &lt;strong&gt;the leap of faith, a surrender to the unknowable&lt;/strong&gt;. Camus respects the honesty of his anguish, but refuses the leap. To abandon reason the very moment it reaches its limit is philosophical betrayal. Suicide of the mind.&lt;/p&gt;
+&lt;p&gt;Nietzsche burns brighter. But even that prophet of fire and will offers no respite. He demands &lt;strong&gt;value-creation in a godless world&lt;/strong&gt;. But the Nietzschean will risks turning revolt into domination, and freedom into force. Indeed, while he never advocated cruelty, it didn’t stop the Nazis from twisting and distorting his concept of the Übermensch from its original meaning of self-overcoming to justify Aryan supremacy and extermination.&lt;/p&gt;
 &lt;p&gt;Camus wants none of this. He wants &lt;strong&gt;honesty&lt;/strong&gt;.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;What Camus Wants of Us&lt;/h2&gt;
 &lt;p&gt;Not belief, but revolt.&lt;br&gt;
 Not certainty, but clarity.&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Accept life without redemption or justification. And still say yes. Not because it is noble, but because it is honest. To lie, even for comfort, is to lose the absurd.&lt;/p&gt;
+&lt;p&gt;Accept life without redemption or justification. And still say yes. Not because it is noble, but because it is honest. &lt;strong&gt;To lie, even for comfort, is to lose the absurd&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Camus does not ask us to leap into meaning. Others do.
 Some leap into faith, surrendering reason at the moment it becomes unbearable. Others invent meaning through action or self-definition, hoping creation will soften indifference. Even nihilism is a kind of leap, an escape into negation.&lt;/p&gt;
 &lt;p&gt;Camus refuses all of them. He stands still, watches the horizon, stares into the waves, and does not blink. Not because he expects an answer to rise, but because looking away and avoiding it would be a form of betrayal. And in that refusal, he finds freedom.&lt;/p&gt;
 &lt;p&gt;His absurd portraits in the &lt;em&gt;The Myth of Sisyphus&lt;/em&gt; — Don Juan, the Actor, the Conqueror — are not ideals to imitate, but attitudes toward existence.&lt;/p&gt;
-&lt;p&gt;Don Juan says yes to Love as something to be lived rather than promised. He loves intensely and repeatedly, without pretending it leads to anything lasting, even though it often leaves others hurt.&lt;/p&gt;
-&lt;p&gt;The Actor says yes to creation. He lives many lives on stage, fully aware that each one disappears the moment the performance ends, and creates anyway.&lt;/p&gt;
-&lt;p&gt;The Conqueror says yes to action in a world that offers no guarantees. He chooses to act rather than wait for meaning, even when that decisiveness turns harsh or ruthless.&lt;/p&gt;
+&lt;p&gt;Don Juan says yes to &lt;em&gt;love&lt;/em&gt; as something to be lived rather than promised. He loves intensely and repeatedly, without pretending it leads to anything lasting, even though it often leaves others hurt.&lt;/p&gt;
+&lt;p&gt;The Actor says yes to &lt;em&gt;creation&lt;/em&gt;. He lives many lives on stage, fully aware that each one disappears the moment the performance ends, and creates anyway. He knows they are all masks but what matters is intensity, not eternity. He burns bright, but not long.&lt;/p&gt;
+&lt;p&gt;The Conqueror says yes to &lt;em&gt;action&lt;/em&gt; in a world that offers no guarantees. He chooses to act rather than wait for meaning, even when that decisiveness turns harsh or ruthless. He knows history has no final justice and his victories will vanish, but he acts anyway because paralysis is another form of surrender.&lt;/p&gt;
 &lt;p&gt;None of them hope for salvation. None seek consolation. They are not deceived by the dream of Heaven nor the abyss of Nihilism. But they do not surrender either. &lt;strong&gt;They say yes to experience, not because it is pure or eternal, but because it is there&lt;/strong&gt;, and possibly all that there is.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;A Note on &lt;em&gt;The Stranger&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;This is a different book, but it completes Camus’s exploration of the absurd and what it means to live honestly within it. I like &lt;em&gt;The Stranger&lt;/em&gt; because it is, at its core, a book about honesty. &lt;strong&gt;&lt;em&gt;One musn’t delulu oneself&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a different book, but it completes Camus’ exploration of the absurd and what it means to live honestly within it. I like &lt;em&gt;The Stranger&lt;/em&gt; because it is, at its core, a book about honesty. &lt;strong&gt;&lt;em&gt;One musn’t delulu oneself&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meursault, the main character, is an ordinary man who reacts to life without the emotions society expects of him. When his mother dies, he feels no visible grief. He does not cry. He does not perform mourning. Later, he kills a man, not out of hatred or malice, but in a moment shaped by heat, sun, exhaustion, and circumstance rather than intent.&lt;/p&gt;
 &lt;p&gt;He is eventually put on trial for murder, but it becomes clear that he is condemned not so much for the act itself. What then is Meursault’s true crime? &lt;br&gt; &lt;strong&gt;&lt;em&gt;Honesty.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Camus makes this uncomfortable on purpose.&lt;/p&gt;
@@ -121,14 +122,14 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
     color: #008080; /* teal */
 }
 .steve {
-    color: #4B6EAF;
+    color: #6B7280;
     font-family: &quot;Helvetica Neue&quot;;
 }
 .steve blockquote {
-    border-left: 4px solid #4B6EAF;
+    border-left: 4px solid #9CA3AF;
     padding-left: 1em;
     margin-left: 0;
-    color: #4B6EAF;
+    color: #6B7280;
     background: none;
 }
 &lt;/style&gt;
@@ -138,8 +139,8 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
 &lt;p&gt;Until life (or God, if you prefer) &lt;strong&gt;decided to take my health away.&lt;/strong&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;h2&gt;So, What Happened?&lt;/h2&gt;
-&lt;p&gt;Kidney complications. Developed suddenly. The diagnosis the doctors gave was vague. They called it idiopathic, a fancy term that short for &lt;em&gt;“we don’t know what’s up either.”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;From what I gathered, my immune system is simply over-active, deciding to attack both my kidneys.&lt;/p&gt;
+&lt;p&gt;Kidney complications. Developed suddenly. The diagnosis the doctors gave was vague. They called it idiopathic, a fancy term that’s short for &lt;em&gt;“we don’t know what’s up either.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;From what I’ve gathered, my immune system is simply over-active, deciding to attack both my kidneys.&lt;/p&gt;
 &lt;p&gt;Talk about being blessed. &lt;br&gt;
 &lt;strong&gt;&lt;em&gt;Too blessed.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;details&gt;
@@ -147,11 +148,11 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
         On 1st November, I re-visited &lt;b&gt;&lt;em&gt;&lt;a href=&quot;https://www.surreyhillsgrocer.sg/?srsltid=AfmBOopcQa0hE1VOYXv46lMXCfVHRLzzR7mp3O1B6dviVRVWKygqJnxw&quot;&gt;Surrey Hills Grocer&lt;/a&gt;&lt;/em&gt; (ION)&lt;/b&gt;. The best thing on the menu, in my opinion, was a ridiculously overpriced ($19) truffle fries, which says a lot if fries are your strongest selling point. There were some interesting dishes, but &lt;b&gt;nothing tasty enough to overpower the taste of financial regret&lt;/b&gt;.
         &lt;br&gt;&lt;br&gt;
-        The ambience though, was good – very suitable for dates — if not for the tables being so tightly packed that I could hear every awkward attempt at flirting from the couple next to us on what is clearly their first date. The choice of topics the guy chose was certainly unconventional but entertaining. My partner agreed, though that didn’t stop her from kicking me under the table every time I accidentally giggled.
+        The ambience though, was good – very suitable for dates — if not for the tables being so tightly packed that I could hear every awkward attempt at flirting from the couple next to us on what is clearly their first date. The choice of topics the guy chose was certainly unconventional but entertaining. My partner agreed, though that didn&apos;t stop her from kicking me under the table every time I accidentally giggled.
         &lt;br&gt;&lt;br&gt;
         The only thing I ordered differently was a &lt;b&gt;prawn risotto&lt;/b&gt;. We ordered quite a bit, typical of my gluttonous self, and I devoured most of it. What followed were hours of bloating, but nothing particularly alarming for someone who is a slave to his own tongue. Aside from some fatigue, the night passed peacefully.
         &lt;br&gt;&lt;br&gt;
-        The next day, the bloating didn’t subside. I chalked it to a combination of stress, lack of exercise, and disgusting amount of food in one sitting. So, I decided to run a half marathon. Best timing yet: 5:10 pace for 21km on a damned treadmill (yes, a treadmill so I could watch a lecture, ironically titled &lt;b&gt;&lt;em&gt;Death, Suffering, and Illness&lt;/em&gt;&lt;/b&gt;).
+        The next day, the bloating didn&apos;t subside. I chalked it to a combination of stress, lack of exercise, and disgusting amount of food in one sitting. So, I decided to run a half marathon. Best timing yet: 5:10 pace for 21km on a damned treadmill (yes, a treadmill so I could watch a lecture, ironically titled &lt;b&gt;&lt;em&gt;Death, Suffering, and Illness&lt;/em&gt;&lt;/b&gt;).
     &lt;/span&gt;
 &lt;/details&gt;
 &lt;br&gt;
@@ -160,21 +161,21 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
 &lt;em&gt;Dead wrong.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Strangely, I lost my appetite on Monday. Food poisoning, maybe, except there wasn’t the diarrhoea I was expecting, just one minor episode. Still, I found myself surviving on soup and porridge.&lt;/p&gt;
 &lt;p&gt;By Tuesday, the swelling had worsened. Walking became much harder. Still I thought I could tough it out.&lt;/p&gt;
-&lt;p&gt;By Wednesday, I figured I should probably exercise. I felt heavy. Bloated and fat even. I blamed excess calories from the past few days. Climbing helped a little, but in hindsight it’s probably due to adrenaline. A friend commented that my feet looked ridiculous, and indeed, I couldn’t fit into my climbing shoes without forcing them on. The signs should have been obvious. I was struggling on climbs that had previously come easily. Little did I know I was &lt;a href=&quot;https://5.life/blog/2024/05/01/crimp-climbing-101-the-essential-techniques-and-training-tips/&quot;&gt;crimping&lt;/a&gt; far above my actual body weight.&lt;/p&gt;
+&lt;p&gt;By Wednesday, I figured I should probably exercise. I felt heavy. Bloated and fat even. I blamed excess calories from the past few days. Climbing helped a little, but in hindsight it was probably due to adrenaline. A friend commented that my feet looked ridiculous, and indeed, I couldn’t fit into my climbing shoes without forcing them on. The signs should have been obvious. I was struggling on climbs that had previously come easily. Little did I know I was &lt;a href=&quot;https://5.life/blog/2024/05/01/crimp-climbing-101-the-essential-techniques-and-training-tips/&quot;&gt;crimping&lt;/a&gt; far above my actual body weight.&lt;/p&gt;
 &lt;p&gt;What finally made me reconsider was puking up even the water i drank after the climb that same night.&lt;/p&gt;
 &lt;p&gt;The doctor at USC (campus healthcare centre) thought it was likely food poisoning with some water retention and prescribed medication. ChatGPT also gave a similar diagnosis before this. Reassured, I went home expecting to feel better the next day. I did not. It worsened.&lt;/p&gt;
 &lt;p&gt;Friday, I was plagued with headaches, more bloating, and increasing immobility. Still, I dragged myself to school to catch up on work. NUH was nearby and if anything, I could always drop by for a second opinion.&lt;/p&gt;
-&lt;p&gt;After some persuasion from the same friend, I finally went to A&amp;#x26;E. Initial assessments were dismissive. Food poisoning, perhaps. As I waited, I began to feel increasingly unwell, gagging uncontrollably until only gastric acid came up.&lt;/p&gt;
+&lt;p&gt;After some persuasion from the same friend, I finally went to A&amp;#x26;E. Initial assessments were dismissive. Food poisoning, as suspected. But as I waited, I began to feel increasingly unwell, gagging uncontrollably until only gastric acid came up.&lt;/p&gt;
 &lt;details&gt;
     &lt;summary&gt;A Very Interesting Man..&lt;/summary&gt;
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
-        This friend of mine is what you might call paranoid. Overly so. He’s the kind of person who dreads flying after intentionally sourcing and reading everything that could possibly go wrong. Same with boats. 
+        This friend of mine is what you might call paranoid. Overly so. He&apos;s the kind of person who dreads flying after intentionally sourcing and reading everything that could possibly go wrong. Same with boats. 
         &lt;br&gt;&lt;br&gt;
         He once checked himself into the hospital for a prostate exam based on what appeared to be the most remote of symptoms, and spent half a day, during peak exam period, analysing his own stool. He took multiple photos, studied their shapes across a distribution, extracted RGB values, and compared them against references on the Bristol stool chart. &lt;em&gt;Some effort.&lt;/em&gt;
         &lt;br&gt;&lt;br&gt;
         He had also spent enough time reading in different medical rabbit holes to offer me a partial diagnosis, and seemed to understand what the doctors were discussing about my kidneys better than I did.
         &lt;br&gt;&lt;br&gt;
-        But then again, he is a student of Mathematics, and I don’t know many great mathematicians, or logicians (see Gödel), who aren’t at least a little paranoid.
+        But then again, he is a student of Mathematics, and I don&apos;t know many great mathematicians, or logicians (see Gödel), who aren&apos;t at least a little paranoid.
     &lt;/span&gt;
 &lt;/details&gt;
 &lt;br&gt;
@@ -209,17 +210,17 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
 &lt;details&gt;
     &lt;summary&gt;&lt;b&gt;Horrible Swelling&lt;/b&gt;&lt;/summary&gt;
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
-        The swelling worsened over the next few days. It became a running joke, though perhaps one that stopped being funny rather quickly, that I had a swollen groin enough to make OnlyFans actors and claims in porn ads seem modest. Amusing for a moment, but concerning shortly after.
+        The swelling worsened over the next few days. It became a running joke, though perhaps one that stopped being funny rather quickly, that I had &lt;b&gt;a swollen groin enough to make OnlyFans actors and porn ads boast seem modest&lt;/b&gt;. Amusing for a moment, but concerning shortly after.
         &lt;br&gt;&lt;br&gt;
-        At one point, I couldn’t walk for more than ten minutes without feeling exhaustion and my feet feeling like they were about to burst. I had to walk like a crab simply because walking normally wasn’t physically possible. Prolonged walking or standing made things worse as gravity dragged the fluid downward.
+        At one point, I couldn&apos;t walk for more than ten minutes without feeling exhaustion and my feet feeling like they were about to burst. I had to walk like a crab simply because walking normally wasn&apos;t physically possible. Prolonged walking or standing made things worse as gravity dragged the fluid downward.
         &lt;br&gt;&lt;br&gt;Peeing was difficult too. I could not pee normally, nor even shit normally since I could not sit on the bowl properly, and i&apos;d make a mess of myself every time I urinated. It was slightly sad to see how i&apos;ve been reduced from the man I was just a week ago.
         &lt;br&gt;&lt;br&gt;
-        You would think lying down would help. In a way, it did, by redistributing the fluid. But it causes some of the internals in my body region to swell and hurt, and ill be forced to sit upright again. &lt;b&gt;I don’t think I slept more than three uninterrupted hours the past month&lt;/b&gt;. Can&apos;t be good for the brain..
+        You would think lying down would help. In a way, it did, by redistributing the fluid. But it causes some of the internals in my body region to swell and hurt, and ill be forced to sit upright again. &lt;b&gt;I don&apos;t think I slept more than three uninterrupted hours the past month&lt;/b&gt;. Can&apos;t be good for the brain..
     &lt;/span&gt;
 &lt;/details&gt;
 &lt;br&gt;
 &lt;h2&gt;Enter: The Kidney Specialists&lt;/h2&gt;
-&lt;p&gt;The full blood results came back. And the numbers were approaching dangerous territory across the board. What was thought to be food poisoning turned out to be kidney damage. Now, things were serious.&lt;/p&gt;
+&lt;p&gt;The full blood results came back. And the numbers were in dangerous territory across the board. What was thought to be food poisoning turned out to be kidney damage. Now, things were serious.&lt;/p&gt;
 &lt;p&gt;Doctors rotated in and out, many, I realised on Saturday duty, came to check on this medical oddity. It was originally frustrating to watch the uncertainty persist, and I briefly considered transferring to Mount Elizabeth. Then Prof Hoey (Head of the NUH Nephrology Department and Adjunct Professor at Yong Loo Lin School of Medicine) dropped by and for the first time, concrete instructions were given to the nurses and I heard some semblance of a plan.&lt;/p&gt;
 &lt;details&gt;
     &lt;summary&gt;The Silverlining&lt;/summary&gt;
@@ -233,8 +234,8 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
 &lt;/details&gt;
 &lt;br&gt;
 &lt;h2&gt;The Scare&lt;/h2&gt;
-&lt;p&gt;They had no idea what was wrong. But they knew something was amiss. So, they drew so much blood I could’ve started a bank. And they brute forced all sorts of tests. I was on a strict diet restriction and all input-output had to be tracked.&lt;/p&gt;
-&lt;p&gt;Early on the possbility of terminal illness was raised. &lt;strong&gt;That was scary.&lt;/strong&gt; They couldn’t rule it out and told me to prepare for the worst. I didn’t tell anyone, it was too surreal and I wasn’t sure I understood its gravity.&lt;/p&gt;
+&lt;p&gt;They had no idea what was wrong. But they knew something was amiss. So, they drew so much blood I could’ve started a bank and brute forced all sorts of tests. I was on a strict diet restriction and all input-output had to be tracked. Peeing into a tube with a swollen groin proved frustrating.&lt;/p&gt;
+&lt;p&gt;Early on, the &lt;strong&gt;possibility of terminal illness was raised. That was scary.&lt;/strong&gt; They couldn’t rule it out and told me to prepare for the worst. I didn’t tell anyone, it was too surreal and I wasn’t sure I understood its gravity.&lt;/p&gt;
 &lt;p&gt;Costs ceased to matter. Everything was expedited. Tests, scans, biopsies, and whatever they could schedule on the coming Monday. Sometimes, I could be signing a consent form hurriedly brought over and find myself in an operating room thirty minutes later.&lt;/p&gt;
 &lt;p&gt;The three long nights that followed left me pensive. Stripped of distraction, &lt;strong&gt;a lot suddenly felt inconsequential&lt;/strong&gt;. I had time, maybe too much of it, to revisit the smaller things I’d neglected, postponed, or quietly assumed would always be there.&lt;/p&gt;
 &lt;details&gt;
@@ -245,7 +246,7 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
 &lt;/details&gt;
 &lt;br&gt;
 &lt;p&gt;What followed were weeks of hospitalisation, and likely months of recovery. The doctors eventually concluded its nephrotic syndrome, another umbrella diagnosis, but suspected that my immune system had turned on my kidneys. &lt;em&gt;Strange.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The proposed fix was simple, but damaging&lt;/strong&gt;. Suppress the immune system with high doses of steroids (not the muscle-building kind..) enough to break the body, but if prolonged, erodes the mind. &lt;strong&gt;Unfortunate. &lt;em&gt;I’ve always valued the sanctity of the mind.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The proposed fix was simple, but damaging&lt;/strong&gt;. Suppress the immune system with high doses of steroids (not the muscle-building kind..) enough to break the body, though if prolonged, erodes the mind. &lt;strong&gt;Unfortunate&lt;/strong&gt;. &lt;em&gt;I’ve always valued the sanctity of the mind.&lt;/em&gt;&lt;/p&gt;
 &lt;div style=&quot;width: 66%; height: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAYAQACAwAAAAAAAAAAAAAAAAAAAwECBP/aAAwDAQACEAMQAAABhsqiVekrAzVj9COTOCf/xAAcEAEBAQABBQAAAAAAAAAAAAABAgMRAAQhMkH/2gAIAQEAAQUCk4o8knBIWaZsPbo45adVNXc2QUBfyvb/xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREC/9oACAEDAQE/AWr1Y2v/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oACAECAQE/ASGcqER//8QAHhAAAgICAgMAAAAAAAAAAAAAAAECERAxEiFBcYH/2gAIAQEABj8C942daONojdWOpIuMvrON9rY14wz/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFRgbH/2gAIAQEAAT8hQ1ENWZJ5mCynUFipmCXpH44KcRi1jqav3GlgSB9N4DsIgAQCK0jdjt+z/9oADAMBAAIAAwAAABBszfL/xAAYEQEBAAMAAAAAAAAAAAAAAAABABAhUf/aAAgBAwEBPxA3g4hHa//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QwoLPO//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESFBUTFhgcH/2gAIAQEAAT8QPHWhjLiqOBOJqEltYzx5IZfj5EpRUXCd5+ynw2U6nMNUowtuSdqlGzBwtra9TDqisO1QR40MCAoauo74E1yn/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -281,7 +282,7 @@ And still say yes. &lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![
 &lt;details&gt;
     &lt;summary&gt;Side Effects of Steroids&lt;/summary&gt;
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
-        The normal dose is 5mg. I take 12 pills day, which translates to 60mg. At that dosage, I’m vulnerable to a host of secondary issues, which is why I had to receive several vaccinations and preventive medications beforehand. The steroids also wreak havoc elsewhere — liver function, cholesterol levels, blood pressure, etc. So I take several other medications alongside it. There might also be a possible impact in cognitive abilities in the short-term.
+        The normal dose is 5mg. I take 12 pills day, which translates to 60mg. At that dosage, I&apos;m vulnerable to a host of secondary issues, which is why I had to receive several vaccinations and preventive medications beforehand. The steroids also wreak havoc elsewhere — liver function, cholesterol levels, blood pressure, etc. So I take several other medications alongside it. There might also be a possible impact in cognitive abilities in the short-term.
         &lt;br&gt;&lt;br&gt;
          How I wish these steroids were the kind used for muscle building instead.
     &lt;/span&gt;
@@ -358,7 +359,7 @@ Sent from my Ipad
 &lt;br&gt;
 &lt;p&gt;&lt;em&gt;- a dying Steve Jobs, writing to himself&lt;/em&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Awhile back I wrote about a post on my trip to the &lt;a href=&quot;../seeds-of-change-2/&quot;&gt;Himalayas&lt;/a&gt;. There, I talked about how it became a catalyst for many journeys that followed. And while I’d like to believe I’ve learned to enjoy life as it is, I can’t deny feeling haunted by the quiet pressure to chase credentials, careers, and high-paying jobs.&lt;/p&gt;
+&lt;p&gt;Awhile back I wrote about a post on my trip to the &lt;a href=&quot;../seeds-of-change-2/&quot;&gt;Himalayas&lt;/a&gt;. There, I talked about how it became a catalyst for many journeys that followed. And while I’d like to believe I was learning to enjoy life as it is, I can’t deny feeling haunted by the quiet pressure to chase credentials, careers, and high-paying jobs.&lt;/p&gt;
 &lt;p&gt;Fast-forward nearly two years. Things have changed. I’ve been fortunate enough to land reputable internships and receive several full-time offers — both in ML and Quant. I vacillated like a maiden unable to choose between suitors. On one hand, genuine interest, on the other, staggering cash. &lt;strong&gt;We like to think we’re above the latter. Sometimes we are. Sometimes quantity still triumphs.&lt;/strong&gt; Or so I thought.&lt;/p&gt;
 &lt;p&gt;Now, it all feels strangely hollow. While hospitalised, I came across an email Steve Jobs sent to himself as he was nearing death. My current condition is far from as severe as his was, but I could sense the man’s anguish, and resonated with it. That &lt;strong&gt;despite all my effort and achievements in this world, I remained helpless when my body needed help the most.&lt;/strong&gt; My past worries seemed almost trivial.&lt;/p&gt;
 &lt;p&gt;The past year’s hustle is almost laughable in hindsight, only to end up, quite literally, hospitalised and unable to do anything at all or honor my commitments. Plans deferred to December. Promises made to loved ones. Mental notes of payback time. &lt;strong&gt;And once again, life intervened.&lt;/strong&gt;&lt;/p&gt;
@@ -369,7 +370,7 @@ Sent from my Ipad
 &lt;details&gt;
     &lt;summary&gt;The doctors may say its idiopathic..&lt;/summary&gt;
     &lt;span style=&quot;font-size:13px;&quot; class=&quot;info&quot;&gt;
-        But I know in my hearts of hearts.. this is the cause:&lt;br&gt;
+        But I know in my heart of hearts.. this is the cause:&lt;br&gt;
         &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwT/2gAMAwEAAhADEAAAAVaM812dErLE+foKuREf/8QAHBAAAgMAAwEAAAAAAAAAAAAAAQIAAxESEyEi/9oACAEBAAEFAqKxWpSmwZ1Rz7uwD5cRVWNcQWY7WY4HL//EABcRAQEBAQAAAAAAAAAAAAAAAAARAQL/2gAIAQMBAT8BzjIqq//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIQ/9oACAECAQE/AXp3kIf/xAAdEAEAAQMFAAAAAAAAAAAAAAABAAIQERIgITFh/9oACAEBAAY/As19s5pSaUW5meQdv//EAB0QAAMAAwEAAwAAAAAAAAAAAAABESExQVFhcbH/2gAIAQEAAT8hcPoCD+Z0O+Jad4Q60NNKhT2ml0zNW/gWqsr0Y1Z4Ws9GRZHMkf/aAAwDAQACAAMAAAAQW9qO/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAQf/aAAgBAwEBPxCBXKGYUmg5v//EABgRAQEBAQEAAAAAAAAAAAAAAAEAESEx/9oACAECAQE/ENRIBNk+wnu3/8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBUWFx8P/aAAgBAQABPxBShjB4PX3kGJYbQ4TnVT6XMcJruJw/OaBux777MIjBLs4KQU0WOCUJSr59ecncB0l1jLNwk3TFSCzP/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Damned risotto&quot; title=&quot;&quot; src=&quot;/static/1de5ac41bf9306ef39a144c5dc277410/1c72d/damned_risotto.jpg&quot; srcset=&quot;/static/1de5ac41bf9306ef39a144c5dc277410/a80bd/damned_risotto.jpg 148w,
